@@ -1,0 +1,7 @@
+{
+  "headers": [
+    { "source": "/data/(.*)", "headers": [{ "key": "Cache-Control", "value": "public, max-age=0, s-maxage=300, stale-while-revalidate=600" }] },
+    { "source": "/places.json", "headers": [{ "key": "Cache-Control", "value": "public, max-age=86400" }] },
+    { "source": "/(GENERATE.md|validate.py)", "headers": [{ "key": "X-Robots-Tag", "value": "noindex" }] }
+  ]
+}

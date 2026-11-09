@@ -1,0 +1,19 @@
+{
+ "label": "Afternoon update",
+ "updated": "2026-11-09T14:00:00-08:00",
+ "coverage": {
+  "states": [
+   "WA"
+  ],
+  "counties": {
+   "WA": [
+    "King County",
+    "Snohomish County",
+    "Pierce County"
+   ]
+  },
+  "countries": [
+   "Israel"
+  ]
+ }
+}

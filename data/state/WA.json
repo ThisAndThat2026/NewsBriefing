@@ -1,0 +1,62 @@
+{
+ "stories": [
+  {
+   "h": "Power nearly restored after weekend windstorm",
+   "s": "Nearly all power has returned after Saturday's storm knocked out service for 115,000 customers.",
+   "src": "usoutage.com",
+   "u": "https://usoutage.com/washington/",
+   "t": "2026-11-09",
+   "impact": 4
+  },
+  {
+   "h": "Three school districts prepare to sue the state",
+   "s": "Lake Washington, Tacoma and Yakima districts, serving over 74,000 students, plan to sue over basic-education funding.",
+   "src": "Seattle's Child",
+   "u": "https://www.seattleschild.com/washington-school-funding-lawsuit-2026/",
+   "t": "2026-11-09",
+   "impact": 4
+  },
+  {
+   "h": "I-638 passing with 56.5%",
+   "s": "The initiative barring biologically male students from girls' sports takes effect Dec. 3.",
+   "src": "Kitsap Sun",
+   "u": "https://www.kitsapsun.com/story/news/politics/elections/2026/11/06/what-happens-after-washingtons-transgender-ballot-measure-is-approved/92627127007/",
+   "t": "2026-11-06",
+   "impact": 3
+  },
+  {
+   "h": "Voters reject millionaires-tax repeal",
+   "s": "More than 58% of voters rejected repealing the 9.9% tax on incomes over $1 million.",
+   "src": "GCJ News",
+   "u": "https://www.gcj.news/central-wa-remains-reliably-red-for-republicans-in-regional-races/",
+   "t": "2026-11-09",
+   "impact": 3
+  },
+  {
+   "h": "Seattle schools set AI rules",
+   "s": "Seattle Public Schools adopted new rules for AI use in classrooms.",
+   "src": "Seattle's Child",
+   "u": "https://www.seattleschild.com/this-hits-home-news-that-impacts-seattle-area-families-seattle-school-news-ai-election-results-november-2026/",
+   "t": "2026-11-09",
+   "impact": 2
+  }
+ ],
+ "talking": [
+  {
+   "h": "Seahawks grind out 17-3 win",
+   "s": "Drew Lock and AJ Barner scored in the win over the Cardinals; Lock starts Sunday against the Raiders.",
+   "src": "Reuters",
+   "u": "https://www.reuters.com/sports/nfl/aj-barner-scores-2-tds-seahawks-win-over-cardinals--flm-2026-11-09/",
+   "t": "2026-11-09",
+   "impact": 3
+  },
+  {
+   "h": "Seattle backs Macklemore's benefit tour",
+   "s": "Mayor Wilson and Executive Zahilay backed the tour after nine arenas reportedly declined it.",
+   "src": "Wave News Today",
+   "u": "https://wavenewstoday.com/news/exclusive-seattle-mayor-king-county-executive-back-anti-american-activist-macklemore-after-rapper-says-arenas-rejected-tour?id=d9ce00f1-55d1-4a39-a927-4d4b6350fa96&isExternal=true",
+   "t": "2026-11-08",
+   "impact": 3
+  }
+ ]
+}

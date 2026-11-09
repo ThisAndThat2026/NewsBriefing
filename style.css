@@ -1,0 +1,54 @@
+:root{
+  --ink:#1a1a1a; --muted:#666; --rule:#d9d4c7; --paper:#fbf9f4; --card:#fff;
+  --accent:#8a1c1c; --chip:#efe9dc;
+  --serif: Georgia, "Iowan Old Style", "Times New Roman", serif;
+  --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+@media (prefers-color-scheme: dark){
+  :root{--ink:#ece8df;--muted:#a39d90;--rule:#3a372f;--paper:#16150f;--card:#201f18;--accent:#e07a6a;--chip:#2c2a22}
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--serif);font-size:18px;line-height:1.5}
+.wrap{max-width:680px;margin:0 auto;padding:env(safe-area-inset-top) max(16px,env(safe-area-inset-right)) calc(48px + env(safe-area-inset-bottom)) max(16px,env(safe-area-inset-left))}
+header.mast{text-align:center;padding:18px 0 10px;border-bottom:3px double var(--ink)}
+.mast h1{font-size:34px;margin:0;letter-spacing:.5px;font-weight:700}
+.mast .meta{font-family:var(--sans);font-size:13px;color:var(--muted);margin-top:4px}
+.toolbar{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;padding:10px 0;border-bottom:1px solid var(--rule);font-family:var(--sans)}
+button,.btn{font-family:var(--sans);font-size:15px;border:1px solid var(--rule);background:var(--card);color:var(--ink);border-radius:999px;padding:8px 14px;min-height:40px;cursor:pointer;text-decoration:none;display:inline-flex;align-items:center}
+button.primary{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+section.sec{padding:14px 0 4px;border-bottom:1px solid var(--rule)}
+section.sec h2{font-family:var(--sans);font-size:13px;letter-spacing:1.5px;text-transform:uppercase;color:var(--accent);margin:0 0 8px}
+.story{margin:0 0 16px}
+.story a.h{color:var(--ink);font-weight:700;text-decoration:none;font-size:19px;line-height:1.3}
+.story a.h:hover,.story a.h:active{text-decoration:underline}
+.story p{margin:4px 0 2px}
+.src{font-family:var(--sans);font-size:13px;color:var(--muted)}
+.lead{background:var(--card);border:1px solid var(--rule);border-radius:12px;padding:14px 16px;margin:4px 0 18px;box-shadow:0 1px 3px rgba(0,0,0,.05)}
+.lead a.h{font-size:23px}
+.tag{font-family:var(--sans);font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:1px;background:var(--chip);border-radius:4px;padding:1px 6px;margin-right:6px;color:var(--muted)}
+.tag.act{background:var(--accent);color:#fff}
+.none{color:var(--muted);font-style:italic;margin:0 0 12px}
+.date{font-family:var(--sans);font-weight:700;font-size:14px;margin-right:6px}
+footer{font-family:var(--sans);font-size:13px;color:var(--muted);padding:18px 0;text-align:center}
+footer a{color:var(--muted)}
+/* settings sheet */
+.sheet{position:fixed;inset:0;background:rgba(0,0,0,.45);display:none;z-index:10}
+.sheet.open{display:block}
+.panel{position:absolute;left:0;right:0;bottom:0;max-height:92vh;overflow:auto;background:var(--paper);border-radius:16px 16px 0 0;padding:16px 16px calc(24px + env(safe-area-inset-bottom));font-family:var(--sans);font-size:16px}
+@media (min-width:700px){.panel{left:50%;transform:translateX(-50%);width:640px;bottom:auto;top:5vh;border-radius:16px}}
+.panel h3{margin:14px 0 6px;font-size:15px}
+.panel select,.panel input[type=search]{width:100%;font-size:16px;padding:10px;border:1px solid var(--rule);border-radius:10px;background:var(--card);color:var(--ink)}
+.list{max-height:220px;overflow:auto;border:1px solid var(--rule);border-radius:10px;margin-top:6px;background:var(--card)}
+.list label{display:flex;gap:10px;align-items:center;padding:9px 12px;border-bottom:1px solid var(--rule)}
+.list label:last-child{border-bottom:0}
+.list input{width:20px;height:20px}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.chip{background:var(--chip);border-radius:999px;padding:4px 10px;font-size:14px}
+.row{display:flex;gap:8px;justify-content:flex-end;margin-top:16px}
+.note{font-size:13px;color:var(--muted);margin-top:10px}
+.toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%);background:var(--ink);color:var(--paper);font-family:var(--sans);font-size:14px;padding:10px 16px;border-radius:999px;display:none;z-index:20}
+.deck{font-style:italic;font-size:17px;margin:14px 0 4px;color:var(--ink)}
+.for{font-family:var(--sans);font-size:13px;color:var(--muted);margin:0 0 4px}
+.prose{font-size:17px}
+.prose h2{font-family:var(--sans);font-size:18px;margin-top:24px}
