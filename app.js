@@ -84,6 +84,11 @@
     const dateStr = up.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric', timeZone: 'America/Los_Angeles' });
     const timeStr = up.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', timeZone: 'America/Los_Angeles' });
     $('meta').textContent = `${dateStr} · ${timeStr} PT · ${EDITION.label || ''}`;
+    tryJSON('data/status.json').then((st) => {
+      if (!st || !st.checked) return;
+      const c = new Date(st.checked); if (isNaN(c)) return;
+      $('meta').textContent += ` · Checked ${c.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', timeZone: 'America/Los_Angeles' })}`;
+    });
     document.title = `${dateStr} · News Brief`;
     const deck = el('p', 'deck'); main.appendChild(deck);
     main.appendChild(el('p', 'for', 'For ' + [stName].concat(p.c.map((c) => c.replace(/ County$/, ''))).concat(p.n).join(' · ')));

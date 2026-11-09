@@ -13,9 +13,10 @@ You are refreshing the News Brief data files. The website is static: it only rea
    - it would rank `impact` 4–5 (would make Top stories), or
    - it is practical (`act`): a closure, storm or weather warning, emergency, deadline or evacuation affecting the place today or tomorrow, or
    - it corrects or overtakes an existing story (e.g. a death toll changed, a deal was signed, a closure ended).
-4. **If nothing qualifies: change no files, don't commit, stop.** Most hours should end here.
+4. **If nothing qualifies: don't touch any briefing file.** Most hours end here. Still do step 7.
 5. For each section that qualifies: fetch and verify only those new articles (same rules as a full rebuild), add the stories or update the existing ones, and drop the lowest-impact story if the section is over its cap. Leave every other section untouched.
-6. Set `label` to "Updated <h:mm AM/PM>" and `updated` to now. Run `python3 validate.py`, then commit `Brief: <date> <time> update` and push. Don't archive on hourly updates.
+6. If you updated anything: set `label` to "Updated <h:mm AM/PM>" and `updated` to now. Don't archive on hourly updates.
+7. **Always** write `data/status.json` as `{"checked": "<ISO time now, with offset>", "result": "no change" | "updated"}`. Run `python3 validate.py`, then commit (`Check: <date> <time> <result>`) and push. The page shows "Checked <time>" from this file, so a missing push means the check isn't working.
 
 ## What to cover
 Read `data/edition.json` → `coverage`. Generate one file per covered place:
@@ -56,6 +57,8 @@ Set `act: true` when a story changes something the reader must do, or its timing
 - Never bypass paywalls. A paywalled article is fine to link to if its headline and facts are visible or confirmed elsewhere.
 - Never include photos or long quotes.
 - Skip any domain listed in `data/optout.json` (publisher opt-outs and takedowns).
+
+The morning edition also writes `data/status.json` with `"result": "morning edition"`.
 
 ## Before publishing
 Run `python3 validate.py`. It must print `OK`. Fix every error, then commit with the message `Brief: <date> <am|pm>` and push. Vercel deploys automatically.
