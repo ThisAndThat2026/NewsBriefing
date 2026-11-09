@@ -5,5 +5,5 @@ A free, phone-first daily news briefing for your state, counties and the countri
 - `index.html`, `app.js`, `style.css`, `about.html`: the site
 - `places.json`: all U.S. states, counties, and the countries readers can follow
 - `data/`: today's briefing, one JSON file per place (written by the scheduled Claude task)
-- `GENERATE.md`: instructions the scheduled task follows (6:30 AM full edition, hourly checks 7 AM–10 PM PT)
+- `GENERATE.md`: instructions the scheduled task follows (~5:45 AM full edition, hourly checks 7 AM–10 PM PT)
 - `validate.py`: must print `OK` before any publish

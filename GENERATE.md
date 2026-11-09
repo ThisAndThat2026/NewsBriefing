@@ -3,7 +3,7 @@
 You are refreshing the News Brief data files. The website is static: it only reads the JSON files in `data/`. Nothing else changes.
 
 ## When
-- **Morning edition, 6:30 AM PT.** Always a full rebuild of every covered place (all steps below). Covers news from the last 24 hours.
+- **Morning edition, ~5:45 AM PT.** Always a full rebuild of every covered place (all steps below). Covers news from the last 24 hours.
 - **Hourly check, every hour 7 AM–10 PM PT.** A light run. Follow "Hourly check" below and do NOT do a full rebuild.
 
 ## Hourly check (keep it cheap)
