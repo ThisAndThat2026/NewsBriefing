@@ -24,7 +24,7 @@ Read `data/edition.json` → `coverage`. Generate one file per covered place:
 - `data/county/<ST>/<county-slug>.json`: `stories`, `coming` (slug: lowercase, non-alphanumerics → `-`, e.g. `king-county`)
 - `data/country/<country-slug>.json`: `stories`, `coming`
 
-Then update `data/edition.json`: `label` ("Morning edition" / "Afternoon update"), `updated` (ISO time with offset).
+Then update `data/edition.json`: `label` ("Morning edition"; hourly updates use "Updated <time>"), `updated` (ISO time with offset).
 Before overwriting, copy the current `data/` to `archive/<YYYY-MM-DD>-<am|pm>/` (keep 14 days, delete older).
 
 ## Story format
