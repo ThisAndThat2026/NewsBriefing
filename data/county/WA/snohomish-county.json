@@ -1,13 +1,59 @@
 {
  "stories": [
   {
-   "h": "Atmospheric river arrives Tuesday",
-   "s": "Heavy rain is expected across the Puget Sound region Tuesday through Thursday.",
-   "src": "EIN Presswire",
-   "u": "https://ems.einnews.com/pr_news/955475325/an-atmospheric-river-is-coming-one-inch-of-water-on-a-1-000-sq-ft-floor-weighs-2-5-tons",
+   "h": "Boeing to cut 5% of commercial airplane workforce",
+   "s": "Boeing plans to cut about 5% of its commercial airplane workforce in December through attrition and layoffs, after slowing production. The cut is estimated at about 2,500 jobs, with possible impact on Everett.",
+   "src": "My Everett News",
+   "u": "https://myeverettnews.com/2026/11/09/boeing-cutting-five-percent-of-commercial-airplane-workforce/",
    "t": "2026-11-09",
-   "impact": 4,
+   "impact": 4
+  },
+  {
+   "h": "Wind advisory for northwest Snohomish County lowlands",
+   "s": "A wind advisory covering northwest Snohomish County and the north interior runs 1 p.m. Tuesday to 7 p.m. Wednesday. Gusts could reach 50 mph, with possible downed trees and power outages.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/weather/seattle-weather-widespread-rain-breezy-winds-tuesday",
+   "t": "2026-11-10",
+   "impact": 3,
    "act": true
+  },
+  {
+   "h": "WSDOT unveils preferred design for US 2 trestle",
+   "s": "The proposed replacement for the US 2 trestle has three lanes each way, one of them HOV, plus a bike and pedestrian path. Preliminary costs run $2-4 billion, and construction could start in 2032 if funded.",
+   "src": "The Herald (Everett)",
+   "u": "https://www.heraldnet.com/2026/11/09/wsdot-unveils-preferred-design-for-us-2-trestle-replacement/",
+   "t": "2026-11-09",
+   "impact": 3
+  },
+  {
+   "h": "Port of Everett approves $72.5M budget for 2027",
+   "s": "Port commissioners adopted a 2027 budget that includes $20.1 million for 35 capital projects, among them seaport modernization and shore power. Operating revenue is projected to fall 2.7%.",
+   "src": "Everett Post",
+   "u": "https://www.everettpost.com/local-news/port-of-everett-green-lights-20-million-in-improvements-for-2027/",
+   "t": "2026-11-09",
+   "impact": 2
+  },
+  {
+   "h": "One dead in house fire north of Woodinville",
+   "s": "One person died early Monday in a house fire on Little Bear Creek Road, and a second resident escaped through a window. The Snohomish County Fire Marshal is investigating the cause.",
+   "src": "The Herald (Everett)",
+   "u": "https://www.heraldnet.com/2026/11/09/1-dead-in-overnight-house-fire-near-woodniville-on-monday/",
+   "t": "2026-11-09",
+   "impact": 2
+  }
+ ],
+ "coming": [
+  {
+   "h": "Veterans Day holiday",
+   "s": "Veterans Day is a state legal holiday Wednesday, so many government offices will be closed. Check local agencies for service changes.",
+   "date": "2026-11-11"
+  },
+  {
+   "h": "Stronger wind and rain system arrives Friday",
+   "s": "Forecasters expect a stronger storm Friday into the weekend, bringing more wind, rain and high-elevation snow across western Washington.",
+   "date": "2026-11-13",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/weather/seattle-weather-widespread-rain-breezy-winds-tuesday"
   }
  ]
 }

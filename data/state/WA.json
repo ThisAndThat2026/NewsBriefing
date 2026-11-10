@@ -1,62 +1,79 @@
 {
  "stories": [
   {
-   "h": "Power nearly restored after weekend windstorm",
-   "s": "Nearly all power has returned after Saturday's storm knocked out service for 115,000 customers.",
-   "src": "usoutage.com",
-   "u": "https://usoutage.com/washington/",
-   "t": "2026-11-09",
+   "h": "Three big districts prepare to sue state over school funding",
+   "s": "Lake Washington, Tacoma and Yakima districts, serving 74,000+ students, are preparing a McCleary-style suit saying levies cover basic costs the state should pay. OSPI backs them; no filing date set.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/3-wa-school-districts-prepare-sue-state-over-funding/F45X6WUPTBHCVPITOCTTEXMDG4/",
+   "t": "2026-11-10",
    "impact": 4
   },
   {
-   "h": "Three school districts prepare to sue the state",
-   "s": "Lake Washington, Tacoma and Yakima districts, serving over 74,000 students, plan to sue over basic-education funding.",
-   "src": "Seattle's Child",
-   "u": "https://www.seattleschild.com/washington-school-funding-lawsuit-2026/",
-   "t": "2026-11-09",
-   "impact": 4
+   "h": "Wind advisory, rain hit coast and north Sound today",
+   "s": "Wind Advisory for the coast and north interior runs 1 p.m. Tuesday to 7 p.m. Wednesday, gusts to 50 mph; flood watch for Mason County (Skokomish River) Tuesday evening into Wednesday.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/weather/seattle-weather-widespread-rain-breezy-winds-tuesday",
+   "t": "2026-11-10",
+   "impact": 3,
+   "act": true
   },
   {
-   "h": "I-638 passing with 56.5%",
-   "s": "The initiative barring biologically male students from girls' sports takes effect Dec. 3.",
-   "src": "Kitsap Sun",
-   "u": "https://www.kitsapsun.com/story/news/politics/elections/2026/11/06/what-happens-after-washingtons-transgender-ballot-measure-is-approved/92627127007/",
-   "t": "2026-11-06",
-   "impact": 3
-  },
-  {
-   "h": "Voters reject millionaires-tax repeal",
-   "s": "More than 58% of voters rejected repealing the 9.9% tax on incomes over $1 million.",
-   "src": "GCJ News",
-   "u": "https://www.gcj.news/central-wa-remains-reliably-red-for-republicans-in-regional-races/",
+   "h": "Stronger atmospheric river due Friday; passes should stay wet",
+   "s": "After record-threatening warmth Wednesday and Thursday, a Friday-Saturday atmospheric river could drop 2-5 inches on the coast and mountains. Flood risk is seen as low; snow levels stay above pass elevations.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/pacific-northwest-weather/wa-warm-rain-weather/4297209",
    "t": "2026-11-09",
    "impact": 3
   },
   {
-   "h": "Seattle schools set AI rules",
-   "s": "Seattle Public Schools adopted new rules for AI use in classrooms.",
-   "src": "Seattle's Child",
-   "u": "https://www.seattleschild.com/this-hits-home-news-that-impacts-seattle-area-families-seattle-school-news-ai-election-results-november-2026/",
+   "h": "Schools chief Reykdal won't seek fourth term in 2028",
+   "s": "State Superintendent Chris Reykdal says he will impose his own term limit and is weighing a run for another statewide or federal office, or leaving elected office.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/local/chris-reykdal-wont-seek-reelection/4297332",
+   "t": "2026-11-09",
+   "impact": 2
+  },
+  {
+   "h": "Task force finds gaps in involuntary treatment system",
+   "s": "A statewide task force says care before and after civil commitment is under-resourced and poorly matched to patients; it urges lawmakers to fund a shared database and a pilot site.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/local/involuntary-treatment-system/4297416",
    "t": "2026-11-09",
    "impact": 2
   }
  ],
  "talking": [
   {
-   "h": "Seahawks grind out 17-3 win",
-   "s": "Drew Lock and AJ Barner scored in the win over the Cardinals; Lock starts Sunday against the Raiders.",
-   "src": "Reuters",
-   "u": "https://www.reuters.com/sports/nfl/aj-barner-scores-2-tds-seahawks-win-over-cardinals--flm-2026-11-09/",
-   "t": "2026-11-09",
-   "impact": 3
+   "h": "Short-handed Seahawks stifle Cardinals 17-3",
+   "s": "With Drew Lock starting for injured Sam Darnold and several starters out, Seattle held Arizona to a field goal; AJ Barner scored both touchdowns. Lock left with an oblique injury.",
+   "src": "Seahawks.com",
+   "u": "https://www.seahawks.com/news/despite-key-injuries-seahawks-dominate-in-win-over-cardinals-the-swagger-the-seahawks-style-was-definitely-present",
+   "t": "2026-11-08",
+   "impact": 2
   },
   {
-   "h": "Seattle backs Macklemore's benefit tour",
-   "s": "Mayor Wilson and Executive Zahilay backed the tour after nine arenas reportedly declined it.",
-   "src": "Wave News Today",
-   "u": "https://wavenewstoday.com/news/exclusive-seattle-mayor-king-county-executive-back-anti-american-activist-macklemore-after-rapper-says-arenas-rejected-tour?id=d9ce00f1-55d1-4a39-a927-4d4b6350fa96&isExternal=true",
-   "t": "2026-11-08",
-   "impact": 3
+   "h": "Huskies' comeback falls short against Penn State",
+   "s": "Washington rallied from 28-6 down at halftime but lost 28-25, its third straight home loss for the first time since 2021. UW visits Michigan State Saturday.",
+   "src": "FOX 13 Seattle (AP)",
+   "u": "https://www.fox13seattle.com/sports/washington-rally-fall-28-25-penn-state",
+   "t": "2026-11-07",
+   "impact": 2
+  }
+ ],
+ "coming": [
+  {
+   "h": "Veterans Day: state offices closed, free state parks",
+   "s": "State offices close for the holiday. State parks offer a free Discover Pass day-use day, 7 a.m. to 9 p.m.; DNR and WDFW lands still require a pass.",
+   "date": "2026-11-11",
+   "src": "ParentMap",
+   "u": "https://www.parentmap.com/calendar/37691/2026-11-11/"
+  },
+  {
+   "h": "Atmospheric river brings heavy rain Friday-Saturday",
+   "s": "Forecast: 2-5 inches on the coast and mountains, 1-2 inches in the interior. Watch the Skokomish and other rivers, and clear storm drains.",
+   "date": "2026-11-13",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/pacific-northwest-weather/wa-warm-rain-weather/4297209"
   }
  ]
 }

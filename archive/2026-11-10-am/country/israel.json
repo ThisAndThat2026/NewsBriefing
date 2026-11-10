@@ -1,0 +1,43 @@
+{
+ "stories": [
+  {
+   "h": "Eisenkot and Liberman agree on speaker",
+   "s": "The two agreed the next Knesset speaker will come from Yashar and voiced confidence in a stable government.",
+   "src": "JFeed",
+   "u": "https://www.jfeed.com/news-israel/to8vbf",
+   "t": "2026-11-09",
+   "impact": 4
+  },
+  {
+   "h": "Eisenkot offers Netanyahu a role",
+   "s": "Eisenkot signaled Netanyahu could join the government he is forming.",
+   "src": "National Periscope",
+   "u": "https://nationalperiscope.com/2026/11/09/eisenkot-offers-netanyahu-role-in-israels-next-government/",
+   "t": "2026-11-09",
+   "impact": 3
+  },
+  {
+   "h": "Eisenkot warns of \"point of no return\"",
+   "s": "He warned of a historic crisis and called for a national emergency government.",
+   "src": "The Diplomatic Insight",
+   "u": "https://thediplomaticinsight.com/eisenkot-begins-government-formation-warns-israels-growing-isolation/",
+   "t": "2026-11-09",
+   "impact": 3
+  },
+  {
+   "h": "The coalition math: 61 is the hard part",
+   "s": "Eisenkot has backing from 67 lawmakers, but his bloc holds 48 seats and he needs 61.",
+   "src": "Atlas Limits",
+   "u": "https://atlaslimits.com/en/articles/israel-the-eisenkot-equation",
+   "t": "2026-11-09",
+   "impact": 2
+  }
+ ],
+ "coming": [
+  {
+   "h": "Knesset sworn in",
+   "s": "Israel's new Knesset is sworn in Tuesday.",
+   "date": "2026-11-10"
+  }
+ ]
+}

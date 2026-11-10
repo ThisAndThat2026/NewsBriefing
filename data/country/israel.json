@@ -1,43 +1,45 @@
 {
  "stories": [
   {
-   "h": "Eisenkot and Liberman agree on speaker",
-   "s": "The two agreed the next Knesset speaker will come from Yashar and voiced confidence in a stable government.",
-   "src": "JFeed",
-   "u": "https://www.jfeed.com/news-israel/to8vbf",
+   "h": "26th Knesset sworn in; opposition picks Kahana for speaker",
+   "s": "Israel's new 120-seat parliament takes office Tuesday with no bloc holding a majority. Netanyahu's rivals agreed to back Yashar's Matan Kahana for speaker and give Avigdor Liberman the foreign affairs and defense committee.",
+   "src": "The National",
+   "u": "https://www.thenationalnews.com/news/mena/2026/11/10/netanyahu-rivals-strike-first-deal-as-israel-prepares-to-swear-in-parliament/",
+   "t": "2026-11-10",
+   "impact": 4
+  },
+  {
+   "h": "Eisenkot, Liberman agree to court ultra-Orthodox parties",
+   "s": "Eisenkot's bloc holds 48 seats, short of the 61 needed. After meeting Monday, he and Liberman reportedly approved outreach to Shas and UTJ, including a softened draft bill, and ruled out relying on Arab parties.",
+   "src": "The Times of Israel",
+   "u": "https://www.timesofisrael.com/eisenkot-liberman-said-to-greenlight-outreach-to-haredim-reach-agreement-on-knesset-speaker/",
    "t": "2026-11-09",
    "impact": 4
   },
   {
-   "h": "Eisenkot offers Netanyahu a role",
-   "s": "Eisenkot signaled Netanyahu could join the government he is forming.",
-   "src": "National Periscope",
-   "u": "https://nationalperiscope.com/2026/11/09/eisenkot-offers-netanyahu-role-in-israels-next-government/",
-   "t": "2026-11-09",
+   "h": "Netanyahu reportedly urges Trump daily to resume Iran war",
+   "s": "The Financial Times reports Netanyahu calls Trump daily pushing for new strikes on Iran. Trump says no new offensive for now, citing progress in Qatar-mediated talks, while keeping the US naval blockade in place.",
+   "src": "The Times of Israel",
+   "u": "https://www.timesofisrael.com/us-said-to-move-military-aircraft-from-2nd-british-base-due-to-threat-from-iran/",
+   "t": "2026-11-10",
+   "impact": 4
+  },
+  {
+   "h": "Gaza aid deliveries stall as storms flood tents",
+   "s": "No aid trucks entered Gaza on Nov. 6-7, and Israel reportedly allows in only a fraction of the tents and mobile homes requested. Storms have flooded about 70,000 tents. Gaza's health ministry says 20 people were killed last week.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under",
+   "t": "2026-11-10",
    "impact": 3
   },
   {
-   "h": "Eisenkot warns of \"point of no return\"",
-   "s": "He warned of a historic crisis and called for a national emergency government.",
-   "src": "The Diplomatic Insight",
-   "u": "https://thediplomaticinsight.com/eisenkot-begins-government-formation-warns-israels-growing-isolation/",
-   "t": "2026-11-09",
-   "impact": 3
-  },
-  {
-   "h": "The coalition math: 61 is the hard part",
-   "s": "Eisenkot has backing from 67 lawmakers, but his bloc holds 48 seats and he needs 61.",
-   "src": "Atlas Limits",
-   "u": "https://atlaslimits.com/en/articles/israel-the-eisenkot-equation",
-   "t": "2026-11-09",
+   "h": "Israeli troops kill 14-year-old in West Bank raid",
+   "s": "Soldiers shot dead a 14-year-old in Burqa near Nablus and wounded two other teens. The IDF says troops fired at stone-throwers. ACLED says 2026 is on track to be the worst year for settler violence.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank",
+   "t": "2026-11-10",
    "impact": 2
   }
  ],
- "coming": [
-  {
-   "h": "Knesset sworn in",
-   "s": "Israel's new Knesset is sworn in Tuesday.",
-   "date": "2026-11-10"
-  }
- ]
+ "coming": []
 }

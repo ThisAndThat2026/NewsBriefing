@@ -1,44 +1,60 @@
 {
  "stories": [
   {
-   "h": "Shield AI to buy Kirkland radar maker for $5.3 billion",
-   "s": "Shield AI agreed to acquire Kirkland-based radar maker Echodyne for up to $5.3 billion.",
-   "src": "GeekWire",
-   "u": "https://www.geekwire.com/2026/shield-ai-to-buy-bill-gates-backed-radar-maker-echodyne-in-5-3b-deal-doubling-down-on-seattle-area/",
-   "t": "2026-11-05",
-   "impact": 3
-  },
-  {
-   "h": "Homelessness authority chief resigns",
-   "s": "CEO Kelly Kinnison stepped down after an audit found $16.7 million could not be recovered.",
-   "src": "Fox 13 Seattle",
-   "u": "https://q13fox.com/news/king-county-homelessness-authority-ceo-steps-down",
-   "t": "2026-11-08",
-   "impact": 3
-  },
-  {
-   "h": "Seattle bars ICE from city property",
-   "s": "Mayor Wilson barred federal agents from using city property, including parks and Seattle Center.",
-   "src": "City of Seattle",
-   "u": "https://content.govdelivery.com/bulletins/gd/WASEATTLE-406b6ee?wgt_ref=WASEATTLE_WIDGET_389-2026",
+   "h": "Seattle mayor to announce CCTV camera plans after audit",
+   "s": "An NYU Policing Project audit of SPD's Real-Time Crime Center found policy gaps and made 19 recommendations. Mayor Katie Wilson announces next steps on the 62-camera program today at 11:15 a.m.",
+   "src": "KUOW",
+   "u": "https://www.kuow.org/governing/2026-11-09/surveillance-audit-ordered-by-seattle-mayor-calls-for-more-guardrails-for-technology",
    "t": "2026-11-09",
    "impact": 3
   },
   {
-   "h": "Atmospheric river arrives Tuesday",
-   "s": "Heavy rain is expected across the Puget Sound region Tuesday through Thursday.",
-   "src": "EIN Presswire",
-   "u": "https://ems.einnews.com/pr_news/955475325/an-atmospheric-river-is-coming-one-inch-of-water-on-a-1-000-sq-ft-floor-weighs-2-5-tons",
+   "h": "Seattle schools authorize legal action over I-638 sports law",
+   "s": "The Seattle School Board voted Monday to hire counsel for possible legal action against voter-approved Initiative 638, which bars transgender girls from girls' teams. The law takes effect Dec. 3.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/news/seattle-public-schools-initiative-638",
    "t": "2026-11-09",
-   "impact": 4,
-   "act": true
+   "impact": 3
+  },
+  {
+   "h": "Rain and gusty winds today; no river flooding expected",
+   "s": "Rain and 20-25 mph Puget Sound gusts arrive Tuesday, with possible record warmth Wednesday. NWS expects no river flooding this week; a stronger wind and rain system follows Friday.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/weather/seattle-weather-widespread-rain-breezy-winds-tuesday",
+   "t": "2026-11-10",
+   "impact": 2
+  },
+  {
+   "h": "Nightly lane closures on I-90, I-5 and SR 167 this week",
+   "s": "WSDOT is closing eastbound I-90 lanes and ramps on Mercer Island nightly through Nov. 16. Up to three southbound I-5 lanes between Kent and Federal Way close overnight Thursday.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/chokepoints/sr-167-overnight-closure/4297349",
+   "t": "2026-11-09",
+   "impact": 2
+  },
+  {
+   "h": "Saturday windstorm cut power to tens of thousands",
+   "s": "Gusts near 50 mph knocked out power to more than 42,000 Seattle City Light customers overnight Saturday, with outages concentrated in South and West Seattle, Burien and White Center.",
+   "src": "Westside Seattle",
+   "u": "https://www.westsideseattle.com/robinson-papers/2026/11/07/update-high-winds-knock-out-power-november-storm-outages-overnight",
+   "t": "2026-11-07",
+   "impact": 2
   }
  ],
  "coming": [
   {
-   "h": "Veterans Day: city halls closed",
-   "s": "Most city and county offices close Wednesday for Veterans Day.",
-   "date": "2026-11-11"
+   "h": "Veterans Day: King County offices closed",
+   "s": "King County offices close Wednesday for Veterans Day, and some services run reduced schedules. Metro buses run weekday schedules. Normal operations resume Thursday.",
+   "date": "2026-11-11",
+   "src": "King County Employee News",
+   "u": "https://kcemployees.com/2026/11/06/king-county-to-observe-veterans-day-holiday-nov-11-4/"
+  },
+  {
+   "h": "Stronger wind and rain system arrives Friday",
+   "s": "Forecasters expect a stronger storm Friday into the weekend, bringing more wind, rain and high-elevation snow. Strong winds could reach the Puget Sound interior.",
+   "date": "2026-11-13",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/weather/seattle-weather-widespread-rain-breezy-winds-tuesday"
   }
  ]
 }

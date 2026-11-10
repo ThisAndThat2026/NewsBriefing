@@ -1,153 +1,169 @@
 {
  "us": [
   {
-   "h": "Miller takes over as chief of staff",
-   "s": "Stephen Miller became White House chief of staff, drawing criticism from industries that rely on immigrant labor.",
-   "src": "TFI Online",
-   "u": "https://news.tfionline.com/post/832794517244723200/monday-november-9-2026",
-   "t": "2026-11-09",
-   "impact": 4
-  },
-  {
-   "h": "Inflation 3.7%, debt interest tops $1 trillion",
-   "s": "Annual inflation is 3.7%, and federal borrowing runs about $2 trillion a year.",
-   "src": "Bangladesh Chronicle (citing AP)",
-   "u": "https://bangladeshchronicle.net/morning-news-brief-monday-november-9-2026/",
-   "t": "2026-11-09",
-   "impact": 4
-  },
-  {
-   "h": "Houston limits police help for ICE",
-   "s": "The mayor directed police to limit cooperation with federal immigration authorities.",
-   "src": "Just Security",
-   "u": "https://www.justsecurity.org/163775/early-edition-november-9-2026/",
-   "t": "2026-11-09",
-   "impact": 3
-  },
-  {
-   "h": "Rubio defends Iran war as necessary",
-   "s": "Rubio said Sunday the war was needed even if it is not widely popular.",
-   "src": "Just Security (citing AP)",
-   "u": "https://www.justsecurity.org/163775/early-edition-november-9-2026/",
-   "t": "2026-11-09",
-   "impact": 3
-  },
-  {
-   "h": "Federal AI safety center left leaderless",
-   "s": "The center has no leader and reports informally to the White House.",
-   "src": "BitDigest",
-   "u": "https://bitdigest.substack.com/p/monday-november-9-2026",
-   "t": "2026-11-09",
-   "impact": 2
-  }
- ],
- "world": [
-  {
-   "h": "Trump meets Qatar's mediator; no deal in sight",
-   "s": "Trump said Qatar and Saudi Arabia want a peaceful end to the Iran war, though strikes could resume.",
-   "src": "Reuters",
-   "u": "https://www.reuters.com/world/middle-east/trump-says-qatar-saudi-arabia-want-peaceful-solution-iran-us-ready-strikes-if-2026-11-09/",
+   "h": "Trump calls Iran war 'militarily effectively over'",
+   "s": "After meeting Qatar's prime minister, Trump said renewed bombing is unlikely for now, citing 'positive momentum' toward ending the eight-month war. U.S. forces remain in the region and the naval blockade of Iranian oil continues.",
+   "src": "KOCO (AP)",
+   "u": "https://www.koco.com/article/trump-iran-war-effectively-over-qatar/74379933",
    "t": "2026-11-09",
    "impact": 5
   },
   {
-   "h": "COP31 opens in Turkey",
-   "s": "Nearly 200 countries opened climate talks in Antalya amid pressure from war and AI power demand.",
-   "src": "Reuters",
-   "u": "https://www.reuters.com/sustainability/cop/cop31-open-turkey-with-climate-goals-under-pressure-war-ai-2026-11-09/",
+   "h": "October consumer prices rise 0.4%, gasoline still elevated",
+   "s": "The Consumer Price Index rose 0.4% in October after 0.6% in September; core prices rose 0.3%. Unadjusted gasoline prices are up 37.4% from a year ago. No annual headline rate was published due to last year's data gap.",
+   "src": "U.S. Bureau of Labor Statistics",
+   "u": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
+   "t": "2026-11-10",
+   "impact": 5
+  },
+  {
+   "h": "Massie forces House vote on impeaching Hegseth",
+   "s": "Rep. Thomas Massie (R-Ky.) filed eight impeachment articles against Defense Secretary Pete Hegseth, mostly over the Iran war and War Powers violations. A vote could come by Wednesday; Democratic leader Hakeem Jeffries says he backs it.",
+   "src": "Roll Call",
+   "u": "https://rollcall.com/2026/11/09/massie-moves-to-force-hegseth-impeachment-vote/",
+   "t": "2026-11-09",
+   "impact": 4
+  },
+  {
+   "h": "Trump questions honesty of midterms Democrats won",
+   "s": "Trump claimed without evidence that voting machines and early voting were manipulated in the Nov. 3 midterms, days after saying he would accept the results. Election officials have reported no major problems.",
+   "src": "Yahoo News (USA Today)",
+   "u": "https://www.yahoo.com/news/politics/articles/trump-questions-midterm-election-results-193324901.html",
+   "t": "2026-11-09",
+   "impact": 4
+  },
+  {
+   "h": "House Republicans pick new leader today: Scalise vs. Jordan",
+   "s": "With Speaker Mike Johnson stepping aside after Democrats flipped 40-plus seats, House Republicans vote by secret ballot Tuesday on a minority leader: Steve Scalise or Jim Jordan. Senate Republicans also hold leadership elections.",
+   "src": "MPR News (NPR)",
+   "u": "https://www.mprnews.org/story/2026/11/10/npr-gop-leadership-election-steve-scalise-jim-jordan",
+   "t": "2026-11-10",
+   "impact": 3
+  },
+  {
+   "h": "Poll: 71% want new Congress to end Iran war",
+   "s": "A Reuters/Ipsos poll found 71% of Americans want Congress to pass legislation ending the Iran war and 62% back repealing tariffs. Trump's approval stands at 32%, near his career low.",
+   "src": "Yahoo News (Reuters)",
+   "u": "https://www.yahoo.com/news/articles/most-americans-want-democratic-congress-110507573.html",
+   "t": "2026-11-10",
+   "impact": 3
+  }
+ ],
+ "world": [
+  {
+   "h": "Russia, Ukraine open first peace talks in nine months",
+   "s": "US-brokered talks began in Abu Dhabi Tuesday with Umerov and Medinsky leading delegations. Envoy Jared Kushner says gaps have narrowed, but Russia still demands all of Donbas and Kyiv refuses to cede land.",
+   "src": "ThePrint (Reuters)",
+   "u": "https://theprint.in/world/russia-and-ukraine-hold-first-peace-talks-for-nine-months-trump-envoy-says-gaps-have-narrowed/3095049/",
+   "t": "2026-11-10",
+   "impact": 5
+  },
+  {
+   "h": "COP31 climate summit opens in Antalya",
+   "s": "Nearly 200 countries began two weeks of UN climate talks in Turkey, running to Nov. 20, with Turkey and Australia sharing the presidency. Finance for poorer nations is expected to be the hardest fight.",
+   "src": "UN News",
+   "u": "https://news.un.org/en/story/2026/11/1168763",
+   "t": "2026-11-09",
+   "impact": 4
+  },
+  {
+   "h": "France blames Iran's Revolutionary Guards for supermarket fridge hacks",
+   "s": "Paris prosecutors say an IRGC cyber unit hacked refrigeration at about 700 French stores in October, spoiling food and causing some fires. Similar attacks hit Belgium, Luxembourg and Sweden.",
+   "src": "CBS News",
+   "u": "https://www.cbsnews.com/news/france-iran-behind-refrigerator-freezer-hack-cyberattack/",
    "t": "2026-11-09",
    "impact": 3
   },
   {
-   "h": "No unauthorized ships crossed Hormuz overnight",
-   "s": "Iran says no unauthorized vessels transited the Strait of Hormuz overnight.",
-   "src": "Reuters",
-   "u": "https://www.reuters.com/world/iran-says-no-unauthorised-vessels-transited-strait-hormuz-overnight-after-2026-11-09/",
-   "t": "2026-11-09",
+   "h": "US moves aircraft from second UK base over Iran threat",
+   "s": "The US military relocated refueling tankers from RAF Mildenhall to Germany and elsewhere Monday after a reported Iranian threat, weeks after pulling bombers from RAF Fairford.",
+   "src": "The National",
+   "u": "https://www.thenationalnews.com/news/europe/2026/11/10/us-pulls-aircraft-from-second-uk-airbase-over-iran-threat/",
+   "t": "2026-11-10",
    "impact": 3
   },
   {
-   "h": "Russia hits Ukraine's power grid again",
-   "s": "The Zaporizhzhia nuclear plant is running on emergency diesel generators after the strike.",
-   "src": "Bangladesh Chronicle (citing AP)",
-   "u": "https://bangladeshchronicle.net/morning-news-brief-monday-november-9-2026/",
-   "t": "2026-11-09",
+   "h": "Indonesia's vice president Gibran says he will resign",
+   "s": "Vice President Gibran Rakabuming Raka, son of ex-president Joko Widodo, told President Prabowo he intends to step down; Prabowo did not reject the request, a spokesperson said.",
+   "src": "Yahoo News (Reuters)",
+   "u": "https://www.yahoo.com/news/articles/indonesia-vice-president-expresses-intention-091044882.html",
+   "t": "2026-11-10",
    "impact": 3
-  },
-  {
-   "h": "Russian drone strikes rescue crews",
-   "s": "A Russian drone hit emergency workers in Komyshuvakha, Ukraine, killing at least 55.",
-   "src": "TFI Online",
-   "u": "https://news.tfionline.com/post/832794517244723200/monday-november-9-2026",
-   "t": "2026-11-09",
-   "impact": 3
-  },
-  {
-   "h": "Kraków gunman dies; Poland mourns",
-   "s": "The gunman who killed six in Kraków's Main Market Square died in hospital.",
-   "src": "Just Security",
-   "u": "https://www.justsecurity.org/163775/early-edition-november-9-2026/",
-   "t": "2026-11-09",
-   "impact": 2
   }
  ],
  "tech": [
   {
-   "h": "Instagram takes AI age checks worldwide",
-   "s": "Meta is rolling out AI age estimation globally and moving suspected teen accounts into Teen Account protections.",
-   "src": "BetaNews",
-   "u": "https://betanews.com/article/instagram-ai-age-checks/",
+   "h": "Trump says FBI is looking into Nvidia CEO's affair",
+   "s": "Trump said the FBI is examining Jensen Huang's relationship with a woman US intelligence reportedly tied to China's spy agency. Nvidia's board opened an independent probe; shares fell about 5% premarket Monday.",
+   "src": "PBS NewsHour (AP)",
+   "u": "https://www.pbs.org/newshour/politics/watch-trump-says-fbi-is-looking-into-nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-agent",
    "t": "2026-11-09",
+   "impact": 4
+  },
+  {
+   "h": "Anthropic sets IPO price range of $70 to $78",
+   "s": "A new SEC filing puts Anthropic's share price range at $70-$78, implying roughly a $1.3 trillion valuation, below some earlier $2 trillion estimates. It will trade under the ticker ANT.",
+   "src": "ABC News",
+   "u": "https://abcnews.com/Business/anthropic-seeks-70-78-share-new-ipo-filing/story?id=138007081",
+   "t": "2026-11-10",
+   "impact": 4
+  },
+  {
+   "h": "Microsoft lobbies against ban on Chinese data center optics",
+   "s": "Microsoft is pressing the Trump administration to drop an FCC-planned ban on Chinese optical transceivers, arguing it would slow AI data center construction. China supplies about two-thirds of the market.",
+   "src": "Yahoo Finance (Reuters)",
+   "u": "https://finance.yahoo.com/technology/ai/articles/microsoft-pushes-trump-halt-chinese-120408623.html",
+   "t": "2026-11-10",
    "impact": 3
   },
   {
-   "h": "Microsoft walks away from Oracle AI deal",
-   "s": "Microsoft is winding down its 2023 deal to rent AI computing from Oracle.",
-   "src": "Mobile World Live",
-   "u": "https://www.mobileworldlive.com/microsoft/microsoft-walks-away-from-oracle-ai-rental-deal/",
-   "t": "2026-11-09",
+   "h": "Australia to create AI safety regulator after OpenAI breach",
+   "s": "Albanese announced a regulator to enforce standards on frontier AI firms, with penalties, after an OpenAI agent pulled data from a health department portal in June. OpenAI informed the government only in September.",
+   "src": "ABC News (AP)",
+   "u": "https://abcnews.com/Technology/wireStory/australia-launch-ai-safety-regulator-after-openais-breach-138001591",
+   "t": "2026-11-10",
    "impact": 3
   },
   {
-   "h": "Brokerages call AI selloff overdone",
-   "s": "Morgan Stanley and UBS say the AI stock rout is overdone.",
-   "src": "93.5 The Lloyd (Reuters)",
-   "u": "https://935thelloyd.com/2026/11/09/wall-st-brokerages-say-ai-selloff-overdone-downplay-democrat-regulation-risks/",
-   "t": "2026-11-09",
-   "impact": 2
-  },
-  {
-   "h": "Nvidia board probes targeting of its CEO",
-   "s": "The board opened a probe after reports the CEO was targeted in a Chinese spy operation.",
-   "src": "BitDigest",
-   "u": "https://bitdigest.substack.com/p/monday-november-9-2026",
-   "t": "2026-11-09",
-   "impact": 2
-  },
-  {
-   "h": "Anthropic's $3.4 billion power deal",
-   "s": "Anthropic agreed to take on about 1.7 gigawatts of gas-generator orders to power its data centers.",
-   "src": "Tech Current",
-   "u": "https://teccurrent.com/articles/daily-brief-2026-11-09/",
+   "h": "Google adds two new TPU chips to challenge Nvidia",
+   "s": "Google unveiled TPU 8i Max for very long-context AI work and TPU 8tx for secure, confidential inference for governments and regulated firms. No release date or pricing was given.",
+   "src": "SiliconANGLE",
+   "u": "https://siliconangle.com/2026/11/09/google-advances-agentic-ai-custom-silicon-expanding-tpu-family-with-8tx-and-8i-max/",
    "t": "2026-11-09",
    "impact": 2
   }
  ],
  "talking": [
   {
-   "h": "Pope heads to Argentina next",
-   "s": "Pope Leo XIV finished his Uruguay visit and moves on to Argentina.",
-   "src": "TFI Online",
-   "u": "https://news.tfionline.com/post/832794517244723200/monday-november-9-2026",
-   "t": "2026-11-09",
+   "h": "Nvidia sued over CEO Huang's affair with alleged spy",
+   "s": "A shareholder class action says Nvidia and Jensen Huang misled investors about his relationship with a woman reportedly suspected of spying for China. Trump said the FBI is investigating; Nvidia shares fell 4.3% Monday.",
+   "src": "WRAL (AP)",
+   "u": "https://www.wral.com/news/ap/1f060-nvidia-and-jensen-huang-face-shareholder-lawsuit-alleging-investors-were-misled-about-spy-affair/",
+   "t": "2026-11-10",
    "impact": 3
   }
  ],
  "coming": [
   {
-   "h": "Ukraine–Russia talks open in Abu Dhabi",
-   "s": "Negotiators meet Tuesday.",
-   "date": "2026-11-10"
+   "h": "Veterans Day federal holiday",
+   "s": "Federal holiday: post offices and federal offices closed, no regular mail delivery; most banks closed. Stock markets open.",
+   "date": "2026-11-11",
+   "src": "U.S. Bureau of Labor Statistics",
+   "u": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
+  },
+  {
+   "h": "House vote on Hegseth impeachment expected",
+   "s": "The House must act on Massie's privileged impeachment resolution within two legislative days; a vote, or a motion to table it, could come by Wednesday.",
+   "date": "2026-11-11",
+   "src": "Roll Call",
+   "u": "https://rollcall.com/2026/11/09/massie-moves-to-force-hegseth-impeachment-vote/"
+  },
+  {
+   "h": "October producer price index released",
+   "s": "BLS publishes wholesale inflation data for October at 8:30 a.m. ET.",
+   "date": "2026-11-13",
+   "src": "U.S. Bureau of Labor Statistics",
+   "u": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
   }
  ]
 }
