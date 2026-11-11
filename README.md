@@ -2,6 +2,8 @@
 
 Live site: https://mynewsbrief.vercel.app
 
+Coverage requests: `api/request.js` turns a reader's pick of an uncovered place or topic into a `coverage-request` issue (needs `GITHUB_TOKEN` in Vercel, Issues read/write on this repo). The scheduled runs add them; see GENERATE.md.
+
 A free, phone-first daily news briefing for your state, counties and the countries you follow. Static site (no build step, no accounts). Preferences live only in the reader's browser and the share link.
 
 - `index.html`, `app.js`, `style.css`, `about.html`: the site
