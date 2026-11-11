@@ -1,43 +1,65 @@
 {
  "stories": [
   {
-   "h": "Nightly SR 167 and SR 512 closures near Puyallup",
-   "s": "WSDOT is closing single lanes on SR 167, SR 512 and N. Meridian nightly this week. Full closures of SR 167/SR 512 ramps with detours follow Thursday through Saturday night.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/chokepoints/sr-167-overnight-closure/4297349",
-   "t": "2026-11-09",
-   "impact": 2
+   "h": "SR 167 Expressway tolls start Dec. 14 in Fife",
+   "s": "Drivers between I-5 and SR 509 near the Port of Tacoma will pay $1 with a Good To Go pass, and at least $2 more without one. Trucks pay extra per axle.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/sr-167-expressway-start-tolling-december/62YOYY63OFH3XAAPXEEIC47GHQ/",
+   "t": "2026-11-11",
+   "impact": 3,
+   "act": false
   },
   {
-   "h": "Tree-harvesting helicopter crashes in Orting-area parking lot",
-   "s": "A logging helicopter made a hard landing Saturday morning on McCutcheon Road East after a possible engine failure. The pilot was hospitalized with non-life-threatening injuries, and the FAA and NTSB are investigating.",
+   "h": "Pierce Transit moves to buy up to 60 buses",
+   "s": "With Proposition 1 appearing to pass, the board unanimously authorized the CEO to buy or refurbish up to 60 buses. He said manufacturing slots need to be secured early because of supply backlogs.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/pierce-transit-is-launching-fleet-expansion/DVHPCFCUCFH5BM3V5TWHFP5KCY/",
+   "t": "2026-11-11",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "JBLM soldier gets 70 years for Gorge festival killings",
+   "s": "Spc. James Kelly pleaded guilty at a court-martial to killing two Seattle nurses at a 2023 Gorge Amphitheatre festival campground. He will serve his sentence at Fort Leavenworth.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/jblm-soldier-sentenced-70-years-gorge-amphitheatre-murders-assaults/FRKXSKXRLVA7BHOIL4QUXQ4HKI/",
+   "t": "2026-11-10",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Parkland resident holds intruder at gunpoint until deputies arrive",
+   "s": "A 40-year-old man pleaded not guilty after allegedly entering a Parkland home Sunday night. A judge set bail at $3,000 and ordered him to stay out of the neighborhood.",
    "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/news/tree-harvesting-helicopter-crashes-orting",
-   "t": "2026-11-07",
-   "impact": 2
+   "u": "https://www.fox13seattle.com/news/man-holds-home-invasion-suspect-gunpoint-parkland",
+   "t": "2026-11-09",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "New SR 507 roundabout opens near Spanaway",
+   "s": "A single-lane roundabout at SR 507 and 208th Street South is complete. Crews are finishing a second one at SR 702 and Harts Lake Road and expect to wrap up in November, weather permitting.",
+   "src": "WSDOT",
+   "u": "https://wsdot.wa.gov/about/news/2026/first-two-new-roundabouts-pierce-county-opens",
+   "t": "2026-11-09",
+   "impact": 2,
+   "act": false
   }
  ],
  "coming": [
   {
-   "h": "Veterans Day: Pierce Transit on weekday schedule",
-   "s": "Pierce Transit runs its regular weekday schedule on Veterans Day. Veterans Day is a state legal holiday, so many government offices will be closed.",
-   "date": "2026-11-11",
-   "src": "Pierce Transit",
-   "u": "https://piercetransit.org/holiday-service/"
-  },
-  {
-   "h": "SR 167/SR 512 ramp closures with detours",
-   "s": "SR 167/SR 512 interchange ramps close fully overnight Thursday through Saturday, and drivers will be detoured.",
+   "h": "Live at the Eleanor: Trío Guadalevín in Tacoma",
+   "s": "Tacoma Arts Live presents the concert in the Tacoma Armory's Roosevelt Room.",
    "date": "2026-11-12",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/chokepoints/sr-167-overnight-closure/4297349"
+   "src": "Tacoma Arts Live",
+   "u": "https://www.tacomaartslive.org/events/live-at-the-eleanor-trio-guadalevin/"
   },
   {
-   "h": "Stronger wind and rain system arrives Friday",
-   "s": "Forecasters expect a stronger storm Friday into the weekend, bringing more wind, rain and high-elevation snow. Strong winds could reach the Puget Sound interior.",
-   "date": "2026-11-13",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/weather/seattle-weather-widespread-rain-breezy-winds-tuesday"
+   "h": "Arts at the Armory weekend in Tacoma",
+   "s": "Tacoma Arts Live's Arts at the Armory event runs Saturday and Sunday at the Tacoma Armory on Yakima Avenue.",
+   "date": "2026-11-14",
+   "src": "Tacoma Arts Live",
+   "u": "https://www.tacomaartslive.org/events/arts-at-the-armory-2026/"
   }
  ]
 }

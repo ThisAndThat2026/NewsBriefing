@@ -1,59 +1,72 @@
 {
  "stories": [
   {
-   "h": "Boeing to cut 5% of commercial airplane workforce",
-   "s": "Boeing plans to cut about 5% of its commercial airplane workforce in December through attrition and layoffs, after slowing production. The cut is estimated at about 2,500 jobs, with possible impact on Everett.",
-   "src": "My Everett News",
-   "u": "https://myeverettnews.com/2026/11/09/boeing-cutting-five-percent-of-commercial-airplane-workforce/",
-   "t": "2026-11-09",
-   "impact": 4
-  },
-  {
-   "h": "Wind advisory for northwest Snohomish County lowlands",
-   "s": "A wind advisory covering northwest Snohomish County and the north interior runs 1 p.m. Tuesday to 7 p.m. Wednesday. Gusts could reach 50 mph, with possible downed trees and power outages.",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/weather/seattle-weather-widespread-rain-breezy-winds-tuesday",
+   "h": "Port of Everett, Weyerhaeuser go to trial over cleanup costs",
+   "s": "A roughly four-week bench trial opened over who pays to clean up the old Mill A waterfront site. Ecology has pulled $87 million in grants, and Weyerhaeuser now argues the port should cover 80%.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/10/trial-begins-over-cleanup-funding-for-everett-waterfront/",
    "t": "2026-11-10",
    "impact": 3,
-   "act": true
+   "act": false
   },
   {
-   "h": "WSDOT unveils preferred design for US 2 trestle",
-   "s": "The proposed replacement for the US 2 trestle has three lanes each way, one of them HOV, plus a bike and pedestrian path. Preliminary costs run $2-4 billion, and construction could start in 2032 if funded.",
-   "src": "The Herald (Everett)",
-   "u": "https://www.heraldnet.com/2026/11/09/wsdot-unveils-preferred-design-for-us-2-trestle-replacement/",
-   "t": "2026-11-09",
-   "impact": 3
+   "h": "Lynnwood raises property taxes to ease budget gap",
+   "s": "The council unanimously used its banked tax capacity, raising about $2.2 million a year. The average homeowner will pay roughly $128 more starting in 2027. Final budget approval is set for Nov. 23.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/10/lynnwood-raises-property-taxes-ahead-of-2027-28-budget-approval/",
+   "t": "2026-11-10",
+   "impact": 3,
+   "act": false
   },
   {
-   "h": "Port of Everett approves $72.5M budget for 2027",
-   "s": "Port commissioners adopted a 2027 budget that includes $20.1 million for 35 capital projects, among them seaport modernization and shore power. Operating revenue is projected to fall 2.7%.",
-   "src": "Everett Post",
-   "u": "https://www.everettpost.com/local-news/port-of-everett-green-lights-20-million-in-improvements-for-2027/",
-   "t": "2026-11-09",
-   "impact": 2
+   "h": "Everett voters ban officials from holding two elected offices",
+   "s": "About 93% backed barring Everett's mayor and council members from holding another elected post. A Snohomish County plan for nonpartisan county races was losing about 70-30.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/10/everett-passes-measure-that-bars-the-mayor-and-city-council-members-from-holding-a-second-elected-position/",
+   "t": "2026-11-10",
+   "impact": 3,
+   "act": false
   },
   {
-   "h": "One dead in house fire north of Woodinville",
-   "s": "One person died early Monday in a house fire on Little Bear Creek Road, and a second resident escaped through a window. The Snohomish County Fire Marshal is investigating the cause.",
-   "src": "The Herald (Everett)",
-   "u": "https://www.heraldnet.com/2026/11/09/1-dead-in-overnight-house-fire-near-woodniville-on-monday/",
-   "t": "2026-11-09",
-   "impact": 2
+   "h": "Judge dismisses suit over Everett waterfront train death",
+   "s": "A federal judge ruled for Everett, the county, BNSF and Amtrak in the 2024 death of a woman struck while crossing tracks near Harborview Park. The judge found the city and county had no duty to protect her.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/10/lawsuit-blaming-city-of-everett-county-for-train-death-dismissed/",
+   "t": "2026-11-10",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Firefighters rescue woman from Monroe house fire",
+   "s": "Snohomish Regional Fire & Rescue pulled a woman from a smoke-filled home Tuesday night. Crews kept the garage fire from spreading, and no one was hurt. The fire marshal is investigating.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/11/firefighters-rescue-woman-from-house-fire-in-monroe-on-tuesday-night/",
+   "t": "2026-11-11",
+   "impact": 2,
+   "act": false
   }
  ],
  "coming": [
   {
-   "h": "Veterans Day holiday",
-   "s": "Veterans Day is a state legal holiday Wednesday, so many government offices will be closed. Check local agencies for service changes.",
-   "date": "2026-11-11"
+   "h": "212th St SW near Arlington closed through Thursday",
+   "s": "The road is fully closed between Sill and Knutson roads until 6 p.m. Nov. 12 for BNSF crossing work. Local and emergency traffic can use a gravel detour.",
+   "date": "2026-11-12",
+   "src": "Snohomish County",
+   "u": "https://www.snohomishcountywa.gov/1816/Roads-Update"
   },
   {
-   "h": "Stronger wind and rain system arrives Friday",
-   "s": "Forecasters expect a stronger storm Friday into the weekend, bringing more wind, rain and high-elevation snow across western Washington.",
+   "h": "Queen Nation tribute at Everett's APEX",
+   "s": "The Queen tribute band plays APEX's Kings Hall at 8 p.m.",
    "date": "2026-11-13",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/weather/seattle-weather-widespread-rain-breezy-winds-tuesday"
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/11/queen-nation-ragtime-steve-trevino-and-more/"
+  },
+  {
+   "h": "'Ragtime' closes at Everett Performing Arts Center",
+   "s": "Sunday is the final day of the musical's run in Everett.",
+   "date": "2026-11-15",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/11/queen-nation-ragtime-steve-trevino-and-more/"
   }
  ]
 }

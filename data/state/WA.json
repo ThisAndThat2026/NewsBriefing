@@ -1,79 +1,110 @@
 {
  "stories": [
   {
-   "h": "Three big districts prepare to sue state over school funding",
-   "s": "Lake Washington, Tacoma and Yakima districts, serving 74,000+ students, are preparing a McCleary-style suit saying levies cover basic costs the state should pay. OSPI backs them; no filing date set.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/3-wa-school-districts-prepare-sue-state-over-funding/F45X6WUPTBHCVPITOCTTEXMDG4/",
-   "t": "2026-11-10",
-   "impact": 4
+   "h": "O'Donnell claims win in tight state Supreme Court race",
+   "s": "King County Judge Sean O'Donnell, backed by the GOP, declared victory over appeals Judge Ian Birk. He leads by about 39,000 votes with fewer than 100,000 ballots left statewide, after heavy late outside spending.",
+   "src": "Washington State Standard",
+   "u": "https://washingtonstatestandard.com/2026/11/11/odonnell-declares-victory-in-tight-wa-supreme-court-race/",
+   "t": "2026-11-11",
+   "impact": 4,
+   "act": false
   },
   {
-   "h": "Wind advisory, rain hit coast and north Sound today",
-   "s": "Wind Advisory for the coast and north interior runs 1 p.m. Tuesday to 7 p.m. Wednesday, gusts to 50 mph; flood watch for Mason County (Skokomish River) Tuesday evening into Wednesday.",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/weather/seattle-weather-widespread-rain-breezy-winds-tuesday",
+   "h": "Parents, teachers union sue to block trans athlete initiative",
+   "s": "A week after voters approved I-638, TransFamilies, the Washington Education Association and parents sued in King County Superior Court. They say the measure violates the state constitution's privacy and anti-discrimination protections.",
+   "src": "Washington State Standard",
+   "u": "https://washingtonstatestandard.com/2026/11/10/parents-groups-sue-over-transgender-student-athletes-initiative/",
    "t": "2026-11-10",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "State Supreme Court weighs rules that could cut cash bail",
+   "s": "Justices heard nearly three hours of arguments on proposed court rules limiting bail. Public defenders support them; prosecutors, judges and bail agents oppose. No decision was made, and a committee will review hundreds of comments.",
+   "src": "Washington State Standard",
+   "u": "https://washingtonstatestandard.com/2026/11/11/bail-reform-lands-before-wa-supreme-court/",
+   "t": "2026-11-11",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Record warmth today, then rain returns Thursday night",
+   "s": "Western Washington gets a mild, mostly dry break before widespread rain arrives Thursday night. Friday looks wet and breezy, with more rain and wind Sunday. Highs drop back into the 50s.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/veterans-day-break-then-more-rain-western-washington/AJ2NRA2ZSVCOHOICPOOVA2HZBM/",
+   "t": "2026-11-11",
+   "impact": 4,
+   "act": true
+  },
+  {
+   "h": "Ocean Shores declares emergency as storms erode coastline",
+   "s": "Erosion, coastal flooding and long power outages led the Grays Harbor city to declare a citywide emergency. Officials told people to stay off beaches. Seattle Public Utilities asks residents to clear leaf-clogged storm drains.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/news/washington-storms-ocean-shores-emergency-declaration",
+   "t": "2026-11-11",
    "impact": 3,
    "act": true
   },
   {
-   "h": "Stronger atmospheric river due Friday; passes should stay wet",
-   "s": "After record-threatening warmth Wednesday and Thursday, a Friday-Saturday atmospheric river could drop 2-5 inches on the coast and mountains. Flood risk is seen as low; snow levels stay above pass elevations.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/pacific-northwest-weather/wa-warm-rain-weather/4297209",
-   "t": "2026-11-09",
-   "impact": 3
-  },
-  {
-   "h": "Schools chief Reykdal won't seek fourth term in 2028",
-   "s": "State Superintendent Chris Reykdal says he will impose his own term limit and is weighing a run for another statewide or federal office, or leaving elected office.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/local/chris-reykdal-wont-seek-reelection/4297332",
-   "t": "2026-11-09",
-   "impact": 2
-  },
-  {
-   "h": "Task force finds gaps in involuntary treatment system",
-   "s": "A statewide task force says care before and after civil commitment is under-resourced and poorly matched to patients; it urges lawmakers to fund a shared database and a pilot site.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/local/involuntary-treatment-system/4297416",
-   "t": "2026-11-09",
-   "impact": 2
+   "h": "Groups seek three-year moratorium on new data centers",
+   "s": "Several Washington organizations want lawmakers to pass a statewide pause on new data centers in 2027. They cite water scarcity, noise and grid strain. Gov. Ferguson has said he expects the Legislature to act on data centers.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/washington-groups-seek-three-year-moratorium-new-data-centers/YAS3T4NMHBHXROO7HBFIF6QSEM/",
+   "t": "2026-11-11",
+   "impact": 3,
+   "act": false
   }
  ],
  "talking": [
   {
-   "h": "Short-handed Seahawks stifle Cardinals 17-3",
-   "s": "With Drew Lock starting for injured Sam Darnold and several starters out, Seattle held Arizona to a field goal; AJ Barner scored both touchdowns. Lock left with an oblique injury.",
-   "src": "Seahawks.com",
-   "u": "https://www.seahawks.com/news/despite-key-injuries-seahawks-dominate-in-win-over-cardinals-the-swagger-the-seahawks-style-was-definitely-present",
-   "t": "2026-11-08",
-   "impact": 2
+   "h": "Kraken take NHL Global Series to Helsinki",
+   "s": "Seattle faces Carolina twice this week at Veikkaus Arena in Finland, and has been practicing in a rink about 121 feet underground that also serves as a civil defense shelter.",
+   "src": "NHL.com",
+   "u": "https://www.nhl.com/kraken/news/seattle-kraken-practice-finnish-cave-2026-nhl-global-series",
+   "t": "2026-11-10",
+   "impact": 2,
+   "act": false
   },
   {
-   "h": "Huskies' comeback falls short against Penn State",
-   "s": "Washington rallied from 28-6 down at halftime but lost 28-25, its third straight home loss for the first time since 2021. UW visits Michigan State Saturday.",
-   "src": "FOX 13 Seattle (AP)",
-   "u": "https://www.fox13seattle.com/sports/washington-rally-fall-28-25-penn-state",
-   "t": "2026-11-07",
-   "impact": 2
+   "h": "Viral Ballard raccoon Jimothy draws death threats",
+   "s": "The fan page for Jimothy, a raccoon with an apparent short-spine condition, says he has been threatened online. It is asking people to stop sharing where he can be found.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/news/jimothy-death-threats",
+   "t": "2026-11-10",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Seahawks stand pat at trade deadline",
+   "s": "GM John Schneider made no deadline deals and kept his 2027 picks. That leaves current players, including Rashid Shaheed and Dante Fowler Jr., needing to produce as Seattle chases a second straight Super Bowl.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/10/seahawks-must-step-up-after-schneiders-silence-at-deadline/",
+   "t": "2026-11-10",
+   "impact": 2,
+   "act": false
   }
  ],
  "coming": [
   {
-   "h": "Veterans Day: state offices closed, free state parks",
-   "s": "State offices close for the holiday. State parks offer a free Discover Pass day-use day, 7 a.m. to 9 p.m.; DNR and WDFW lands still require a pass.",
-   "date": "2026-11-11",
-   "src": "ParentMap",
-   "u": "https://www.parentmap.com/calendar/37691/2026-11-11/"
+   "h": "Kraken open Helsinki series vs. Hurricanes",
+   "s": "The first of two NHL Global Series games against Carolina at Veikkaus Arena in Helsinki. The second follows Saturday.",
+   "date": "2026-11-12",
+   "src": "NHL.com",
+   "u": "https://www.nhl.com/kraken/news/seattle-kraken-practice-finnish-cave-2026-nhl-global-series"
   },
   {
-   "h": "Atmospheric river brings heavy rain Friday-Saturday",
-   "s": "Forecast: 2-5 inches on the coast and mountains, 1-2 inches in the interior. Watch the Skokomish and other rivers, and clear storm drains.",
+   "h": "Wet, breezy Friday as next storm arrives",
+   "s": "Widespread rain arrives Thursday night and continues into a breezy Friday. Showers last through Saturday, with another round of rain and wind on Sunday.",
    "date": "2026-11-13",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/pacific-northwest-weather/wa-warm-rain-weather/4297209"
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/veterans-day-break-then-more-rain-western-washington/AJ2NRA2ZSVCOHOICPOOVA2HZBM/"
+  },
+  {
+   "h": "Seahawks at Raiders in Las Vegas",
+   "s": "Week 10 kickoff is at 1:05 p.m. PT at Allegiant Stadium, on CBS.",
+   "date": "2026-11-15",
+   "src": "Seattle Seahawks",
+   "u": "https://www.seahawks.com/game-day/2026/reg-week10/seahawks-at-raiders/how-to-watch"
   }
  ]
 }

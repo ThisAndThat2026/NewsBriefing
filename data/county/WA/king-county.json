@@ -1,60 +1,63 @@
 {
  "stories": [
   {
-   "h": "Seattle mayor to announce CCTV camera plans after audit",
-   "s": "An NYU Policing Project audit of SPD's Real-Time Crime Center found policy gaps and made 19 recommendations. Mayor Katie Wilson announces next steps on the 62-camera program today at 11:15 a.m.",
-   "src": "KUOW",
-   "u": "https://www.kuow.org/governing/2026-11-09/surveillance-audit-ordered-by-seattle-mayor-calls-for-more-guardrails-for-technology",
-   "t": "2026-11-09",
-   "impact": 3
+   "h": "Boeing 737 MAX deliveries hit lowest month in a year",
+   "s": "Boeing delivered 32 MAX jets in October and will miss its 500-delivery goal for 2026. Its Renton wing shop is struggling to keep pace, pushing 47-a-month production to early 2027.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/boeings-737-max-deliveries-fall-lowest-monthly-total-since-november-2025/L7Z7MDBOING3PDP4X35HM7QSOU/",
+   "t": "2026-11-11",
+   "impact": 3,
+   "act": false
   },
   {
-   "h": "Seattle schools authorize legal action over I-638 sports law",
-   "s": "The Seattle School Board voted Monday to hire counsel for possible legal action against voter-approved Initiative 638, which bars transgender girls from girls' teams. The law takes effect Dec. 3.",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/news/seattle-public-schools-initiative-638",
-   "t": "2026-11-09",
-   "impact": 3
+   "h": "King County weighs more courthouse security after attacks",
+   "s": "More than 50 incidents this year, including a juror attacked nearby, were discussed at a council committee. Councilmember Balducci, who was grabbed outside the courthouse, wants the 4th Avenue entrance reopened.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/king-county-officials-push-increased-courthouse-security-after-rise-violent-incidents/WOKY7HGI7BHE5EEFODO6J5FF7Y/",
+   "t": "2026-11-11",
+   "impact": 3,
+   "act": false
   },
   {
-   "h": "Rain and gusty winds today; no river flooding expected",
-   "s": "Rain and 20-25 mph Puget Sound gusts arrive Tuesday, with possible record warmth Wednesday. NWS expects no river flooding this week; a stronger wind and rain system follows Friday.",
+   "h": "Suspect in Coast Guard officer's Skyway killing posts bail",
+   "s": "Isaiah Bolar, 18, charged with murder in the August shooting of Lt. Connor Overstreet, was released after posting $3 million bail. The victim's family says it is shocked by the bail system.",
    "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/weather/seattle-weather-widespread-rain-breezy-winds-tuesday",
+   "u": "https://www.fox13seattle.com/news/suspect-us-coast-guard-murder-released-jail",
    "t": "2026-11-10",
-   "impact": 2
+   "impact": 3,
+   "act": false
   },
   {
-   "h": "Nightly lane closures on I-90, I-5 and SR 167 this week",
-   "s": "WSDOT is closing eastbound I-90 lanes and ramps on Mercer Island nightly through Nov. 16. Up to three southbound I-5 lanes between Kent and Federal Way close overnight Thursday.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/chokepoints/sr-167-overnight-closure/4297349",
-   "t": "2026-11-09",
-   "impact": 2
-  },
-  {
-   "h": "Saturday windstorm cut power to tens of thousands",
-   "s": "Gusts near 50 mph knocked out power to more than 42,000 Seattle City Light customers overnight Saturday, with outages concentrated in South and West Seattle, Burien and White Center.",
-   "src": "Westside Seattle",
-   "u": "https://www.westsideseattle.com/robinson-papers/2026/11/07/update-high-winds-knock-out-power-november-storm-outages-overnight",
-   "t": "2026-11-07",
-   "impact": 2
+   "h": "Man accused of cutting deputy skips court after bail",
+   "s": "Daniel McCullough, charged after a deputy was cut during an arrest in Shoreline, posted $25,000 bail and then missed his arraignment. A judge issued a warrant and raised bail to $150,000.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/man-accused-stabbing-king-county-deputy-posts-bail-state-weighs-new-release-rules/3WS4Z67I2RBK3NJS525KRCJ2SU/",
+   "t": "2026-11-11",
+   "impact": 2,
+   "act": false
   }
  ],
  "coming": [
   {
-   "h": "Veterans Day: King County offices closed",
-   "s": "King County offices close Wednesday for Veterans Day, and some services run reduced schedules. Metro buses run weekday schedules. Normal operations resume Thursday.",
-   "date": "2026-11-11",
-   "src": "King County Employee News",
-   "u": "https://kcemployees.com/2026/11/06/king-county-to-observe-veterans-day-holiday-nov-11-4/"
+   "h": "Garth Brooks plays four Climate Pledge Arena shows",
+   "s": "Shows run Thursday through Sunday. Saturday is sold out, and tickets for the other nights start at $155.",
+   "date": "2026-11-12",
+   "src": "Seattle Refined",
+   "u": "https://seattlerefined.com/lifestyle/seattle-events-things-to-do-november-2026-garth-brooks-tour-wildlanterns-holiday-lights-shopping-gobble-up-food-festival-dance-art-auto-show-ojak-bridge"
   },
   {
-   "h": "Stronger wind and rain system arrives Friday",
-   "s": "Forecasters expect a stronger storm Friday into the weekend, bringing more wind, rain and high-elevation snow. Strong winds could reach the Puget Sound interior.",
+   "h": "WildLanterns opens at Woodland Park Zoo",
+   "s": "The holiday lantern show runs 4 to 9 p.m. daily through Jan. 17. Adult tickets start at $35.",
    "date": "2026-11-13",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/weather/seattle-weather-widespread-rain-breezy-winds-tuesday"
+   "src": "Seattle Refined",
+   "u": "https://seattlerefined.com/lifestyle/seattle-events-things-to-do-november-2026-garth-brooks-tour-wildlanterns-holiday-lights-shopping-gobble-up-food-festival-dance-art-auto-show-ojak-bridge"
+  },
+  {
+   "h": "Seattle International Auto Show at Lumen Field",
+   "s": "The show runs Friday through Sunday at the Lumen Field Event Center. Single-day tickets are about $18 to $20.",
+   "date": "2026-11-13",
+   "src": "Seattle Refined",
+   "u": "https://seattlerefined.com/lifestyle/seattle-events-things-to-do-november-2026-garth-brooks-tour-wildlanterns-holiday-lights-shopping-gobble-up-food-festival-dance-art-auto-show-ojak-bridge"
   }
  ]
 }
