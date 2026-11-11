@@ -1,0 +1,20 @@
+{
+ "label": "Updated 1:13 PM",
+ "updated": "2026-11-10T13:13:21-08:00",
+ "coverage": {
+  "states": [
+   "WA"
+  ],
+  "counties": {
+   "WA": [
+    "King County",
+    "Snohomish County",
+    "Pierce County"
+   ]
+  },
+  "countries": [
+   "Israel"
+  ],
+  "topics": []
+ }
+}

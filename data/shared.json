@@ -1,169 +1,33 @@
-{
- "us": [
-  {
-   "h": "Trump calls Iran war 'militarily effectively over'",
-   "s": "After meeting Qatar's prime minister, Trump said renewed bombing is unlikely for now, citing 'positive momentum' toward ending the eight-month war. U.S. forces remain in the region and the naval blockade of Iranian oil continues.",
-   "src": "KOCO (AP)",
-   "u": "https://www.koco.com/article/trump-iran-war-effectively-over-qatar/74379933",
-   "t": "2026-11-09",
-   "impact": 5
-  },
-  {
-   "h": "October consumer prices rise 0.4%, gasoline still elevated",
-   "s": "The Consumer Price Index rose 0.4% in October after 0.6% in September; core prices rose 0.3%. Unadjusted gasoline prices are up 37.4% from a year ago. No annual headline rate was published due to last year's data gap.",
-   "src": "U.S. Bureau of Labor Statistics",
-   "u": "https://www.bls.gov/news.release/archives/cpi_11102026.htm",
-   "t": "2026-11-10",
-   "impact": 5
-  },
-  {
-   "h": "Massie forces House vote on impeaching Hegseth",
-   "s": "Rep. Thomas Massie (R-Ky.) filed eight impeachment articles against Defense Secretary Pete Hegseth, mostly over the Iran war and War Powers violations. A vote could come by Wednesday; Democratic leader Hakeem Jeffries says he backs it.",
-   "src": "Roll Call",
-   "u": "https://rollcall.com/2026/11/09/massie-moves-to-force-hegseth-impeachment-vote/",
-   "t": "2026-11-09",
-   "impact": 4
-  },
-  {
-   "h": "Trump questions honesty of midterms Democrats won",
-   "s": "Trump claimed without evidence that voting machines and early voting were manipulated in the Nov. 3 midterms, days after saying he would accept the results. Election officials have reported no major problems.",
-   "src": "Yahoo News (USA Today)",
-   "u": "https://www.yahoo.com/news/politics/articles/trump-questions-midterm-election-results-193324901.html",
-   "t": "2026-11-09",
-   "impact": 4
-  },
-  {
-   "h": "Jim Jordan elected to lead House Republicans",
-   "s": "In a closed-door 106-73 vote, Republicans chose Ohio's Jordan over Steve Scalise to lead them in the next Congress, where Democrats are expected to hold the majority and Mike Johnson steps aside.",
-   "src": "ABC7 New York",
-   "u": "https://abc7ny.com/story/rep-jim-jordan-ohio-elected-lead-house-republicans-minority/20030740/",
-   "t": "2026-11-10",
-   "impact": 3
-  },
-  {
-   "h": "Poll: 71% want new Congress to end Iran war",
-   "s": "A Reuters/Ipsos poll found 71% of Americans want Congress to pass legislation ending the Iran war and 62% back repealing tariffs. Trump's approval stands at 32%, near his career low.",
-   "src": "Yahoo News (Reuters)",
-   "u": "https://www.yahoo.com/news/articles/most-americans-want-democratic-congress-110507573.html",
-   "t": "2026-11-10",
-   "impact": 3
-  }
- ],
- "world": [
-  {
-   "h": "Russia, Ukraine open first peace talks in nine months",
-   "s": "US-brokered talks began in Abu Dhabi Tuesday with Umerov and Medinsky leading delegations. Envoy Jared Kushner says gaps have narrowed, but Russia still demands all of Donbas and Kyiv refuses to cede land.",
-   "src": "ThePrint (Reuters)",
-   "u": "https://theprint.in/world/russia-and-ukraine-hold-first-peace-talks-for-nine-months-trump-envoy-says-gaps-have-narrowed/3095049/",
-   "t": "2026-11-10",
-   "impact": 5
-  },
-  {
-   "h": "COP31 climate summit opens in Antalya",
-   "s": "Nearly 200 countries began two weeks of UN climate talks in Turkey, running to Nov. 20, with Turkey and Australia sharing the presidency. Finance for poorer nations is expected to be the hardest fight.",
-   "src": "UN News",
-   "u": "https://news.un.org/en/story/2026/11/1168763",
-   "t": "2026-11-09",
-   "impact": 4
-  },
-  {
-   "h": "France blames Iran's Revolutionary Guards for supermarket fridge hacks",
-   "s": "Paris prosecutors say an IRGC cyber unit hacked refrigeration at about 700 French stores in October, spoiling food and causing some fires. Similar attacks hit Belgium, Luxembourg and Sweden.",
-   "src": "CBS News",
-   "u": "https://www.cbsnews.com/news/france-iran-behind-refrigerator-freezer-hack-cyberattack/",
-   "t": "2026-11-09",
-   "impact": 3
-  },
-  {
-   "h": "US moves aircraft from second UK base over Iran threat",
-   "s": "The US military relocated refueling tankers from RAF Mildenhall to Germany and elsewhere Monday after a reported Iranian threat, weeks after pulling bombers from RAF Fairford.",
-   "src": "The National",
-   "u": "https://www.thenationalnews.com/news/europe/2026/11/10/us-pulls-aircraft-from-second-uk-airbase-over-iran-threat/",
-   "t": "2026-11-10",
-   "impact": 3
-  },
-  {
-   "h": "Indonesia's vice president Gibran says he will resign",
-   "s": "Vice President Gibran Rakabuming Raka, son of ex-president Joko Widodo, told President Prabowo he intends to step down; Prabowo did not reject the request, a spokesperson said.",
-   "src": "Yahoo News (Reuters)",
-   "u": "https://www.yahoo.com/news/articles/indonesia-vice-president-expresses-intention-091044882.html",
-   "t": "2026-11-10",
-   "impact": 3
-  }
- ],
- "tech": [
-  {
-   "h": "Trump says FBI is looking into Nvidia CEO's affair",
-   "s": "Trump said the FBI is examining Jensen Huang's relationship with a woman US intelligence reportedly tied to China's spy agency. Nvidia's board opened an independent probe; shares fell about 5% premarket Monday.",
-   "src": "PBS NewsHour (AP)",
-   "u": "https://www.pbs.org/newshour/politics/watch-trump-says-fbi-is-looking-into-nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-agent",
-   "t": "2026-11-09",
-   "impact": 4
-  },
-  {
-   "h": "Anthropic sets IPO price range of $70 to $78",
-   "s": "A new SEC filing puts Anthropic's share price range at $70-$78, implying roughly a $1.3 trillion valuation, below some earlier $2 trillion estimates. It will trade under the ticker ANT.",
-   "src": "ABC News",
-   "u": "https://abcnews.com/Business/anthropic-seeks-70-78-share-new-ipo-filing/story?id=138007081",
-   "t": "2026-11-10",
-   "impact": 4
-  },
-  {
-   "h": "Microsoft lobbies against ban on Chinese data center optics",
-   "s": "Microsoft is pressing the Trump administration to drop an FCC-planned ban on Chinese optical transceivers, arguing it would slow AI data center construction. China supplies about two-thirds of the market.",
-   "src": "Yahoo Finance (Reuters)",
-   "u": "https://finance.yahoo.com/technology/ai/articles/microsoft-pushes-trump-halt-chinese-120408623.html",
-   "t": "2026-11-10",
-   "impact": 3
-  },
-  {
-   "h": "Australia to create AI safety regulator after OpenAI breach",
-   "s": "Albanese announced a regulator to enforce standards on frontier AI firms, with penalties, after an OpenAI agent pulled data from a health department portal in June. OpenAI informed the government only in September.",
-   "src": "ABC News (AP)",
-   "u": "https://abcnews.com/Technology/wireStory/australia-launch-ai-safety-regulator-after-openais-breach-138001591",
-   "t": "2026-11-10",
-   "impact": 3
-  },
-  {
-   "h": "Google adds two new TPU chips to challenge Nvidia",
-   "s": "Google unveiled TPU 8i Max for very long-context AI work and TPU 8tx for secure, confidential inference for governments and regulated firms. No release date or pricing was given.",
-   "src": "SiliconANGLE",
-   "u": "https://siliconangle.com/2026/11/09/google-advances-agentic-ai-custom-silicon-expanding-tpu-family-with-8tx-and-8i-max/",
-   "t": "2026-11-09",
-   "impact": 2
-  }
- ],
- "talking": [
-  {
-   "h": "Nvidia sued over CEO Huang's affair with alleged spy",
-   "s": "A shareholder class action says Nvidia and Jensen Huang misled investors about his relationship with a woman reportedly suspected of spying for China. Trump said the FBI is investigating; Nvidia shares fell 4.3% Monday.",
-   "src": "WRAL (AP)",
-   "u": "https://www.wral.com/news/ap/1f060-nvidia-and-jensen-huang-face-shareholder-lawsuit-alleging-investors-were-misled-about-spy-affair/",
-   "t": "2026-11-10",
-   "impact": 3
-  }
- ],
- "coming": [
-  {
-   "h": "Veterans Day federal holiday",
-   "s": "Federal holiday: post offices and federal offices closed, no regular mail delivery; most banks closed. Stock markets open.",
-   "date": "2026-11-11",
-   "src": "U.S. Bureau of Labor Statistics",
-   "u": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
-  },
-  {
-   "h": "House vote on Hegseth impeachment expected",
-   "s": "The House must act on Massie's privileged impeachment resolution within two legislative days; a vote, or a motion to table it, could come by Wednesday.",
-   "date": "2026-11-11",
-   "src": "Roll Call",
-   "u": "https://rollcall.com/2026/11/09/massie-moves-to-force-hegseth-impeachment-vote/"
-  },
-  {
-   "h": "October producer price index released",
-   "s": "BLS publishes wholesale inflation data for October at 8:30 a.m. ET.",
-   "date": "2026-11-13",
-   "src": "U.S. Bureau of Labor Statistics",
-   "u": "https://www.bls.gov/schedule/2026/11_sched_list.htm"
-  }
- ]
-}
+{"us": [
+{"h": "House shelves Massie's bid to impeach Hegseth", "s": "In a 211-204 vote Tuesday, the House sent Massie's eight impeachment articles over the Iran war and boat strikes to the Judiciary Committee, which effectively kills them this Congress. Massie was the lone Republican opposed.", "src": "ABC News", "u": "https://abcnews.com/US/hegseth-dismisses-impeachment-effort-political-spectacle/story?id=138002466", "t": "2026-11-10", "impact": 4, "act": false},
+{"h": "Mississippi Senate race still too close to call", "s": "With 98% counted, Democrat Scott Colom leads GOP Sen. Cindy Hyde-Smith by about 3,000 votes. Some mail and affidavit ballots are still outstanding, counties must certify by Nov. 13, and state law bars recounts.", "src": "CBS News", "u": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/", "t": "2026-11-11", "impact": 3, "act": false},
+{"h": "White House counsel warns Democrats over oversight threats", "s": "In a letter, White House counsel Will Scharf told Rep. Robert Garcia, who is in line to lead House Oversight, that Democrats' planned probes of the administration could cross into criminal conduct.", "src": "ABC News", "u": "https://abcnews.com/Politics/top-white-house-lawyer-warns-democrats-threats-oversight/story?id=138044143", "t": "2026-11-11", "impact": 3, "act": false},
+{"h": "Bessent moves to military base after reported Iranian threat", "s": "After a reported Iranian threat on his life, Treasury Secretary Scott Bessent has moved from his D.C.-area home onto a military base. His department says he will keep up sanctions pressure on Tehran.", "src": "CBS News", "u": "https://www.cbsnews.com/news/bessent-relocate-dc-area-home-military-base-iran-threats-to-kill-him/", "t": "2026-11-11", "impact": 3, "act": false},
+{"h": "Sanders says he won't back Schumer as Democratic leader", "s": "Bernie Sanders says he won't support Chuck Schumer as leader and wants an open debate on the party's direction. Chris Van Hollen is weighing a challenge. The vote is expected in early December.", "src": "CBS News", "u": "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/", "t": "2026-11-10", "impact": 3, "act": false},
+{"h": "House GOP report faults decades of failures on Epstein", "s": "Comer's Oversight Committee released a 137-page report blaming federal prosecutors and investigators for missteps that let Epstein keep abusing victims. It urges the Justice Department to reinterview witnesses and look into his associates.", "src": "Al Jazeera", "u": "https://www.aljazeera.com/news/2026/11/11/gop-led-house-report-slams-systemic-failures-in-handling-of-epstein-case", "t": "2026-11-11", "impact": 3, "act": false}
+],
+"world": [
+{"h": "Russia, Ukraine agree to large prisoner swap; no breakthrough", "s": "U.S.-mediated talks in Abu Dhabi ended with a deal on a major POW exchange but no wider progress. Kushner and Witkoff plan to meet Putin in Moscow Thursday, then Zelenskyy in Dublin.", "src": "CP24 (AP)", "u": "https://www.cp24.com/news/world/2026/11/11/russia-and-ukraine-agree-to-a-large-prisoner-exchange-as-talks-end-with-no-major-breakthrough/", "t": "2026-11-11", "impact": 4, "act": false},
+{"h": "Spain holds first general strike in 14 years", "s": "Unions shut down work across Spain to protest housing costs, wages and prices. There were roadblocks in Barcelona and scuffles near Madrid's wholesale market. A national election is set for Nov. 29.", "src": "ABC News (AP)", "u": "https://abcnews.com/Business/wireStory/spains-general-strike-14-years-brings-clashing-social-138035789", "t": "2026-11-11", "impact": 3, "act": false},
+{"h": "Hoax bomb threats hit thousands of European schools", "s": "At least 6,300 Italian schools, plus hundreds in Ireland and the U.K., got emailed bomb threats, prompting evacuations. Nothing was found. Officials suspect hybrid-warfare tactics but have named no culprit.", "src": "CBS News", "u": "https://www.cbsnews.com/news/bomb-threat-schools-europe-italy-uk-ireland-hoaxes-hybrid-warfare-iran-russia/", "t": "2026-11-11", "impact": 3, "act": false},
+{"h": "U.S. Army officer arrested in UK over Russia spying", "s": "British police arrested a 41-year-old U.S. soldier near Gloucester on suspicion of espionage linked to Russia. A U.S. official said he is a senior officer at a NATO corps headquarters.", "src": "CBS News", "u": "https://www.cbsnews.com/news/american-soldier-spying-russia-arrest-uk/", "t": "2026-11-10", "impact": 3, "act": false},
+{"h": "Guterres presses COP31 to phase out fossil fuels", "s": "Speaking at COP31 in Antalya, the UN chief blamed the fossil fuel lobby for stalling climate action and called for ending coal, oil and gas. The U.S. and several G7 leaders are staying away.", "src": "Al Jazeera", "u": "https://www.aljazeera.com/news/2026/11/11/climate-crisis-is-outrunning-us-un-chief-guterres-says-at-cop31", "t": "2026-11-11", "impact": 3, "act": false},
+{"h": "Russia says it downed 146 drones near St. Petersburg", "s": "The Leningrad region's governor says 146 drones were shot down and one strike started a fire near Ust-Luga port. Latvia and Lithuania told residents to take shelter from drones entering their airspace.", "src": "Al Jazeera", "u": "https://www.aljazeera.com/news/2026/11/11/russia-claims-interception-of-146-drones-in-leningrad-region", "t": "2026-11-11", "impact": 2, "act": false}
+],
+"tech": [
+{"h": "Nvidia customer Megaspeed's empty offices deepen China questions", "s": "CBS found Megaspeed's Singapore headquarters nearly empty. The firm, tied to the woman linked to Jensen Huang, bought about $4.8 billion of Nvidia gear and is under investigation in the U.S. and Singapore.", "src": "CBS News", "u": "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/", "t": "2026-11-11", "impact": 3, "act": false},
+{"h": "New York opens registration under its AI safety law", "s": "Large frontier AI developers such as OpenAI and Anthropic must register with New York by Jan. 1. Starting in 2027, the RAISE Act requires safety frameworks and incident reports within 72 hours.", "src": "TechCrunch", "u": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/", "t": "2026-11-10", "impact": 3, "act": false},
+{"h": "NRC approves X-energy's first small modular reactors", "s": "Regulators approved a construction permit for four Xe-100 reactors at a Dow plant in Texas, the first advanced reactor approval at a U.S. industrial site. They won't run until the early 2030s.", "src": "TechCrunch", "u": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/", "t": "2026-11-10", "impact": 3, "act": false},
+{"h": "Anthropic's seven founders to sell about $250M each in IPO", "s": "A new filing shows each co-founder selling about 3.38 million shares in the IPO. Together they keep 51.1% of voting power through special Class F shares.", "src": "TechCrunch", "u": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/", "t": "2026-11-10", "impact": 2, "act": false},
+{"h": "Oura to buy AI primary-care startup Counsel for $625M", "s": "The smart-ring maker is buying Counsel Health, which pairs AI chat with licensed doctors, after shelving its own IPO plans. Counsel's CEO will become Oura's chief clinical AI officer.", "src": "TechCrunch", "u": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/", "t": "2026-11-10", "impact": 2, "act": false},
+{"h": "German regulator says PayPal surcharge ban may hurt competition", "s": "In preliminary findings, Germany's Federal Cartel Office said PayPal's ban on merchant surcharges may be unlawful and keep its fees high. PayPal disagrees and could be made to hand over profits.", "src": "The Star (Reuters)", "u": "https://www.thestar.com.my/tech/tech-news/2026/11/11/german-antitrust-authority-says-paypal-practices-may-restrict-competition", "t": "2026-11-11", "impact": 2, "act": false}
+],
+"talking": [
+{"h": "Vikings bring back Kirk Cousins in deadline trade", "s": "Minnesota sent a 2027 third-round pick to Las Vegas for Cousins, 38, who returns to the team he played for from 2018 to 2023. The Vikings' offense has struggled despite a top-ranked defense.", "src": "NFL.com", "u": "https://www.nfl.com/news/kirk-cousins-vikings-raiders-trade", "t": "2026-11-10", "impact": 2, "act": false},
+{"h": "Stacy Keach, TV's Mike Hammer, dies at 85", "s": "Keach died at his home in Poland after a long fight with heart failure, his wife said. He played detective Mike Hammer on TV, won a Golden Globe and earned a Tony nomination.", "src": "CBS News (AP)", "u": "https://www.cbsnews.com/news/stacy-keach-mike-hammer-stage-dies-85/", "t": "2026-11-11", "impact": 2, "act": false}
+],
+"coming": [
+{"h": "October producer price index", "s": "The BLS publishes October wholesale inflation at 8:30 a.m. ET, following this week's hotter consumer price report.", "date": "2026-11-13", "src": "Scotiabank economic calendar", "u": "https://www.scotiabank.com/ca/en/about/economics/economics-publications/post.other-publications.calendar-of-economic-release-dates.calendar-of-economic-release-dates--november-2026-.html"},
+{"h": "Mississippi counties' deadline to certify Senate vote", "s": "Counties must certify results in the tight Colom vs. Hyde-Smith race. The state allows no recounts, so the plurality wins.", "date": "2026-11-13", "src": "CBS News", "u": "https://www.cbsnews.com/news/mississippi-senate-race-results-2026-midterms/"},
+{"h": "October retail sales report", "s": "The Census Bureau's advance retail sales estimate comes out at 8:30 a.m. ET, an early look at consumer spending heading into the holidays.", "date": "2026-11-17", "src": "U.S. Census Bureau", "u": "https://www.census.gov/retail/release_schedule.html"}
+]}

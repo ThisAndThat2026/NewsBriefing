@@ -1,0 +1,43 @@
+{
+ "stories": [
+  {
+   "h": "Nightly SR 167 and SR 512 closures near Puyallup",
+   "s": "WSDOT is closing single lanes on SR 167, SR 512 and N. Meridian nightly this week. Full closures of SR 167/SR 512 ramps with detours follow Thursday through Saturday night.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/chokepoints/sr-167-overnight-closure/4297349",
+   "t": "2026-11-09",
+   "impact": 2
+  },
+  {
+   "h": "Tree-harvesting helicopter crashes in Orting-area parking lot",
+   "s": "A logging helicopter made a hard landing Saturday morning on McCutcheon Road East after a possible engine failure. The pilot was hospitalized with non-life-threatening injuries, and the FAA and NTSB are investigating.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/news/tree-harvesting-helicopter-crashes-orting",
+   "t": "2026-11-07",
+   "impact": 2
+  }
+ ],
+ "coming": [
+  {
+   "h": "Veterans Day: Pierce Transit on weekday schedule",
+   "s": "Pierce Transit runs its regular weekday schedule on Veterans Day. Veterans Day is a state legal holiday, so many government offices will be closed.",
+   "date": "2026-11-11",
+   "src": "Pierce Transit",
+   "u": "https://piercetransit.org/holiday-service/"
+  },
+  {
+   "h": "SR 167/SR 512 ramp closures with detours",
+   "s": "SR 167/SR 512 interchange ramps close fully overnight Thursday through Saturday, and drivers will be detoured.",
+   "date": "2026-11-12",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/chokepoints/sr-167-overnight-closure/4297349"
+  },
+  {
+   "h": "Stronger wind and rain system arrives Friday",
+   "s": "Forecasters expect a stronger storm Friday into the weekend, bringing more wind, rain and high-elevation snow. Strong winds could reach the Puget Sound interior.",
+   "date": "2026-11-13",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/weather/seattle-weather-widespread-rain-breezy-winds-tuesday"
+  }
+ ]
+}

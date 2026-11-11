@@ -1,0 +1,45 @@
+{
+ "stories": [
+  {
+   "h": "26th Knesset sworn in; opposition picks Kahana for speaker",
+   "s": "Israel's new 120-seat parliament takes office Tuesday with no bloc holding a majority. Netanyahu's rivals agreed to back Yashar's Matan Kahana for speaker and give Avigdor Liberman the foreign affairs and defense committee.",
+   "src": "The National",
+   "u": "https://www.thenationalnews.com/news/mena/2026/11/10/netanyahu-rivals-strike-first-deal-as-israel-prepares-to-swear-in-parliament/",
+   "t": "2026-11-10",
+   "impact": 4
+  },
+  {
+   "h": "Eisenkot, Liberman agree to court ultra-Orthodox parties",
+   "s": "Eisenkot's bloc holds 48 seats, short of the 61 needed. After meeting Monday, he and Liberman reportedly approved outreach to Shas and UTJ, including a softened draft bill, and ruled out relying on Arab parties.",
+   "src": "The Times of Israel",
+   "u": "https://www.timesofisrael.com/eisenkot-liberman-said-to-greenlight-outreach-to-haredim-reach-agreement-on-knesset-speaker/",
+   "t": "2026-11-09",
+   "impact": 4
+  },
+  {
+   "h": "Netanyahu reportedly urges Trump daily to resume Iran war",
+   "s": "The Financial Times reports Netanyahu calls Trump daily pushing for new strikes on Iran. Trump says no new offensive for now, citing progress in Qatar-mediated talks, while keeping the US naval blockade in place.",
+   "src": "The Times of Israel",
+   "u": "https://www.timesofisrael.com/us-said-to-move-military-aircraft-from-2nd-british-base-due-to-threat-from-iran/",
+   "t": "2026-11-10",
+   "impact": 4
+  },
+  {
+   "h": "Gaza aid deliveries stall as storms flood tents",
+   "s": "No aid trucks entered Gaza on Nov. 6-7, and Israel reportedly allows in only a fraction of the tents and mobile homes requested. Storms have flooded about 70,000 tents. Gaza's health ministry says 20 people were killed last week.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under",
+   "t": "2026-11-10",
+   "impact": 3
+  },
+  {
+   "h": "Israeli troops kill 14-year-old in West Bank raid",
+   "s": "Soldiers shot dead a 14-year-old in Burqa near Nablus and wounded two other teens. The IDF says troops fired at stone-throwers. ACLED says 2026 is on track to be the worst year for settler violence.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank",
+   "t": "2026-11-10",
+   "impact": 2
+  }
+ ],
+ "coming": []
+}

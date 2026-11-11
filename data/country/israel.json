@@ -1,45 +1,6 @@
-{
- "stories": [
-  {
-   "h": "26th Knesset sworn in; opposition picks Kahana for speaker",
-   "s": "Israel's new 120-seat parliament takes office Tuesday with no bloc holding a majority. Netanyahu's rivals agreed to back Yashar's Matan Kahana for speaker and give Avigdor Liberman the foreign affairs and defense committee.",
-   "src": "The National",
-   "u": "https://www.thenationalnews.com/news/mena/2026/11/10/netanyahu-rivals-strike-first-deal-as-israel-prepares-to-swear-in-parliament/",
-   "t": "2026-11-10",
-   "impact": 4
-  },
-  {
-   "h": "Eisenkot, Liberman agree to court ultra-Orthodox parties",
-   "s": "Eisenkot's bloc holds 48 seats, short of the 61 needed. After meeting Monday, he and Liberman reportedly approved outreach to Shas and UTJ, including a softened draft bill, and ruled out relying on Arab parties.",
-   "src": "The Times of Israel",
-   "u": "https://www.timesofisrael.com/eisenkot-liberman-said-to-greenlight-outreach-to-haredim-reach-agreement-on-knesset-speaker/",
-   "t": "2026-11-09",
-   "impact": 4
-  },
-  {
-   "h": "Netanyahu reportedly urges Trump daily to resume Iran war",
-   "s": "The Financial Times reports Netanyahu calls Trump daily pushing for new strikes on Iran. Trump says no new offensive for now, citing progress in Qatar-mediated talks, while keeping the US naval blockade in place.",
-   "src": "The Times of Israel",
-   "u": "https://www.timesofisrael.com/us-said-to-move-military-aircraft-from-2nd-british-base-due-to-threat-from-iran/",
-   "t": "2026-11-10",
-   "impact": 4
-  },
-  {
-   "h": "Gaza aid deliveries stall as storms flood tents",
-   "s": "No aid trucks entered Gaza on Nov. 6-7, and Israel reportedly allows in only a fraction of the tents and mobile homes requested. Storms have flooded about 70,000 tents. Gaza's health ministry says 20 people were killed last week.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under",
-   "t": "2026-11-10",
-   "impact": 3
-  },
-  {
-   "h": "Israeli troops kill 14-year-old in West Bank raid",
-   "s": "Soldiers shot dead a 14-year-old in Burqa near Nablus and wounded two other teens. The IDF says troops fired at stone-throwers. ACLED says 2026 is on track to be the worst year for settler violence.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank",
-   "t": "2026-11-10",
-   "impact": 2
-  }
- ],
- "coming": []
-}
+{"stories": [
+{"h": "Eisenkot warns caretaker Netanyahu against non-urgent military moves", "s": "In a letter, Eisenkot urged Netanyahu to hold off on major security decisions until a new government forms, amid reported Iran tensions with the IDF chief. He also asked the attorney general to secure briefings for him. The PMO called the letter irresponsible.", "src": "The Jerusalem Post", "u": "https://www.jpost.com/israel-election-2026/article-914622", "t": "2026-11-11", "impact": 4, "act": false},
+{"h": "Trump and Netanyahu reportedly clash in heated Iran call", "s": "Ynet reports a weekend phone call turned into a shouting match: Netanyahu pushed to restart strikes on Iran and Trump wanted more time for diplomacy. Netanyahu's office called the report fake news. Rubio said Washington isn't preparing new strikes.", "src": "NewsNation", "u": "https://www.americanewsnation.com/2026/11/11/trump-and-netanyahu-reportedly-clash-in-heated-call-over-whether-to-restart-iran-war/", "t": "2026-11-11", "impact": 4, "act": false},
+{"h": "Netanyahu blames Hamas for flooded Gaza camps", "s": "Netanyahu rejected claims that Israel is holding up winter supplies and blamed Hamas, which he said is diverting aid. The UN says more than 150,000 tents and flood pumps are waiting for Israeli approval. Israeli strikes in Gaza City killed three.", "src": "CP24 (AP)", "u": "https://www.cp24.com/news/world/2026/11/11/netanyahu-denies-israel-is-to-blame-for-conditions-in-gaza-camps-and-other-mideast-news/", "t": "2026-11-11", "impact": 3, "act": false},
+{"h": "Eisenkot cancels Likud talks after Netanyahu's Knesset speech", "s": "Netanyahu's call for a unity government at the new Knesset's opening drew heckling. Eisenkot called the speech divisive and disgraceful, and his Yashar party cancelled a planned meeting with Likud's negotiators.", "src": "JNS", "u": "https://www.jns.org/news/israel-news/tensions-flare-during-netanyahus-call-for-unity-in-address-to-newly-sworn-knesset", "t": "2026-11-11", "impact": 3, "act": false}
+], "coming": []}
