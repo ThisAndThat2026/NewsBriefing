@@ -1,11 +1,12 @@
 // News Brief — static client. Preferences live in localStorage + the URL hash only.
 (function () {
   'use strict';
-  const DEFAULT = { s: 'WA', c: ['King County', 'Snohomish County', 'Pierce County'], n: ['Israel'] };
+  const DEFAULT = { s: 'WA', c: ['King County', 'Snohomish County', 'Pierce County'], n: ['Israel'], t: [] };
+  const REQ_KEY = 'newsbrief.requests.v1';
   const KEY = 'newsbrief.prefs.v1';
-  const CAPS = { top: 5, counties: 5, state: 5, us: 6, world: 6, country: 5, tech: 6, talking: 5, coming: 2 };
+  const CAPS = { topic: 5, top: 5, counties: 5, state: 5, us: 6, world: 6, country: 5, tech: 6, talking: 5, coming: 2 };
   const $ = (id) => document.getElementById(id);
-  let PLACES = null, EDITION = null, prefs = null, draft = null;
+  let PLACES = null, TOPICS = [], EDITION = null, prefs = null, draft = null;
 
   // ---------- helpers ----------
   const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
@@ -23,17 +24,31 @@
   function fromHash() {
     const h = new URLSearchParams(location.hash.slice(1));
     if (!h.get('s')) return null;
-    return { s: h.get('s'), c: (h.get('c') || '').split('|').filter(Boolean), n: (h.get('n') || '').split('|').filter(Boolean) };
+    const list = (k) => (h.get(k) || '').split('|').filter(Boolean);
+    return { s: h.get('s'), c: list('c'), n: list('n'), t: list('t') };
   }
   function toHash(p) {
     const h = new URLSearchParams();
-    h.set('s', p.s); if (p.c.length) h.set('c', p.c.join('|')); if (p.n.length) h.set('n', p.n.join('|'));
+    h.set('s', p.s); if (p.c.length) h.set('c', p.c.join('|')); if (p.n.length) h.set('n', p.n.join('|')); if (p.t && p.t.length) h.set('t', p.t.join('|'));
     return '#' + h.toString();
   }
   function validate(p) {
     if (!p || !PLACES.states[p.s]) return null;
     const cs = PLACES.counties[p.s] || [];
-    return { s: p.s, c: p.c.filter((x) => cs.includes(x)).slice(0, 6), n: p.n.filter((x) => PLACES.countries.includes(x)).slice(0, 4) };
+    return { s: p.s, c: p.c.filter((x) => cs.includes(x)).slice(0, 6), n: (p.n || []).filter((x) => PLACES.countries.includes(x)).slice(0, 4), t: (p.t || []).filter((x) => TOPICS.includes(x)).slice(0, 5) };
+  }
+
+  // ---------- coverage requests: only the name of an uncovered place/topic is sent ----------
+  function requestCoverage(items) {
+    let done = {}; try { done = JSON.parse(localStorage.getItem(REQ_KEY)) || {}; } catch { /* ignore */ }
+    const now = Date.now();
+    items.forEach((it) => {
+      const key = [it.type, it.state || '', it.name || ''].join('|');
+      if (done[key] && now - done[key] < 864e5) return;
+      done[key] = now;
+      fetch('api/request', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(it), keepalive: true }).catch(() => {});
+    });
+    try { localStorage.setItem(REQ_KEY, JSON.stringify(done)); } catch { /* ignore */ }
   }
 
   // ---------- rendering ----------
@@ -91,7 +106,7 @@
     });
     document.title = `${dateStr} · News Brief`;
     const deck = el('p', 'deck'); main.appendChild(deck);
-    main.appendChild(el('p', 'for', 'For ' + [stName].concat(p.c.map((c) => c.replace(/ County$/, ''))).concat(p.n).join(' · ')));
+    main.appendChild(el('p', 'for', 'For ' + [stName].concat(p.c.map((c) => c.replace(/ County$/, ''))).concat(p.n, p.t).join(' · ')));
 
     // load shared + place files in parallel
     const shared = (await tryJSON('data/shared.json')) || {};
@@ -102,6 +117,15 @@
       Promise.all(p.c.map((c) => coveredCounties.includes(c) ? tryJSON(`data/county/${p.s}/${slug(c)}.json`) : null)),
       Promise.all(p.n.map((n) => (cov.countries || []).includes(n) ? tryJSON(`data/country/${slug(n)}.json`) : null))
     ]);
+    const topicData = await Promise.all(p.t.map((t) => (cov.topics || []).includes(t) ? tryJSON(`data/topic/${slug(t)}.json`) : null));
+
+    // ask for anything not covered yet; the next scheduled run adds it
+    const missing = [];
+    if (!stateCovered) missing.push({ type: 'state', state: p.s });
+    p.c.forEach((c) => { if (!coveredCounties.includes(c)) missing.push({ type: 'county', state: p.s, name: c }); });
+    p.n.forEach((n) => { if (!(cov.countries || []).includes(n)) missing.push({ type: 'country', name: n }); });
+    p.t.forEach((t) => { if (!(cov.topics || []).includes(t)) missing.push({ type: 'topic', name: t }); });
+    if (missing.length) requestCoverage(missing);
 
     // tag every story with its home section
     const tag = (arr, key, place) => (arr || []).map((s) => Object.assign({}, s, { _sec: key, place }));
@@ -111,6 +135,7 @@
       us: tag(shared.us, 'us'), world: tag(shared.world, 'world'), tech: tag(shared.tech, 'tech')
     };
     p.n.forEach((n, i) => (pools['country:' + n] = tag(countryData[i] && countryData[i].stories, 'country:' + n)));
+    p.t.forEach((t, i) => (pools['topic:' + t] = tag(topicData[i] && topicData[i].stories, 'topic:' + t)));
 
     // de-duplicate by URL across sections
     const seen = new Set();
@@ -133,15 +158,19 @@
     top.forEach((s, i) => { const label = s._sec === 'counties' ? s.place : null; topSec.appendChild(storyNode(Object.assign({}, s, { place: label }), i === 0)); });
     main.appendChild(topSec);
 
-    const notCovered = (what) => `Not covered yet. ${what} will be added if readers ask for it.`;
+    const notCovered = (what) => `Not covered yet. ${what} has been requested and will be added in the next refresh.`;
+    const uncoveredCounties = p.c.filter((c) => !coveredCounties.includes(c));
     const countyMsg = p.c.length === 0 ? 'No counties chosen. Tap “My places” to add some.'
-      : p.c.some((c) => !coveredCounties.includes(c)) && countyData.every((d) => !d) ? notCovered('Your counties') : 'No major updates.';
-    main.appendChild(section('Your counties', pools.counties, CAPS.counties, countyMsg));
+      : countyData.every((d) => !d) ? `Not covered yet. ${uncoveredCounties.length > 1 ? 'Your counties have' : uncoveredCounties[0] + ' has'} been requested and will be added in the next refresh.` : 'No major updates.';
+    const countySec = section('Your counties', pools.counties, CAPS.counties, countyMsg);
+    if (uncoveredCounties.length && countyData.some((d) => d)) countySec.appendChild(el('p', 'none', `Not covered yet: ${uncoveredCounties.join(', ')}. Requested; coming in the next refresh.`));
+    main.appendChild(countySec);
     main.appendChild(section(stName, pools.state, CAPS.state, stateCovered ? 'No major updates.' : notCovered(stName)));
     main.appendChild(section('U.S.', pools.us, CAPS.us));
     main.appendChild(section('World', pools.world, CAPS.world));
     p.n.forEach((n, i) => main.appendChild(section(n, pools['country:' + n], CAPS.country, countryData[i] ? 'No major updates.' : notCovered(n))));
     main.appendChild(section('Tech', pools.tech, CAPS.tech));
+    p.t.forEach((t, i) => main.appendChild(section(t, pools['topic:' + t], CAPS.topic, topicData[i] ? 'No major updates.' : notCovered(t))));
     const talking = [].concat(stateData && stateData.talking || [], shared.talking || []);
     main.appendChild(section('What people are talking about', talking, CAPS.talking));
 
@@ -176,6 +205,14 @@
     });
     chips();
   }
+  function fillTopics() {
+    const list = $('topicList'); list.textContent = '';
+    TOPICS.forEach((t) => {
+      const lab = el('label'); const cb = el('input'); cb.type = 'checkbox'; cb.checked = draft.t.includes(t);
+      cb.onchange = () => { if (cb.checked) { if (draft.t.length >= 5) { cb.checked = false; return toast('Up to 5 topics'); } draft.t.push(t); } else draft.t = draft.t.filter((x) => x !== t); };
+      lab.append(cb, document.createTextNode(t)); list.appendChild(lab);
+    });
+  }
   function chips() { const ch = $('countryChips'); ch.textContent = ''; draft.n.forEach((n) => ch.appendChild(el('span', 'chip', n))); }
   function openSheet() {
     draft = JSON.parse(JSON.stringify(prefs));
@@ -184,7 +221,7 @@
     sel.value = draft.s;
     sel.onchange = () => { draft.s = sel.value; draft.c = []; $('countyFilter').value = ''; fillCounties(); };
     $('countyFilter').value = ''; $('countryFilter').value = '';
-    fillCounties(); fillCountries();
+    fillCounties(); fillCountries(); fillTopics();
     $('sheet').classList.add('open');
   }
   function closeSheet() { $('sheet').classList.remove('open'); }
@@ -192,7 +229,8 @@
   // ---------- boot ----------
   async function boot() {
     try {
-      [PLACES, EDITION] = await Promise.all([getJSON('places.json'), getJSON('data/edition.json')]);
+      let tp; [PLACES, EDITION, tp] = await Promise.all([getJSON('places.json'), getJSON('data/edition.json'), tryJSON('topics.json')]);
+      TOPICS = (tp && tp.topics) || [];
     } catch (e) { $('meta').textContent = 'Could not load today’s briefing. Please try again shortly.'; return; }
     prefs = validate(fromHash()) || validate(store.get()) || DEFAULT;
     store.set(prefs);

@@ -27,9 +27,9 @@
   </footer>
 </div>
 
-<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="Choose your places">
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="Choose your places and topics">
   <div class="panel">
-    <strong style="font-size:18px">Choose your places</strong>
+    <strong style="font-size:18px">Choose your places &amp; topics</strong>
     <h3>State</h3>
     <select id="selState"></select>
     <h3>Counties <span id="countyCount" class="note"></span></h3>
@@ -39,7 +39,9 @@
     <input type="search" id="countryFilter" placeholder="Filter countries">
     <div class="list" id="countryList"></div>
     <div class="chips" id="countryChips"></div>
-    <p class="note">Your choices are saved only in this browser on this device. Nothing about you is sent to a server. Use “Share link” to open the same setup on another device.</p>
+    <h3>Topics you follow <span class="note">(up to 5)</span></h3>
+    <div class="list" id="topicList"></div>
+    <p class="note">Your choices are saved only in this browser on this device. If you pick a place or topic we don't cover yet, only its name is sent so it can be added. Nothing about you is sent. Use “Share link” to open the same setup on another device.</p>
     <div class="row">
       <button id="btnCancel">Cancel</button>
       <button id="btnSave" class="primary">Save</button>

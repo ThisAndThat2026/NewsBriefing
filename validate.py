@@ -61,6 +61,7 @@ slug = lambda x: re.sub(r"[^a-z0-9]+", "-", x.lower()).strip("-")
 for st, cs in cov.get("counties", {}).items():
     files += [f"county/{st}/{slug(c)}.json" for c in cs]
 files += [f"country/{slug(n)}.json" for n in cov.get("countries", [])]
+files += [f"topic/{slug(t)}.json" for t in cov.get("topics", [])]
 
 for f in files:
     path = os.path.join(D, f)
