@@ -1,5 +1,7 @@
 # News Brief
 
+Live site: https://mynewsbrief.vercel.app
+
 A free, phone-first daily news briefing for your state, counties and the countries you follow. Static site (no build step, no accounts). Preferences live only in the reader's browser and the share link.
 
 - `index.html`, `app.js`, `style.css`, `about.html`: the site
