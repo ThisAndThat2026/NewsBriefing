@@ -52,3 +52,5 @@ footer a{color:var(--muted)}
 .for{font-family:var(--sans);font-size:13px;color:var(--muted);margin:0 0 4px}
 .prose{font-size:17px}
 .prose h2{font-family:var(--sans);font-size:18px;margin-top:24px}
+.list.topics{max-height:none}
+[hidden]{display:none!important}

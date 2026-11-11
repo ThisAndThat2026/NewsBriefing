@@ -18,6 +18,7 @@
   </header>
   <div class="toolbar">
     <button id="btnPlaces">My places</button>
+    <button id="btnTopics">My interests</button>
     <button id="btnShare">Share link</button>
   </div>
   <main id="brief"></main>
@@ -27,9 +28,10 @@
   </footer>
 </div>
 
-<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="Choose your places and topics">
+<div class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="Choose what you follow">
   <div class="panel">
-    <strong style="font-size:18px">Choose your places &amp; topics</strong>
+    <strong style="font-size:18px" id="sheetTitle">Choose your places</strong>
+    <div id="placesPart">
     <h3>State</h3>
     <select id="selState"></select>
     <h3>Counties <span id="countyCount" class="note"></span></h3>
@@ -39,8 +41,11 @@
     <input type="search" id="countryFilter" placeholder="Filter countries">
     <div class="list" id="countryList"></div>
     <div class="chips" id="countryChips"></div>
-    <h3>Topics you follow <span class="note">(up to 5)</span></h3>
-    <div class="list" id="topicList"></div>
+    </div>
+    <div id="topicsPart">
+    <h3>Industries &amp; topics <span class="note">(up to 5)</span></h3>
+    <div class="list topics" id="topicList"></div>
+    </div>
     <p class="note">Your choices are saved only in this browser on this device. If you pick a place or topic we don't cover yet, only its name is sent so it can be added. Nothing about you is sent. Use “Share link” to open the same setup on another device.</p>
     <div class="row">
       <button id="btnCancel">Cancel</button>

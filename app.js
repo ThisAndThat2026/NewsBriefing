@@ -214,7 +214,10 @@
     });
   }
   function chips() { const ch = $('countryChips'); ch.textContent = ''; draft.n.forEach((n) => ch.appendChild(el('span', 'chip', n))); }
-  function openSheet() {
+  function openSheet(mode) {
+    const topics = mode === 'topics';
+    $('placesPart').hidden = topics; $('topicsPart').hidden = !topics;
+    $('sheetTitle').textContent = topics ? 'Choose your interests' : 'Choose your places';
     draft = JSON.parse(JSON.stringify(prefs));
     const sel = $('selState'); sel.textContent = '';
     Object.entries(PLACES.states).forEach(([k, v]) => { const o = el('option', null, v); o.value = k; sel.appendChild(o); });
@@ -235,7 +238,8 @@
     prefs = validate(fromHash()) || validate(store.get()) || DEFAULT;
     store.set(prefs);
     history.replaceState(null, '', toHash(prefs));
-    $('btnPlaces').onclick = openSheet;
+    $('btnPlaces').onclick = () => openSheet('places');
+    $('btnTopics').onclick = () => openSheet('topics');
     $('btnCancel').onclick = closeSheet;
     $('sheet').onclick = (e) => { if (e.target.id === 'sheet') closeSheet(); };
     $('countyFilter').oninput = fillCounties;
