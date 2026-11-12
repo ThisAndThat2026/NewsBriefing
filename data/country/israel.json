@@ -1,6 +1,15 @@
 {
  "stories": [
   {
+   "h": "Security cabinet reportedly orders preparations for Iran attack",
+   "s": "Israel's security cabinet told the military to step up readiness for a possible strike on Iran, public broadcaster KAN reported. Iran's Rezaei warned any base involved would be a target; no attack has occurred.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
+   "t": "2026-11-12",
+   "impact": 5,
+   "act": false
+  },
+  {
    "h": "Netanyahu grants Eisenkot security briefing after public standoff",
    "s": "Caretaker PM Netanyahu agreed to brief Eisenkot on diplomatic and security matters Thursday, after Eisenkot asked the attorney general to secure regular intelligence updates. Likud also stalled Liberman's appointment as defense committee chair until Monday.",
    "src": "Times of Israel",
@@ -34,15 +43,6 @@
    "u": "https://www.timesofisrael.com/denmark-european-countries-pushing-for-emergency-un-security-council-meeting-on-e1",
    "t": "2026-11-12",
    "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Israel recalls Netherlands envoy over Ben Gvir, Smotrich criticism",
-   "s": "Ambassador Zvi Aviner Vapni was summoned home for clarification after telling a Dutch paper the far-right ministers' remarks were unacceptable and that violent West Bank settlers should be jailed.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/liveblog_entry/israels-envoy-to-netherlands-summoned-home-after-slamming-ben-gvir-and-smotrich/",
-   "t": "2026-11-11",
-   "impact": 2,
    "act": false
   }
  ],

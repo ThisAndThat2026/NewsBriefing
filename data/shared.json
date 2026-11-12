@@ -1,6 +1,15 @@
 {
  "us": [
   {
+   "h": "Gym shooting near DC's Logan Circle leaves 1 dead",
+   "s": "A gunman opened fire at a gym near 15th and P streets NW, killing one person and wounding at least four, then barricaded himself in the building above, police said. Nearby schools were locked down.",
+   "src": "NBC Washington",
+   "u": "https://www.nbcwashington.com/news/local/logan-circle-dc-shooting-live-updates/4181644/",
+   "t": "2026-11-12",
+   "impact": 4,
+   "act": false
+  },
+  {
    "h": "Brooklyn building collapse kills at least 8",
    "s": "A three-story apartment building beside an excavation site collapsed Wednesday in Brooklyn. Mayor Mamdani says at least eight died and 17 were hurt; about 250 firefighters kept searching as heavy rain loomed.",
    "src": "WAMC (AP)",
