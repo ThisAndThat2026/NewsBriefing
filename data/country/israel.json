@@ -1,6 +1,65 @@
-{"stories": [
-{"h": "Eisenkot warns caretaker Netanyahu against non-urgent military moves", "s": "In a letter, Eisenkot urged Netanyahu to hold off on major security decisions until a new government forms, amid reported Iran tensions with the IDF chief. He also asked the attorney general to secure briefings for him. The PMO called the letter irresponsible.", "src": "The Jerusalem Post", "u": "https://www.jpost.com/israel-election-2026/article-914622", "t": "2026-11-11", "impact": 4, "act": false},
-{"h": "Trump and Netanyahu reportedly clash in heated Iran call", "s": "Ynet reports a weekend phone call turned into a shouting match: Netanyahu pushed to restart strikes on Iran and Trump wanted more time for diplomacy. Netanyahu's office called the report fake news. Rubio said Washington isn't preparing new strikes.", "src": "NewsNation", "u": "https://www.americanewsnation.com/2026/11/11/trump-and-netanyahu-reportedly-clash-in-heated-call-over-whether-to-restart-iran-war/", "t": "2026-11-11", "impact": 4, "act": false},
-{"h": "Netanyahu blames Hamas for flooded Gaza camps", "s": "Netanyahu rejected claims that Israel is holding up winter supplies and blamed Hamas, which he said is diverting aid. The UN says more than 150,000 tents and flood pumps are waiting for Israeli approval. Israeli strikes in Gaza City killed three.", "src": "CP24 (AP)", "u": "https://www.cp24.com/news/world/2026/11/11/netanyahu-denies-israel-is-to-blame-for-conditions-in-gaza-camps-and-other-mideast-news/", "t": "2026-11-11", "impact": 3, "act": false},
-{"h": "Eisenkot cancels Likud talks after Netanyahu's Knesset speech", "s": "Netanyahu's call for a unity government at the new Knesset's opening drew heckling. Eisenkot called the speech divisive and disgraceful, and his Yashar party cancelled a planned meeting with Likud's negotiators.", "src": "JNS", "u": "https://www.jns.org/news/israel-news/tensions-flare-during-netanyahus-call-for-unity-in-address-to-newly-sworn-knesset", "t": "2026-11-11", "impact": 3, "act": false}
-], "coming": []}
+{
+ "stories": [
+  {
+   "h": "Netanyahu grants Eisenkot security briefing after public standoff",
+   "s": "Caretaker PM Netanyahu agreed to brief Eisenkot on diplomatic and security matters Thursday, after Eisenkot asked the attorney general to secure regular intelligence updates. Likud also stalled Liberman's appointment as defense committee chair until Monday.",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/eisenkot-to-receive-security-briefing-after-accusing-netanyahu-of-refusing-to-grant-one",
+   "t": "2026-11-12",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Israeli strike on Gaza's Nasser Hospital targets Hamas commander",
+   "s": "An overnight strike on the Khan Younis hospital complex aimed at Hamas's local brigade commander killed at least six people, including a surgeon, Palestinian reports say. The IDF was still checking whether the commander died.",
+   "src": "Ynet News",
+   "u": "https://www.ynetnews.com/article/sktgf17azg",
+   "t": "2026-11-12",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Haredi leaders open door to talks with Eisenkot bloc",
+   "s": "A senior rabbi reportedly authorized ultra-Orthodox representatives to negotiate with Eisenkot's camp, though he doubts a deal. Yeshiva students' draft status is the sticking point as Haredi protesters clashed with police over arrests.",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/haredi-protesters-rage-against-draft-as-leaders-weigh-coalition-deal-with-eisenkot-bloc/",
+   "t": "2026-11-12",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Europeans seek emergency UN Security Council meeting on E1",
+   "s": "Denmark and other European states want the Council to meet next week on Israel's E1 settlement plan before a November 19 tender deadline. Israel says it is working with the US and Greece to block the session.",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/denmark-european-countries-pushing-for-emergency-un-security-council-meeting-on-e1",
+   "t": "2026-11-12",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Israel recalls Netherlands envoy over Ben Gvir, Smotrich criticism",
+   "s": "Ambassador Zvi Aviner Vapni was summoned home for clarification after telling a Dutch paper the far-right ministers' remarks were unacceptable and that violent West Bank settlers should be jailed.",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/liveblog_entry/israels-envoy-to-netherlands-summoned-home-after-slamming-ben-gvir-and-smotrich/",
+   "t": "2026-11-11",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Knesset vote on Liberman as defense committee chair",
+   "s": "Delayed by Likud, the vote installing Liberman as temporary Foreign Affairs and Defense Committee chair is expected Monday.",
+   "date": "2026-11-16",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/eisenkot-to-receive-security-briefing-after-accusing-netanyahu-of-refusing-to-grant-one"
+  },
+  {
+   "h": "E1 housing tender bid deadline",
+   "s": "The Israel Land Authority is due to open bids for 1,234 housing units in the contested E1 area east of Jerusalem.",
+   "date": "2026-11-19",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/denmark-european-countries-pushing-for-emergency-un-security-council-meeting-on-e1"
+  }
+ ]
+}

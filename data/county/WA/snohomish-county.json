@@ -1,72 +1,56 @@
 {
  "stories": [
   {
-   "h": "Port of Everett, Weyerhaeuser go to trial over cleanup costs",
-   "s": "A roughly four-week bench trial opened over who pays to clean up the old Mill A waterfront site. Ecology has pulled $87 million in grants, and Weyerhaeuser now argues the port should cover 80%.",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/10/trial-begins-over-cleanup-funding-for-everett-waterfront/",
+   "h": "Boeing to cut about 5% of commercial airplane workforce",
+   "s": "Boeing Commercial Airplanes plans to shed roughly 2,500 jobs through layoffs and attrition, with notices starting in December, after slowing its production ramp. Affected sites haven't been named, but Everett is a major assembly hub.",
+   "src": "Lynnwood Times",
+   "u": "https://lynnwoodtimes.com/2026/11/10/boeing-production-2/",
    "t": "2026-11-10",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Snohomish County Council passes $3.37B budget on 3-2 vote",
+   "s": "The 2027-28 budget passed with Republicans Sam Low and Nate Nehring opposed, citing higher property taxes and fees. Supporters noted the executive cut $22 million and 90 positions.",
+   "src": "Lynnwood Times",
+   "u": "https://lynnwoodtimes.com/2026/11/11/county-budget-5/",
+   "t": "2026-11-11",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Lynnwood raises property taxes to ease budget gap",
-   "s": "The council unanimously used its banked tax capacity, raising about $2.2 million a year. The average homeowner will pay roughly $128 more starting in 2027. Final budget approval is set for Nov. 23.",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/10/lynnwood-raises-property-taxes-ahead-of-2027-28-budget-approval/",
-   "t": "2026-11-10",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Everett voters ban officials from holding two elected offices",
-   "s": "About 93% backed barring Everett's mayor and council members from holding another elected post. A Snohomish County plan for nonpartisan county races was losing about 70-30.",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/10/everett-passes-measure-that-bars-the-mayor-and-city-council-members-from-holding-a-second-elected-position/",
-   "t": "2026-11-10",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Judge dismisses suit over Everett waterfront train death",
-   "s": "A federal judge ruled for Everett, the county, BNSF and Amtrak in the 2024 death of a woman struck while crossing tracks near Harborview Park. The judge found the city and county had no duty to protect her.",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/10/lawsuit-blaming-city-of-everett-county-for-train-death-dismissed/",
-   "t": "2026-11-10",
+   "h": "About 2,700 plants seized in unlicensed Monroe cannabis grow",
+   "s": "State cannabis investigators and the regional drug task force raided a property in unincorporated Monroe on Nov. 6. A 70-year-old man was arrested on felony charges and later released on bond.",
+   "src": "Lynnwood Times",
+   "u": "https://lynnwoodtimes.com/2026/11/11/cannabis-production/",
+   "t": "2026-11-11",
    "impact": 2,
    "act": false
   },
   {
-   "h": "Firefighters rescue woman from Monroe house fire",
-   "s": "Snohomish Regional Fire & Rescue pulled a woman from a smoke-filled home Tuesday night. Crews kept the garage fire from spreading, and no one was hurt. The fire marshal is investigating.",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/11/firefighters-rescue-woman-from-house-fire-in-monroe-on-tuesday-night/",
-   "t": "2026-11-11",
+   "h": "Rain, rising winds return Friday after mild Thursday",
+   "s": "Thursday stays mostly dry and mild in the low 60s, with winds picking up in the evening. Rain arrives Friday, and stronger winds are expected Saturday night into Sunday.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/weather/seattle-weather-mostly-cloudy-mild-thursday-rain-returns-friday",
+   "t": "2026-11-12",
    "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "212th St SW near Arlington closed through Thursday",
-   "s": "The road is fully closed between Sill and Knutson roads until 6 p.m. Nov. 12 for BNSF crossing work. Local and emergency traffic can use a gravel detour.",
-   "date": "2026-11-12",
-   "src": "Snohomish County",
-   "u": "https://www.snohomishcountywa.gov/1816/Roads-Update"
-  },
-  {
-   "h": "Queen Nation tribute at Everett's APEX",
-   "s": "The Queen tribute band plays APEX's Kings Hall at 8 p.m.",
+   "h": "Skate America comes to Everett's Angel of the Winds Arena",
+   "s": "The Grand Prix figure skating event opens Friday at 7 p.m. with men's and pairs short programs and runs through Sunday. Alysa Liu and Ilia Malinin are among the U.S. skaters.",
    "date": "2026-11-13",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/11/queen-nation-ragtime-steve-trevino-and-more/"
+   "src": "U.S. Figure Skating",
+   "u": "https://usfigureskating.org/news/2026/4/6/press-releases-us-figure-skating-announces-2026-skate-america-date-change-and-event-schedule.aspx"
   },
   {
-   "h": "'Ragtime' closes at Everett Performing Arts Center",
-   "s": "Sunday is the final day of the musical's run in Everett.",
-   "date": "2026-11-15",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/11/queen-nation-ragtime-steve-trevino-and-more/"
+   "h": "WSU plays Hawaii in Everett's first Division I men's game",
+   "s": "Washington State faces Hawaii at 7 p.m. at Angel of the Winds Arena, the venue's first Division I men's basketball game.",
+   "date": "2026-11-18",
+   "src": "My Everett News",
+   "u": "https://myeverettnews.com/2026/10/21/division-i-mens-basketball-in-everett-catch-wsu-vs-hawaii-nov-18th/"
   }
  ]
 }

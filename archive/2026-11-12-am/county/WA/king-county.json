@@ -1,0 +1,63 @@
+{
+ "stories": [
+  {
+   "h": "Boeing 737 MAX deliveries hit lowest month in a year",
+   "s": "Boeing delivered 32 MAX jets in October and will miss its 500-delivery goal for 2026. Its Renton wing shop is struggling to keep pace, pushing 47-a-month production to early 2027.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/boeings-737-max-deliveries-fall-lowest-monthly-total-since-november-2025/L7Z7MDBOING3PDP4X35HM7QSOU/",
+   "t": "2026-11-11",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "King County weighs more courthouse security after attacks",
+   "s": "More than 50 incidents this year, including a juror attacked nearby, were discussed at a council committee. Councilmember Balducci, who was grabbed outside the courthouse, wants the 4th Avenue entrance reopened.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/king-county-officials-push-increased-courthouse-security-after-rise-violent-incidents/WOKY7HGI7BHE5EEFODO6J5FF7Y/",
+   "t": "2026-11-11",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Suspect in Coast Guard officer's Skyway killing posts bail",
+   "s": "Isaiah Bolar, 18, charged with murder in the August shooting of Lt. Connor Overstreet, was released after posting $3 million bail. The victim's family says it is shocked by the bail system.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/news/suspect-us-coast-guard-murder-released-jail",
+   "t": "2026-11-10",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Man accused of cutting deputy skips court after bail",
+   "s": "Daniel McCullough, charged after a deputy was cut during an arrest in Shoreline, posted $25,000 bail and then missed his arraignment. A judge issued a warrant and raised bail to $150,000.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/man-accused-stabbing-king-county-deputy-posts-bail-state-weighs-new-release-rules/3WS4Z67I2RBK3NJS525KRCJ2SU/",
+   "t": "2026-11-11",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Garth Brooks plays four Climate Pledge Arena shows",
+   "s": "Shows run Thursday through Sunday. Saturday is sold out, and tickets for the other nights start at $155.",
+   "date": "2026-11-12",
+   "src": "Seattle Refined",
+   "u": "https://seattlerefined.com/lifestyle/seattle-events-things-to-do-november-2026-garth-brooks-tour-wildlanterns-holiday-lights-shopping-gobble-up-food-festival-dance-art-auto-show-ojak-bridge"
+  },
+  {
+   "h": "WildLanterns opens at Woodland Park Zoo",
+   "s": "The holiday lantern show runs 4 to 9 p.m. daily through Jan. 17. Adult tickets start at $35.",
+   "date": "2026-11-13",
+   "src": "Seattle Refined",
+   "u": "https://seattlerefined.com/lifestyle/seattle-events-things-to-do-november-2026-garth-brooks-tour-wildlanterns-holiday-lights-shopping-gobble-up-food-festival-dance-art-auto-show-ojak-bridge"
+  },
+  {
+   "h": "Seattle International Auto Show at Lumen Field",
+   "s": "The show runs Friday through Sunday at the Lumen Field Event Center. Single-day tickets are about $18 to $20.",
+   "date": "2026-11-13",
+   "src": "Seattle Refined",
+   "u": "https://seattlerefined.com/lifestyle/seattle-events-things-to-do-november-2026-garth-brooks-tour-wildlanterns-holiday-lights-shopping-gobble-up-food-festival-dance-art-auto-show-ojak-bridge"
+  }
+ ]
+}

@@ -1,37 +1,37 @@
 {
  "stories": [
   {
-   "h": "Boeing 737 MAX deliveries hit lowest month in a year",
-   "s": "Boeing delivered 32 MAX jets in October and will miss its 500-delivery goal for 2026. Its Renton wing shop is struggling to keep pace, pushing 47-a-month production to early 2027.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/boeings-737-max-deliveries-fall-lowest-monthly-total-since-november-2025/L7Z7MDBOING3PDP4X35HM7QSOU/",
-   "t": "2026-11-11",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "King County weighs more courthouse security after attacks",
-   "s": "More than 50 incidents this year, including a juror attacked nearby, were discussed at a council committee. Councilmember Balducci, who was grabbed outside the courthouse, wants the 4th Avenue entrance reopened.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/king-county-officials-push-increased-courthouse-security-after-rise-violent-incidents/WOKY7HGI7BHE5EEFODO6J5FF7Y/",
-   "t": "2026-11-11",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Suspect in Coast Guard officer's Skyway killing posts bail",
-   "s": "Isaiah Bolar, 18, charged with murder in the August shooting of Lt. Connor Overstreet, was released after posting $3 million bail. The victim's family says it is shocked by the bail system.",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/news/suspect-us-coast-guard-murder-released-jail",
+   "h": "Seattle mayor allows targeted police camera expansion",
+   "s": "Mayor Katie Wilson reactivated cameras in the Stadium District and approved new ones near Garfield High and Capitol Hill, adding a privacy work group. Critics question effectiveness and data sharing.",
+   "src": "KUOW",
+   "u": "https://www.kuow.org/governing/2026-11-10/seattle-mayor-greenlights-targeted-expansion-of-police-surveillance-cameras",
    "t": "2026-11-10",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Man accused of cutting deputy skips court after bail",
-   "s": "Daniel McCullough, charged after a deputy was cut during an arrest in Shoreline, posted $25,000 bail and then missed his arraignment. A judge issued a warrant and raised bail to $150,000.",
+   "h": "Influencer retracts EBT fraud claim against Lam's Seafood",
+   "s": "Nick Shirley issued a correction saying he found no evidence the Chinatown-International District market committed fraud, and pulled his viral videos. The store says it lost customers and is weighing legal action.",
+   "src": "Lynnwood Times",
+   "u": "https://lynnwoodtimes.com/2026/11/12/ebt-fraud/",
+   "t": "2026-11-12",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Bellevue man sues Kalshi over $308K in sports-bet losses",
+   "s": "Scott Bright seeks about $580,000 under Washington's gambling-loss law in federal court; Kalshi argues its federal registration makes its contracts legal and wants the case dismissed.",
+   "src": "KREM via Yahoo News",
+   "u": "https://www.yahoo.com/news/us/articles/washington-man-sues-kalshi-580k-154130657.html",
+   "t": "2026-11-11",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "King County weighs raising a Snoqualmie Valley road above floods",
+   "s": "The county wants feedback through Nov. 20 on elevating either Tolt Hill Road or NE 124th Street to keep SR 203 communities reachable during winter flooding.",
    "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/man-accused-stabbing-king-county-deputy-posts-bail-state-weighs-new-release-rules/3WS4Z67I2RBK3NJS525KRCJ2SU/",
+   "u": "https://www.kiro7.com/news/local/floodwaters-made-rescue-difficult-an-emergency-mom-calls-alternative-routes-snoqualmie/U2YF7C574NDARNB4VHULYAU6TQ/",
    "t": "2026-11-11",
    "impact": 2,
    "act": false
@@ -39,25 +39,25 @@
  ],
  "coming": [
   {
-   "h": "Garth Brooks plays four Climate Pledge Arena shows",
-   "s": "Shows run Thursday through Sunday. Saturday is sold out, and tickets for the other nights start at $155.",
-   "date": "2026-11-12",
-   "src": "Seattle Refined",
-   "u": "https://seattlerefined.com/lifestyle/seattle-events-things-to-do-november-2026-garth-brooks-tour-wildlanterns-holiday-lights-shopping-gobble-up-food-festival-dance-art-auto-show-ojak-bridge"
+   "h": "Westbound SR 520 closed Montlake to I-5 all weekend",
+   "s": "Full closure from 10 p.m. Friday to 5 a.m. Monday for expansion joint repairs; eastbound lanes and the floating bridge stay open.",
+   "date": "2026-11-13",
+   "src": "WSDOT",
+   "u": "https://content.govdelivery.com/accounts/WADOT/bulletins/430ff64"
   },
   {
-   "h": "WildLanterns opens at Woodland Park Zoo",
-   "s": "The holiday lantern show runs 4 to 9 p.m. daily through Jan. 17. Adult tickets start at $35.",
-   "date": "2026-11-13",
-   "src": "Seattle Refined",
-   "u": "https://seattlerefined.com/lifestyle/seattle-events-things-to-do-november-2026-garth-brooks-tour-wildlanterns-holiday-lights-shopping-gobble-up-food-festival-dance-art-auto-show-ojak-bridge"
+   "h": "2 Line trains replaced by buses across Lake Washington",
+   "s": "Saturday and Sunday, shuttles run about every 10 minutes between South Bellevue and International District/Chinatown for tunnel power work.",
+   "date": "2026-11-14",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/chokepoints/sound-transit-crosslake/4297721"
   },
   {
-   "h": "Seattle International Auto Show at Lumen Field",
-   "s": "The show runs Friday through Sunday at the Lumen Field Event Center. Single-day tickets are about $18 to $20.",
+   "h": "Garth Brooks plays Climate Pledge Arena",
+   "s": "The country star brings his arena tour to Seattle Friday and Saturday.",
    "date": "2026-11-13",
-   "src": "Seattle Refined",
-   "u": "https://seattlerefined.com/lifestyle/seattle-events-things-to-do-november-2026-garth-brooks-tour-wildlanterns-holiday-lights-shopping-gobble-up-food-festival-dance-art-auto-show-ojak-bridge"
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/garth-brooks-announces-seattle-tour-dates/RKQACK7EJFBVPLJLIZCQUBK44Q/"
   }
  ]
 }

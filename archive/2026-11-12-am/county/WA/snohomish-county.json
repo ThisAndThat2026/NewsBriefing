@@ -1,0 +1,72 @@
+{
+ "stories": [
+  {
+   "h": "Port of Everett, Weyerhaeuser go to trial over cleanup costs",
+   "s": "A roughly four-week bench trial opened over who pays to clean up the old Mill A waterfront site. Ecology has pulled $87 million in grants, and Weyerhaeuser now argues the port should cover 80%.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/10/trial-begins-over-cleanup-funding-for-everett-waterfront/",
+   "t": "2026-11-10",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Lynnwood raises property taxes to ease budget gap",
+   "s": "The council unanimously used its banked tax capacity, raising about $2.2 million a year. The average homeowner will pay roughly $128 more starting in 2027. Final budget approval is set for Nov. 23.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/10/lynnwood-raises-property-taxes-ahead-of-2027-28-budget-approval/",
+   "t": "2026-11-10",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Everett voters ban officials from holding two elected offices",
+   "s": "About 93% backed barring Everett's mayor and council members from holding another elected post. A Snohomish County plan for nonpartisan county races was losing about 70-30.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/10/everett-passes-measure-that-bars-the-mayor-and-city-council-members-from-holding-a-second-elected-position/",
+   "t": "2026-11-10",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Judge dismisses suit over Everett waterfront train death",
+   "s": "A federal judge ruled for Everett, the county, BNSF and Amtrak in the 2024 death of a woman struck while crossing tracks near Harborview Park. The judge found the city and county had no duty to protect her.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/10/lawsuit-blaming-city-of-everett-county-for-train-death-dismissed/",
+   "t": "2026-11-10",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Firefighters rescue woman from Monroe house fire",
+   "s": "Snohomish Regional Fire & Rescue pulled a woman from a smoke-filled home Tuesday night. Crews kept the garage fire from spreading, and no one was hurt. The fire marshal is investigating.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/11/firefighters-rescue-woman-from-house-fire-in-monroe-on-tuesday-night/",
+   "t": "2026-11-11",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "212th St SW near Arlington closed through Thursday",
+   "s": "The road is fully closed between Sill and Knutson roads until 6 p.m. Nov. 12 for BNSF crossing work. Local and emergency traffic can use a gravel detour.",
+   "date": "2026-11-12",
+   "src": "Snohomish County",
+   "u": "https://www.snohomishcountywa.gov/1816/Roads-Update"
+  },
+  {
+   "h": "Queen Nation tribute at Everett's APEX",
+   "s": "The Queen tribute band plays APEX's Kings Hall at 8 p.m.",
+   "date": "2026-11-13",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/11/queen-nation-ragtime-steve-trevino-and-more/"
+  },
+  {
+   "h": "'Ragtime' closes at Everett Performing Arts Center",
+   "s": "Sunday is the final day of the musical's run in Everett.",
+   "date": "2026-11-15",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/11/queen-nation-ragtime-steve-trevino-and-more/"
+  }
+ ]
+}

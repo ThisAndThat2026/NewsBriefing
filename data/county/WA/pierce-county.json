@@ -2,7 +2,7 @@
  "stories": [
   {
    "h": "SR 167 Expressway tolls start Dec. 14 in Fife",
-   "s": "Drivers between I-5 and SR 509 near the Port of Tacoma will pay $1 with a Good To Go pass, and at least $2 more without one. Trucks pay extra per axle.",
+   "s": "Starting at 5 a.m. Dec. 14, drivers between I-5 and SR 509 near the Port of Tacoma will pay $1 with a Good To Go pass and at least $2 more without one.",
    "src": "KIRO 7",
    "u": "https://www.kiro7.com/news/local/sr-167-expressway-start-tolling-december/62YOYY63OFH3XAAPXEEIC47GHQ/",
    "t": "2026-11-11",
@@ -11,7 +11,7 @@
   },
   {
    "h": "Pierce Transit moves to buy up to 60 buses",
-   "s": "With Proposition 1 appearing to pass, the board unanimously authorized the CEO to buy or refurbish up to 60 buses. He said manufacturing slots need to be secured early because of supply backlogs.",
+   "s": "With Proposition 1 appearing to pass, the board unanimously let the CEO buy or refurbish up to 60 buses. The goal is to lock in manufacturing slots early because of supply backlogs.",
    "src": "KIRO 7",
    "u": "https://www.kiro7.com/news/local/pierce-transit-is-launching-fleet-expansion/DVHPCFCUCFH5BM3V5TWHFP5KCY/",
    "t": "2026-11-11",
@@ -19,47 +19,36 @@
    "act": false
   },
   {
-   "h": "JBLM soldier gets 70 years for Gorge festival killings",
-   "s": "Spc. James Kelly pleaded guilty at a court-martial to killing two Seattle nurses at a 2023 Gorge Amphitheatre festival campground. He will serve his sentence at Fort Leavenworth.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/jblm-soldier-sentenced-70-years-gorge-amphitheatre-murders-assaults/FRKXSKXRLVA7BHOIL4QUXQ4HKI/",
-   "t": "2026-11-10",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Parkland resident holds intruder at gunpoint until deputies arrive",
-   "s": "A 40-year-old man pleaded not guilty after allegedly entering a Parkland home Sunday night. A judge set bail at $3,000 and ordered him to stay out of the neighborhood.",
+   "h": "Rain, rising winds return Friday after mild Thursday",
+   "s": "Thursday stays mostly dry and mild in the low 60s, with winds picking up in the evening. Rain arrives Friday, and stronger winds are expected Saturday night into Sunday.",
    "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/news/man-holds-home-invasion-suspect-gunpoint-parkland",
-   "t": "2026-11-09",
-   "impact": 2,
-   "act": false
-  },
-  {
-   "h": "New SR 507 roundabout opens near Spanaway",
-   "s": "A single-lane roundabout at SR 507 and 208th Street South is complete. Crews are finishing a second one at SR 702 and Harts Lake Road and expect to wrap up in November, weather permitting.",
-   "src": "WSDOT",
-   "u": "https://wsdot.wa.gov/about/news/2026/first-two-new-roundabouts-pierce-county-opens",
-   "t": "2026-11-09",
+   "u": "https://www.fox13seattle.com/weather/seattle-weather-mostly-cloudy-mild-thursday-rain-returns-friday",
+   "t": "2026-11-12",
    "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Live at the Eleanor: Trío Guadalevín in Tacoma",
-   "s": "Tacoma Arts Live presents the concert in the Tacoma Armory's Roosevelt Room.",
-   "date": "2026-11-12",
-   "src": "Tacoma Arts Live",
-   "u": "https://www.tacomaartslive.org/events/live-at-the-eleanor-trio-guadalevin/"
+   "h": "Overnight lane closures on eastbound Tacoma Narrows Bridge",
+   "s": "The right two eastbound lanes, the toll plaza, and the 24th and 36th street on-ramps close 8 p.m. Friday to 6 a.m. Saturday for joint cleaning. Drivers will be detoured.",
+   "date": "2026-11-13",
+   "src": "Gig Harbor Now",
+   "u": "https://www.gigharbornow.org/news/transportation/two-lanes-of-eastbound-narrows-bridge-to-close-overnight-friday/"
   },
   {
-   "h": "Arts at the Armory weekend in Tacoma",
-   "s": "Tacoma Arts Live's Arts at the Armory event runs Saturday and Sunday at the Tacoma Armory on Yakima Avenue.",
+   "h": "Arts at the Armory in Tacoma",
+   "s": "Tacoma Arts Live hosts the free, all-ages event from 11 a.m. to 5 p.m. at the Tacoma Armory on South Yakima Avenue.",
    "date": "2026-11-14",
-   "src": "Tacoma Arts Live",
-   "u": "https://www.tacomaartslive.org/events/arts-at-the-armory-2026/"
+   "src": "ParentMap",
+   "u": "https://www.parentmap.com/calendar/arts-armory/2026-11-14/"
+  },
+  {
+   "h": "Peninsula Art League fine art show opens in Gig Harbor",
+   "s": "The 24th annual show opens Saturday at the Vintage Aero Museum and runs daily 10 a.m. to 4 p.m. through Dec. 2. Admission is $10 for adults.",
+   "date": "2026-11-14",
+   "src": "Gig Harbor Now",
+   "u": "https://www.gigharbornow.org/news/arts-entertainment/gig-harbor-events-november-12-november-13-november-14-november-15-veterans-day/"
   }
  ]
 }
