@@ -86,12 +86,12 @@
  ],
  "tech": [
   {
-   "h": "Nvidia board reportedly preparing to oust CEO Jensen Huang",
-   "s": "Nvidia's board is reportedly moving to remove Huang after he admitted an affair with a woman US intelligence suspects of spying for China; a second affair was also reported. Shares fell over 8% after hours.",
-   "src": "CBS News",
-   "u": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
-   "t": "2026-11-11",
-   "impact": 4,
+   "h": "Jensen Huang resigns as Nvidia CEO; CFO Kress steps in",
+   "s": "Huang stepped down Thursday after reports of affairs, including one with a woman suspected of spying for China. CFO Colette Kress is interim CEO, and Nvidia named its first board chair. Shares slid about 10%.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo",
+   "t": "2026-11-12",
+   "impact": 5,
    "act": false
   },
   {
