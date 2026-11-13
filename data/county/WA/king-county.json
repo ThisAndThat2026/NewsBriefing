@@ -1,63 +1,74 @@
 {
  "stories": [
   {
-   "h": "Seattle mayor allows targeted police camera expansion",
-   "s": "Mayor Katie Wilson reactivated cameras in the Stadium District and approved new ones near Garfield High and Capitol Hill, adding a privacy work group. Critics question effectiveness and data sharing.",
+   "h": "Westbound SR 520 closes tonight, Montlake to I-5",
+   "s": "WSDOT fully closes westbound SR 520 between Montlake Boulevard and I-5 from 10 p.m. Friday until 5 a.m. Monday for Portage Bay construction. Plan detours via I-90.",
+   "src": "WSDOT",
+   "u": "https://content.govdelivery.com/accounts/WADOT/bulletins/430ff64",
+   "t": "2026-10-30",
+   "impact": 3,
+   "act": true
+  },
+  {
+   "h": "Rain, wind return; coastal flood advisory for Puget Sound",
+   "s": "A frontal system brings rain and breezy winds Friday, with a coastal flood advisory for parts of inland Puget Sound from high tides. Stronger atmospheric-river storms follow through the weekend.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/weather/seattle-weather-showers-breezy-winds-return-friday-continue-weekend",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": true
+  },
+  {
+   "h": "Council sustains Mayor Wilson's veto of RV permit rule",
+   "s": "Seattle's council voted 5-3 to uphold Wilson's first veto, killing a requirement that people living in RVs get permits or face towing. Rob Saka switched sides, citing a new mayoral executive order.",
    "src": "KUOW",
-   "u": "https://www.kuow.org/governing/2026-11-10/seattle-mayor-greenlights-targeted-expansion-of-police-surveillance-cameras",
-   "t": "2026-11-10",
+   "u": "https://www.kuow.org/governing/2026-11-12/seattle-city-council-upholds-mayors-first-veto-on-rv-homelessness",
+   "t": "2026-11-12",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Influencer retracts EBT fraud claim against Lam's Seafood",
-   "s": "Nick Shirley issued a correction saying he found no evidence the Chinatown-International District market committed fraud, and pulled his viral videos. The store says it lost customers and is weighing legal action.",
-   "src": "Lynnwood Times",
-   "u": "https://lynnwoodtimes.com/2026/11/12/ebt-fraud/",
+   "h": "Sound Transit cages I-90 wires blamed for fish deaths",
+   "s": "Divers installed 13 mesh cages around anode strings on the I-90 floating bridge, suspected of electrocuting salmon near the 2 Line crossing. If they work, all 136 will be covered.",
+   "src": "KUOW",
+   "u": "https://www.kuow.org/governing/2026-11-12/sound-transit-installs-mesh-cages-to-stop-fish-deaths-under-i-90-light-rail",
    "t": "2026-11-12",
    "impact": 2,
    "act": false
   },
   {
-   "h": "Bellevue man sues Kalshi over $308K in sports-bet losses",
-   "s": "Scott Bright seeks about $580,000 under Washington's gambling-loss law in federal court; Kalshi argues its federal registration makes its contracts legal and wants the case dismissed.",
-   "src": "KREM via Yahoo News",
-   "u": "https://www.yahoo.com/news/us/articles/washington-man-sues-kalshi-580k-154130657.html",
-   "t": "2026-11-11",
+   "h": "Free Seattle/King County Clinic to end after 2027",
+   "s": "The volunteer-run pop-up clinic at Seattle Center, which has served over 36,000 patients since 2014, will hold its final event April 29 to May 2, 2027, citing rising costs and fading donations.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/local/seattle-king-clinic-close-may/4298879",
+   "t": "2026-11-12",
    "impact": 2,
    "act": false
   },
   {
-   "h": "King County weighs raising a Snoqualmie Valley road above floods",
-   "s": "The county wants feedback through Nov. 20 on elevating either Tolt Hill Road or NE 124th Street to keep SR 203 communities reachable during winter flooding.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/floodwaters-made-rescue-difficult-an-emergency-mom-calls-alternative-routes-snoqualmie/U2YF7C574NDARNB4VHULYAU6TQ/",
-   "t": "2026-11-11",
+   "h": "Prosecutors launch public felony court-appearance dashboard",
+   "s": "The King County Prosecuting Attorney's Office released a searchable dashboard listing upcoming felony first appearances, charges, arresting agencies and bail amounts. Judges' names are omitted due to threats.",
+   "src": "Bothell-Kenmore Reporter",
+   "u": "https://www.bothell-reporter.com/2026/11/12/new-king-county-dashboard-tracks-felony-appearances/",
+   "t": "2026-11-12",
    "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Westbound SR 520 closed Montlake to I-5 all weekend",
-   "s": "Full closure from 10 p.m. Friday to 5 a.m. Monday for expansion joint repairs; eastbound lanes and the floating bridge stay open.",
-   "date": "2026-11-13",
-   "src": "WSDOT",
-   "u": "https://content.govdelivery.com/accounts/WADOT/bulletins/430ff64"
+   "h": "2 Line trains replaced by buses across Lake Washington",
+   "s": "All day Saturday and Sunday, shuttle buses every 10 minutes replace 2 Line trains between International District/Chinatown and South Bellevue for Mercer Island tunnel power work.",
+   "date": "2026-11-14",
+   "src": "Sound Transit",
+   "u": "https://www.soundtransit.org/get-to-know-us/news-events/news-releases/crosslake-connection-will-be-closed-nov-14-15"
   },
   {
-   "h": "2 Line trains replaced by buses across Lake Washington",
-   "s": "Saturday and Sunday, shuttles run about every 10 minutes between South Bellevue and International District/Chinatown for tunnel power work.",
+   "h": "Stronger storm Saturday night into Sunday",
+   "s": "A stronger system brings heavy rain and gusty winds Saturday night into Sunday. Major river flooding is not expected, but saturated soils raise landslide risk and leaves may clog drains.",
    "date": "2026-11-14",
    "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/chokepoints/sound-transit-crosslake/4297721"
-  },
-  {
-   "h": "Garth Brooks plays Climate Pledge Arena",
-   "s": "The country star brings his arena tour to Seattle Friday and Saturday.",
-   "date": "2026-11-13",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/garth-brooks-announces-seattle-tour-dates/RKQACK7EJFBVPLJLIZCQUBK44Q/"
+   "u": "https://mynorthwest.com/pacific-northwest-weather/atmospheric-river-12/4298471"
   }
  ]
 }

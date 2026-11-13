@@ -1,65 +1,63 @@
 {
  "stories": [
   {
-   "h": "Security cabinet reportedly orders preparations for Iran attack",
-   "s": "Israel's security cabinet told the military to step up readiness for a possible strike on Iran, public broadcaster KAN reported. Iran's Rezaei warned any base involved would be a target; no attack has occurred.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/12/iran-warns-of-expanded-retaliation-as-israel-reportedly-readies-to-attack",
-   "t": "2026-11-12",
-   "impact": 5,
-   "act": false
-  },
-  {
-   "h": "Netanyahu grants Eisenkot security briefing after public standoff",
-   "s": "Caretaker PM Netanyahu agreed to brief Eisenkot on diplomatic and security matters Thursday, after Eisenkot asked the attorney general to secure regular intelligence updates. Likud also stalled Liberman's appointment as defense committee chair until Monday.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/eisenkot-to-receive-security-briefing-after-accusing-netanyahu-of-refusing-to-grant-one",
-   "t": "2026-11-12",
+   "h": "Mossad chief in Washington pressing to resume Iran war",
+   "s": "Mossad director Roman Gofman met CIA chief Ratcliffe and was due to see envoy Witkoff, reportedly sent by Netanyahu to urge renewed strikes on Iran. Israeli defense officials reportedly see no urgent need.",
+   "src": "Ynetnews",
+   "u": "https://www.ynetnews.com/article/rj4sq9nrmx",
+   "t": "2026-11-13",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Israeli strike on Gaza's Nasser Hospital targets Hamas commander",
-   "s": "An overnight strike on the Khan Younis hospital complex aimed at Hamas's local brigade commander killed at least six people, including a surgeon, Palestinian reports say. The IDF was still checking whether the commander died.",
-   "src": "Ynet News",
-   "u": "https://www.ynetnews.com/article/sktgf17azg",
-   "t": "2026-11-12",
+   "h": "53 nations, groups demand Israel let winter aid into Gaza",
+   "s": "Led by the UK, Qatar and Jordan, signatories urged immediate entry of shelter, fuel and health supplies as floods swamp tents. Israel says over 93,000 tents have entered and blames Hamas.",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/dozens-of-nations-organizations-demand-israel-let-more-winter-supplies-into-gaza/",
+   "t": "2026-11-13",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Haredi leaders open door to talks with Eisenkot bloc",
-   "s": "A senior rabbi reportedly authorized ultra-Orthodox representatives to negotiate with Eisenkot's camp, though he doubts a deal. Yeshiva students' draft status is the sticking point as Haredi protesters clashed with police over arrests.",
+   "h": "UTJ rabbis demand written draft-exemption pledge from Eisenkot bloc",
+   "s": "Agudat Yisrael advisers reportedly want all 48 bloc MKs to sign onto a blanket yeshiva exemption with a court override, far beyond what bloc parties accept, complicating Eisenkot's path to 61.",
    "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/haredi-protesters-rage-against-draft-as-leaders-weigh-coalition-deal-with-eisenkot-bloc/",
-   "t": "2026-11-12",
+   "u": "https://www.timesofisrael.com/report-utj-rabbis-urge-signed-commitments-on-draft-evasion-law-from-entire-eisenkot-bloc/",
+   "t": "2026-11-13",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Europeans seek emergency UN Security Council meeting on E1",
-   "s": "Denmark and other European states want the Council to meet next week on Israel's E1 settlement plan before a November 19 tender deadline. Israel says it is working with the US and Greece to block the session.",
+   "h": "Police post snipers on Rahat rooftops amid clan gunfire",
+   "s": "Israel Police stationed snipers in the Bedouin city to 'neutralize' gunmen after a month of feuding among six families that the mayor says has killed two young people.",
    "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/denmark-european-countries-pushing-for-emergency-un-security-council-meeting-on-e1",
-   "t": "2026-11-12",
-   "impact": 3,
+   "u": "https://www.timesofisrael.com/liveblog_entry/police-station-snipers-on-bedouin-city-rooftops-to-root-out-gunmen-say-those-opening-fire-to-be-neutralized/",
+   "t": "2026-11-13",
+   "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Knesset vote on Liberman as defense committee chair",
-   "s": "Delayed by Likud, the vote installing Liberman as temporary Foreign Affairs and Defense Committee chair is expected Monday.",
-   "date": "2026-11-16",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/eisenkot-to-receive-security-briefing-after-accusing-netanyahu-of-refusing-to-grant-one"
+   "h": "Security cabinet meets amid Iran strike fears",
+   "s": "Netanyahu's security cabinet is set to convene Sunday for the first time since October 5, as Eisenkot warns the caretaker government against launching an Iran operation.",
+   "date": "2026-11-15",
+   "src": "Jerusalem Post",
+   "u": "https://www.jpost.com/israel-election-2026/article-914671"
   },
   {
-   "h": "E1 housing tender bid deadline",
-   "s": "The Israel Land Authority is due to open bids for 1,234 housing units in the contested E1 area east of Jerusalem.",
+   "h": "Knesset vote expected on Liberman as defense committee chair",
+   "s": "Likud blocked the vote, delaying it to Monday; until then Liberman cannot access classified briefings as chair.",
+   "date": "2026-11-16",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/liveblog_entry/likud-blocked-vote-to-install-liberman-as-defense-committee-chair-delaying-security-oversight-until-monday-report/"
+  },
+  {
+   "h": "E1 settlement tender bids due to be opened",
+   "s": "The Israel Land Authority set November 19 to open bids for E1 housing, as Denmark and other Europeans push for an emergency UN Security Council meeting.",
    "date": "2026-11-19",
    "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/denmark-european-countries-pushing-for-emergency-un-security-council-meeting-on-e1"
+   "u": "https://www.timesofisrael.com/denmark-european-countries-pushing-for-emergency-un-security-council-meeting-on-e1/"
   }
  ]
 }

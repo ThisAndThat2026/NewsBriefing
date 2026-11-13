@@ -1,0 +1,166 @@
+{
+ "us": [
+  {
+   "h": "Gym shooting near DC's Logan Circle leaves 1 dead",
+   "s": "A gunman opened fire at a gym near 15th and P streets NW, killing one person and wounding at least four, then barricaded himself in the building above, police said. Nearby schools were locked down.",
+   "src": "NBC Washington",
+   "u": "https://www.nbcwashington.com/news/local/logan-circle-dc-shooting-live-updates/4181644/",
+   "t": "2026-11-12",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Brooklyn building collapse kills at least 8",
+   "s": "A three-story apartment building beside an excavation site collapsed Wednesday in Brooklyn. Mayor Mamdani says at least eight died and 17 were hurt; about 250 firefighters kept searching as heavy rain loomed.",
+   "src": "WAMC (AP)",
+   "u": "https://www.wamc.org/news/2026-11-12/death-toll-rises-to-8-in-brooklyn-building-collapse-as-rescuers-dig-through-rubble",
+   "t": "2026-11-12",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Colom wins Mississippi Senate seat; Hyde-Smith concedes",
+   "s": "AP called the race for Democrat Scott Colom after late ballot counting, and Sen. Cindy Hyde-Smith conceded by video. Colom becomes Mississippi's first Black U.S. senator since Reconstruction, adding to Democrats' incoming majority.",
+   "src": "MPB (AP)",
+   "u": "https://www.mpbonline.org/blogs/news/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/",
+   "t": "2026-11-12",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Second Epstein files bill gets 218 signatures for vote",
+   "s": "Rep. Thomas Massie's discharge petition hit 218 signatures, backed by all Democrats and four lame-duck Republicans. The bill would let victims and others sue over withheld Epstein records; a vote could come in early December.",
+   "src": "WEIS Radio (ABC Audio)",
+   "u": "https://weisradio.com/2026/11/11/discharge-petition-on-2nd-epstein-files-bill-secures-218-signatures-teeing-up-floor-action/",
+   "t": "2026-11-11",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "world": [
+  {
+   "h": "US envoys meet Putin after Abu Dhabi talks stall",
+   "s": "Witkoff and Kushner arrived in Moscow Thursday for talks with Putin on ending the Ukraine war, after three-way Abu Dhabi talks yielded a prisoner swap but no breakthrough. Russia says trust isn't yet restored.",
+   "src": "The Jerusalem Post (Reuters)",
+   "u": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-914670",
+   "t": "2026-11-12",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Vance weighs direct talks with Iran's Rezaei to end war",
+   "s": "Trump has empowered Vance to lead Iran diplomacy, and he is considering a face-to-face meeting with hardline security chief Mohsen Rezaei, possibly in Doha. Talks are preliminary; Iran demands the US blockade be lifted first.",
+   "src": "Investing.com",
+   "u": "https://www.investing.com/news/economy-news/jd-vance-takes-lead-on-iran-talks-considers-direct-meeting-with-iranian-official-5019765",
+   "t": "2026-11-11",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "G7 says China's moves east of Taiwan threaten stability",
+   "s": "In their strongest joint statement yet, G7 foreign ministers said China's growing coast guard and naval activity east of Taiwan endangers shipping and regional security. Beijing rejected it as interference.",
+   "src": "AOL (Reuters)",
+   "u": "https://www.aol.com/articles/g7-foreign-ministers-chinas-actions-021733000.html",
+   "t": "2026-11-12",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Indonesia's vice president resigns over diploma scandal",
+   "s": "Gibran Rakabuming Raka, son of ex-president Jokowi, quit hours before lawmakers were to take up an impeachment petition, after courts questioned his required high school credentials. President Prabowo accepted the resignation.",
+   "src": "ABC News (Australia)",
+   "u": "https://www.abc.net.au/news/2026-11-12/indonesia-vice-president-gibran-rakabuming-raka-resigns/107370802",
+   "t": "2026-11-12",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Russia's ambassador to the US dies suddenly at 66",
+   "s": "Russia's Foreign Ministry said Alexander Darchiev, Moscow's envoy in Washington since March 2025, died suddenly Wednesday. No cause was given.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/11/russias-ambassador-to-the-us-alexander-darchiev-dies-at-66",
+   "t": "2026-11-11",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "tech": [
+  {
+   "h": "Jensen Huang resigns as Nvidia CEO; CFO Kress steps in",
+   "s": "Huang stepped down Thursday after reports of affairs, including one with a woman suspected of spying for China. CFO Colette Kress is interim CEO, and Nvidia named its first board chair. Shares slid about 10%.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo",
+   "t": "2026-11-12",
+   "impact": 5,
+   "act": false
+  },
+  {
+   "h": "EU proposes Digital Fairness Act targeting dark patterns",
+   "s": "The European Commission's proposal would ban manipulative sales tactics, let users switch off infinite scroll and autoplay, ease subscription cancellations and limit loot boxes for kids, with fines up to 6% of global revenue.",
+   "src": "Euronews",
+   "u": "https://www.euronews.com/2026/11/11/eu-targets-subscription-traps-addictive-design-and-hidden-fees-with-new-digital-rules",
+   "t": "2026-11-11",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "United Airlines bans AI agents from booking tickets",
+   "s": "United changed its contract of carriage to bar AI agents from buying or changing tickets, citing data-privacy and unintended-purchase risks. Delta and American are not following, for now.",
+   "src": "Fast Company",
+   "u": "https://www.fastcompany.com/91640548/united-airlines-just-made-a-big-change-to-flight-bookings-heres-why-delta-and-american-arent-following",
+   "t": "2026-11-11",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "talking": [
+  {
+   "h": "Tomb sentinel scolds Hegseth's group on Veterans Day",
+   "s": "A video spread widely of an Army sentinel at Arlington's Tomb of the Unknown Soldier demanding silence after Hegseth's entourage laughed while posing for photos. The Pentagon said the soldier acted correctly.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier",
+   "t": "2026-11-12",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Influential judge Richard Posner dies at 87",
+   "s": "Posner, a 36-year judge on the 7th Circuit and a founder of the law-and-economics movement, has died, the University of Chicago Law School announced. He wrote thousands of opinions and dozens of books.",
+   "src": "ABC7 Chicago",
+   "u": "https://abc7chicago.com/post/richard-posner-death-former-federal-appellate-judge-dies-87-university-chicago-law-school-says/20034805/",
+   "t": "2026-11-12",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "October wholesale inflation (PPI) report",
+   "s": "The Labor Department releases the October Producer Price Index at 8:30 a.m. ET.",
+   "date": "2026-11-13",
+   "src": "FedRateCalc",
+   "u": "https://fedratecalc.com/us-economic-calendar/"
+  },
+  {
+   "h": "October retail sales and Nvidia earnings",
+   "s": "Census releases October retail sales at 8:30 a.m. ET; Nvidia hosts its quarterly earnings call at 2 p.m. PT amid the board turmoil over CEO Jensen Huang.",
+   "date": "2026-11-17",
+   "src": "NVIDIA",
+   "u": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
+  },
+  {
+   "h": "Fed releases October meeting minutes",
+   "s": "Minutes of the Fed's Oct. 27–28 policy meeting come out at 2 p.m. ET, offering clues on the rate path.",
+   "date": "2026-11-18",
+   "src": "FedRateCalc",
+   "u": "https://fedratecalc.com/us-economic-calendar/"
+  },
+  {
+   "h": "Alaska ranked-choice tabulation in Senate race",
+   "s": "Alaska officials target Nov. 18 for ranked-choice tabulation, which could settle the uncalled Peltola–Sullivan Senate contest.",
+   "date": "2026-11-18",
+   "src": "Alaska's News Source",
+   "u": "https://www.alaskasnewssource.com/2026/11/05/alaskans-wait-more-votes-us-senate-governors-races-both-could-go-ranked-tabulations/"
+  }
+ ]
+}

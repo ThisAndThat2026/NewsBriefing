@@ -1,67 +1,76 @@
 {
  "stories": [
   {
-   "h": "Wet, windy weekend ahead; flood watch for Mason County",
-   "s": "After a mild Thursday, rain and stronger winds return Friday, with beach gusts topping 50 mph. A flood watch covers Mason County from early Friday to early Sunday, with the Skokomish River at risk.",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/weather/seattle-weather-mostly-cloudy-mild-thursday-rain-returns-friday",
-   "t": "2026-11-12",
-   "impact": 3,
-   "act": true
-  },
-  {
-   "h": "San Juan County declares emergency over Orcas ferry dock",
-   "s": "Cracked steel beams at the Orcas Island ferry terminal limit loading to vehicles 22 feet or shorter. Repairs could take up to two weeks, and the county is asking the state for help.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/local/orcas-island-ferry-terminal-damage/4298366",
-   "t": "2026-11-11",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Mill Creek bridge closes this weekend for emergency repairs",
-   "s": "164th Street SE over North Creek near SR 527 closes both ways from 9 p.m. Friday to 4 a.m. Monday after a support column failed. Expect detours via North Road and 10 to 15 minute delays.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/chokepoints/mill-creek-busy-corridor/4298290",
-   "t": "2026-11-12",
-   "impact": 2,
-   "act": true
-  },
-  {
-   "h": "Leaders gather near Cle Elum to plan for next fire season",
-   "s": "Officials and industry leaders met in Kittitas County to plan after a devastating fire year, discussing home hardening, burying power lines and fuel-reduction crews.",
+   "h": "Coastal flooding, wind and atmospheric rivers hit western WA",
+   "s": "King tides plus a strong storm bring Friday coastal flood alerts from Whatcom to Hood Canal (warning in San Juan County), coast gusts to 50 mph, and a Skokomish River flood watch. Heavier rain and wind arrive Saturday night.",
    "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/washington-leaders-meet-wildfire-resiliency-summit/GAVCSEZ74ZELLLP7PZBE6KP5AU/",
-   "t": "2026-11-11",
+   "u": "https://www.kiro7.com/news/local/puget-sound-faces-coastal-flooding-high-tides-through-saturday/QMM6637AIZETLC2RHQPNIU3MTI/",
+   "t": "2026-11-13",
+   "impact": 4,
+   "act": true
+  },
+  {
+   "h": "Orcas Island turns to barges as ferry dock limits trucks",
+   "s": "With trucks over 22 feet barred from the cracked Orcas ferry ramp for up to two weeks, private barges carry just three or four trucks a day; garbage is piling up and the county seeks state aid.",
+   "src": "KUOW",
+   "u": "https://www.kuow.org/governing/2026-11-12/stalled-groceries-stopped-garbage-orcas-island-deals-with-truck-shutdown-on-ferries",
+   "t": "2026-11-12",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Republicans fall to superminority in state House",
+   "s": "After losing at least nine seats, Republicans will hold just 29 of 98 House seats. State GOP chair Jim Walsh plans to seek another term despite a challenge and criticism from Gov. Ferguson.",
+   "src": "Washington State Standard",
+   "u": "https://washingtonstatestandard.com/2026/11/13/midterm-losses-push-republicans-into-superminority-in-the-wa-house/",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Democrat edges ahead in 25th District House race",
+   "s": "Democrat Jenn Marie Strickling took a narrow lead over GOP Rep. Cyndy Jacobsen in the 25th District, a race likely headed for a recount that could give Democrats up to 10 new House seats.",
+   "src": "Washington State Standard",
+   "u": "https://washingtonstatestandard.com/2026/11/12/democrat-pulls-ahead-in-tight-washington-house-race/",
+   "t": "2026-11-12",
    "impact": 2,
    "act": false
+  },
+  {
+   "h": "Ocean Shores under boil-water advisory after main break",
+   "s": "A contractor damaged a south-end water main in Ocean Shores, already under an erosion emergency. Residents south of Marine Drive should boil water; bottled water is at 165 Ocean Lake Way.",
+   "src": "KOMO",
+   "u": "https://komonews.com/newsletter-daily/ocean-shores-issues-boil-water-advisory-after-contractor-damages-south-end-bottled-water-ocean-shores-erosion-global-warming-high-school",
+   "t": "2026-11-12",
+   "impact": 2,
+   "act": true
   }
  ],
  "talking": [
   {
-   "h": "Kraken face Hurricanes in Helsinki this morning",
-   "s": "Puck drops at 9 a.m. Pacific in Seattle's first overseas game, against the league-leading Hurricanes. Four Finnish Kraken players get a homecoming.",
-   "src": "The Spokesman-Review",
-   "u": "https://www.spokesman.com/stories/2026/nov/11/krakens-finnish-players-embracing-chance-to-go-hom/",
-   "t": "2026-11-11",
+   "h": "Kraken drop Helsinki opener to Hurricanes, 4-1",
+   "s": "Finnish star Sebastian Aho scored twice as Carolina beat Seattle in the Kraken's first regular-season game outside North America. Freddy Gaudreau scored Seattle's lone goal.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/sports/kraken-fall-4-1-hurricanes-finland",
+   "t": "2026-11-12",
    "impact": 2,
    "act": false
   },
   {
-   "h": "Seahawks' defense draws rookie Mendoza's first start",
-   "s": "Las Vegas hands No. 1 pick Fernando Mendoza his first career start Sunday against Seattle, which again turns to Drew Lock with Sam Darnold out.",
-   "src": "NBC Sports",
-   "u": "https://www.nbcsports.com/nfl/news/seahawks-vs-raiders-prediction-odds-expert-picks-qb-matchup-injury-update-betting-trends-and-stats",
-   "t": "2026-11-11",
+   "h": "Mariners' Ian Happ buzz cools within a day",
+   "s": "Reports linking free agent Ian Happ to Seattle's left-field hole quickly met local skepticism, with sources calling him an unlikely fit; Seiya Suzuki is floated as a likelier target.",
+   "src": "Yahoo Sports (Mariners On SI)",
+   "u": "https://sports.yahoo.com/articles/mariners-24-hour-whiplash-over-031500408.html",
+   "t": "2026-11-13",
    "impact": 2,
    "act": false
   },
   {
-   "h": "Mariners reportedly eye free-agent outfielder Ian Happ",
-   "s": "MLB Network's Jon Morosi reports Seattle is interested in Happ, the former Cubs Gold Glove left fielder, as a cheaper outfield option.",
-   "src": "NBC Sports",
-   "u": "https://www.nbcsports.com/fantasy/baseball/player-news/2026-11-11/report-mariners-show-interest-in-ian-happ",
-   "t": "2026-11-11",
+   "h": "Rep. Strickland apologizes for missing Hegseth impeachment vote",
+   "s": "U.S. Rep. Marilyn Strickland said she arrived a minute late to the 211-204 House vote that sent articles of impeachment against Defense Secretary Pete Hegseth to committee, effectively stalling them.",
+   "src": "Washington State Standard",
+   "u": "https://washingtonstatestandard.com/2026/11/12/wa-congresswoman-sorry-for-missing-hegseth-impeachment-vote/",
+   "t": "2026-11-12",
    "impact": 2,
    "act": false
   }
@@ -69,24 +78,31 @@
  "coming": [
   {
    "h": "Kraken vs. Hurricanes, Game 2 in Helsinki",
-   "s": "Second of two Global Series games in Finland; Carolina is the designated home team.",
+   "s": "Seattle closes the NHL Global Series at 10 a.m. PT on KING 5/KONG and Prime Video.",
    "date": "2026-11-14",
-   "src": "The Spokesman-Review",
-   "u": "https://www.spokesman.com/stories/2026/nov/11/krakens-finnish-players-embracing-chance-to-go-hom/"
+   "src": "NHL.com",
+   "u": "https://www.nhl.com/kraken/info/global-series"
+  },
+  {
+   "h": "Huskies at Michigan State",
+   "s": "UW visits Spartan Stadium at 1:15 p.m. PT on BTN.",
+   "date": "2026-11-14",
+   "src": "FOX Sports",
+   "u": "https://www.fox.com/sports/football/college-football/watch-washington-huskies-vs-michigan-state-spartans-nov-14-2026"
   },
   {
    "h": "Seahawks at Raiders in Las Vegas",
-   "s": "Seattle (5-4) plays its last game before the bye against rookie QB Fernando Mendoza.",
+   "s": "Seattle plays the Raiders in Las Vegas on Sunday; kickoff is 1:05 p.m. PT on CBS.",
    "date": "2026-11-15",
-   "src": "NBC Sports",
-   "u": "https://www.nbcsports.com/nfl/news/seahawks-vs-raiders-prediction-odds-expert-picks-qb-matchup-injury-update-betting-trends-and-stats"
+   "src": "Seahawks.com",
+   "u": "https://www.seahawks.com/news/how-to-watch-listen-and-follow-seahawks-at-raiders-in-week-10-on-sunday-november-15"
   },
   {
-   "h": "State revenue forecasters meet ahead of budget session",
-   "s": "The Economic and Revenue Forecast Council holds its November revenue review, a key number for lawmakers facing a budget shortfall.",
+   "h": "State revenue forecast released",
+   "s": "The Economic and Revenue Forecast Council meets at noon in Olympia with the November revenue forecast, a key input for next year's budget.",
    "date": "2026-11-16",
-   "src": "WA Economic and Revenue Forecast Council",
-   "u": "https://erfc.wa.gov/meetings"
+   "src": "WA ERFC",
+   "u": "https://erfc.wa.gov/sites/default/files/2026-04/2026_ERFC_meetingSchedule.pdf"
   }
  ]
 }

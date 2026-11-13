@@ -1,0 +1,63 @@
+{
+ "stories": [
+  {
+   "h": "Seattle mayor allows targeted police camera expansion",
+   "s": "Mayor Katie Wilson reactivated cameras in the Stadium District and approved new ones near Garfield High and Capitol Hill, adding a privacy work group. Critics question effectiveness and data sharing.",
+   "src": "KUOW",
+   "u": "https://www.kuow.org/governing/2026-11-10/seattle-mayor-greenlights-targeted-expansion-of-police-surveillance-cameras",
+   "t": "2026-11-10",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Influencer retracts EBT fraud claim against Lam's Seafood",
+   "s": "Nick Shirley issued a correction saying he found no evidence the Chinatown-International District market committed fraud, and pulled his viral videos. The store says it lost customers and is weighing legal action.",
+   "src": "Lynnwood Times",
+   "u": "https://lynnwoodtimes.com/2026/11/12/ebt-fraud/",
+   "t": "2026-11-12",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Bellevue man sues Kalshi over $308K in sports-bet losses",
+   "s": "Scott Bright seeks about $580,000 under Washington's gambling-loss law in federal court; Kalshi argues its federal registration makes its contracts legal and wants the case dismissed.",
+   "src": "KREM via Yahoo News",
+   "u": "https://www.yahoo.com/news/us/articles/washington-man-sues-kalshi-580k-154130657.html",
+   "t": "2026-11-11",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "King County weighs raising a Snoqualmie Valley road above floods",
+   "s": "The county wants feedback through Nov. 20 on elevating either Tolt Hill Road or NE 124th Street to keep SR 203 communities reachable during winter flooding.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/floodwaters-made-rescue-difficult-an-emergency-mom-calls-alternative-routes-snoqualmie/U2YF7C574NDARNB4VHULYAU6TQ/",
+   "t": "2026-11-11",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Westbound SR 520 closed Montlake to I-5 all weekend",
+   "s": "Full closure from 10 p.m. Friday to 5 a.m. Monday for expansion joint repairs; eastbound lanes and the floating bridge stay open.",
+   "date": "2026-11-13",
+   "src": "WSDOT",
+   "u": "https://content.govdelivery.com/accounts/WADOT/bulletins/430ff64"
+  },
+  {
+   "h": "2 Line trains replaced by buses across Lake Washington",
+   "s": "Saturday and Sunday, shuttles run about every 10 minutes between South Bellevue and International District/Chinatown for tunnel power work.",
+   "date": "2026-11-14",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/chokepoints/sound-transit-crosslake/4297721"
+  },
+  {
+   "h": "Garth Brooks plays Climate Pledge Arena",
+   "s": "The country star brings his arena tour to Seattle Friday and Saturday.",
+   "date": "2026-11-13",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/garth-brooks-announces-seattle-tour-dates/RKQACK7EJFBVPLJLIZCQUBK44Q/"
+  }
+ ]
+}
