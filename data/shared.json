@@ -1,6 +1,15 @@
 {
  "us": [
   {
+   "h": "FAA grounds all U.S. flights over air traffic communications failure",
+   "s": "A telecom problem hitting all 22 regional air traffic control centers led the FAA to halt flights nationwide Friday afternoon, stranding travelers; officials see no sign of an attack. Check with your airline before heading out.",
+   "src": "NBC Bay Area",
+   "u": "https://www.nbcbayarea.com/news/local/nationwide-ground-stop-bay-area-airports/4175781/",
+   "t": "2026-11-13",
+   "impact": 5,
+   "act": true
+  },
+  {
    "h": "Senate Democrats weigh tying shutdown deadline to Iran war cutoff",
    "s": "Several Senate Democrats say they'll oppose any stopgap spending bill by the Dec. 11 deadline unless it bars funds for the Iran war, raising odds of a holiday partial shutdown; GOP leaders reject the idea.",
    "src": "Roll Call",
@@ -43,15 +52,6 @@
    "u": "https://www.pbs.org/newshour/politics/senators-probe-rfk-jr-s-reason-for-samoa-trip-after-letter-refuting-his-testimony-published",
    "t": "2026-11-12",
    "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Texas and Oklahoma carry out executions on same day",
-   "s": "Texas executed John Allen Rubio for killing three children in 2003, hours after Oklahoma executed James Pavatt, bringing U.S. executions this year to 37.",
-   "src": "Northern News Now (AP)",
-   "u": "https://www.northernnewsnow.com/2026/11/13/texas-executes-man-convicted-beheading-3-children/",
-   "t": "2026-11-13",
-   "impact": 2,
    "act": false
   }
  ],
