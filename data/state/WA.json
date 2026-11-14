@@ -1,108 +1,85 @@
 {
  "stories": [
   {
-   "h": "Coastal flooding, wind and atmospheric rivers hit western WA",
-   "s": "King tides plus a strong storm bring Friday coastal flood alerts from Whatcom to Hood Canal (warning in San Juan County), coast gusts to 50 mph, and a Skokomish River flood watch. Heavier rain and wind arrive Saturday night.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/puget-sound-faces-coastal-flooding-high-tides-through-saturday/QMM6637AIZETLC2RHQPNIU3MTI/",
-   "t": "2026-11-13",
+   "h": "Wind and heavy rain hit coast, islands Saturday night",
+   "s": "A wind advisory covers the coast and San Juan County from 4 p.m. Saturday to 4 a.m. Sunday, with gusts near 55 mph. Mason County is under a Skokomish River flood watch; interior gusts of 30-40 mph could cut power.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/weather/seattle-weather-scattered-showers-saturday-increasing-late-wind-rain",
+   "t": "2026-11-14",
    "impact": 4,
    "act": true
   },
   {
-   "h": "Orcas Island turns to barges as ferry dock limits trucks",
-   "s": "With trucks over 22 feet barred from the cracked Orcas ferry ramp for up to two weeks, private barges carry just three or four trucks a day; garbage is piling up and the county seeks state aid.",
-   "src": "KUOW",
-   "u": "https://www.kuow.org/governing/2026-11-12/stalled-groceries-stopped-garbage-orcas-island-deals-with-truck-shutdown-on-ferries",
-   "t": "2026-11-12",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Republicans fall to superminority in state House",
-   "s": "After losing at least nine seats, Republicans will hold just 29 of 98 House seats. State GOP chair Jim Walsh plans to seek another term despite a challenge and criticism from Gov. Ferguson.",
-   "src": "Washington State Standard",
-   "u": "https://washingtonstatestandard.com/2026/11/13/midterm-losses-push-republicans-into-superminority-in-the-wa-house/",
+   "h": "Judge rules Adams County broke state law by aiding ICE",
+   "s": "A Spokane County judge found Adams County's sheriff's office illegally shared jail information with and held people for immigration agents, violating the Keep Washington Working Act. The county must revise policies and train staff; the sheriff plans to appeal.",
+   "src": "The Spokesman-Review",
+   "u": "https://www.spokesman.com/stories/2026/nov/13/adams-county-illegally-cooperated-with-federal-imm/",
    "t": "2026-11-13",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Democrat edges ahead in 25th District House race",
-   "s": "Democrat Jenn Marie Strickling took a narrow lead over GOP Rep. Cyndy Jacobsen in the 25th District, a race likely headed for a recount that could give Democrats up to 10 new House seats.",
-   "src": "Washington State Standard",
-   "u": "https://washingtonstatestandard.com/2026/11/12/democrat-pulls-ahead-in-tight-washington-house-race/",
-   "t": "2026-11-12",
-   "impact": 2,
+   "h": "AG hires outside firm to defend girls' sports initiative",
+   "s": "Attorney General Nick Brown appointed Bryan Cave Leighton Paisner to defend I-638, which requires sex verification for girls' sports, against an ACLU-led lawsuit in King County. The measure takes effect Dec. 3 unless a judge blocks it.",
+   "src": "KOMO",
+   "u": "https://komonews.com/news/local/outside-law-firm-to-defend-washington-girls-sports-initiative-in-court-attorney-general-nick-brown-bryan-cave-leighton-paisner-washington-interscholastic-activities-association",
+   "t": "2026-11-13",
+   "impact": 3,
    "act": false
   },
   {
-   "h": "Ocean Shores under boil-water advisory after main break",
-   "s": "A contractor damaged a south-end water main in Ocean Shores, already under an erosion emergency. Residents south of Marine Drive should boil water; bottled water is at 165 Ocean Lake Way.",
+   "h": "Orcas ferry truck limits continue; wind may slow repairs",
+   "s": "Cracked beams at the Orcas terminal keep vehicles over 22 feet or 8,000 pounds off ferries for up to two weeks. High winds could delay weekend repair work; barges are prioritizing food, fuel and medical supplies.",
    "src": "KOMO",
-   "u": "https://komonews.com/newsletter-daily/ocean-shores-issues-boil-water-advisory-after-contractor-damages-south-end-bottled-water-ocean-shores-erosion-global-warming-high-school",
-   "t": "2026-11-12",
-   "impact": 2,
+   "u": "https://komonews.com/news/local/vehicle-restrictions-remain-in-place-at-orcas-island-ferry-terminal-during-repairs-goods-and-services-san-juan-isalnds-ferry-travel-stranded-small-community",
+   "t": "2026-11-13",
+   "impact": 3,
    "act": true
+  },
+  {
+   "h": "Ferguson seeks $10M for Richland clean energy park",
+   "s": "The governor will ask lawmakers for $10 million for water, sewer and road work at a 1,600-acre former Hanford site, where fertilizer, solar and nuclear fuel companies are planning or weighing projects.",
+   "src": "NonStop Local (KNDU)",
+   "u": "https://www.nbcrightnow.com/news/governor-proposal-could-send-10m-to-richland-clean-energy-park/article_e04110e0-a31f-414f-bf4f-89d168dcc227.html",
+   "t": "2026-11-13",
+   "impact": 2,
+   "act": false
   }
  ],
  "talking": [
   {
-   "h": "Kraken drop Helsinki opener to Hurricanes, 4-1",
-   "s": "Finnish star Sebastian Aho scored twice as Carolina beat Seattle in the Kraken's first regular-season game outside North America. Freddy Gaudreau scored Seattle's lone goal.",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/sports/kraken-fall-4-1-hurricanes-finland",
-   "t": "2026-11-12",
-   "impact": 2,
-   "act": false
-  },
-  {
-   "h": "Mariners' Ian Happ buzz cools within a day",
-   "s": "Reports linking free agent Ian Happ to Seattle's left-field hole quickly met local skepticism, with sources calling him an unlikely fit; Seiya Suzuki is floated as a likelier target.",
-   "src": "Yahoo Sports (Mariners On SI)",
-   "u": "https://sports.yahoo.com/articles/mariners-24-hour-whiplash-over-031500408.html",
+   "h": "Ferguson and schools chief Reykdal trade jabs ahead of 2028",
+   "s": "After Reykdal said he won't seek a fourth term, Ferguson called it good news and cited weak test scores. Reykdal hasn't ruled out running for governor or Congress, fueling talk of a Democratic primary fight.",
+   "src": "The Spokesman-Review",
+   "u": "https://www.spokesman.com/stories/2026/nov/13/gov-ferguson-state-schools-chief-reykdal-feud-as-s/",
    "t": "2026-11-13",
    "impact": 2,
    "act": false
   },
   {
-   "h": "Rep. Strickland apologizes for missing Hegseth impeachment vote",
-   "s": "U.S. Rep. Marilyn Strickland said she arrived a minute late to the 211-204 House vote that sent articles of impeachment against Defense Secretary Pete Hegseth to committee, effectively stalling them.",
-   "src": "Washington State Standard",
-   "u": "https://washingtonstatestandard.com/2026/11/12/wa-congresswoman-sorry-for-missing-hegseth-impeachment-vote/",
-   "t": "2026-11-12",
+   "h": "Influencer retracts SNAP fraud claims against Seattle market",
+   "s": "YouTuber Nick Shirley took down his October video accusing Lam's Seafood Asian Market of food stamp fraud, saying he found no evidence, after the store's lawyer sent a cease-and-desist letter.",
+   "src": "The National Desk",
+   "u": "https://thenationaldesk.com/news/americas-news-now/nick-shirley-retracts-fraud-allegations-made-against-a-grocery-store-in-seattle-washington-donald-trump-minnesota-rtt",
+   "t": "2026-11-13",
    "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Kraken vs. Hurricanes, Game 2 in Helsinki",
-   "s": "Seattle closes the NHL Global Series at 10 a.m. PT on KING 5/KONG and Prime Video.",
-   "date": "2026-11-14",
-   "src": "NHL.com",
-   "u": "https://www.nhl.com/kraken/info/global-series"
-  },
-  {
-   "h": "Huskies at Michigan State",
-   "s": "UW visits Spartan Stadium at 1:15 p.m. PT on BTN.",
-   "date": "2026-11-14",
-   "src": "FOX Sports",
-   "u": "https://www.fox.com/sports/football/college-football/watch-washington-huskies-vs-michigan-state-spartans-nov-14-2026"
-  },
-  {
-   "h": "Seahawks at Raiders in Las Vegas",
-   "s": "Seattle plays the Raiders in Las Vegas on Sunday; kickoff is 1:05 p.m. PT on CBS.",
-   "date": "2026-11-15",
-   "src": "Seahawks.com",
-   "u": "https://www.seahawks.com/news/how-to-watch-listen-and-follow-seahawks-at-raiders-in-week-10-on-sunday-november-15"
-  },
-  {
    "h": "State revenue forecast released",
-   "s": "The Economic and Revenue Forecast Council meets at noon in Olympia with the November revenue forecast, a key input for next year's budget.",
+   "s": "The Economic and Revenue Forecast Council meets at noon in Olympia for the November revenue review, followed by the transportation forecast at 2 p.m.",
    "date": "2026-11-16",
    "src": "WA ERFC",
-   "u": "https://erfc.wa.gov/sites/default/files/2026-04/2026_ERFC_meetingSchedule.pdf"
+   "u": "https://erfc.wa.gov/meetings"
+  },
+  {
+   "h": "WSDOT update on Orcas ferry terminal restrictions",
+   "s": "WSDOT expects to say Monday whether truck limits at the damaged Orcas terminal can be eased after initial repairs.",
+   "date": "2026-11-16",
+   "src": "KOMO",
+   "u": "https://komonews.com/news/local/vehicle-restrictions-remain-in-place-at-orcas-island-ferry-terminal-during-repairs-goods-and-services-san-juan-isalnds-ferry-travel-stranded-small-community"
   }
  ]
 }

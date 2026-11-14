@@ -1,0 +1,211 @@
+{
+ "us": [
+  {
+   "h": "FAA grounds all U.S. flights over air traffic communications failure",
+   "s": "A telecom problem hitting all 22 regional air traffic control centers led the FAA to halt flights nationwide Friday afternoon, stranding travelers; officials see no sign of an attack. Check with your airline before heading out.",
+   "src": "NBC Bay Area",
+   "u": "https://www.nbcbayarea.com/news/local/nationwide-ground-stop-bay-area-airports/4175781/",
+   "t": "2026-11-13",
+   "impact": 5,
+   "act": true
+  },
+  {
+   "h": "Senate Democrats weigh tying shutdown deadline to Iran war cutoff",
+   "s": "Several Senate Democrats say they'll oppose any stopgap spending bill by the Dec. 11 deadline unless it bars funds for the Iran war, raising odds of a holiday partial shutdown; GOP leaders reject the idea.",
+   "src": "Roll Call",
+   "u": "https://rollcall.com/2026/11/12/democrats-mulling-iran-war-funding-cutoff-strategy/",
+   "t": "2026-11-12",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Cancer society now urges routine prostate screening for midlife men",
+   "s": "The American Cancer Society reversed its 2010 stance, recommending PSA tests every two years for average-risk men aged 50–69 and yearly from 45 for Black men and those with strong family history.",
+   "src": "CBS News (AP)",
+   "u": "https://www.cbsnews.com/news/prostate-cancer-screening-guidelines/",
+   "t": "2026-11-12",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Democrat Holscher projected winner of Kansas governor race",
+   "s": "After days of counting mail and provisional ballots, Democrat Cindy Holscher is projected to beat GOP Senate President Ty Masterson, extending Democratic control of the governorship; Republicans lose their veto-proof House supermajority.",
+   "src": "KCUR (Kansas News Service)",
+   "u": "https://www.kcur.org/2026-11-12/cindy-holscher-continues-democrats-winning-streak-by-cinching-race-for-governor",
+   "t": "2026-11-12",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Alaska Democrats edge ahead in governor and Senate counts",
+   "s": "Jonathan Kreiss-Tomkins narrowly passed 50% in the governor's race, enough to avoid ranked-choice tabulation if it holds, while Mary Peltola leads Sen. Dan Sullivan by about 5,800 votes; final ballots are counted Nov. 18.",
+   "src": "Alaska Public Media",
+   "u": "https://alaskapublic.org/news/politics/elections/2026-11-12/jkt-tops-50-in-alaska-governors-race-as-peltola-extends-senate-lead",
+   "t": "2026-11-12",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Senators probe whether RFK Jr. misled Congress on Samoa trip",
+   "s": "Sens. Wyden and Alsobrooks demanded documents from Children's Health Defense after a letter surfaced showing Kennedy's 2019 Samoa visit referenced vaccines repeatedly, contradicting his confirmation testimony. HHS calls the accusation defamatory.",
+   "src": "PBS NewsHour (AP)",
+   "u": "https://www.pbs.org/newshour/politics/senators-probe-rfk-jr-s-reason-for-samoa-trip-after-letter-refuting-his-testimony-published",
+   "t": "2026-11-12",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "world": [
+  {
+   "h": "Trump drops Vance from Iran talks, says no deal needed",
+   "s": "Trump said the US doesn't need an agreement with Iran and reassigned Vance away from diplomacy to domestic fraud probes, while keeping the blockade of Iranian ports and sanctions in place.",
+   "src": "Yahoo News (USA Today)",
+   "u": "https://www.yahoo.com/news/politics/articles/trump-says-deal-iran-not-223633935.html",
+   "t": "2026-11-12",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Iran says LNG tanker struck mine in Strait of Hormuz",
+   "s": "Iran's Revolutionary Guards navy said a gas tanker hit a mine Friday after four oil tankers were hit by blasts Thursday, as attacks on shipping persist despite hopes of de-escalation.",
+   "src": "gCaptain (Reuters)",
+   "u": "https://gcaptain.com/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz/",
+   "t": "2026-11-13",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Europe to get seat at next Ukraine peace talks",
+   "s": "After meeting Putin in Moscow, US envoys Kushner and Witkoff told Zelenskyy in Dublin that EU delegates will join the next round; Putin still rejects European troops in Ukraine and holds territorial demands.",
+   "src": "Yahoo News (UPI)",
+   "u": "https://www.yahoo.com/news/politics/articles/u-ukraine-herald-european-involvement-144956984.html",
+   "t": "2026-11-13",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Iran refuses nuclear monitoring talks while under threat",
+   "s": "A confidential IAEA report says Tehran won't discuss resuming inspections amid US military threats, leaving the agency unable to verify Iran's near-weapons-grade uranium stockpile.",
+   "src": "ClickOrlando (AP)",
+   "u": "https://www.clickorlando.com/news/world/2026/11/13/iran-tells-un-nuclear-agency-that-monitoring-cannot-proceed-while-it-is-under-threat/",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Finland detects strike on Russian warship near its waters",
+   "s": "Finland's military reported a strike on a small Russian navy vessel in the Gulf of Finland, reportedly claimed by Ukraine, but said Finland faces no immediate threat.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "North Korea reshapes its flag for first time since 1948",
+   "s": "A revised constitution makes the flag narrower while keeping its colors and star, a move analysts tie to Kim Jong Un's push for a separate national identity from South Korea.",
+   "src": "The Korea Herald",
+   "u": "https://www.koreaherald.com/article/10936515",
+   "t": "2026-11-13",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "tech": [
+  {
+   "h": "Microsoft email outage stretches into a second day",
+   "s": "A global Exchange Online failure that began Thursday still disrupts Outlook, calendars and Copilot for many users. Microsoft reports gradual recovery, rules out a hack, and has extended email timeouts to 48 hours.",
+   "src": "Fox Business",
+   "u": "https://www.foxbusiness.com/technology/microsoft-outlook-returns-some-millions-users-face-second-day-outages",
+   "t": "2026-11-13",
+   "impact": 5,
+   "act": false
+  },
+  {
+   "h": "Nonprofits sue AI giants to halt frontier model work",
+   "s": "Public Citizen and other groups sued OpenAI, Anthropic, Google, Meta and SpaceX's AI unit in San Francisco. They want a court order stopping development of more advanced models, citing unfair-business and public-nuisance laws.",
+   "src": "Claims Journal",
+   "u": "https://www.claimsjournal.com/news/national/2026/11/13/341283.htm",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Google rolls out faster Gemini 4 Hydrogen model",
+   "s": "Google's new everyday model is rolling out globally in the Gemini app, Search and its developer tools. Free app users get it automatically, and API prices are higher than the Flash model it succeeds.",
+   "src": "VentureBeat",
+   "u": "https://venturebeat.com/technology/google-launches-gemini-4-hydrogen-a-faster-smarter-pricier-flash-successor",
+   "t": "2026-11-12",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "SpaceX plans $74 billion AI computing campuses",
+   "s": "SpaceX will spend more than $74 billion on supercomputing sites at Starbase, Texas, and in Cochise County, Arizona. The Arizona project still needs county approval and faces a resident petition opposing it.",
+   "src": "Investing.com",
+   "u": "https://www.investing.com/news/stock-market-news/spacex-to-invest-over-74-billion-in-supercompute-facilities-in-texas-arizona-5022690",
+   "t": "2026-11-12",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Notion AI chats exposed in Fireworks AI breach",
+   "s": "Hackers who breached AI host Fireworks reached Notion AI chat transcripts from under 1% of workspaces. Notion tells affected customers to rotate any passwords or keys they pasted into Notion AI.",
+   "src": "SecurityWeek",
+   "u": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
+   "t": "2026-11-12",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "talking": [
+  {
+   "h": "NBC golf and Olympics voice Dan Hicks dies at 64",
+   "s": "Dan Hicks, NBC Sports' lead golf announcer who called 27 Tiger Woods wins and Olympic swimming, died of an acute illness, his wife Hannah Storm said.",
+   "src": "CBS News (AP)",
+   "u": "https://www.cbsnews.com/news/dan-hicks-dies-nbc-sports-announcer-dead-age-64-wife-hannah-storm/",
+   "t": "2026-11-12",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Record-setting liner SS United States sunk as giant reef",
+   "s": "The 1950s ocean liner, which still holds the transatlantic speed record, was scuttled off Destin, Florida, to become what officials call the world's largest artificial reef.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/from-ocean-legend-to-undersea-reef-why-has-the-ss-united-states-been-sunk",
+   "t": "2026-11-13",
+   "impact": 1,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "October retail sales report",
+   "s": "The Census Bureau publishes October advance retail sales at 8:30 a.m. ET, a key read on consumer spending heading into the holidays.",
+   "date": "2026-11-17",
+   "src": "U.S. Census Bureau",
+   "u": "https://census.gov/retail/release_schedule.html"
+  },
+  {
+   "h": "Nvidia reports earnings, its first without Huang",
+   "s": "Nvidia still plans to report third-quarter results Tuesday and hold its call at 2 p.m. PT. It's interim CEO Colette Kress's first report since Jensen Huang resigned.",
+   "date": "2026-11-17",
+   "src": "Nvidia",
+   "u": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
+  },
+  {
+   "h": "Fed releases October meeting minutes",
+   "s": "Minutes from the Fed's Oct. 27–28 policy meeting come out at 2 p.m. ET and could hint at the path for interest rates.",
+   "date": "2026-11-18",
+   "src": "Federal Reserve",
+   "u": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+  },
+  {
+   "h": "Alaska finishes ballot count in tight races",
+   "s": "Alaska's final ballot count is due Nov. 18, settling the close governor and Senate races and any ranked-choice tabulations.",
+   "date": "2026-11-18",
+   "src": "Alaska Public Media",
+   "u": "https://alaskapublic.org/news/politics/elections/2026-11-12/jkt-tops-50-in-alaska-governors-race-as-peltola-extends-senate-lead"
+  }
+ ]
+}

@@ -1,69 +1,46 @@
 {
  "stories": [
   {
-   "h": "Tacoma council tweaks budget ahead of Nov. 18 adoption",
-   "s": "Facing a $40 million deficit, the council funded five community service officers through 2028 and $450,000 for behavioral health case management. Final budget adoption is planned for Nov. 18.",
-   "src": "Northwest Public Broadcasting",
-   "u": "https://www.nwpb.org/local/2026-11-12/city-council-continues-work-on-budget-allocates-some-funding-for-community-service-officers",
-   "t": "2026-11-12",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Eastbound Narrows Bridge lanes close tonight",
-   "s": "Two right eastbound lanes of SR 16's Tacoma Narrows Bridge, the toll plaza and ramps from 24th and 36th streets close 8 p.m. Friday to 6 a.m. Saturday for joint cleaning.",
-   "src": "Gig Harbor Now",
-   "u": "https://www.gigharbornow.org/news/transportation/two-lanes-of-eastbound-narrows-bridge-to-close-overnight-friday/",
-   "t": "2026-11-09",
+   "h": "Wind and heavy rain arrive tonight; outages possible",
+   "s": "Scattered showers give way to a stronger system after dark. Interior gusts of 30-40 mph peak around midnight, below advisory level but enough for power outages. Up to an inch of rain; showers linger Sunday.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/weather/seattle-weather-scattered-showers-saturday-increasing-late-wind-rain",
+   "t": "2026-11-14",
    "impact": 3,
    "act": true
   },
   {
-   "h": "Overcapacity Tacoma shelter asks public to adopt dogs",
-   "s": "The Humane Society for Tacoma & Pierce County took in 130 dogs since Nov. 1 and waived adoption fees for adult dogs Nov. 12–13. It also seeks foster homes, especially for large breeds.",
-   "src": "Yahoo News (The News Tribune)",
-   "u": "https://www.yahoo.com/news/articles/over-130-dogs-sent-tacoma-174917698.html",
-   "t": "2026-11-12",
+   "h": "Eastbound Narrows Bridge narrows to two lanes tonight",
+   "s": "From 8 p.m. Saturday to 6 a.m. Sunday, the two left lanes approaching the eastbound SR 16 bridge close. Ramps and the toll plaza stay open, unlike Friday night's closures.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/overnight-lane-ramp-closures-planned-eastbound-sr-16-over-tacoma-narrows-bridge/DAOC6NA3M5EJFAS25YO24QMOIA/",
+   "t": "2026-11-13",
    "impact": 2,
    "act": true
   },
   {
-   "h": "Stronger storm to follow Friday's rain this weekend",
-   "s": "Rain spreads in late Friday into Saturday, with a stronger, windier system Saturday night into Sunday. River flooding isn't expected, but residents should clear leaf-clogged storm drains.",
-   "src": "MyNorthwest (KIRO Newsradio)",
-   "u": "https://mynorthwest.com/pacific-northwest-weather/atmospheric-river-12/4298471",
+   "h": "Democrat Strickling edges ahead in razor-thin 25th District race",
+   "s": "Jenn Marie Strickling overtook GOP Rep. Cyndy Jacobsen by 82 votes Thursday in the Puyallup-area House seat; a recount looks likely. About 280 challenged ballots can still be cured; more counting comes Tuesday.",
+   "src": "Yahoo News (Washington State Standard)",
+   "u": "https://www.yahoo.com/news/politics/articles/democrat-pulls-ahead-tight-washington-002658089.html",
    "t": "2026-11-12",
-   "impact": 2,
+   "impact": 3,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Arts at the Armory in Tacoma",
-   "s": "Free arts weekend at the Tacoma Armory, 1001 S. Yakima Ave., 11 a.m.–5 p.m. Saturday and Sunday.",
-   "date": "2026-11-14",
-   "src": "ParentMap",
-   "u": "https://www.parentmap.com/calendar/arts-armory/2026-11-14/"
-  },
-  {
-   "h": "Peninsula Art League national show opens",
-   "s": "The 24th National Fine Art Show opens at Gig Harbor Vintage Aero Museum; open Tue–Sat 1–4 p.m. through Dec. 3.",
-   "date": "2026-11-14",
-   "src": "Gig Harbor Chamber of Commerce",
-   "u": "https://www.gigharborchamber.net/events/details/peninsula-art-league-s-24th-national-fine-art-show-24431"
-  },
-  {
-   "h": "Puyallup Fall Kids Day and Makers Market",
-   "s": "Free family event with activities, music and a youth makers market, 10 a.m.–1 p.m. at Pioneer Park Pavilion.",
-   "date": "2026-11-15",
-   "src": "City of Puyallup",
-   "u": "https://www.puyallupwa.gov/m/newsflash/Home/Detail/1863"
+   "h": "Lakewood council takes up 2027-28 budget, tax levy",
+   "s": "The 6 p.m. meeting covers the biennial budget, the 2027 property tax levy and fee schedule, plus a police commissioning ceremony.",
+   "date": "2026-11-16",
+   "src": "City of Lakewood",
+   "u": "https://cityoflakewood.us/lakewood-weekly-bulletin-november-13-2026"
   },
   {
    "h": "Tacoma council set to adopt 2027-28 budget",
-   "s": "The City Council plans to adopt its biennial budget, closing a $40 million deficit, at its Nov. 18 meeting.",
+   "s": "Council members plan a final vote on a budget closing a $40 million gap, after amending it to keep five community service officers.",
    "date": "2026-11-18",
-   "src": "Northwest Public Broadcasting",
+   "src": "NWPB",
    "u": "https://www.nwpb.org/local/2026-11-12/city-council-continues-work-on-budget-allocates-some-funding-for-community-service-officers"
   }
  ]

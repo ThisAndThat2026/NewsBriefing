@@ -1,0 +1,65 @@
+{
+ "stories": [
+  {
+   "h": "Edmonds fun center site to become 411 apartments",
+   "s": "Developers secured nearly $132 million to replace the vacant Edmonds Family Fun Center off Highway 99 with two eight-story buildings. Demolition is expected to start next week; opening targeted August 2029.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/12/vacant-edmonds-fun-center-to-be-replaced-by-411-unit-apartment-complex/",
+   "t": "2026-11-12",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Local groups prepare for Medicaid, SNAP cuts",
+   "s": "Over 100 Snohomish County service providers met in Lynnwood on federal cuts; Medicaid work requirements begin Jan. 1, 2027, and SNAP exemptions have narrowed. Healthplanfinder open enrollment runs through Jan. 15.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/13/community-organizations-discuss-medicaid-snap-cuts/",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Marysville passes $470M budget with steep utility hikes",
+   "s": "The council unanimously approved the 2027-28 budget with no property tax increase, a sales tax rise to 9.5%, and higher utility rates, including water jumping from $59.58 to $95.32 per 10,000 gallons.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/11/marysville-city-council-approves-470-million-biennial-budget/",
+   "t": "2026-11-11",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Stronger, windier storm due Saturday night into Sunday",
+   "s": "After rain arrives late Friday into Saturday, a stronger system brings blustery winds Saturday night into Sunday, especially from Everett northward. Clear leaf-clogged storm drains; major flooding isn't expected.",
+   "src": "MyNorthwest (KIRO Newsradio)",
+   "u": "https://mynorthwest.com/pacific-northwest-weather/atmospheric-river-12/4298471",
+   "t": "2026-11-12",
+   "impact": 3,
+   "act": true
+  },
+  {
+   "h": "Repeat boat theft suspect prompts Everett Marina warning",
+   "s": "A 21-year-old Everett man has been arrested three times since Oct. 14 for alleged boat thefts and illegal crabbing. Police urge owners to check stored boats and remove valuables and kicker motors this winter.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/12/suspected-boat-thief-prompts-police-warnings-at-everett-marina/",
+   "t": "2026-11-12",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Skate America weekend sessions in Everett",
+   "s": "Grand Prix event at Angel of the Winds Arena continues Saturday (11:15 a.m. and 7 p.m.) and Sunday (11 a.m.) after Friday night's opening session.",
+   "date": "2026-11-14",
+   "src": "U.S. Figure Skating",
+   "u": "https://usfigureskating.org/news/2026/4/6/press-releases-us-figure-skating-announces-2026-skate-america-date-change-and-event-schedule.aspx"
+  },
+  {
+   "h": "WSU men's basketball plays Hawaii in Everett",
+   "s": "Washington State faces Hawaii at 7 p.m. Wednesday at Angel of the Winds Arena.",
+   "date": "2026-11-18",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/sports/washington-state-play-hawaii-everett"
+  }
+ ]
+}

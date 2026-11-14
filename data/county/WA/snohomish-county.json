@@ -1,62 +1,53 @@
 {
  "stories": [
   {
-   "h": "Edmonds fun center site to become 411 apartments",
-   "s": "Developers secured nearly $132 million to replace the vacant Edmonds Family Fun Center off Highway 99 with two eight-story buildings. Demolition is expected to start next week; opening targeted August 2029.",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/12/vacant-edmonds-fun-center-to-be-replaced-by-411-unit-apartment-complex/",
-   "t": "2026-11-12",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Local groups prepare for Medicaid, SNAP cuts",
-   "s": "Over 100 Snohomish County service providers met in Lynnwood on federal cuts; Medicaid work requirements begin Jan. 1, 2027, and SNAP exemptions have narrowed. Healthplanfinder open enrollment runs through Jan. 15.",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/13/community-organizations-discuss-medicaid-snap-cuts/",
-   "t": "2026-11-13",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Marysville passes $470M budget with steep utility hikes",
-   "s": "The council unanimously approved the 2027-28 budget with no property tax increase, a sales tax rise to 9.5%, and higher utility rates, including water jumping from $59.58 to $95.32 per 10,000 gallons.",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/11/marysville-city-council-approves-470-million-biennial-budget/",
-   "t": "2026-11-11",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Stronger, windier storm due Saturday night into Sunday",
-   "s": "After rain arrives late Friday into Saturday, a stronger system brings blustery winds Saturday night into Sunday, especially from Everett northward. Clear leaf-clogged storm drains; major flooding isn't expected.",
-   "src": "MyNorthwest (KIRO Newsradio)",
-   "u": "https://mynorthwest.com/pacific-northwest-weather/atmospheric-river-12/4298471",
+   "h": "Gusty storm tonight, strongest north and west of Everett",
+   "s": "A Pacific storm passing offshore brings heavy rain at times Saturday evening and night. Gusts over 40 mph are likely north and west of Everett, with isolated outages possible; Sunday stays breezy and showery.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/two-strong-pacific-storms-stir-up-seas-worst-impacts-miss-northwest/ELZ5PKFN3RE4RMNH2HJZL6IE6I/",
    "t": "2026-11-12",
    "impact": 3,
    "act": true
   },
   {
-   "h": "Repeat boat theft suspect prompts Everett Marina warning",
-   "s": "A 21-year-old Everett man has been arrested three times since Oct. 14 for alleged boat thefts and illegal crabbing. Police urge owners to check stored boats and remove valuables and kicker motors this winter.",
+   "h": "Paine Field flights hit by nationwide FAA ground stop",
+   "s": "The FAA halted all U.S. flights Friday afternoon after a telecommunications outage, affecting Everett's airport. Paine Field told travelers to confirm flight status with their airlines.",
    "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/12/suspected-boat-thief-prompts-police-warnings-at-everett-marina/",
-   "t": "2026-11-12",
+   "u": "https://www.heraldnet.com/2026/11/13/paine-field-impacted-by-nationwide-ground-stop/",
+   "t": "2026-11-13",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "County adopts $3.37B budget on split 3-2 vote",
+   "s": "The County Council approved the 2027-28 operating budget with higher property taxes. Dissenting member Nathan Nehring tallied about $24 million in new property tax plus other rate hikes and warned of borrowing within three years.",
+   "src": "My Everett News",
+   "u": "https://myeverettnews.com/2026/11/11/snohomish-county-council-adopts-3-37-billion-biennial-county-budget-with-taxes-increases/",
+   "t": "2026-11-11",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Everett mayor pitches $73M plan from transit merger money",
+   "s": "Mayor Cassie Franklin wants to spend funds from folding Everett Transit into Community Transit on roads, parks and worker transition, plus $30 million toward the planned outdoor stadium. The council will weigh a detailed plan soon.",
+   "src": "My Everett News",
+   "u": "https://myeverettnews.com/2026/11/11/mayor-franklin-proposes-73-million-community-investment-plan-for-transit-consolidation-funds/",
+   "t": "2026-11-11",
    "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Skate America weekend sessions in Everett",
-   "s": "Grand Prix event at Angel of the Winds Arena continues Saturday (11:15 a.m. and 7 p.m.) and Sunday (11 a.m.) after Friday night's opening session.",
-   "date": "2026-11-14",
+   "h": "Skate America wraps up in Everett",
+   "s": "The final session at Angel of the Winds Arena starts at 11 a.m. with the free dance and women's free skate.",
+   "date": "2026-11-15",
    "src": "U.S. Figure Skating",
-   "u": "https://usfigureskating.org/news/2026/4/6/press-releases-us-figure-skating-announces-2026-skate-america-date-change-and-event-schedule.aspx"
+   "u": "https://usfigureskating.org/news/2026/4/7/press-releases-us-figure-skating-announces-2026-skate-america-date-change-and-event-schedule.aspx"
   },
   {
-   "h": "WSU men's basketball plays Hawaii in Everett",
-   "s": "Washington State faces Hawaii at 7 p.m. Wednesday at Angel of the Winds Arena.",
+   "h": "WSU men's basketball hosts Hawaii in Everett",
+   "s": "The Cougars play the Rainbow Warriors at Angel of the Winds Arena at 7 p.m.",
    "date": "2026-11-18",
    "src": "FOX 13 Seattle",
    "u": "https://www.fox13seattle.com/sports/washington-state-play-hawaii-everett"

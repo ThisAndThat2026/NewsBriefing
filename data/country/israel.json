@@ -1,63 +1,63 @@
 {
  "stories": [
   {
-   "h": "Mossad chief in Washington pressing to resume Iran war",
-   "s": "Mossad director Roman Gofman met CIA chief Ratcliffe and was due to see envoy Witkoff, reportedly sent by Netanyahu to urge renewed strikes on Iran. Israeli defense officials reportedly see no urgent need.",
-   "src": "Ynetnews",
-   "u": "https://www.ynetnews.com/article/rj4sq9nrmx",
-   "t": "2026-11-13",
+   "h": "Trump signals he may skip new Iran strikes absent provocation",
+   "s": "Per a Reuters report carried by Times of Israel, Trump told aides he may hold off on attacking Iran unless Tehran or the Houthis provoke the US. Saudi and Turkish leaders reportedly urged restraint.",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/liveblog_entry/trump-told-advisers-he-may-not-attack-iran-as-long-as-it-doesnt-provoke-us-sources-say/",
+   "t": "2026-11-14",
    "impact": 4,
    "act": false
   },
   {
-   "h": "53 nations, groups demand Israel let winter aid into Gaza",
-   "s": "Led by the UK, Qatar and Jordan, signatories urged immediate entry of shelter, fuel and health supplies as floods swamp tents. Israel says over 93,000 tents have entered and blames Hamas.",
+   "h": "Eisenkot reportedly puts ultra-Orthodox parties first in coalition push",
+   "s": "Channel 12 says Eisenkot, lacking a majority with his 48-seat bloc, will prioritize a deal with Haredi parties, as Liberman urges. UTJ is weighing terms on the draft; Shas remains with Netanyahu.",
    "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/dozens-of-nations-organizations-demand-israel-let-more-winter-supplies-into-gaza/",
-   "t": "2026-11-13",
+   "u": "https://www.timesofisrael.com/eisenkot-said-prioritizing-efforts-to-form-coalition-with-ultra-orthodox/",
+   "t": "2026-11-14",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Tibi airs messages alleging Netanyahu camp courted Arab MKs",
+   "s": "Joint List MK Ahmad Tibi showed what he said were texts from Netanyahu confidant Natan Eshel seeking Arab help to block Eisenkot, despite public attacks on Arab parties. Likud called the claims a lie.",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/tibi-exposes-messages-said-to-show-netanyahu-camp-sought-arab-help-while-attacking-parties-publicly/",
+   "t": "2026-11-14",
    "impact": 3,
    "act": false
   },
   {
-   "h": "UTJ rabbis demand written draft-exemption pledge from Eisenkot bloc",
-   "s": "Agudat Yisrael advisers reportedly want all 48 bloc MKs to sign onto a blanket yeshiva exemption with a court override, far beyond what bloc parties accept, complicating Eisenkot's path to 61.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/report-utj-rabbis-urge-signed-commitments-on-draft-evasion-law-from-entire-eisenkot-bloc/",
-   "t": "2026-11-13",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Police post snipers on Rahat rooftops amid clan gunfire",
-   "s": "Israel Police stationed snipers in the Bedouin city to 'neutralize' gunmen after a month of feuding among six families that the mayor says has killed two young people.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/liveblog_entry/police-station-snipers-on-bedouin-city-rooftops-to-root-out-gunmen-say-those-opening-fire-to-be-neutralized/",
-   "t": "2026-11-13",
+   "h": "Grenade blast in Kafr Manda wounds four, one critically",
+   "s": "A hand grenade exploded Saturday afternoon in the northern Arab town, leaving a woman around 60 in critical condition and two others moderately hurt; victims were taken to hospitals in Haifa and Nazareth.",
+   "src": "Jerusalem Post",
+   "u": "https://www.jpost.com/israel-news/defense-news/article-914861",
+   "t": "2026-11-14",
    "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Security cabinet meets amid Iran strike fears",
-   "s": "Netanyahu's security cabinet is set to convene Sunday for the first time since October 5, as Eisenkot warns the caretaker government against launching an Iran operation.",
+   "h": "Security cabinet set to meet amid Iran strike concerns",
+   "s": "Netanyahu's security cabinet is slated to convene Sunday for the first time since October 5, while Eisenkot cautions the caretaker government against launching military action on Iran.",
    "date": "2026-11-15",
    "src": "Jerusalem Post",
    "u": "https://www.jpost.com/israel-election-2026/article-914671"
   },
   {
-   "h": "Knesset vote expected on Liberman as defense committee chair",
-   "s": "Likud blocked the vote, delaying it to Monday; until then Liberman cannot access classified briefings as chair.",
+   "h": "Knesset expected to vote on Liberman as defense committee chair",
+   "s": "After Likud delayed the vote, the plenum is expected to decide Monday; until then Liberman cannot use the chair's powers or see classified material.",
    "date": "2026-11-16",
    "src": "Times of Israel",
    "u": "https://www.timesofisrael.com/liveblog_entry/likud-blocked-vote-to-install-liberman-as-defense-committee-chair-delaying-security-oversight-until-monday-report/"
   },
   {
    "h": "E1 settlement tender bids due to be opened",
-   "s": "The Israel Land Authority set November 19 to open bids for E1 housing, as Denmark and other Europeans push for an emergency UN Security Council meeting.",
+   "s": "The Israel Land Authority set November 19 to open bids for E1 housing units, as Denmark and other European states press for an emergency UN Security Council session.",
    "date": "2026-11-19",
    "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/denmark-european-countries-pushing-for-emergency-un-security-council-meeting-on-e1/"
+   "u": "https://www.timesofisrael.com/liveblog_entry/denmark-european-countries-pushing-for-emergency-un-security-council-meeting-on-e1"
   }
  ]
 }

@@ -1,211 +1,227 @@
 {
  "us": [
   {
-   "h": "FAA grounds all U.S. flights over air traffic communications failure",
-   "s": "A telecom problem hitting all 22 regional air traffic control centers led the FAA to halt flights nationwide Friday afternoon, stranding travelers; officials see no sign of an attack. Check with your airline before heading out.",
-   "src": "NBC Bay Area",
-   "u": "https://www.nbcbayarea.com/news/local/nationwide-ground-stop-bay-area-airports/4175781/",
-   "t": "2026-11-13",
+   "h": "Thousands more flights canceled Saturday after nationwide FAA ground stop",
+   "s": "Air travel is still recovering after Friday's four-hour stop, blamed on new equipment overloading older ATC network gear; over 2,500 Saturday flights were canceled. Check your flight. Airlines must refund canceled trips if you choose not to fly.",
+   "src": "FOX 5 New York",
+   "u": "https://www.fox5ny.com/news/faa-ground-stop-aftermath-cancels-thousands-saturday-flights-what-know",
+   "t": "2026-11-14",
    "impact": 5,
    "act": true
   },
   {
-   "h": "Senate Democrats weigh tying shutdown deadline to Iran war cutoff",
-   "s": "Several Senate Democrats say they'll oppose any stopgap spending bill by the Dec. 11 deadline unless it bars funds for the Iran war, raising odds of a holiday partial shutdown; GOP leaders reject the idea.",
-   "src": "Roll Call",
-   "u": "https://rollcall.com/2026/11/12/democrats-mulling-iran-war-funding-cutoff-strategy/",
-   "t": "2026-11-12",
+   "h": "U.S. loses measles elimination status after 26 years",
+   "s": "PAHO, the WHO's Americas arm, revoked the status because one measles strain spread unbroken for over a year. Reported 2026 cases now exceed 5,000, and states count 10 deaths this year.",
+   "src": "KFGO (Reuters)",
+   "u": "https://kfgo.com/2026/11/13/us-loses-measles-free-status-after-continued-spread-of-the-disease-wsj-reports/",
+   "t": "2026-11-13",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Cancer society now urges routine prostate screening for midlife men",
-   "s": "The American Cancer Society reversed its 2010 stance, recommending PSA tests every two years for average-risk men aged 50–69 and yearly from 45 for Black men and those with strong family history.",
-   "src": "CBS News (AP)",
-   "u": "https://www.cbsnews.com/news/prostate-cancer-screening-guidelines/",
-   "t": "2026-11-12",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Democrat Holscher projected winner of Kansas governor race",
-   "s": "After days of counting mail and provisional ballots, Democrat Cindy Holscher is projected to beat GOP Senate President Ty Masterson, extending Democratic control of the governorship; Republicans lose their veto-proof House supermajority.",
-   "src": "KCUR (Kansas News Service)",
-   "u": "https://www.kcur.org/2026-11-12/cindy-holscher-continues-democrats-winning-streak-by-cinching-race-for-governor",
-   "t": "2026-11-12",
+   "h": "Tanker slams New Orleans riverboat; all aboard accounted for",
+   "s": "A tanker that apparently lost steering struck and capsized the American Heritage cruise boat on the Mississippi. More than 30 people were hospitalized, none critically. The Coast Guard closed a stretch of river, and NTSB investigators arrive Saturday.",
+   "src": "ABC News",
+   "u": "https://abcnews.com/US/vessel-collision-port-new-orleans-emergency-crews-responding/story?id=138119847",
+   "t": "2026-11-13",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Alaska Democrats edge ahead in governor and Senate counts",
-   "s": "Jonathan Kreiss-Tomkins narrowly passed 50% in the governor's race, enough to avoid ranked-choice tabulation if it holds, while Mary Peltola leads Sen. Dan Sullivan by about 5,800 votes; final ballots are counted Nov. 18.",
-   "src": "Alaska Public Media",
-   "u": "https://alaskapublic.org/news/politics/elections/2026-11-12/jkt-tops-50-in-alaska-governors-race-as-peltola-extends-senate-lead",
-   "t": "2026-11-12",
+   "h": "Bomb defused at Peoria ethanol plant; FBI hunting for culprit",
+   "s": "Police called a package found at the BioUrja plant in Peoria, Illinois, a credible bomb, evacuated homes within a mile and made it safe Friday night. Searchers are checking the plant for more devices.",
+   "src": "CBS News",
+   "u": "https://www.cbsnews.com/news/peoria-illinois-bomb-threat-evacuation/",
+   "t": "2026-11-14",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Senators probe whether RFK Jr. misled Congress on Samoa trip",
-   "s": "Sens. Wyden and Alsobrooks demanded documents from Children's Health Defense after a letter surfaced showing Kennedy's 2019 Samoa visit referenced vaccines repeatedly, contradicting his confirmation testimony. HHS calls the accusation defamatory.",
-   "src": "PBS NewsHour (AP)",
-   "u": "https://www.pbs.org/newshour/politics/senators-probe-rfk-jr-s-reason-for-samoa-trip-after-letter-refuting-his-testimony-published",
-   "t": "2026-11-12",
+   "h": "Trump sidelines Vance on Iran, says no deal needed",
+   "s": "Eight months into the war, Trump says a deal with Tehran is unnecessary and has moved Vance off the talks onto a domestic anti-fraud push. Qatar's mediation is stalled and the U.S. naval blockade continues.",
+   "src": "ABC News (AP)",
+   "u": "https://abcnews.com/US/wireStory/shifting-iran-rhetoric-us-elections-trump-leaves-mideast-138136269",
+   "t": "2026-11-14",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Democrat Kreiss-Tomkins wins Alaska governor, flipping the seat",
+   "s": "AP called the race for the 37-year-old former legislator after he passed 50%, so no ranked-choice runoff is needed. He'll be Alaska's first Democratic governor since 2002. The Peltola-Sullivan Senate race remains uncalled.",
+   "src": "The Spokesman-Review (Washington Post)",
+   "u": "https://www.spokesman.com/stories/2026/nov/13/democrat-jonathan-kreiss-tomkins-wins-alaska-gover/",
+   "t": "2026-11-13",
    "impact": 3,
    "act": false
   }
  ],
  "world": [
   {
-   "h": "Trump drops Vance from Iran talks, says no deal needed",
-   "s": "Trump said the US doesn't need an agreement with Iran and reassigned Vance away from diplomacy to domestic fraud probes, while keeping the blockade of Iranian ports and sanctions in place.",
-   "src": "Yahoo News (USA Today)",
-   "u": "https://www.yahoo.com/news/politics/articles/trump-says-deal-iran-not-223633935.html",
-   "t": "2026-11-12",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Iran says LNG tanker struck mine in Strait of Hormuz",
-   "s": "Iran's Revolutionary Guards navy said a gas tanker hit a mine Friday after four oil tankers were hit by blasts Thursday, as attacks on shipping persist despite hopes of de-escalation.",
-   "src": "gCaptain (Reuters)",
-   "u": "https://gcaptain.com/iran-says-tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz/",
-   "t": "2026-11-13",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Europe to get seat at next Ukraine peace talks",
-   "s": "After meeting Putin in Moscow, US envoys Kushner and Witkoff told Zelenskyy in Dublin that EU delegates will join the next round; Putin still rejects European troops in Ukraine and holds territorial demands.",
-   "src": "Yahoo News (UPI)",
-   "u": "https://www.yahoo.com/news/politics/articles/u-ukraine-herald-european-involvement-144956984.html",
-   "t": "2026-11-13",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Iran refuses nuclear monitoring talks while under threat",
-   "s": "A confidential IAEA report says Tehran won't discuss resuming inspections amid US military threats, leaving the agency unable to verify Iran's near-weapons-grade uranium stockpile.",
-   "src": "ClickOrlando (AP)",
-   "u": "https://www.clickorlando.com/news/world/2026/11/13/iran-tells-un-nuclear-agency-that-monitoring-cannot-proceed-while-it-is-under-threat/",
-   "t": "2026-11-13",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Finland detects strike on Russian warship near its waters",
-   "s": "Finland's military reported a strike on a small Russian navy vessel in the Gulf of Finland, reportedly claimed by Ukraine, but said Finland faces no immediate threat.",
+   "h": "Iran says mines set tankers ablaze; UN counts 25 sailors killed",
+   "s": "Iran reported three tankers striking mines near Hormuz on Saturday. A UN official told the Security Council at least 25 seafarers have died there since February, with traffic still about 65% below prewar levels.",
    "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/13/finland-detects-strike-on-russian-warship-as-zelenskyy-meets-us-envoys",
+   "u": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
+   "t": "2026-11-14",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "EU picks five nations to join next Ukraine talks",
+   "s": "After a Dublin summit, the EU said the UK, France, Germany, Italy and Poland will sit alongside EU diplomats at the next round. The Kremlin says it has not yet agreed to European participation.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice",
+   "t": "2026-11-13",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Congo Ebola outbreak passes 11,000 cases as violence hampers response",
+   "s": "The country's largest outbreak has killed over 5,000 people. WHO sees 400 to 500 new infections weekly; UN officials say armed-group attacks, including one that killed 66 civilians, are now the biggest obstacle.",
+   "src": "UN News",
+   "u": "https://news.un.org/en/story/2026/11/1168797",
    "t": "2026-11-13",
    "impact": 3,
    "act": false
   },
   {
-   "h": "North Korea reshapes its flag for first time since 1948",
-   "s": "A revised constitution makes the flag narrower while keeping its colors and star, a move analysts tie to Kim Jong Un's push for a separate national identity from South Korea.",
-   "src": "The Korea Herald",
-   "u": "https://www.koreaherald.com/article/10936515",
+   "h": "Turkey and Qatar sign mutual defence pact amid Iran war",
+   "s": "Erdogan and Qatar's emir agreed in Istanbul to respond jointly to any outside armed attack on either country, the latest Gulf security deal reflecting doubts about U.S. protection.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement",
    "t": "2026-11-13",
-   "impact": 2,
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "ICC judges halt probe of U.S. troops in Afghanistan",
+   "s": "The court ended the investigation into alleged American and ISKP crimes, citing limits on gathering evidence, and refocused on the Taliban since 2021. Prosecutors have appealed.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan",
+   "t": "2026-11-14",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "South Sudan delays first-ever national election to February",
+   "s": "The election commission moved the vote from December 22 to February 11, 2027, without explanation. It is at least the third delay, amid rising clashes with supporters of detained ex-vice president Riek Machar.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february",
+   "t": "2026-11-14",
+   "impact": 3,
    "act": false
   }
  ],
  "tech": [
   {
-   "h": "Microsoft email outage stretches into a second day",
-   "s": "A global Exchange Online failure that began Thursday still disrupts Outlook, calendars and Copilot for many users. Microsoft reports gradual recovery, rules out a hack, and has extended email timeouts to 48 hours.",
-   "src": "Fox Business",
-   "u": "https://www.foxbusiness.com/technology/microsoft-outlook-returns-some-millions-users-face-second-day-outages",
-   "t": "2026-11-13",
-   "impact": 5,
+   "h": "Microsoft restores Outlook and Teams after day-long global outage",
+   "s": "Services recovered after more than 24 hours of disruption across 74 countries. Microsoft blamed a faulty network capacity upgrade, not a cyberattack, and promised a full incident report.",
+   "src": "The Jerusalem Post (Reuters)",
+   "u": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914847",
+   "t": "2026-11-14",
+   "impact": 4,
    "act": false
   },
   {
-   "h": "Nonprofits sue AI giants to halt frontier model work",
-   "s": "Public Citizen and other groups sued OpenAI, Anthropic, Google, Meta and SpaceX's AI unit in San Francisco. They want a court order stopping development of more advanced models, citing unfair-business and public-nuisance laws.",
-   "src": "Claims Journal",
-   "u": "https://www.claimsjournal.com/news/national/2026/11/13/341283.htm",
+   "h": "Ex-Nvidia CEO Huang misled top lawyer about affair, sources say",
+   "s": "Huang told Nvidia's general counsel and marketing chief his ties to Alice Huang were ordinary customer dealings. Nvidia stock is down over 30% from its October high.",
+   "src": "GMA News (Reuters)",
+   "u": "https://www.gmanetwork.com/news/topstories/world/1009460/ex-nvidia-ceo-jensen-huang-misled-top-lawyer-on-affair-with-chinese-businesswoman-sources/story/",
+   "t": "2026-11-14",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Nvidia board sounded out Arm CEO Rene Haas as successor",
+   "s": "Per the Financial Times, Haas is one of several candidates to replace Jensen Huang, with no offer guaranteed. Arm and Nvidia shares both fell Friday.",
+   "src": "RTÉ",
+   "u": "https://www.rte.ie/news/business/2026/1113/1599163-nvidia-approached-arm-ceo-haas-to-succeed-huang-ft/",
    "t": "2026-11-13",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Google rolls out faster Gemini 4 Hydrogen model",
-   "s": "Google's new everyday model is rolling out globally in the Gemini app, Search and its developer tools. Free app users get it automatically, and API prices are higher than the Flash model it succeeds.",
-   "src": "VentureBeat",
-   "u": "https://venturebeat.com/technology/google-launches-gemini-4-hydrogen-a-faster-smarter-pricier-flash-successor",
-   "t": "2026-11-12",
+   "h": "Fed survey ranks AI as top financial-system risk",
+   "s": "In its twice-yearly stability report, 87% of contacts named AI a key risk, up from 50% in May. The Fed flagged about $680 billion in data-center debt and tangled lending ties.",
+   "src": "Investing.com (Reuters)",
+   "u": "https://www.investing.com/news/economy-news/ai-rockets-to-top-of-worries-about-financial-system-in-latest-fed-survey-5026488",
+   "t": "2026-11-13",
    "impact": 3,
    "act": false
   },
   {
-   "h": "SpaceX plans $74 billion AI computing campuses",
-   "s": "SpaceX will spend more than $74 billion on supercomputing sites at Starbase, Texas, and in Cochise County, Arizona. The Arizona project still needs county approval and faces a resident petition opposing it.",
-   "src": "Investing.com",
-   "u": "https://www.investing.com/news/stock-market-news/spacex-to-invest-over-74-billion-in-supercompute-facilities-in-texas-arizona-5022690",
-   "t": "2026-11-12",
-   "impact": 2,
+   "h": "Italy fines Meta €805 million over Android photo access",
+   "s": "Italy's privacy regulator says a Facebook feature suggesting gallery content read users' photos and videos without consent. The fine equals about 0.47% of Meta's global revenue.",
+   "src": "Investing.com (Reuters)",
+   "u": "https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329",
+   "t": "2026-11-14",
+   "impact": 3,
    "act": false
   },
   {
-   "h": "Notion AI chats exposed in Fireworks AI breach",
-   "s": "Hackers who breached AI host Fireworks reached Notion AI chat transcripts from under 1% of workspaces. Notion tells affected customers to rotate any passwords or keys they pasted into Notion AI.",
-   "src": "SecurityWeek",
-   "u": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
-   "t": "2026-11-12",
+   "h": "Tesla opens Cybercab orders with required $299 monthly fee",
+   "s": "Invited buyers can order the $29,990 driverless car, but it won't run without the subscription and works only inside Tesla's Robotaxi zones. First Austin deliveries are expected in December.",
+   "src": "Electrek",
+   "u": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
+   "t": "2026-11-13",
    "impact": 2,
    "act": false
   }
  ],
  "talking": [
   {
-   "h": "NBC golf and Olympics voice Dan Hicks dies at 64",
-   "s": "Dan Hicks, NBC Sports' lead golf announcer who called 27 Tiger Woods wins and Olympic swimming, died of an acute illness, his wife Hannah Storm said.",
-   "src": "CBS News (AP)",
-   "u": "https://www.cbsnews.com/news/dan-hicks-dies-nbc-sports-announcer-dead-age-64-wife-hannah-storm/",
-   "t": "2026-11-12",
-   "impact": 2,
+   "h": "Van Hollen's bid to oust Schumer divides incoming Democratic majority",
+   "s": "Sanders and several senators-elect back Van Hollen, while others stick with Schumer, who cites eight Senate seats gained. The secret-ballot leadership vote is expected in early December.",
+   "src": "ABC News",
+   "u": "https://abcnews.com/Politics/schumer-van-hollen-facing-off-senate-majority-leader/story?id=138111386",
+   "t": "2026-11-13",
+   "impact": 3,
    "act": false
   },
   {
-   "h": "Record-setting liner SS United States sunk as giant reef",
-   "s": "The 1950s ocean liner, which still holds the transatlantic speed record, was scuttled off Destin, Florida, to become what officials call the world's largest artificial reef.",
-   "src": "Al Jazeera",
-   "u": "https://www.aljazeera.com/news/2026/11/13/from-ocean-legend-to-undersea-reef-why-has-the-ss-united-states-been-sunk",
+   "h": "Bessent blames Lutnick as Nvidia chips-to-China scandal widens",
+   "s": "The Treasury chief publicly faulted Commerce for stalling export curbs on a Singapore firm tied to the affair that cost Jensen Huang his CEO job, an unusual cabinet rift.",
+   "src": "PBS NewsHour (AP)",
+   "u": "https://www.pbs.org/newshour/politics/bessent-blames-lutnicks-commerce-department-for-not-restricting-nvidia-chips-to-china",
    "t": "2026-11-13",
-   "impact": 1,
+   "impact": 3,
    "act": false
   }
  ],
  "coming": [
   {
    "h": "October retail sales report",
-   "s": "The Census Bureau publishes October advance retail sales at 8:30 a.m. ET, a key read on consumer spending heading into the holidays.",
+   "s": "The Census Bureau releases October advance retail sales at 8:30 a.m. ET, a key read on consumer spending ahead of the holidays.",
    "date": "2026-11-17",
    "src": "U.S. Census Bureau",
    "u": "https://census.gov/retail/release_schedule.html"
   },
   {
-   "h": "Nvidia reports earnings, its first without Huang",
-   "s": "Nvidia still plans to report third-quarter results Tuesday and hold its call at 2 p.m. PT. It's interim CEO Colette Kress's first report since Jensen Huang resigned.",
+   "h": "Nvidia earnings amid chip-export scandal",
+   "s": "Nvidia reports third-quarter results Tuesday with a 2 p.m. PT call, its first under interim CEO Colette Kress since Jensen Huang resigned.",
    "date": "2026-11-17",
    "src": "Nvidia",
    "u": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
   },
   {
    "h": "Fed releases October meeting minutes",
-   "s": "Minutes from the Fed's Oct. 27–28 policy meeting come out at 2 p.m. ET and could hint at the path for interest rates.",
+   "s": "Minutes from the Fed's Oct. 27–28 meeting are out at 2 p.m. ET and could signal where interest rates go next.",
    "date": "2026-11-18",
    "src": "Federal Reserve",
    "u": "https://www.federalreserve.gov/newsevents/2026-november.htm"
   },
   {
-   "h": "Alaska finishes ballot count in tight races",
-   "s": "Alaska's final ballot count is due Nov. 18, settling the close governor and Senate races and any ranked-choice tabulations.",
+   "h": "Alaska wraps up ballot count in Senate race",
+   "s": "Alaska's final count is due Nov. 18, which should settle the close Peltola-Sullivan Senate race.",
    "date": "2026-11-18",
    "src": "Alaska Public Media",
    "u": "https://alaskapublic.org/news/politics/elections/2026-11-12/jkt-tops-50-in-alaska-governors-race-as-peltola-extends-senate-lead"
+  },
+  {
+   "h": "Trump meets Xi and Putin at APEC in China",
+   "s": "After stops in Manila, Trump joins the APEC summit in Shenzhen and holds a three-way meeting with Xi and Putin on Nov. 19, the White House says.",
+   "date": "2026-11-19",
+   "src": "ThePrint (Bloomberg)",
+   "u": "https://theprint.in/world/trump-to-meet-xi-and-putin-at-apec-summit-in-china-next-week/3098880/"
   }
  ]
 }
