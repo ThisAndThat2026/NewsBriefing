@@ -1,46 +1,30 @@
 {
  "stories": [
   {
-   "h": "Wind and heavy rain arrive tonight; outages possible",
-   "s": "Scattered showers give way to a stronger system after dark. Interior gusts of 30-40 mph peak around midnight, below advisory level but enough for power outages. Up to an inch of rain; showers linger Sunday.",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/weather/seattle-weather-scattered-showers-saturday-increasing-late-wind-rain",
-   "t": "2026-11-14",
-   "impact": 3,
-   "act": true
-  },
-  {
-   "h": "Eastbound Narrows Bridge narrows to two lanes tonight",
-   "s": "From 8 p.m. Saturday to 6 a.m. Sunday, the two left lanes approaching the eastbound SR 16 bridge close. Ramps and the toll plaza stay open, unlike Friday night's closures.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/overnight-lane-ramp-closures-planned-eastbound-sr-16-over-tacoma-narrows-bridge/DAOC6NA3M5EJFAS25YO24QMOIA/",
-   "t": "2026-11-13",
-   "impact": 2,
-   "act": true
-  },
-  {
-   "h": "Democrat Strickling edges ahead in razor-thin 25th District race",
-   "s": "Jenn Marie Strickling overtook GOP Rep. Cyndy Jacobsen by 82 votes Thursday in the Puyallup-area House seat; a recount looks likely. About 280 challenged ballots can still be cured; more counting comes Tuesday.",
-   "src": "Yahoo News (Washington State Standard)",
-   "u": "https://www.yahoo.com/news/politics/articles/democrat-pulls-ahead-tight-washington-002658089.html",
+   "h": "Tacoma council restores some officer jobs in budget work",
+   "s": "Facing a $40 million deficit, the council kept five of 10 community service officer jobs through 2028 and approved $450,000 for behavioral health case management. The HOPE team is still slated for elimination.",
+   "src": "Northwest Public Broadcasting",
+   "u": "https://www.nwpb.org/local/2026-11-12/city-council-continues-work-on-budget-allocates-some-funding-for-community-service-officers",
    "t": "2026-11-12",
    "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Tacoma Arts Live deal keeps historic armory open",
+   "s": "After saying it would sell the armory to cover about $3 million in debt, the nonprofit is restructuring through receivership and dropping national touring shows to focus on education and local artists.",
+   "src": "KNKX",
+   "u": "https://www.knkx.org/arts-culture/2026-11-14/tacoma-arts-live-nonprofit-keep-armory-open",
+   "t": "2026-11-14",
+   "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Lakewood council takes up 2027-28 budget, tax levy",
-   "s": "The 6 p.m. meeting covers the biennial budget, the 2027 property tax levy and fee schedule, plus a police commissioning ceremony.",
-   "date": "2026-11-16",
-   "src": "City of Lakewood",
-   "u": "https://cityoflakewood.us/lakewood-weekly-bulletin-november-13-2026"
-  },
-  {
-   "h": "Tacoma council set to adopt 2027-28 budget",
-   "s": "Council members plan a final vote on a budget closing a $40 million gap, after amending it to keep five community service officers.",
+   "h": "Tacoma council expected to adopt 2027-28 budget",
+   "s": "The council plans this week to adopt a balanced two-year budget closing a $40 million deficit; NWPB reports the vote for Nov. 18, so check the city agenda for timing.",
    "date": "2026-11-18",
-   "src": "NWPB",
+   "src": "Northwest Public Broadcasting",
    "u": "https://www.nwpb.org/local/2026-11-12/city-council-continues-work-on-budget-allocates-some-funding-for-community-service-officers"
   }
  ]

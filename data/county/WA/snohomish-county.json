@@ -1,53 +1,37 @@
 {
  "stories": [
   {
-   "h": "Gusty storm tonight, strongest north and west of Everett",
-   "s": "A Pacific storm passing offshore brings heavy rain at times Saturday evening and night. Gusts over 40 mph are likely north and west of Everett, with isolated outages possible; Sunday stays breezy and showery.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/two-strong-pacific-storms-stir-up-seas-worst-impacts-miss-northwest/ELZ5PKFN3RE4RMNH2HJZL6IE6I/",
-   "t": "2026-11-12",
+   "h": "Medicaid, SNAP work rules loom for Snohomish County residents",
+   "s": "At a Lynnwood briefing, the state said at least 200,000 Washingtonians could lose Apple Health coverage by the end of 2027. Work requirements start Jan. 1, and SNAP exemptions are narrowing.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/13/community-organizations-discuss-medicaid-snap-cuts/",
+   "t": "2026-11-13",
    "impact": 3,
-   "act": true
+   "act": false
   },
   {
-   "h": "Paine Field flights hit by nationwide FAA ground stop",
-   "s": "The FAA halted all U.S. flights Friday afternoon after a telecommunications outage, affecting Everett's airport. Paine Field told travelers to confirm flight status with their airlines.",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/13/paine-field-impacted-by-nationwide-ground-stop/",
+   "h": "Repeat boat-theft suspect released again; Everett boaters warned",
+   "s": "A man arrested three times in 12 days in October over stolen boats and crab pots was released Nov. 4. Police and WDFW urge owners to check stored boats and record serial numbers.",
+   "src": "Everett Post",
+   "u": "https://www.everettpost.com/local-news/catch-and-release-for-repeat-boat-theft-suspect-arrested-on-everett-waterfront/",
    "t": "2026-11-13",
    "impact": 2,
    "act": false
   },
   {
-   "h": "County adopts $3.37B budget on split 3-2 vote",
-   "s": "The County Council approved the 2027-28 operating budget with higher property taxes. Dissenting member Nathan Nehring tallied about $24 million in new property tax plus other rate hikes and warned of borrowing within three years.",
-   "src": "My Everett News",
-   "u": "https://myeverettnews.com/2026/11/11/snohomish-county-council-adopts-3-37-billion-biennial-county-budget-with-taxes-increases/",
-   "t": "2026-11-11",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Everett mayor pitches $73M plan from transit merger money",
-   "s": "Mayor Cassie Franklin wants to spend funds from folding Everett Transit into Community Transit on roads, parks and worker transition, plus $30 million toward the planned outdoor stadium. The council will weigh a detailed plan soon.",
-   "src": "My Everett News",
-   "u": "https://myeverettnews.com/2026/11/11/mayor-franklin-proposes-73-million-community-investment-plan-for-transit-consolidation-funds/",
-   "t": "2026-11-11",
+   "h": "Everett stash-house drug courier sentenced to five years",
+   "s": "Sylvestre Ramos tended an Everett stash house where officers found more than 8 kg of fentanyl. He got five years in federal prison; the wider investigation seized about 34 kg of fentanyl.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/crime-blotter/everett-meth-trafficking/4299295",
+   "t": "2026-11-14",
    "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Skate America wraps up in Everett",
-   "s": "The final session at Angel of the Winds Arena starts at 11 a.m. with the free dance and women's free skate.",
-   "date": "2026-11-15",
-   "src": "U.S. Figure Skating",
-   "u": "https://usfigureskating.org/news/2026/4/7/press-releases-us-figure-skating-announces-2026-skate-america-date-change-and-event-schedule.aspx"
-  },
-  {
-   "h": "WSU men's basketball hosts Hawaii in Everett",
-   "s": "The Cougars play the Rainbow Warriors at Angel of the Winds Arena at 7 p.m.",
+   "h": "WSU men's basketball plays Hawaii in Everett",
+   "s": "Washington State faces Hawaii at 7 p.m. at Angel of the Winds Arena.",
    "date": "2026-11-18",
    "src": "FOX 13 Seattle",
    "u": "https://www.fox13seattle.com/sports/washington-state-play-hawaii-everett"

@@ -1,0 +1,58 @@
+{
+ "stories": [
+  {
+   "h": "2 Line trains swapped for buses across Lake Washington",
+   "s": "No light rail runs between International District/Chinatown and South Bellevue Saturday and Sunday while crews reinforce power-rail parts under the Mercer Island lids. Shuttles run every 10-15 minutes; Redmond-South Bellevue trains continue.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/local/seattle-lightrail-shutdown/4299333",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": true
+  },
+  {
+   "h": "Wind and heavy rain arrive tonight; outages possible",
+   "s": "Scattered showers give way to a stronger system after dark. Interior gusts of 30-40 mph peak around midnight, below advisory level but enough for power outages. Up to an inch of rain; showers linger Sunday.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/weather/seattle-weather-scattered-showers-saturday-increasing-late-wind-rain",
+   "t": "2026-11-14",
+   "impact": 3,
+   "act": true
+  },
+  {
+   "h": "FAA ground stop snarls Sea-Tac with hundreds of delays",
+   "s": "A telecom outage led the FAA to halt flights nationwide Friday afternoon before lifting the stop. Sea-Tac logged 451 delays and 133 cancellations by late afternoon; Alaska warned recovery would take time and offered flexible rebooking.",
+   "src": "KOMO News",
+   "u": "https://komonews.com/news/local/seattle-tacoma-international-airport-federal-aviation-administration-faa-ground-stop-flightaware-travelers-case-by-case-basis-alaska-airlines-homeland-security-notam",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Seven-car I-5 crash in SeaTac kills one, injures seven",
+   "s": "Troopers say a speeding 23-year-old Auburn driver triggered the Thursday night pileup near South 200th Street, killing a 68-year-old van passenger. Northbound lanes were shut for about seven hours. Vehicular homicide charges are possible.",
+   "src": "Redmond Reporter",
+   "u": "https://www.redmond-reporter.com/2026/11/13/reported-reckless-i-5-driving-by-auburn-man-kills-1-injures-7/",
+   "t": "2026-11-13",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "One killed in Redmond shooting; two suspects fled",
+   "s": "A person shot Friday afternoon off Avondale Road NE near Woodinville-Duvall Road died en route to Harborview. Police are looking for two suspects but say they see no threat to the public. Tips: 425-556-2500.",
+   "src": "KIRO 7",
+   "u": "https://kiro7.com/news/local/1-killed-redmond-shooting-two-suspects-loose/VCWKMBHD6JG6PP2E6BCGC74YZI",
+   "t": "2026-11-13",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Seattle council final vote on 2027-28 budget",
+   "s": "Council members take up Mayor Wilson's roughly $9 billion budget plan, which closes a $175 million gap and makes meal-program funding permanent.",
+   "date": "2026-11-20",
+   "src": "KNKX",
+   "u": "https://www.knkx.org/government/2026-11-12/seattle-mayor-katie-wilson-budget-proposal-human-services-providers"
+  }
+ ]
+}

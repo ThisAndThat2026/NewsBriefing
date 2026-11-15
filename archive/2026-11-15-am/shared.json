@@ -1,0 +1,227 @@
+{
+ "us": [
+  {
+   "h": "Thousands more flights canceled Saturday after nationwide FAA ground stop",
+   "s": "Air travel is still recovering after Friday's four-hour stop, blamed on new equipment overloading older ATC network gear; over 2,500 Saturday flights were canceled. Check your flight. Airlines must refund canceled trips if you choose not to fly.",
+   "src": "FOX 5 New York",
+   "u": "https://www.fox5ny.com/news/faa-ground-stop-aftermath-cancels-thousands-saturday-flights-what-know",
+   "t": "2026-11-14",
+   "impact": 5,
+   "act": true
+  },
+  {
+   "h": "U.S. loses measles elimination status after 26 years",
+   "s": "PAHO, the WHO's Americas arm, revoked the status because one measles strain spread unbroken for over a year. Reported 2026 cases now exceed 5,000, and states count 10 deaths this year.",
+   "src": "KFGO (Reuters)",
+   "u": "https://kfgo.com/2026/11/13/us-loses-measles-free-status-after-continued-spread-of-the-disease-wsj-reports/",
+   "t": "2026-11-13",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Tanker slams New Orleans riverboat; all aboard accounted for",
+   "s": "A tanker that apparently lost steering struck and capsized the American Heritage cruise boat on the Mississippi. More than 30 people were hospitalized, none critically. The Coast Guard closed a stretch of river, and NTSB investigators arrive Saturday.",
+   "src": "ABC News",
+   "u": "https://abcnews.com/US/vessel-collision-port-new-orleans-emergency-crews-responding/story?id=138119847",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Bomb defused at Peoria ethanol plant; FBI hunting for culprit",
+   "s": "Police called a package found at the BioUrja plant in Peoria, Illinois, a credible bomb, evacuated homes within a mile and made it safe Friday night. Searchers are checking the plant for more devices.",
+   "src": "CBS News",
+   "u": "https://www.cbsnews.com/news/peoria-illinois-bomb-threat-evacuation/",
+   "t": "2026-11-14",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Trump sidelines Vance on Iran, says no deal needed",
+   "s": "Eight months into the war, Trump says a deal with Tehran is unnecessary and has moved Vance off the talks onto a domestic anti-fraud push. Qatar's mediation is stalled and the U.S. naval blockade continues.",
+   "src": "ABC News (AP)",
+   "u": "https://abcnews.com/US/wireStory/shifting-iran-rhetoric-us-elections-trump-leaves-mideast-138136269",
+   "t": "2026-11-14",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Democrat Kreiss-Tomkins wins Alaska governor, flipping the seat",
+   "s": "AP called the race for the 37-year-old former legislator after he passed 50%, so no ranked-choice runoff is needed. He'll be Alaska's first Democratic governor since 2002. The Peltola-Sullivan Senate race remains uncalled.",
+   "src": "The Spokesman-Review (Washington Post)",
+   "u": "https://www.spokesman.com/stories/2026/nov/13/democrat-jonathan-kreiss-tomkins-wins-alaska-gover/",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "world": [
+  {
+   "h": "Iran says mines set tankers ablaze; UN counts 25 sailors killed",
+   "s": "Iran reported three tankers striking mines near Hormuz on Saturday. A UN official told the Security Council at least 25 seafarers have died there since February, with traffic still about 65% below prewar levels.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
+   "t": "2026-11-14",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "EU picks five nations to join next Ukraine talks",
+   "s": "After a Dublin summit, the EU said the UK, France, Germany, Italy and Poland will sit alongside EU diplomats at the next round. The Kremlin says it has not yet agreed to European participation.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice",
+   "t": "2026-11-13",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Congo Ebola outbreak passes 11,000 cases as violence hampers response",
+   "s": "The country's largest outbreak has killed over 5,000 people. WHO sees 400 to 500 new infections weekly; UN officials say armed-group attacks, including one that killed 66 civilians, are now the biggest obstacle.",
+   "src": "UN News",
+   "u": "https://news.un.org/en/story/2026/11/1168797",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Turkey and Qatar sign mutual defence pact amid Iran war",
+   "s": "Erdogan and Qatar's emir agreed in Istanbul to respond jointly to any outside armed attack on either country, the latest Gulf security deal reflecting doubts about U.S. protection.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "ICC judges halt probe of U.S. troops in Afghanistan",
+   "s": "The court ended the investigation into alleged American and ISKP crimes, citing limits on gathering evidence, and refocused on the Taliban since 2021. Prosecutors have appealed.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan",
+   "t": "2026-11-14",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "South Sudan delays first-ever national election to February",
+   "s": "The election commission moved the vote from December 22 to February 11, 2027, without explanation. It is at least the third delay, amid rising clashes with supporters of detained ex-vice president Riek Machar.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february",
+   "t": "2026-11-14",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "tech": [
+  {
+   "h": "Microsoft restores Outlook and Teams after day-long global outage",
+   "s": "Services recovered after more than 24 hours of disruption across 74 countries. Microsoft blamed a faulty network capacity upgrade, not a cyberattack, and promised a full incident report.",
+   "src": "The Jerusalem Post (Reuters)",
+   "u": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-914847",
+   "t": "2026-11-14",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Ex-Nvidia CEO Huang misled top lawyer about affair, sources say",
+   "s": "Huang told Nvidia's general counsel and marketing chief his ties to Alice Huang were ordinary customer dealings. Nvidia stock is down over 30% from its October high.",
+   "src": "GMA News (Reuters)",
+   "u": "https://www.gmanetwork.com/news/topstories/world/1009460/ex-nvidia-ceo-jensen-huang-misled-top-lawyer-on-affair-with-chinese-businesswoman-sources/story/",
+   "t": "2026-11-14",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Nvidia board sounded out Arm CEO Rene Haas as successor",
+   "s": "Per the Financial Times, Haas is one of several candidates to replace Jensen Huang, with no offer guaranteed. Arm and Nvidia shares both fell Friday.",
+   "src": "RTÉ",
+   "u": "https://www.rte.ie/news/business/2026/1113/1599163-nvidia-approached-arm-ceo-haas-to-succeed-huang-ft/",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Fed survey ranks AI as top financial-system risk",
+   "s": "In its twice-yearly stability report, 87% of contacts named AI a key risk, up from 50% in May. The Fed flagged about $680 billion in data-center debt and tangled lending ties.",
+   "src": "Investing.com (Reuters)",
+   "u": "https://www.investing.com/news/economy-news/ai-rockets-to-top-of-worries-about-financial-system-in-latest-fed-survey-5026488",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Italy fines Meta €805 million over Android photo access",
+   "s": "Italy's privacy regulator says a Facebook feature suggesting gallery content read users' photos and videos without consent. The fine equals about 0.47% of Meta's global revenue.",
+   "src": "Investing.com (Reuters)",
+   "u": "https://www.investing.com/news/stock-market-news/italy-fines-meta-887-million-over-android-users-data-access-5027329",
+   "t": "2026-11-14",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Tesla opens Cybercab orders with required $299 monthly fee",
+   "s": "Invited buyers can order the $29,990 driverless car, but it won't run without the subscription and works only inside Tesla's Robotaxi zones. First Austin deliveries are expected in December.",
+   "src": "Electrek",
+   "u": "https://electrek.co/2026/11/13/tesla-cybercab-personal-use-orders-299-subscription-geofence/",
+   "t": "2026-11-13",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "talking": [
+  {
+   "h": "Van Hollen's bid to oust Schumer divides incoming Democratic majority",
+   "s": "Sanders and several senators-elect back Van Hollen, while others stick with Schumer, who cites eight Senate seats gained. The secret-ballot leadership vote is expected in early December.",
+   "src": "ABC News",
+   "u": "https://abcnews.com/Politics/schumer-van-hollen-facing-off-senate-majority-leader/story?id=138111386",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Bessent blames Lutnick as Nvidia chips-to-China scandal widens",
+   "s": "The Treasury chief publicly faulted Commerce for stalling export curbs on a Singapore firm tied to the affair that cost Jensen Huang his CEO job, an unusual cabinet rift.",
+   "src": "PBS NewsHour (AP)",
+   "u": "https://www.pbs.org/newshour/politics/bessent-blames-lutnicks-commerce-department-for-not-restricting-nvidia-chips-to-china",
+   "t": "2026-11-13",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "October retail sales report",
+   "s": "The Census Bureau releases October advance retail sales at 8:30 a.m. ET, a key read on consumer spending ahead of the holidays.",
+   "date": "2026-11-17",
+   "src": "U.S. Census Bureau",
+   "u": "https://census.gov/retail/release_schedule.html"
+  },
+  {
+   "h": "Nvidia earnings amid chip-export scandal",
+   "s": "Nvidia reports third-quarter results Tuesday with a 2 p.m. PT call, its first under interim CEO Colette Kress since Jensen Huang resigned.",
+   "date": "2026-11-17",
+   "src": "Nvidia",
+   "u": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
+  },
+  {
+   "h": "Fed releases October meeting minutes",
+   "s": "Minutes from the Fed's Oct. 27–28 meeting are out at 2 p.m. ET and could signal where interest rates go next.",
+   "date": "2026-11-18",
+   "src": "Federal Reserve",
+   "u": "https://www.federalreserve.gov/newsevents/2026-november.htm"
+  },
+  {
+   "h": "Alaska wraps up ballot count in Senate race",
+   "s": "Alaska's final count is due Nov. 18, which should settle the close Peltola-Sullivan Senate race.",
+   "date": "2026-11-18",
+   "src": "Alaska Public Media",
+   "u": "https://alaskapublic.org/news/politics/elections/2026-11-12/jkt-tops-50-in-alaska-governors-race-as-peltola-extends-senate-lead"
+  },
+  {
+   "h": "Trump meets Xi and Putin at APEC in China",
+   "s": "After stops in Manila, Trump joins the APEC summit in Shenzhen and holds a three-way meeting with Xi and Putin on Nov. 19, the White House says.",
+   "date": "2026-11-19",
+   "src": "ThePrint (Bloomberg)",
+   "u": "https://theprint.in/world/trump-to-meet-xi-and-putin-at-apec-summit-in-china-next-week/3098880/"
+  }
+ ]
+}

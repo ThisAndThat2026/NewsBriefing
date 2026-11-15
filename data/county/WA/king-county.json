@@ -1,58 +1,49 @@
 {
  "stories": [
   {
-   "h": "2 Line trains swapped for buses across Lake Washington",
-   "s": "No light rail runs between International District/Chinatown and South Bellevue Saturday and Sunday while crews reinforce power-rail parts under the Mercer Island lids. Shuttles run every 10-15 minutes; Redmond-South Bellevue trains continue.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/local/seattle-lightrail-shutdown/4299333",
+   "h": "Sunday bus detours: Kirkland Turkey Trot, Route 65, ST 556",
+   "s": "Routes 230, 231 and 255 skip some Kirkland stops from 8:30 to 11:30 a.m. Route 65 is detoured off Roosevelt Way NE and ST 556 off Bellevue Way NE until early Monday.",
+   "src": "King County Metro",
+   "u": "https://kingcountymetro.blog/2026/11/13/metro-weekend-update-november-13-15-2026/",
    "t": "2026-11-13",
-   "impact": 3,
+   "impact": 2,
    "act": true
   },
   {
-   "h": "Wind and heavy rain arrive tonight; outages possible",
-   "s": "Scattered showers give way to a stronger system after dark. Interior gusts of 30-40 mph peak around midnight, below advisory level but enough for power outages. Up to an inch of rain; showers linger Sunday.",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/weather/seattle-weather-scattered-showers-saturday-increasing-late-wind-rain",
+   "h": "Seattle/King County free clinic will end after 2027",
+   "s": "Organizers say the annual Seattle Center clinic has become unsustainable due to rising costs and fundraising problems. Its last event runs April 29 to May 2, 2027; it serves about 3,000 uninsured or underinsured patients a year.",
+   "src": "KNKX",
+   "u": "https://www.knkx.org/public-health/2026-11-14/seattle-center-stop-hosting-free-clinic-after-2027",
    "t": "2026-11-14",
    "impact": 3,
-   "act": true
-  },
-  {
-   "h": "FAA ground stop snarls Sea-Tac with hundreds of delays",
-   "s": "A telecom outage led the FAA to halt flights nationwide Friday afternoon before lifting the stop. Sea-Tac logged 451 delays and 133 cancellations by late afternoon; Alaska warned recovery would take time and offered flexible rebooking.",
-   "src": "KOMO News",
-   "u": "https://komonews.com/news/local/seattle-tacoma-international-airport-federal-aviation-administration-faa-ground-stop-flightaware-travelers-case-by-case-basis-alaska-airlines-homeland-security-notam",
-   "t": "2026-11-13",
-   "impact": 3,
    "act": false
   },
   {
-   "h": "Seven-car I-5 crash in SeaTac kills one, injures seven",
-   "s": "Troopers say a speeding 23-year-old Auburn driver triggered the Thursday night pileup near South 200th Street, killing a 68-year-old van passenger. Northbound lanes were shut for about seven hours. Vehicular homicide charges are possible.",
-   "src": "Redmond Reporter",
-   "u": "https://www.redmond-reporter.com/2026/11/13/reported-reckless-i-5-driving-by-auburn-man-kills-1-injures-7/",
-   "t": "2026-11-13",
+   "h": "Seattle man charged in long-running immigration fraud scheme",
+   "s": "Mustafa Aman, 39, faces a six-count federal indictment. Prosecutors allege he faked recommendation letters and job records from 2013 to 2024 to help friends and family get visas, including Afghan Special Immigrant Visas.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/crime-blotter/seattle-immigration-fraud/4299314",
+   "t": "2026-11-15",
    "impact": 2,
    "act": false
   },
   {
-   "h": "One killed in Redmond shooting; two suspects fled",
-   "s": "A person shot Friday afternoon off Avondale Road NE near Woodinville-Duvall Road died en route to Harborview. Police are looking for two suspects but say they see no threat to the public. Tips: 425-556-2500.",
-   "src": "KIRO 7",
-   "u": "https://kiro7.com/news/local/1-killed-redmond-shooting-two-suspects-loose/VCWKMBHD6JG6PP2E6BCGC74YZI",
-   "t": "2026-11-13",
-   "impact": 2,
+   "h": "Westlake Park holiday carousel returns after five-year gap",
+   "s": "The downtown Seattle carousel, which first ran in 1987, returns Nov. 27 with the tree lighting and runs through Jan. 3.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/lifestyle/seattle-holiday-carousel/4299332",
+   "t": "2026-11-14",
+   "impact": 1,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Seattle council final vote on 2027-28 budget",
-   "s": "Council members take up Mayor Wilson's roughly $9 billion budget plan, which closes a $175 million gap and makes meal-program funding permanent.",
+   "h": "Final public comment on Seattle's 2027-28 budget",
+   "s": "The Select Budget Committee holds its last scheduled public comment period at 1 p.m., ahead of final adoption of Mayor Wilson's $9.1 billion budget.",
    "date": "2026-11-20",
-   "src": "KNKX",
-   "u": "https://www.knkx.org/government/2026-11-12/seattle-mayor-katie-wilson-budget-proposal-human-services-providers"
+   "src": "City of Seattle",
+   "u": "https://content.govdelivery.com/accounts/WASEATTLE/bulletins/42c5fe6"
   }
  ]
 }

@@ -1,85 +1,58 @@
 {
  "stories": [
   {
-   "h": "Wind and heavy rain hit coast, islands Saturday night",
-   "s": "A wind advisory covers the coast and San Juan County from 4 p.m. Saturday to 4 a.m. Sunday, with gusts near 55 mph. Mason County is under a Skokomish River flood watch; interior gusts of 30-40 mph could cut power.",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/weather/seattle-weather-scattered-showers-saturday-increasing-late-wind-rain",
+   "h": "Showers linger Sunday; snow likely at Stevens, White passes Monday",
+   "s": "After Saturday night's atmospheric-river storm, showers continue Sunday with highs in the 50s. Snow levels drop to about 4,000 feet Monday, so snow is likely at Stevens and White passes but not Snoqualmie.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/pacific-northwest-weather/wa-storm-weather-typhoon/4299410",
    "t": "2026-11-14",
-   "impact": 4,
+   "impact": 3,
    "act": true
   },
   {
-   "h": "Judge rules Adams County broke state law by aiding ICE",
-   "s": "A Spokane County judge found Adams County's sheriff's office illegally shared jail information with and held people for immigration agents, violating the Keep Washington Working Act. The county must revise policies and train staff; the sheriff plans to appeal.",
+   "h": "Democrats win Yakima Valley's 14th District for first time in 34 years",
+   "s": "Zeke Morfín and Chelsea Dimas took both 14th District House seats, and Democrats also flipped a 12th District seat, their first wins east of the Cascades outside Spokane County since 2008, helping secure a House supermajority.",
    "src": "The Spokesman-Review",
-   "u": "https://www.spokesman.com/stories/2026/nov/13/adams-county-illegally-cooperated-with-federal-imm/",
-   "t": "2026-11-13",
+   "u": "https://www.spokesman.com/stories/2026/nov/15/we-are-accountable-to-them-democratic-wave-reached/",
+   "t": "2026-11-15",
    "impact": 3,
    "act": false
   },
   {
-   "h": "AG hires outside firm to defend girls' sports initiative",
-   "s": "Attorney General Nick Brown appointed Bryan Cave Leighton Paisner to defend I-638, which requires sex verification for girls' sports, against an ACLU-led lawsuit in King County. The measure takes effect Dec. 3 unless a judge blocks it.",
-   "src": "KOMO",
-   "u": "https://komonews.com/news/local/outside-law-firm-to-defend-washington-girls-sports-initiative-in-court-attorney-general-nick-brown-bryan-cave-leighton-paisner-washington-interscholastic-activities-association",
-   "t": "2026-11-13",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Orcas ferry truck limits continue; wind may slow repairs",
-   "s": "Cracked beams at the Orcas terminal keep vehicles over 22 feet or 8,000 pounds off ferries for up to two weeks. High winds could delay weekend repair work; barges are prioritizing food, fuel and medical supplies.",
-   "src": "KOMO",
-   "u": "https://komonews.com/news/local/vehicle-restrictions-remain-in-place-at-orcas-island-ferry-terminal-during-repairs-goods-and-services-san-juan-isalnds-ferry-travel-stranded-small-community",
+   "h": "More damage found at Orcas ferry terminal; wind slows repairs",
+   "s": "WSF says high winds stalled scaffolding work and crews found more damage on the transfer span. The 22-foot limit for standard vehicles stays in place with no end date; the next update is due Monday.",
+   "src": "WSDOT Blog",
+   "u": "https://wsdotblog.blogspot.com/2026/11/vehicle-restrictions-in-place-at-orcas.html",
    "t": "2026-11-13",
    "impact": 3,
    "act": true
-  },
-  {
-   "h": "Ferguson seeks $10M for Richland clean energy park",
-   "s": "The governor will ask lawmakers for $10 million for water, sewer and road work at a 1,600-acre former Hanford site, where fertilizer, solar and nuclear fuel companies are planning or weighing projects.",
-   "src": "NonStop Local (KNDU)",
-   "u": "https://www.nbcrightnow.com/news/governor-proposal-could-send-10m-to-richland-clean-energy-park/article_e04110e0-a31f-414f-bf4f-89d168dcc227.html",
-   "t": "2026-11-13",
-   "impact": 2,
-   "act": false
   }
  ],
  "talking": [
   {
-   "h": "Ferguson and schools chief Reykdal trade jabs ahead of 2028",
-   "s": "After Reykdal said he won't seek a fourth term, Ferguson called it good news and cited weak test scores. Reykdal hasn't ruled out running for governor or Congress, fueling talk of a Democratic primary fight.",
+   "h": "WSU routs Colorado State 73-7 but misses a bowl",
+   "s": "The Cougars won their first FBS game of the season Saturday in Pullman but will miss a bowl game. Next weekend they travel to Texas State.",
    "src": "The Spokesman-Review",
-   "u": "https://www.spokesman.com/stories/2026/nov/13/gov-ferguson-state-schools-chief-reykdal-feud-as-s/",
-   "t": "2026-11-13",
-   "impact": 2,
-   "act": false
-  },
-  {
-   "h": "Influencer retracts SNAP fraud claims against Seattle market",
-   "s": "YouTuber Nick Shirley took down his October video accusing Lam's Seafood Asian Market of food stamp fraud, saying he found no evidence, after the store's lawyer sent a cease-and-desist letter.",
-   "src": "The National Desk",
-   "u": "https://thenationaldesk.com/news/americas-news-now/nick-shirley-retracts-fraud-allegations-made-against-a-grocery-store-in-seattle-washington-donald-trump-minnesota-rtt",
-   "t": "2026-11-13",
+   "u": "https://www.spokesman.com/stories/2026/nov/15/washington-state-analysis/",
+   "t": "2026-11-15",
    "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "State revenue forecast released",
-   "s": "The Economic and Revenue Forecast Council meets at noon in Olympia for the November revenue review, followed by the transportation forecast at 2 p.m.",
+   "h": "State releases November revenue forecast",
+   "s": "The Economic and Revenue Forecast Council's quarterly revenue review starts at noon in the Cherberg Building and on Zoom, shaping budget writing ahead of the 2027 session.",
    "date": "2026-11-16",
-   "src": "WA ERFC",
-   "u": "https://erfc.wa.gov/meetings"
+   "src": "WA Economic and Revenue Forecast Council",
+   "u": "https://erfc.wa.gov/sites/default/files/2026-04/2026_ERFC_meetingSchedule.pdf"
   },
   {
-   "h": "WSDOT update on Orcas ferry terminal restrictions",
-   "s": "WSDOT expects to say Monday whether truck limits at the damaged Orcas terminal can be eased after initial repairs.",
+   "h": "Next update on Orcas ferry terminal repairs",
+   "s": "WSF plans to post its next update on the transfer span repairs and vehicle-length limits at Orcas Island.",
    "date": "2026-11-16",
-   "src": "KOMO",
-   "u": "https://komonews.com/news/local/vehicle-restrictions-remain-in-place-at-orcas-island-ferry-terminal-during-repairs-goods-and-services-san-juan-isalnds-ferry-travel-stranded-small-community"
+   "src": "WSDOT Blog",
+   "u": "https://wsdotblog.blogspot.com/2026/11/vehicle-restrictions-in-place-at-orcas.html"
   }
  ]
 }

@@ -1,63 +1,56 @@
 {
  "stories": [
   {
-   "h": "Trump signals he may skip new Iran strikes absent provocation",
-   "s": "Per a Reuters report carried by Times of Israel, Trump told aides he may hold off on attacking Iran unless Tehran or the Houthis provoke the US. Saudi and Turkish leaders reportedly urged restraint.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/liveblog_entry/trump-told-advisers-he-may-not-attack-iran-as-long-as-it-doesnt-provoke-us-sources-say/",
+   "h": "Likud and Eisenkot's Yashar open unity-government talks",
+   "s": "Negotiating teams from Likud and Yashar were set to meet Sunday evening after Netanyahu's Saturday unity appeal. Eisenkot rejects rotation or any deal he doesn't lead, and Liberman's party scorned the talks.",
+   "src": "Ynetnews",
+   "u": "https://www.ynetnews.com/article/s1v0vgp0ml",
+   "t": "2026-11-15",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "IDF raises alert over possible sudden US-Iran escalation",
+   "s": "Israeli defense officials are preparing for a surprise Iranian attack, an abrupt US strike with little warning, or a weak deal. Air defenses and early-warning systems are on heightened alert.",
+   "src": "Jerusalem Post",
+   "u": "https://www.jpost.com/middle-east/iran-news/article-914880",
    "t": "2026-11-14",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Eisenkot reportedly puts ultra-Orthodox parties first in coalition push",
-   "s": "Channel 12 says Eisenkot, lacking a majority with his 48-seat bloc, will prioritize a deal with Haredi parties, as Liberman urges. UTJ is weighing terms on the draft; Shas remains with Netanyahu.",
+   "h": "Israeli strike kills Hamas Rafah Brigade commander in Khan Younis",
+   "s": "Samir Abu Younis died in an overnight strike in Mawasi, confirmed by the IDF, Shin Bet and Hamas. His predecessor was killed in September; the Gaza peace plan's implementation remains stalled.",
    "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/eisenkot-said-prioritizing-efforts-to-form-coalition-with-ultra-orthodox/",
-   "t": "2026-11-14",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Tibi airs messages alleging Netanyahu camp courted Arab MKs",
-   "s": "Joint List MK Ahmad Tibi showed what he said were texts from Netanyahu confidant Natan Eshel seeking Arab help to block Eisenkot, despite public attacks on Arab parties. Likud called the claims a lie.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/tibi-exposes-messages-said-to-show-netanyahu-camp-sought-arab-help-while-attacking-parties-publicly/",
-   "t": "2026-11-14",
+   "u": "https://www.timesofisrael.com/chief-of-hamass-rafah-brigade-killed-in-israeli-strike-2-months-after-predecessor/",
+   "t": "2026-11-15",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Grenade blast in Kafr Manda wounds four, one critically",
-   "s": "A hand grenade exploded Saturday afternoon in the northern Arab town, leaving a woman around 60 in critical condition and two others moderately hurt; victims were taken to hospitals in Haifa and Nazareth.",
+   "h": "Democrats to chair committee repealing judicial overhaul laws",
+   "s": "Under a deal with Yashar, Yair Golan's party will head a special Knesset committee targeting laws that weakened the attorney general and increased political control of judicial appointments. It is due to form this week.",
    "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/israel-news/defense-news/article-914861",
-   "t": "2026-11-14",
-   "impact": 2,
+   "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914932",
+   "t": "2026-11-15",
+   "impact": 3,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Security cabinet set to meet amid Iran strike concerns",
-   "s": "Netanyahu's security cabinet is slated to convene Sunday for the first time since October 5, while Eisenkot cautions the caretaker government against launching military action on Iran.",
-   "date": "2026-11-15",
-   "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/israel-election-2026/article-914671"
-  },
-  {
-   "h": "Knesset expected to vote on Liberman as defense committee chair",
-   "s": "After Likud delayed the vote, the plenum is expected to decide Monday; until then Liberman cannot use the chair's powers or see classified material.",
+   "h": "Knesset final votes on Liberman, Ben-Horin committee chairs",
+   "s": "The plenum holds final votes on Liberman as Foreign Affairs and Defense Committee chair and Liran Avisar Ben-Horin as Finance Committee chair, after Likud blocked the Liberman vote last week.",
    "date": "2026-11-16",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/liveblog_entry/likud-blocked-vote-to-install-liberman-as-defense-committee-chair-delaying-security-oversight-until-monday-report/"
+   "src": "Jerusalem Post",
+   "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914932"
   },
   {
-   "h": "E1 settlement tender bids due to be opened",
-   "s": "The Israel Land Authority set November 19 to open bids for E1 housing units, as Denmark and other European states press for an emergency UN Security Council session.",
-   "date": "2026-11-19",
+   "h": "Knesset votes on replacing Speaker Ohana with Kahana",
+   "s": "The new Knesset's first agenda item is a vote to install Yashar MK Matan Kahana as speaker in place of Likud's Amir Ohana.",
+   "date": "2026-11-17",
    "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/liveblog_entry/denmark-european-countries-pushing-for-emergency-un-security-council-meeting-on-e1"
+   "u": "https://www.timesofisrael.com/daily-briefing-nov-15-new-week-new-knesset-can-eisenkot-find-a-path-to-power/"
   }
  ]
 }
