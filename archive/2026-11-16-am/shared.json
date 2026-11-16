@@ -1,0 +1,191 @@
+{
+ "us": [
+  {
+   "h": "Flight chaos lingers as Duffy blames FAA contractor",
+   "s": "Airlines canceled more than 6,400 U.S. flights Saturday after Friday's ground stop. Transportation Secretary Duffy pointed to router work by contractor L3Harris. FAA chief Bryan Bedford expects operations mostly normal by late Sunday.",
+   "src": "Yahoo Finance (Reuters)",
+   "u": "https://uk.finance.yahoo.com/news/thousands-us-flights-canceled-delayed-155615998.html",
+   "t": "2026-11-14",
+   "impact": 5,
+   "act": true
+  },
+  {
+   "h": "Peltola declares victory over Sullivan in Alaska Senate race",
+   "s": "Democrat Mary Peltola claimed victory while leading Sen. Dan Sullivan 49.8% to 46.1%, about 10,400 votes, with 98% counted. The AP had not called the race.",
+   "src": "Washington Examiner",
+   "u": "https://www.washingtonexaminer.com/news/campaigns/congressional/4803912/peltola-again-claim-victory-alaska-senate-race/",
+   "t": "2026-11-14",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Judge halts Trump's closure of D.C.'s East Potomac Park",
+   "s": "U.S. District Judge Ana Reyes temporarily barred the administration from closing the park and its public golf course, which was set to close Sunday for a championship-style redesign.",
+   "src": "CBS News",
+   "u": "https://www.cbsnews.com/news/judge-blocks-east-potomac-park-dc-closing/",
+   "t": "2026-11-14",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Deputy kills gunman at South Carolina gun show",
+   "s": "A Lexington County deputy working security at a gun and knife show was shot and then fatally shot the person who fired at him. The deputy had surgery and is stable.",
+   "src": "WRAL (AP)",
+   "u": "https://www.wral.com/news/ap/1309c-deputy-working-security-at-south-carolina-gun-show-fatally-shoots-customer-who-shot-him/",
+   "t": "2026-11-14",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "world": [
+  {
+   "h": "Kremlin says Putin, Xi and Trump will meet November 19",
+   "s": "Kremlin spokesman Dmitry Peskov said the US, Chinese and Russian leaders will hold a three-way meeting in Shenzhen on the sidelines of APEC. Reports say nuclear arms control is on the agenda. Zelenskyy wants Ukraine included.",
+   "src": "Yahoo News (Ukrainska Pravda)",
+   "u": "https://www.yahoo.com/news/politics/articles/kremlin-confirms-date-trump-xi-160100860.html",
+   "t": "2026-11-14",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Iran says it sent drones at US radar site in Bahrain",
+   "s": "Iran's Revolutionary Guards said six drones targeted a US radar defence site at Bahrain's al-Riffa Air Base; Bahrain said it intercepted them. Iran says the Strait of Hormuz stays closed.",
+   "src": "Anadolu Agency",
+   "u": "https://www.aa.com.tr/en/middle-east/iran-says-it-targeted-us-radar-site-in-bahrain-with-6-drones/4125490",
+   "t": "2026-11-15",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Russian strikes kill four in Ukraine, Odesa power hit",
+   "s": "Russia launched 132 drones overnight, and 106 were intercepted. Attacks over the past day killed four people and injured 69. A strike on an energy facility in Odesa Oblast left about 41,000 families temporarily without power.",
+   "src": "Kyiv Independent",
+   "u": "https://kyivindependent.com/russia-launches-mass-attack-on-odesa-oblast-as-strikes-kill-4-injure-69-across-ukraine-over-past-day/",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "EU naval force boards suspected Russian shadow-fleet tanker",
+   "s": "EU Operation IRINI forces boarded the tanker MV MIDAG in the Mediterranean and found it was flying a false flag, Kaja Kallas said. EU ministers are expected to approve new shadow-fleet sanctions Monday.",
+   "src": "Anadolu Agency",
+   "u": "https://www.aa.com.tr/en/europe/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean/4125825",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Canary Islands see most migrant arrivals in a day since 2020",
+   "s": "Spain's coastguard rescued 1,488 people from 14 boats on Saturday, mostly from Senegal, Gambia and Guinea. The surge is straining reception services, especially on El Hierro.",
+   "src": "Anadolu Agency",
+   "u": "https://www.aa.com.tr/en/europe/nearly-1-500-migrants-reach-spain-s-canary-islands-in-single-day-setting-record-since-2020/4125816",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Defeated Brazilian candidate Flavio Bolsonaro seeks US residency",
+   "s": "Flavio Bolsonaro, who lost Brazil's presidential race to Lula, left Brazil despite a travel ban and plans to seek permanent US residency. He is under investigation at home over alleged illegal financing.",
+   "src": "Anadolu Agency",
+   "u": "https://www.aa.com.tr/en/americas/brazils-bolsonaro-seeks-permanent-us-residency-after-election-defeat/4125802",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "tech": [
+  {
+   "h": "SpaceX launch tower catches Starship upper stage for first time",
+   "s": "After a 22-hour, 14-orbit test flight that deployed 26 Starlink satellites, Starship was caught by the Starbase tower's arms. The Super Heavy booster exploded over the Gulf of Mexico, and engineers are investigating.",
+   "src": "Fox Business",
+   "u": "https://www.foxbusiness.com/technology/spacex-makes-history-starship-spacecraft-caught-launch-tower-first-time",
+   "t": "2026-11-14",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Musk, tech execs back petition to reinstate Jensen Huang",
+   "s": "A petition urging Nvidia to bring back ousted CEO Jensen Huang topped 115,000 signatures, including Elon Musk and Tim Sweeney. It asks for due process during an independent probe. CFO Colette Kress is interim CEO.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+   "t": "2026-11-14",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Asian governments weigh fallout from Huang's Nvidia exit",
+   "s": "South Korea said Nvidia reaffirmed plans to supply 260,000 GPUs. Taiwan said Nvidia's overseas headquarters is still on track, and Japan will monitor the situation. China called the spy allegations groundless.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+   "t": "2026-11-14",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Nvidia's security chief change draws scrutiny after Huang scandal",
+   "s": "Nvidia's longtime security chief left in August, about two and a half months before Huang's exit. Nothing public ties the change to the Megaspeed affair, and Nvidia did not answer questions about its security team.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "t": "2026-11-14",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "talking": [
+  {
+   "h": "Fetterman threatens to quit Democrats if Van Hollen leads",
+   "s": "On Fox News, Sen. John Fetterman said he would consider leaving the party if Chris Van Hollen beats Chuck Schumer for majority leader. He cited Van Hollen's stance on Israel and backed Schumer.",
+   "src": "International Business Times",
+   "u": "https://www.ibtimes.com/fetterman-leave-democratic-party-van-hollen-senate-3809775",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Social media swoons over young male Democratic winners",
+   "s": "Memes, quizzes and montages celebrating newly elected Democrats like James Talarico and Abdul El-Sayed are spreading online. Experts tie the trend to a wider debate over masculinity under Trump.",
+   "src": "OPB (NPR)",
+   "u": "https://www.opb.org/article/2026/11/14/democrats-celebrate-hot-male-candidates-after-election-wins/",
+   "t": "2026-11-14",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "October retail sales report",
+   "s": "Census releases its advance October retail sales estimate at 8:30 a.m. ET. Economists expect a 0.2% rise.",
+   "date": "2026-11-17",
+   "src": "U.S. Census Bureau",
+   "u": "https://www.census.gov/retail/release_schedule.html"
+  },
+  {
+   "h": "Nvidia reports earnings after CEO shake-up",
+   "s": "Nvidia posts third-quarter results around 1:20 p.m. PT, with a call at 2 p.m. PT, its first report since Jensen Huang's exit as CEO.",
+   "date": "2026-11-17",
+   "src": "Stock Titan (GlobeNewswire)",
+   "u": "https://www.stocktitan.net/news/NVDA/nvidia-sets-conference-call-for-third-quarter-financial-rgdf7hquxgar.html"
+  },
+  {
+   "h": "Fed releases minutes of last meeting",
+   "s": "The Federal Reserve publishes minutes from its most recent policy meeting.",
+   "date": "2026-11-18",
+   "src": "WRAL (AP)",
+   "u": "https://www.wral.com/news/ap/336b9-retail-sales-and-fed-minutes-in-focus-next-week/"
+  },
+  {
+   "h": "Alaska's final ranked-choice tally",
+   "s": "Alaska runs its final ranked-choice tabulation after the overseas ballot deadline, which could settle the Peltola-Sullivan Senate race. Certification is targeted for Nov. 25.",
+   "date": "2026-11-18",
+   "src": "Yahoo News (Fox News)",
+   "u": "https://www.yahoo.com/news/politics/articles/peltola-widens-narrow-alaska-senate-194624521.html"
+  },
+  {
+   "h": "Trump, Xi and Putin meet in Shenzhen",
+   "s": "The Kremlin says the three leaders will hold a trilateral meeting on the sidelines of the Nov. 18-19 APEC summit in China.",
+   "date": "2026-11-19",
+   "src": "A News (Anadolu)",
+   "u": "https://www.anews.com.tr/world/2026/11/14/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19"
+  }
+ ]
+}

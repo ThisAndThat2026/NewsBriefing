@@ -1,29 +1,20 @@
 {
  "stories": [
   {
-   "h": "Tacoma council restores some officer jobs in budget work",
-   "s": "Facing a $40 million deficit, the council kept five of 10 community service officer jobs through 2028 and approved $450,000 for behavioral health case management. The HOPE team is still slated for elimination.",
-   "src": "Northwest Public Broadcasting",
-   "u": "https://www.nwpb.org/local/2026-11-12/city-council-continues-work-on-budget-allocates-some-funding-for-community-service-officers",
-   "t": "2026-11-12",
+   "h": "Police chase ends in deadly Spanaway crash, SR 7 closed",
+   "s": "A fleeing suspect slammed into another car at high speed on Pacific Avenue (SR 7) Sunday night, killing a man. A suspect is in custody; SR 7 near 163rd-166th St. S. was shut for hours.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/one-dead-after-collision-spanaway-section-sr7-currently-blocked/AJACPAYFCRCKJJMWUZ22VPGOYY/",
+   "t": "2026-11-15",
    "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Tacoma Arts Live deal keeps historic armory open",
-   "s": "After saying it would sell the armory to cover about $3 million in debt, the nonprofit is restructuring through receivership and dropping national touring shows to focus on education and local artists.",
-   "src": "KNKX",
-   "u": "https://www.knkx.org/arts-culture/2026-11-14/tacoma-arts-live-nonprofit-keep-armory-open",
-   "t": "2026-11-14",
-   "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
    "h": "Tacoma council expected to adopt 2027-28 budget",
-   "s": "The council plans this week to adopt a balanced two-year budget closing a $40 million deficit; NWPB reports the vote for Nov. 18, so check the city agenda for timing.",
-   "date": "2026-11-18",
+   "s": "After closing a $40 million gap, including cutting the HOPE team and restoring five community service officers, the council plans to adopt the budget at this week's meeting.",
+   "date": "2026-11-17",
    "src": "Northwest Public Broadcasting",
    "u": "https://www.nwpb.org/local/2026-11-12/city-council-continues-work-on-budget-allocates-some-funding-for-community-service-officers"
   }

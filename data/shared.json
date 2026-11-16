@@ -1,191 +1,189 @@
 {
  "us": [
   {
-   "h": "Flight chaos lingers as Duffy blames FAA contractor",
-   "s": "Airlines canceled more than 6,400 U.S. flights Saturday after Friday's ground stop. Transportation Secretary Duffy pointed to router work by contractor L3Harris. FAA chief Bryan Bedford expects operations mostly normal by late Sunday.",
-   "src": "Yahoo Finance (Reuters)",
-   "u": "https://uk.finance.yahoo.com/news/thousands-us-flights-canceled-delayed-155615998.html",
-   "t": "2026-11-14",
-   "impact": 5,
-   "act": true
-  },
-  {
-   "h": "Peltola declares victory over Sullivan in Alaska Senate race",
-   "s": "Democrat Mary Peltola claimed victory while leading Sen. Dan Sullivan 49.8% to 46.1%, about 10,400 votes, with 98% counted. The AP had not called the race.",
-   "src": "Washington Examiner",
-   "u": "https://www.washingtonexaminer.com/news/campaigns/congressional/4803912/peltola-again-claim-victory-alaska-senate-race/",
-   "t": "2026-11-14",
+   "h": "Flight cancellations ease; Duffy seeks $50B for air traffic overhaul",
+   "s": "About 1,570 U.S. flights were canceled Sunday morning, down from 6,700 Saturday and over 9,000 Friday after the FAA ground stop. Duffy wants $50 billion for a new ATC network.",
+   "src": "Yahoo News",
+   "u": "https://www.yahoo.com/news/us/live/faa-ground-stop-latest-updates-duffy-blames-contractor-l3harris-thousands-more-flights-canceled-saturday-no-sign-of-cyberattack-161329174.html",
+   "t": "2026-11-15",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Judge halts Trump's closure of D.C.'s East Potomac Park",
-   "s": "U.S. District Judge Ana Reyes temporarily barred the administration from closing the park and its public golf course, which was set to close Sunday for a championship-style redesign.",
-   "src": "CBS News",
-   "u": "https://www.cbsnews.com/news/judge-blocks-east-potomac-park-dc-closing/",
-   "t": "2026-11-14",
+   "h": "Peltola 157 votes shy of outright Alaska Senate win",
+   "s": "Democrat Mary Peltola leads Sen. Dan Sullivan 49.94% to 45.96% in first-choice votes. If no one tops 50%, ranked-choice tabulation begins Nov. 18; AP has not called the race.",
+   "src": "Newsweek",
+   "u": "https://www.newsweek.com/mary-peltola-closes-in-on-50-threshold-in-alaska-senate-race-12718013",
+   "t": "2026-11-16",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Deputy kills gunman at South Carolina gun show",
-   "s": "A Lexington County deputy working security at a gun and knife show was shot and then fatally shot the person who fired at him. The deputy had surgery and is stable.",
-   "src": "WRAL (AP)",
-   "u": "https://www.wral.com/news/ap/1309c-deputy-working-security-at-south-carolina-gun-show-fatally-shoots-customer-who-shot-him/",
-   "t": "2026-11-14",
-   "impact": 2,
+   "h": "Van Hollen claims 15 backers in bid to oust Schumer",
+   "s": "Sen. Chris Van Hollen said on Fox News Sunday his support is growing; Schumer has at least 13 public endorsements. Senate Democrats vote by secret ballot on Dec. 1.",
+   "src": "Newsweek",
+   "u": "https://www.newsweek.com/chris-van-hollen-chuck-schumer-democrats-midterm-wins-12718380",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Giant waves close California piers, flood coastal streets",
+   "s": "Surf topping 50 feet hit San Mateo County Saturday; piers in Ventura, Huntington Beach, Manhattan Beach and San Diego closed. Forecasters expect large waves all week.",
+   "src": "WLWT (AP)",
+   "u": "https://www.wlwt.com/article/california-coast-huge-waves-close-piers/74434607",
+   "t": "2026-11-15",
+   "impact": 3,
    "act": false
   }
  ],
  "world": [
   {
-   "h": "Kremlin says Putin, Xi and Trump will meet November 19",
-   "s": "Kremlin spokesman Dmitry Peskov said the US, Chinese and Russian leaders will hold a three-way meeting in Shenzhen on the sidelines of APEC. Reports say nuclear arms control is on the agenda. Zelenskyy wants Ukraine included.",
-   "src": "Yahoo News (Ukrainska Pravda)",
-   "u": "https://www.yahoo.com/news/politics/articles/kremlin-confirms-date-trump-xi-160100860.html",
-   "t": "2026-11-14",
+   "h": "Ukraine launches record drone barrage, hits Crimean bridge",
+   "s": "Russia said it downed 1,336 Ukrainian drones overnight, about 600 near Moscow. A strike on the Kerch bridge briefly halted road traffic; the Kremlin called damage minor.",
+   "src": "International Business Times",
+   "u": "https://www.ibtimes.com/ukraine-strikes-crimean-bridge-drone-attack-russia-3809788",
+   "t": "2026-11-16",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Iran says it sent drones at US radar site in Bahrain",
-   "s": "Iran's Revolutionary Guards said six drones targeted a US radar defence site at Bahrain's al-Riffa Air Base; Bahrain said it intercepted them. Iran says the Strait of Hormuz stays closed.",
-   "src": "Anadolu Agency",
-   "u": "https://www.aa.com.tr/en/middle-east/iran-says-it-targeted-us-radar-site-in-bahrain-with-6-drones/4125490",
+   "h": "China confirms first Xi-Trump-Putin summit for Thursday",
+   "s": "Beijing's foreign ministry said the three leaders will meet Nov. 19 in Shenzhen on the sidelines of the APEC summit. No agenda was given.",
+   "src": "The Korea Times (AFP)",
+   "u": "https://www.koreatimes.co.kr/world/20261116/china-confirms-first-xi-trump-putin-summit-on-thursday",
+   "t": "2026-11-16",
+   "impact": 5,
+   "act": false
+  },
+  {
+   "h": "Bahrain intercepts Iranian drones aimed at U.S.-used base",
+   "s": "Bahrain issued its first nationwide alert since September as the IRGC said it targeted radar at a base hosting U.S. assets. No hits or casualties were confirmed.",
+   "src": "The National",
+   "u": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/",
    "t": "2026-11-15",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Russian strikes kill four in Ukraine, Odesa power hit",
-   "s": "Russia launched 132 drones overnight, and 106 were intercepted. Attacks over the past day killed four people and injured 69. A strike on an energy facility in Odesa Oblast left about 41,000 families temporarily without power.",
-   "src": "Kyiv Independent",
-   "u": "https://kyivindependent.com/russia-launches-mass-attack-on-odesa-oblast-as-strikes-kill-4-injure-69-across-ukraine-over-past-day/",
-   "t": "2026-11-15",
+   "h": "Trump arrives in Manila for ASEAN summit",
+   "s": "President Trump lands in the Philippines Monday as Southeast Asian leaders meet, the first stop of an Asia trip that continues to APEC in China.",
+   "src": "WLRN (NPR)",
+   "u": "https://www.wlrn.org/2026-11-16/trump-to-arrive-in-the-philippines-as-southeast-asian-leaders-meet-for-asean-summit",
+   "t": "2026-11-16",
    "impact": 3,
    "act": false
   },
   {
-   "h": "EU naval force boards suspected Russian shadow-fleet tanker",
-   "s": "EU Operation IRINI forces boarded the tanker MV MIDAG in the Mediterranean and found it was flying a false flag, Kaja Kallas said. EU ministers are expected to approve new shadow-fleet sanctions Monday.",
-   "src": "Anadolu Agency",
-   "u": "https://www.aa.com.tr/en/europe/eu-forces-board-suspected-russian-shadow-fleet-tanker-in-mediterranean/4125825",
-   "t": "2026-11-15",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Canary Islands see most migrant arrivals in a day since 2020",
-   "s": "Spain's coastguard rescued 1,488 people from 14 boats on Saturday, mostly from Senegal, Gambia and Guinea. The surge is straining reception services, especially on El Hierro.",
-   "src": "Anadolu Agency",
-   "u": "https://www.aa.com.tr/en/europe/nearly-1-500-migrants-reach-spain-s-canary-islands-in-single-day-setting-record-since-2020/4125816",
-   "t": "2026-11-15",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Defeated Brazilian candidate Flavio Bolsonaro seeks US residency",
-   "s": "Flavio Bolsonaro, who lost Brazil's presidential race to Lula, left Brazil despite a travel ban and plans to seek permanent US residency. He is under investigation at home over alleged illegal financing.",
-   "src": "Anadolu Agency",
-   "u": "https://www.aa.com.tr/en/americas/brazils-bolsonaro-seeks-permanent-us-residency-after-election-defeat/4125802",
-   "t": "2026-11-15",
+   "h": "Estonia to shut all Russia border crossings Dec. 1",
+   "s": "Estonia blamed Russian military intelligence for a foiled sabotage attempt on drone maker Threod Systems and said it will close its three crossings. Eight people were arrested.",
+   "src": "Euronews",
+   "u": "https://www.euronews.com/2026/11/16/estonia-to-close-russia-border-after-sabotage-bid-on-drone-maker-foreign-minister-says",
+   "t": "2026-11-16",
    "impact": 3,
    "act": false
   }
  ],
  "tech": [
   {
-   "h": "SpaceX launch tower catches Starship upper stage for first time",
-   "s": "After a 22-hour, 14-orbit test flight that deployed 26 Starlink satellites, Starship was caught by the Starbase tower's arms. The Super Heavy booster exploded over the Gulf of Mexico, and engineers are investigating.",
+   "h": "Bessent urges outsider CEO for Nvidia after Huang exit",
+   "s": "Treasury Secretary Scott Bessent called for a dramatic shake-up and gave Nvidia's board 10 days to answer questions about chip sales through Singapore shell companies. CFO Colette Kress is interim CEO.",
    "src": "Fox Business",
-   "u": "https://www.foxbusiness.com/technology/spacex-makes-history-starship-spacecraft-caught-launch-tower-first-time",
-   "t": "2026-11-14",
+   "u": "https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo",
+   "t": "2026-11-15",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Musk, tech execs back petition to reinstate Jensen Huang",
-   "s": "A petition urging Nvidia to bring back ousted CEO Jensen Huang topped 115,000 signatures, including Elon Musk and Tim Sweeney. It asks for due process during an independent probe. CFO Colette Kress is interim CEO.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-   "t": "2026-11-14",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Asian governments weigh fallout from Huang's Nvidia exit",
-   "s": "South Korea said Nvidia reaffirmed plans to supply 260,000 GPUs. Taiwan said Nvidia's overseas headquarters is still on track, and Japan will monitor the situation. China called the spy allegations groundless.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-   "t": "2026-11-14",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Nvidia's security chief change draws scrutiny after Huang scandal",
-   "s": "Nvidia's longtime security chief left in August, about two and a half months before Huang's exit. Nothing public ties the change to the Megaspeed affair, and Nvidia did not answer questions about its security team.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-   "t": "2026-11-14",
-   "impact": 2,
-   "act": false
-  }
- ],
- "talking": [
-  {
-   "h": "Fetterman threatens to quit Democrats if Van Hollen leads",
-   "s": "On Fox News, Sen. John Fetterman said he would consider leaving the party if Chris Van Hollen beats Chuck Schumer for majority leader. He cited Van Hollen's stance on Israel and backed Schumer.",
-   "src": "International Business Times",
-   "u": "https://www.ibtimes.com/fetterman-leave-democratic-party-van-hollen-senate-3809775",
+   "h": "Megaspeed says Alice Huang left last year, opens probe",
+   "s": "The Singapore cloud firm accused of routing Nvidia chips to China says the businesswoman at the center of the Nvidia scandal left in August 2025. It hired outside lawyers and denies wrongdoing.",
+   "src": "ABC News (AP)",
+   "u": "https://abcnews.com/amp/Technology/wireStory/megaspeed-alice-huang-left-2025-company-conducts-internal-138155916",
    "t": "2026-11-15",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Social media swoons over young male Democratic winners",
-   "s": "Memes, quizzes and montages celebrating newly elected Democrats like James Talarico and Abdul El-Sayed are spreading online. Experts tie the trend to a wider debate over masculinity under Trump.",
-   "src": "OPB (NPR)",
-   "u": "https://www.opb.org/article/2026/11/14/democrats-celebrate-hot-male-candidates-after-election-wins/",
-   "t": "2026-11-14",
+   "h": "Nvidia's first post-Huang earnings lead a big tech week",
+   "s": "Nvidia reports Tuesday with interim CEO Kress hosting the call. Anthropic expects to price its IPO Wednesday at $70-$78 a share, with Nasdaq trading set for Thursday.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
+   "t": "2026-11-15",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Zelenskyy says SpaceX Starshield speed caps hurt defenses",
+   "s": "Ukraine's president said terminals capped at about 161 km/h in occupied areas have hampered interception of Russian jet drones, and asked U.S. officials and SpaceX for answers.",
+   "src": "Euronews",
+   "u": "https://www.euronews.com/2026/11/15/zelenskyy-questions-spacex-over-reported-starshield-speed-restrictions",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "talking": [
+  {
+   "h": "'Bring Jensen Back' petition tops 175,000 signatures",
+   "s": "Elon Musk and Tim Sweeney are among the signers urging Nvidia to reinstate Jensen Huang, who reportedly is weighing a comeback as allies form a lobbying 'war room.'",
+   "src": "PC Gamer",
+   "u": "https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/",
+   "t": "2026-11-16",
    "impact": 2,
+   "act": false
+  },
+  {
+   "h": "49ers outlast Cowboys 46-40 in record-setting shootout",
+   "s": "San Francisco held off a late Dallas rally on Sunday Night Football, producing the first 46-40 final in NFL history.",
+   "src": "Yahoo Sports (Touchdown Wire)",
+   "u": "https://sports.yahoo.com/articles/49ers-cowboys-game-makes-nfl-010320893.html",
+   "t": "2026-11-16",
+   "impact": 1,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "October retail sales report",
-   "s": "Census releases its advance October retail sales estimate at 8:30 a.m. ET. Economists expect a 0.2% rise.",
+   "h": "Nvidia reports third-quarter results",
+   "s": "Results due about 1:20 p.m. PT, with the earnings call at 2 p.m. PT, the first since Jensen Huang resigned.",
    "date": "2026-11-17",
-   "src": "U.S. Census Bureau",
-   "u": "https://www.census.gov/retail/release_schedule.html"
+   "src": "NVIDIA",
+   "u": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
   },
   {
-   "h": "Nvidia reports earnings after CEO shake-up",
-   "s": "Nvidia posts third-quarter results around 1:20 p.m. PT, with a call at 2 p.m. PT, its first report since Jensen Huang's exit as CEO.",
+   "h": "October retail sales and Home Depot, Disney earnings",
+   "s": "Retail sales expected up 0.2%; industrial production also due. Home Depot and Walt Disney report the same day.",
    "date": "2026-11-17",
-   "src": "Stock Titan (GlobeNewswire)",
-   "u": "https://www.stocktitan.net/news/NVDA/nvidia-sets-conference-call-for-third-quarter-financial-rgdf7hquxgar.html"
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html"
   },
   {
-   "h": "Fed releases minutes of last meeting",
-   "s": "The Federal Reserve publishes minutes from its most recent policy meeting.",
+   "h": "Alaska overseas ballot deadline; ranked-choice count may begin",
+   "s": "If no Senate candidate tops 50%, Alaska starts ranked-choice tabulation Nov. 18; certification is targeted for Nov. 25.",
    "date": "2026-11-18",
-   "src": "WRAL (AP)",
-   "u": "https://www.wral.com/news/ap/336b9-retail-sales-and-fed-minutes-in-focus-next-week/"
+   "src": "Newsweek",
+   "u": "https://www.newsweek.com/mary-peltola-closes-in-on-50-threshold-in-alaska-senate-race-12718013"
   },
   {
-   "h": "Alaska's final ranked-choice tally",
-   "s": "Alaska runs its final ranked-choice tabulation after the overseas ballot deadline, which could settle the Peltola-Sullivan Senate race. Certification is targeted for Nov. 25.",
+   "h": "Fed releases October meeting minutes",
+   "s": "FOMC minutes arrive alongside housing starts; Target, Lowe's and TJX also report earnings.",
    "date": "2026-11-18",
-   "src": "Yahoo News (Fox News)",
-   "u": "https://www.yahoo.com/news/politics/articles/peltola-widens-narrow-alaska-senate-194624521.html"
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html"
   },
   {
-   "h": "Trump, Xi and Putin meet in Shenzhen",
-   "s": "The Kremlin says the three leaders will hold a trilateral meeting on the sidelines of the Nov. 18-19 APEC summit in China.",
+   "h": "Xi, Trump and Putin hold first three-way summit",
+   "s": "The leaders meet in Shenzhen on the sidelines of APEC, which runs Nov. 18-19 (China time, so possibly Wednesday evening U.S. time).",
    "date": "2026-11-19",
-   "src": "A News (Anadolu)",
-   "u": "https://www.anews.com.tr/world/2026/11/14/kremlin-says-putin-xi-trump-to-hold-trilateral-meeting-in-shenzhen-on-nov-19"
+   "src": "The Korea Times (AFP)",
+   "u": "https://www.koreatimes.co.kr/world/20261116/china-confirms-first-xi-trump-putin-summit-on-thursday"
+  },
+  {
+   "h": "Anthropic expected to debut on Nasdaq",
+   "s": "The AI company set a $70-$78 IPO range, valuing it up to $1.4 trillion; shares could trade as early as Nov. 18-19 under ticker ANT. Walmart reports earnings Thursday.",
+   "date": "2026-11-19",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
   }
  ]
 }

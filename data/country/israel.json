@@ -1,56 +1,65 @@
 {
  "stories": [
   {
-   "h": "Likud and Eisenkot's Yashar open unity-government talks",
-   "s": "Negotiating teams from Likud and Yashar were set to meet Sunday evening after Netanyahu's Saturday unity appeal. Eisenkot rejects rotation or any deal he doesn't lead, and Liberman's party scorned the talks.",
-   "src": "Ynetnews",
-   "u": "https://www.ynetnews.com/article/s1v0vgp0ml",
-   "t": "2026-11-15",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "IDF raises alert over possible sudden US-Iran escalation",
-   "s": "Israeli defense officials are preparing for a surprise Iranian attack, an abrupt US strike with little warning, or a weak deal. Air defenses and early-warning systems are on heightened alert.",
-   "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/middle-east/iran-news/article-914880",
-   "t": "2026-11-14",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Israeli strike kills Hamas Rafah Brigade commander in Khan Younis",
-   "s": "Samir Abu Younis died in an overnight strike in Mawasi, confirmed by the IDF, Shin Bet and Hamas. His predecessor was killed in September; the Gaza peace plan's implementation remains stalled.",
+   "h": "First Likud–Yashar unity talks end without progress",
+   "s": "Negotiators met for about an hour Sunday but neither Eisenkot nor Netanyahu will cede the premiership. Netanyahu's camp reportedly signaled it could drop Ben Gvir's party; talks continue.",
    "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/chief-of-hamass-rafah-brigade-killed-in-israeli-strike-2-months-after-predecessor/",
+   "u": "https://www.timesofisrael.com/no-progress-reported-in-yashar-likud-unity-talks-netanyahu-said-open-to-excluding-ben-gvir/",
    "t": "2026-11-15",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Police probe Election Day arrests linked to Netanyahu's office",
+   "s": "The police chief ordered an internal review after reports that a tip from the PM's office sparked pre-vote arrests of Bedouin men over alleged Ra'am vote-buying. The AG's office is also examining it.",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/police-launch-internal-probe-of-election-day-arrests-after-reports-they-were-sparked-by-pms-office",
+   "t": "2026-11-16",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Third US carrier reaches Mideast as Iran bars nuclear inspections",
+   "s": "The USS Theodore Roosevelt arrived Sunday as Tehran refused IAEA access to damaged sites. Netanyahu still favors new strikes, while Trump reportedly may hold off absent fresh provocations.",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/third-us-aircraft-carrier-arrives-in-mideast-as-iran-rules-out-nuclear-inspections/",
+   "t": "2026-11-16",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Israel strikes Hezbollah arms shipment in Lebanon's Beqaa",
+   "s": "The air force hit weapons moved from Syria near Janta overnight, the first Beqaa strike in months, as US envoy Mike Waltz visited Beirut urging Hezbollah to disarm.",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/israel-targets-arms-shipment-in-rare-strike-in-lebanons-eastern-beqaa-valley/",
+   "t": "2026-11-16",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Democrats to chair committee repealing judicial overhaul laws",
-   "s": "Under a deal with Yashar, Yair Golan's party will head a special Knesset committee targeting laws that weakened the attorney general and increased political control of judicial appointments. It is due to form this week.",
+   "h": "Liberman heads Knesset defense panel, opens Haredi draft debate",
+   "s": "Elected chair of the interim Foreign Affairs and Defense Committee, Liberman said a new conscription bill would be discussed Monday but would not be a universal draft law.",
    "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914932",
-   "t": "2026-11-15",
+   "u": "https://www.jpost.com/israel-news/article-915025",
+   "t": "2026-11-16",
    "impact": 3,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Knesset final votes on Liberman, Ben-Horin committee chairs",
-   "s": "The plenum holds final votes on Liberman as Foreign Affairs and Defense Committee chair and Liran Avisar Ben-Horin as Finance Committee chair, after Likud blocked the Liberman vote last week.",
-   "date": "2026-11-16",
-   "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914932"
+   "h": "Knesset votes to replace Speaker Ohana",
+   "s": "Eisenkot's bloc plans a vote to replace Likud's Amir Ohana with Yashar's Matan Kahana as Knesset speaker.",
+   "date": "2026-11-17",
+   "src": "Ynetnews",
+   "u": "https://www.ynetnews.com/article/bjijg8wrfl"
   },
   {
-   "h": "Knesset votes on replacing Speaker Ohana with Kahana",
-   "s": "The new Knesset's first agenda item is a vote to install Yashar MK Matan Kahana as speaker in place of Likud's Amir Ohana.",
-   "date": "2026-11-17",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/daily-briefing-nov-15-new-week-new-knesset-can-eisenkot-find-a-path-to-power/"
+   "h": "Knesset takes up judicial overhaul repeal bills",
+   "s": "Eisenkot's bloc has slated legislation repealing the judicial overhaul laws for Wednesday, prioritizing it over an October 7 inquiry bill.",
+   "date": "2026-11-18",
+   "src": "Ynetnews",
+   "u": "https://www.ynetnews.com/article/syfh9jdrgx"
   }
  ]
 }

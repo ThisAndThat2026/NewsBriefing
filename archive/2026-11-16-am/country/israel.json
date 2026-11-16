@@ -1,0 +1,56 @@
+{
+ "stories": [
+  {
+   "h": "Likud and Eisenkot's Yashar open unity-government talks",
+   "s": "Negotiating teams from Likud and Yashar were set to meet Sunday evening after Netanyahu's Saturday unity appeal. Eisenkot rejects rotation or any deal he doesn't lead, and Liberman's party scorned the talks.",
+   "src": "Ynetnews",
+   "u": "https://www.ynetnews.com/article/s1v0vgp0ml",
+   "t": "2026-11-15",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "IDF raises alert over possible sudden US-Iran escalation",
+   "s": "Israeli defense officials are preparing for a surprise Iranian attack, an abrupt US strike with little warning, or a weak deal. Air defenses and early-warning systems are on heightened alert.",
+   "src": "Jerusalem Post",
+   "u": "https://www.jpost.com/middle-east/iran-news/article-914880",
+   "t": "2026-11-14",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Israeli strike kills Hamas Rafah Brigade commander in Khan Younis",
+   "s": "Samir Abu Younis died in an overnight strike in Mawasi, confirmed by the IDF, Shin Bet and Hamas. His predecessor was killed in September; the Gaza peace plan's implementation remains stalled.",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/chief-of-hamass-rafah-brigade-killed-in-israeli-strike-2-months-after-predecessor/",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Democrats to chair committee repealing judicial overhaul laws",
+   "s": "Under a deal with Yashar, Yair Golan's party will head a special Knesset committee targeting laws that weakened the attorney general and increased political control of judicial appointments. It is due to form this week.",
+   "src": "Jerusalem Post",
+   "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914932",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Knesset final votes on Liberman, Ben-Horin committee chairs",
+   "s": "The plenum holds final votes on Liberman as Foreign Affairs and Defense Committee chair and Liran Avisar Ben-Horin as Finance Committee chair, after Likud blocked the Liberman vote last week.",
+   "date": "2026-11-16",
+   "src": "Jerusalem Post",
+   "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-914932"
+  },
+  {
+   "h": "Knesset votes on replacing Speaker Ohana with Kahana",
+   "s": "The new Knesset's first agenda item is a vote to install Yashar MK Matan Kahana as speaker in place of Likud's Amir Ohana.",
+   "date": "2026-11-17",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/daily-briefing-nov-15-new-week-new-knesset-can-eisenkot-find-a-path-to-power/"
+  }
+ ]
+}

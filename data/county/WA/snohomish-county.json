@@ -1,40 +1,12 @@
 {
- "stories": [
-  {
-   "h": "Medicaid, SNAP work rules loom for Snohomish County residents",
-   "s": "At a Lynnwood briefing, the state said at least 200,000 Washingtonians could lose Apple Health coverage by the end of 2027. Work requirements start Jan. 1, and SNAP exemptions are narrowing.",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/13/community-organizations-discuss-medicaid-snap-cuts/",
-   "t": "2026-11-13",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Repeat boat-theft suspect released again; Everett boaters warned",
-   "s": "A man arrested three times in 12 days in October over stolen boats and crab pots was released Nov. 4. Police and WDFW urge owners to check stored boats and record serial numbers.",
-   "src": "Everett Post",
-   "u": "https://www.everettpost.com/local-news/catch-and-release-for-repeat-boat-theft-suspect-arrested-on-everett-waterfront/",
-   "t": "2026-11-13",
-   "impact": 2,
-   "act": false
-  },
-  {
-   "h": "Everett stash-house drug courier sentenced to five years",
-   "s": "Sylvestre Ramos tended an Everett stash house where officers found more than 8 kg of fentanyl. He got five years in federal prison; the wider investigation seized about 34 kg of fentanyl.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/crime-blotter/everett-meth-trafficking/4299295",
-   "t": "2026-11-14",
-   "impact": 2,
-   "act": false
-  }
- ],
+ "stories": [],
  "coming": [
   {
-   "h": "WSU men's basketball plays Hawaii in Everett",
-   "s": "Washington State faces Hawaii at 7 p.m. at Angel of the Winds Arena.",
-   "date": "2026-11-18",
+   "h": "Mill Creek's North Creek Bridge closes again for weekend",
+   "s": "Full closure between North Road and Mill Creek Boulevard from 9 p.m. Friday to 4 a.m. Monday; local access only, with signed detours.",
+   "date": "2026-11-20",
    "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/sports/washington-state-play-hawaii-everett"
+   "u": "https://www.fox13seattle.com/news/wa-traffic-closures-king-snohomish"
   }
  ]
 }
