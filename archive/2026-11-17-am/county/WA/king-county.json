@@ -1,0 +1,49 @@
+{
+ "stories": [
+  {
+   "h": "Nightly I-5 lane, ramp closures in Kent-Federal Way this week",
+   "s": "Starting tonight through Friday morning, up to four southbound I-5 lanes close 9 p.m.-6 a.m. between SR 516 and S. 272nd St., with ramp closures and detours, for SR 509 project work.",
+   "src": "iLoveKent",
+   "u": "https://ilovekent.net/driver-should-expect-lane-and-ramp-closures-on-i-5-in-south-king-county-beginning-monday-nov-16",
+   "t": "2026-11-14",
+   "impact": 3,
+   "act": true
+  },
+  {
+   "h": "Sea-Tac flight disruptions ease after nationwide ground stop",
+   "s": "Cancellations at Sea-Tac fell to a few dozen Sunday morning, down from 130-plus Saturday. Airlines aimed to restore full schedules; travelers should still confirm flights with their airline.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/flight-disruptions-ease-seattle-tacoma-international-airport-after-mass-cancellations/F7ECHHNZ7JDTRD2OZE3TIPQKY4/",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Power problem near Tukwila halted Link 1 Line Sunday",
+   "s": "A power issue near Tukwila station shut the 1 Line Sunday morning, with shuttle buses running between Kent Des Moines and Rainier Beach. Sound Transit now lists the disruption as resolved.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/sound-transits-1-line-shuts-down-due-power-issue-near-tukwila/SBUPQZHRFJG4RJBPXEG3NNL3EE/",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Redmond shooting leaves one dead; two suspects sought",
+   "s": "One person died after a Friday afternoon shooting on Avondale Road NE in Redmond. Two suspects fled; police say they don't believe the public is at risk and are seeking tips.",
+   "src": "KIRO 7",
+   "u": "https://www.kiro7.com/news/local/1-killed-redmond-shooting-two-suspects-loose/VCWKMBHD6JG6PP2E6BCGC74YZI/",
+   "t": "2026-11-13",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Seattle council's final budget vote",
+   "s": "Seattle City Council is set to take its final vote on the 2027-28 budget, which closes a $175 million deficit, after committee votes on amendments.",
+   "date": "2026-11-20",
+   "src": "Newsline Local (The Center Square)",
+   "u": "https://www.newslinelocal.com/2026/11/13/seattle-council-preps-for-final-vote-on-plan-to-close-175m-deficit/"
+  }
+ ]
+}

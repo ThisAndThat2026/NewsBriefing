@@ -1,49 +1,65 @@
 {
  "stories": [
   {
-   "h": "Nightly I-5 lane, ramp closures in Kent-Federal Way this week",
-   "s": "Starting tonight through Friday morning, up to four southbound I-5 lanes close 9 p.m.-6 a.m. between SR 516 and S. 272nd St., with ramp closures and detours, for SR 509 project work.",
-   "src": "iLoveKent",
-   "u": "https://ilovekent.net/driver-should-expect-lane-and-ramp-closures-on-i-5-in-south-king-county-beginning-monday-nov-16",
-   "t": "2026-11-14",
+   "h": "Overnight I-5 express lane, I-405 Kirkland closures this week",
+   "s": "Ship Canal Bridge express lanes close fully at 9 p.m. nightly through Wednesday, with southbound I-5 down to two lanes overnight. Northbound I-405 closes from NE 70th to NE 85th tonight, 11:59 p.m. to 5 a.m.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/chokepoints/wsdot-closures-express-lanes/4300711",
+   "t": "2026-11-16",
    "impact": 3,
    "act": true
   },
   {
-   "h": "Sea-Tac flight disruptions ease after nationwide ground stop",
-   "s": "Cancellations at Sea-Tac fell to a few dozen Sunday morning, down from 130-plus Saturday. Airlines aimed to restore full schedules; travelers should still confirm flights with their airline.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/flight-disruptions-ease-seattle-tacoma-international-airport-after-mass-cancellations/F7ECHHNZ7JDTRD2OZE3TIPQKY4/",
-   "t": "2026-11-15",
+   "h": "King County committee rejects tax hikes for clinics, Harborview",
+   "s": "A County Council committee voted down Mosqueda proposals to raise property taxes for public health clinics and Harborview as Medicaid cuts take effect. It promised to consider the taxes next budget cycle. The full council votes Nov. 24.",
+   "src": "KOMO News",
+   "u": "https://komonews.com/news/local/king-county-council-committee-rejects-property-tax-hikes-for-medical-clinics-harborview-taxpayer-economy-rent-mortgage-home-real-estate-insurance-health-care-medicaid-federal-coverage",
+   "t": "2026-11-16",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Power problem near Tukwila halted Link 1 Line Sunday",
-   "s": "A power issue near Tukwila station shut the 1 Line Sunday morning, with shuttle buses running between Kent Des Moines and Rainier Beach. Sound Transit now lists the disruption as resolved.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/sound-transits-1-line-shuts-down-due-power-issue-near-tukwila/SBUPQZHRFJG4RJBPXEG3NNL3EE/",
-   "t": "2026-11-15",
-   "impact": 3,
+   "h": "Metro pass sales, Lost and Found closed after building fire",
+   "s": "An electrical fire on Nov. 13 at King Street Center closed Metro's pass sales office and Lost and Found window until further notice. Riders can manage ORCA cards online at myorca.com or call 206-553-3000.",
+   "src": "King County Metro",
+   "u": "https://kingcountymetro.blog/2026/11/14/king-county-metro-pass-sales-and-lost-found-currently-closed/",
+   "t": "2026-11-16",
+   "impact": 2,
+   "act": true
+  },
+  {
+   "h": "Driver arrested after fatal hit-and-run in south Seattle",
+   "s": "A driver hit a man Sunday afternoon at MLK Jr. Way S and S Alaska St and drove away. The man later died at Harborview. Police found and arrested the driver.",
+   "src": "KOMO News",
+   "u": "https://komonews.com/news/local/pedestrian-dies-after-hit-and-run-in-south-seattle-intersection-driver-arrested",
+   "t": "2026-11-16",
+   "impact": 2,
    "act": false
   },
   {
-   "h": "Redmond shooting leaves one dead; two suspects sought",
-   "s": "One person died after a Friday afternoon shooting on Avondale Road NE in Redmond. Two suspects fled; police say they don't believe the public is at risk and are seeking tips.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/1-killed-redmond-shooting-two-suspects-loose/VCWKMBHD6JG6PP2E6BCGC74YZI/",
-   "t": "2026-11-13",
+   "h": "Two shot near Seattle's Magnuson Park",
+   "s": "A woman and a man were shot in the 6800 block of 62nd Ave NE in Sand Point. The man is in serious condition and the woman is stable. Seattle police are investigating.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/news/seattle-police-double-shooting-sand-point",
+   "t": "2026-11-16",
    "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Seattle council's final budget vote",
-   "s": "Seattle City Council is set to take its final vote on the 2027-28 budget, which closes a $175 million deficit, after committee votes on amendments.",
+   "h": "Seattle council's final vote on 2027-28 budget",
+   "s": "The full City Council plans to adopt the 2027-28 budget, which closes a $175M deficit. The Select Budget Committee takes its final vote Nov. 19.",
    "date": "2026-11-20",
-   "src": "Newsline Local (The Center Square)",
-   "u": "https://www.newslinelocal.com/2026/11/13/seattle-council-preps-for-final-vote-on-plan-to-close-175m-deficit/"
+   "src": "Westside Seattle",
+   "u": "https://www.westsideseattle.com/robinson-papers/2026/11/04/seattle-city-council-unveils-2027-2028-budget-framework-focused-public"
+  },
+  {
+   "h": "King County Council final supplemental budget vote",
+   "s": "The full council votes on the amended supplemental budget, including the committee's decision to put off property tax increases for public health and Harborview.",
+   "date": "2026-11-24",
+   "src": "KOMO News",
+   "u": "https://komonews.com/news/local/king-county-council-committee-rejects-property-tax-hikes-for-medical-clinics-harborview-taxpayer-economy-rent-mortgage-home-real-estate-insurance-health-care-medicaid-federal-coverage"
   }
  ]
 }

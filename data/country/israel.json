@@ -1,65 +1,49 @@
 {
  "stories": [
   {
-   "h": "First Likud–Yashar unity talks end without progress",
-   "s": "Negotiators met for about an hour Sunday but neither Eisenkot nor Netanyahu will cede the premiership. Netanyahu's camp reportedly signaled it could drop Ben Gvir's party; talks continue.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/no-progress-reported-in-yashar-likud-unity-talks-netanyahu-said-open-to-excluding-ben-gvir/",
-   "t": "2026-11-15",
+   "h": "Knesset votes today on ousting Speaker Ohana for Kahana",
+   "s": "The Knesset is voting Tuesday on whether to replace Likud's Amir Ohana with Yashar's Matan Kahana as speaker. Likud is running Ofir Katz against Kahana, with backing from Shas and UTJ. Kahana's bloc expects Arab party support.",
+   "src": "Jerusalem Post",
+   "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915171",
+   "t": "2026-11-17",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Police probe Election Day arrests linked to Netanyahu's office",
-   "s": "The police chief ordered an internal review after reports that a tip from the PM's office sparked pre-vote arrests of Bedouin men over alleged Ra'am vote-buying. The AG's office is also examining it.",
+   "h": "Eisenkot camp says unity government with Netanyahu is now off",
+   "s": "A senior Eisenkot bloc official told Kan that unity with Likud is ruled out, citing reports Netanyahu's office helped trigger Election Day arrests of Arab activists later freed without charges. Eisenkot plans an inquiry.",
    "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/police-launch-internal-probe-of-election-day-arrests-after-reports-they-were-sparked-by-pms-office",
-   "t": "2026-11-16",
+   "u": "https://www.timesofisrael.com/senior-eisenkot-bloc-official-said-to-see-no-chance-for-unity-government-after-pms-attempted-coup/",
+   "t": "2026-11-17",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Third US carrier reaches Mideast as Iran bars nuclear inspections",
-   "s": "The USS Theodore Roosevelt arrived Sunday as Tehran refused IAEA access to damaged sites. Netanyahu still favors new strikes, while Trump reportedly may hold off absent fresh provocations.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/third-us-aircraft-carrier-arrives-in-mideast-as-iran-rules-out-nuclear-inspections/",
-   "t": "2026-11-16",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Israel strikes Hezbollah arms shipment in Lebanon's Beqaa",
-   "s": "The air force hit weapons moved from Syria near Janta overnight, the first Beqaa strike in months, as US envoy Mike Waltz visited Beirut urging Hezbollah to disarm.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/israel-targets-arms-shipment-in-rare-strike-in-lebanons-eastern-beqaa-valley/",
-   "t": "2026-11-16",
+   "h": "UK sanctions eight settlement builders and Tzav 9 group",
+   "s": "Britain froze assets of eight Israeli companies that build West Bank settlements and of the activist group Tzav 9, which has blocked aid to Gaza. London warned firms not to bid on or build the E1 project.",
+   "src": "Jerusalem Post",
+   "u": "https://www.jpost.com/international/article-915179",
+   "t": "2026-11-17",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Liberman heads Knesset defense panel, opens Haredi draft debate",
-   "s": "Elected chair of the interim Foreign Affairs and Defense Committee, Liberman said a new conscription bill would be discussed Monday but would not be a universal draft law.",
-   "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/israel-news/article-915025",
-   "t": "2026-11-16",
+   "h": "Israelis wounded, Palestinians shot in clash outside Jericho",
+   "s": "The IDF says Palestinians rammed an Israeli car near Jericho before dawn and attacked its passengers, lightly wounding two. Gunfire followed, wounding Palestinians, including a woman critically. The Israelis were heading to a new outpost.",
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/two-israelis-lightly-hurt-in-suspected-terror-attack-while-heading-to-new-outpost-on-jerichos-outskirts/",
+   "t": "2026-11-17",
    "impact": 3,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Knesset votes to replace Speaker Ohana",
-   "s": "Eisenkot's bloc plans a vote to replace Likud's Amir Ohana with Yashar's Matan Kahana as Knesset speaker.",
-   "date": "2026-11-17",
-   "src": "Ynetnews",
-   "u": "https://www.ynetnews.com/article/bjijg8wrfl"
-  },
-  {
-   "h": "Knesset takes up judicial overhaul repeal bills",
-   "s": "Eisenkot's bloc has slated legislation repealing the judicial overhaul laws for Wednesday, prioritizing it over an October 7 inquiry bill.",
+   "h": "Eisenkot bloc to begin judicial overhaul repeal bills",
+   "s": "If Kahana wins the speakership, the bloc plans to start advancing bills as early as Nov 18. These would restore the attorney general's powers and reverse changes to the Judicial Selection Committee.",
    "date": "2026-11-18",
-   "src": "Ynetnews",
-   "u": "https://www.ynetnews.com/article/syfh9jdrgx"
+   "src": "Times of Israel",
+   "u": "https://www.timesofisrael.com/liveblog_entry/knesset-set-for-pivotal-week-as-eisenkot-bloc-seeks-to-replace-speaker-advance-judicial-legislation/"
   }
  ]
 }

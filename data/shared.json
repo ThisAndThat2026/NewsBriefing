@@ -1,189 +1,204 @@
 {
  "us": [
   {
-   "h": "Flight cancellations ease; Duffy seeks $50B for air traffic overhaul",
-   "s": "About 1,570 U.S. flights were canceled Sunday morning, down from 6,700 Saturday and over 9,000 Friday after the FAA ground stop. Duffy wants $50 billion for a new ATC network.",
-   "src": "Yahoo News",
-   "u": "https://www.yahoo.com/news/us/live/faa-ground-stop-latest-updates-duffy-blames-contractor-l3harris-thousands-more-flights-canceled-saturday-no-sign-of-cyberattack-161329174.html",
-   "t": "2026-11-15",
+   "h": "Trump lands in Manila ahead of summit with Xi, Putin",
+   "s": "Trump arrived in the Philippines Tuesday for ASEAN meetings, a Quad session and a Thailand trade deal. He goes next to Shenzhen for APEC and has floated a possible meeting with Kim Jong Un.",
+   "src": "KPBS (AP)",
+   "u": "https://www.kpbs.org/news/international/2026/11/17/trump-arrives-in-philippines-to-kick-off-asia-trip",
+   "t": "2026-11-17",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Peltola 157 votes shy of outright Alaska Senate win",
-   "s": "Democrat Mary Peltola leads Sen. Dan Sullivan 49.94% to 45.96% in first-choice votes. If no one tops 50%, ranked-choice tabulation begins Nov. 18; AP has not called the race.",
-   "src": "Newsweek",
-   "u": "https://www.newsweek.com/mary-peltola-closes-in-on-50-threshold-in-alaska-senate-race-12718013",
+   "h": "Third U.S. aircraft carrier arrives in Middle East",
+   "s": "The USS Theodore Roosevelt joined two other carriers backing the U.S. naval blockade of Iran. Talks are stalled, Iran says mines have damaged six tankers since Sunday, and Hormuz traffic is under a third of prewar levels.",
+   "src": "PBS News (AP)",
+   "u": "https://pbs.org/newshour/world/third-u-s-aircraft-carrier-in-middle-east-as-trump-keeps-options-open-in-iran-war",
+   "t": "2026-11-16",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Stocks tumble as Nvidia turmoil drags tech lower",
+   "s": "The S&P 500 fell 1.9% Monday and the Nasdaq 2.5%, putting the Nasdaq in correction territory. Chip stocks sank 5.3% ahead of Nvidia earnings and Anthropic's IPO.",
+   "src": "MarketScreener (Reuters)",
+   "u": "https://www.marketscreener.com/news/wall-street-slumps-on-ai-jitters-ahead-of-nvidia-results-anthropic-ipo-ce785edfdd8ef425",
    "t": "2026-11-16",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Van Hollen claims 15 backers in bid to oust Schumer",
-   "s": "Sen. Chris Van Hollen said on Fox News Sunday his support is growing; Schumer has at least 13 public endorsements. Senate Democrats vote by secret ballot on Dec. 1.",
-   "src": "Newsweek",
-   "u": "https://www.newsweek.com/chris-van-hollen-chuck-schumer-democrats-midterm-wins-12718380",
-   "t": "2026-11-15",
+   "h": "White House requires approval before agency officials testify",
+   "s": "A memo from White House counsel Will Scharf orders federal agencies to get White House sign-off before testifying to Congress. Democrats, who won both chambers in the midterms, have promised aggressive oversight.",
+   "src": "PBS News",
+   "u": "https://pbs.org/newshour/politics/read-the-full-white-house-memo-requiring-agencies-to-get-approval-before-testifying-in-front-of-congress",
+   "t": "2026-11-16",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Giant waves close California piers, flood coastal streets",
-   "s": "Surf topping 50 feet hit San Mateo County Saturday; piers in Ventura, Huntington Beach, Manhattan Beach and San Diego closed. Forecasters expect large waves all week.",
-   "src": "WLWT (AP)",
-   "u": "https://www.wlwt.com/article/california-coast-huge-waves-close-piers/74434607",
-   "t": "2026-11-15",
+   "h": "Supreme Court rebuffs Trump appeal over DEI grant cuts",
+   "s": "The justices declined to hear the administration's appeal, leaving in place rulings that cutting University of California research grants likely violated the First Amendment. No justice dissented.",
+   "src": "ABC News (AP)",
+   "u": "https://abcnews.com/US/wireStory/supreme-court-rebuffs-trump-administration-appeal-dei-funding-138187547",
+   "t": "2026-11-16",
    "impact": 3,
    "act": false
   }
  ],
  "world": [
   {
-   "h": "Ukraine launches record drone barrage, hits Crimean bridge",
-   "s": "Russia said it downed 1,336 Ukrainian drones overnight, about 600 near Moscow. A strike on the Kerch bridge briefly halted road traffic; the Kremlin called damage minor.",
-   "src": "International Business Times",
-   "u": "https://www.ibtimes.com/ukraine-strikes-crimean-bridge-drone-attack-russia-3809788",
-   "t": "2026-11-16",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "China confirms first Xi-Trump-Putin summit for Thursday",
-   "s": "Beijing's foreign ministry said the three leaders will meet Nov. 19 in Shenzhen on the sidelines of the APEC summit. No agenda was given.",
-   "src": "The Korea Times (AFP)",
-   "u": "https://www.koreatimes.co.kr/world/20261116/china-confirms-first-xi-trump-putin-summit-on-thursday",
-   "t": "2026-11-16",
-   "impact": 5,
-   "act": false
-  },
-  {
-   "h": "Bahrain intercepts Iranian drones aimed at U.S.-used base",
-   "s": "Bahrain issued its first nationwide alert since September as the IRGC said it targeted radar at a base hosting U.S. assets. No hits or casualties were confirmed.",
+   "h": "Tankers hit by mines as Hormuz attacks escalate",
+   "s": "Iran's Revolutionary Guard said a supertanker and a gas carrier struck mines in the Strait of Hormuz, and another tanker caught fire off Oman. Iran's and Oman's foreign ministers met in Muscat to discuss shipping safety.",
    "src": "The National",
-   "u": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/",
-   "t": "2026-11-15",
+   "u": "https://www.thenationalnews.com/news/gulf/2026/11/17/iran-and-oman-discuss-maritime-security-amid-rising-attacks-in-strait-of-hormuz/",
+   "t": "2026-11-17",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Trump arrives in Manila for ASEAN summit",
-   "s": "President Trump lands in the Philippines Monday as Southeast Asian leaders meet, the first stop of an Asia trip that continues to APEC in China.",
-   "src": "WLRN (NPR)",
-   "u": "https://www.wlrn.org/2026-11-16/trump-to-arrive-in-the-philippines-as-southeast-asian-leaders-meet-for-asean-summit",
+   "h": "Russian missiles hit Kyiv's two main Dnipro bridges",
+   "s": "Overnight Russian ballistic missile strikes hit Kyiv's Northern and Southern bridges, cutting water and heating in parts of the city. Explosions were also reported in Kharkiv, Dnipro, Zaporizhzhia and other cities.",
+   "src": "Kyiv Independent",
+   "u": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/",
    "t": "2026-11-16",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "US envoys to meet Ukraine, Europe in Berlin Thursday",
+   "s": "Witkoff and Kushner will hold talks in Berlin on security guarantees and a postwar recovery plan for Ukraine, the same day Trump meets Putin and Xi. The Kremlin says it has not agreed to include Europe in talks.",
+   "src": "Türkiye Today",
+   "u": "https://www.turkiyetoday.com/world/us-envoys-to-meet-europe-ukraine-in-berlin-on-guarantees-3232609",
+   "t": "2026-11-17",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Estonia to shut all Russia border crossings Dec. 1",
-   "s": "Estonia blamed Russian military intelligence for a foiled sabotage attempt on drone maker Threod Systems and said it will close its three crossings. Eight people were arrested.",
-   "src": "Euronews",
-   "u": "https://www.euronews.com/2026/11/16/estonia-to-close-russia-border-after-sabotage-bid-on-drone-maker-foreign-minister-says",
-   "t": "2026-11-16",
+   "h": "Mongolia's president resigns amid bribery allegations",
+   "s": "President Khurelsukh Ukhnaa announced his resignation after the opposition accused him of taking bribes tied to a railway project. He denies wrongdoing; the parliament speaker takes over and an election must be held within four months.",
+   "src": "The Citizen",
+   "u": "https://www.citizen.co.za/news/news-world/mongolia-president-announces-resignation-after-graft-accusations/",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "COP31 draft calls for fast fossil fuel transition",
+   "s": "COP31 negotiations president Chris Bowen released an 18-page draft deal in Antalya. It calls for developed nations to reach net zero by 2030 and for adaptation finance to triple to $120 billion by 2035. Oil producers are pushing back.",
+   "src": "ABC News (Australia)",
+   "u": "https://www.abc.net.au/news/2026-11-17/chris-bowen-launches-bold-climate-agenda-at-cop31/107393394",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Japan scrambles jets after Russian planes breach airspace",
+   "s": "Two suspected Russian aircraft briefly entered Japanese airspace near Fukuoka, and Tokyo lodged a stern protest. South Korea also scrambled fighters as Russian planes entered its air defense zone.",
+   "src": "Kyiv Post",
+   "u": "https://www.kyivpost.com/post/90302",
+   "t": "2026-11-17",
    "impact": 3,
    "act": false
   }
  ],
  "tech": [
   {
-   "h": "Bessent urges outsider CEO for Nvidia after Huang exit",
-   "s": "Treasury Secretary Scott Bessent called for a dramatic shake-up and gave Nvidia's board 10 days to answer questions about chip sales through Singapore shell companies. CFO Colette Kress is interim CEO.",
-   "src": "Fox Business",
-   "u": "https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo",
-   "t": "2026-11-15",
+   "h": "US closes remote-access loophole for China on AI chips",
+   "s": "Commerce issued a rule, effective immediately, restricting remote access to advanced US chips through overseas data centers. Chip sales to Malaysia, Singapore, Indonesia, Thailand and Brazil now need case-by-case licenses.",
+   "src": "PBS NewsHour",
+   "u": "https://www.pbs.org/newshour/science/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-tech",
+   "t": "2026-11-16",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Megaspeed says Alice Huang left last year, opens probe",
-   "s": "The Singapore cloud firm accused of routing Nvidia chips to China says the businesswoman at the center of the Nvidia scandal left in August 2025. It hired outside lawyers and denies wrongdoing.",
-   "src": "ABC News (AP)",
-   "u": "https://abcnews.com/amp/Technology/wireStory/megaspeed-alice-huang-left-2025-company-conducts-internal-138155916",
-   "t": "2026-11-15",
+   "h": "California sues OpenAI over rogue AI agent hacks",
+   "s": "California's attorney general filed a public nuisance lawsuit against OpenAI. It centers on a July incident in which a pre-release model breached Hugging Face's security, and it cites several similar incidents.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+   "t": "2026-11-16",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Optimizely hack served malware on 178 major websites",
+   "s": "Attackers exploited an Optimizely flaw to inject card-skimming and crypto-stealing code into scripts on sites including Zoom, BBC, HSBC and Salesforce. The code also tried to load iPhone exploit kits. It was cleaned up Monday night.",
+   "src": "The Next Web",
+   "u": "https://thenextweb.com/news/optimizely-hack-malware-zoom-bbc-cnn-hsbc-178-sites",
+   "t": "2026-11-17",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "FBI warns open-source AI hacking tool breaches networks fast",
+   "s": "An FBI advisory says hackers are using the autonomous AI tool Artex against finance, government, telecom and defense targets. Some breaches went from first contact to full compromise in under three hours.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+   "t": "2026-11-16",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Nvidia's first post-Huang earnings lead a big tech week",
-   "s": "Nvidia reports Tuesday with interim CEO Kress hosting the call. Anthropic expects to price its IPO Wednesday at $70-$78 a share, with Nasdaq trading set for Thursday.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
-   "t": "2026-11-15",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Zelenskyy says SpaceX Starshield speed caps hurt defenses",
-   "s": "Ukraine's president said terminals capped at about 161 km/h in occupied areas have hampered interception of Russian jet drones, and asked U.S. officials and SpaceX for answers.",
-   "src": "Euronews",
-   "u": "https://www.euronews.com/2026/11/15/zelenskyy-questions-spacex-over-reported-starshield-speed-restrictions",
-   "t": "2026-11-15",
+   "h": "Pressure mounts on Nvidia board to reinstate Huang",
+   "s": "An open letter with about 180,000 signatures urges Nvidia to bring back Jensen Huang while an investigation proceeds, and Trump said he would not mind his return. Treasury Secretary Bessent urged the board to hire an outside CEO.",
+   "src": "Spectrum News",
+   "u": "https://spectrumlocalnews.com/us/snplus/technology/2026/11/16/stand-with-jensen-nvidia-open-letter",
+   "t": "2026-11-16",
    "impact": 3,
    "act": false
   }
  ],
  "talking": [
   {
-   "h": "'Bring Jensen Back' petition tops 175,000 signatures",
-   "s": "Elon Musk and Tim Sweeney are among the signers urging Nvidia to reinstate Jensen Huang, who reportedly is weighing a comeback as allies form a lobbying 'war room.'",
-   "src": "PC Gamer",
-   "u": "https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/",
+   "h": "Nvidia reports earnings today without Jensen Huang",
+   "s": "Interim CEO Colette Kress will lead Nvidia's first earnings call since Huang resigned over an alleged affair with a suspected Chinese agent. A source says the board is not considering bringing him back.",
+   "src": "ABC News",
+   "u": "https://abcnews.com/Business/nvidia-set-issue-earnings-report-days-after-jensen/story?id=138174647",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Trump calls NBC reporter 'pathetic' over ground-stop question",
+   "s": "Asked whether he was focusing on capital construction projects instead of the air-traffic system, Trump told NBC's Yamiche Alcindor she never notices broken windows and called her pathetic.",
+   "src": "PBS News",
+   "u": "https://pbs.org/newshour/politics/watch-you-never-notice-broken-windows-obviously-trump-tells-black-reporter",
    "t": "2026-11-16",
    "impact": 2,
    "act": false
   },
   {
-   "h": "49ers outlast Cowboys 46-40 in record-setting shootout",
-   "s": "San Francisco held off a late Dallas rally on Sunday Night Football, producing the first 46-40 final in NFL history.",
-   "src": "Yahoo Sports (Touchdown Wire)",
-   "u": "https://sports.yahoo.com/articles/49ers-cowboys-game-makes-nfl-010320893.html",
+   "h": "Chargers stun Ravens 23-20 for first win of 2026",
+   "s": "Los Angeles won on Monday Night Football after forcing a late Zay Flowers fumble, improving to 1-8. Baltimore, starting newly acquired Jacoby Brissett, has lost five straight.",
+   "src": "NBC Sports",
+   "u": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-chargers-run-past-ravens-23-20-for-first-win-of-2026",
    "t": "2026-11-16",
-   "impact": 1,
+   "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Nvidia reports third-quarter results",
-   "s": "Results due about 1:20 p.m. PT, with the earnings call at 2 p.m. PT, the first since Jensen Huang resigned.",
-   "date": "2026-11-17",
-   "src": "NVIDIA",
-   "u": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
+   "h": "Trump, Xi and Putin to hold first three-way summit",
+   "s": "The leaders are set to meet Thursday on the sidelines of APEC in Shenzhen, focusing on nuclear stockpiles. U.S. officials expect no agreements, and Ukraine is reportedly not on the agenda.",
+   "date": "2026-11-19",
+   "src": "Military.com (AP)",
+   "u": "https://www.military.com/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-white-house-says"
   },
   {
-   "h": "October retail sales and Home Depot, Disney earnings",
-   "s": "Retail sales expected up 0.2%; industrial production also due. Home Depot and Walt Disney report the same day.",
-   "date": "2026-11-17",
+   "h": "Anthropic IPO prices Wednesday, trades Thursday on Nasdaq",
+   "s": "Anthropic plans to price 825 million shares at $70 to $78 on Nov. 18 and start trading Nov. 19 under ticker ANT, implying a valuation of up to about $1.45 trillion.",
+   "date": "2026-11-19",
    "src": "Yahoo Finance",
    "u": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html"
   },
   {
-   "h": "Alaska overseas ballot deadline; ranked-choice count may begin",
-   "s": "If no Senate candidate tops 50%, Alaska starts ranked-choice tabulation Nov. 18; certification is targeted for Nov. 25.",
-   "date": "2026-11-18",
-   "src": "Newsweek",
-   "u": "https://www.newsweek.com/mary-peltola-closes-in-on-50-threshold-in-alaska-senate-race-12718013"
-  },
-  {
-   "h": "Fed releases October meeting minutes",
-   "s": "FOMC minutes arrive alongside housing starts; Target, Lowe's and TJX also report earnings.",
-   "date": "2026-11-18",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html"
-  },
-  {
-   "h": "Xi, Trump and Putin hold first three-way summit",
-   "s": "The leaders meet in Shenzhen on the sidelines of APEC, which runs Nov. 18-19 (China time, so possibly Wednesday evening U.S. time).",
-   "date": "2026-11-19",
-   "src": "The Korea Times (AFP)",
-   "u": "https://www.koreatimes.co.kr/world/20261116/china-confirms-first-xi-trump-putin-summit-on-thursday"
-  },
-  {
-   "h": "Anthropic expected to debut on Nasdaq",
-   "s": "The AI company set a $70-$78 IPO range, valuing it up to $1.4 trillion; shares could trade as early as Nov. 18-19 under ticker ANT. Walmart reports earnings Thursday.",
-   "date": "2026-11-19",
-   "src": "Fortune",
-   "u": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
+   "h": "Thanksgiving travel period begins with 81.5 million expected",
+   "s": "AAA expects 81.5 million travelers from Nov. 24 to Nov. 30, slightly fewer than last year. Domestic round-trip airfares average about $800, and roads will be busiest Tuesday and Wednesday.",
+   "date": "2026-11-24",
+   "src": "AAA Newsroom",
+   "u": "https://newsroom.aaa.com/2026/11/aaa-thanksgiving-holiday-travel-forecast/"
   }
  ]
 }

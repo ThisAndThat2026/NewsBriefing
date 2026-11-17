@@ -1,0 +1,189 @@
+{
+ "us": [
+  {
+   "h": "Flight cancellations ease; Duffy seeks $50B for air traffic overhaul",
+   "s": "About 1,570 U.S. flights were canceled Sunday morning, down from 6,700 Saturday and over 9,000 Friday after the FAA ground stop. Duffy wants $50 billion for a new ATC network.",
+   "src": "Yahoo News",
+   "u": "https://www.yahoo.com/news/us/live/faa-ground-stop-latest-updates-duffy-blames-contractor-l3harris-thousands-more-flights-canceled-saturday-no-sign-of-cyberattack-161329174.html",
+   "t": "2026-11-15",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Peltola 157 votes shy of outright Alaska Senate win",
+   "s": "Democrat Mary Peltola leads Sen. Dan Sullivan 49.94% to 45.96% in first-choice votes. If no one tops 50%, ranked-choice tabulation begins Nov. 18; AP has not called the race.",
+   "src": "Newsweek",
+   "u": "https://www.newsweek.com/mary-peltola-closes-in-on-50-threshold-in-alaska-senate-race-12718013",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Van Hollen claims 15 backers in bid to oust Schumer",
+   "s": "Sen. Chris Van Hollen said on Fox News Sunday his support is growing; Schumer has at least 13 public endorsements. Senate Democrats vote by secret ballot on Dec. 1.",
+   "src": "Newsweek",
+   "u": "https://www.newsweek.com/chris-van-hollen-chuck-schumer-democrats-midterm-wins-12718380",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Giant waves close California piers, flood coastal streets",
+   "s": "Surf topping 50 feet hit San Mateo County Saturday; piers in Ventura, Huntington Beach, Manhattan Beach and San Diego closed. Forecasters expect large waves all week.",
+   "src": "WLWT (AP)",
+   "u": "https://www.wlwt.com/article/california-coast-huge-waves-close-piers/74434607",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "world": [
+  {
+   "h": "Ukraine launches record drone barrage, hits Crimean bridge",
+   "s": "Russia said it downed 1,336 Ukrainian drones overnight, about 600 near Moscow. A strike on the Kerch bridge briefly halted road traffic; the Kremlin called damage minor.",
+   "src": "International Business Times",
+   "u": "https://www.ibtimes.com/ukraine-strikes-crimean-bridge-drone-attack-russia-3809788",
+   "t": "2026-11-16",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "China confirms first Xi-Trump-Putin summit for Thursday",
+   "s": "Beijing's foreign ministry said the three leaders will meet Nov. 19 in Shenzhen on the sidelines of the APEC summit. No agenda was given.",
+   "src": "The Korea Times (AFP)",
+   "u": "https://www.koreatimes.co.kr/world/20261116/china-confirms-first-xi-trump-putin-summit-on-thursday",
+   "t": "2026-11-16",
+   "impact": 5,
+   "act": false
+  },
+  {
+   "h": "Bahrain intercepts Iranian drones aimed at U.S.-used base",
+   "s": "Bahrain issued its first nationwide alert since September as the IRGC said it targeted radar at a base hosting U.S. assets. No hits or casualties were confirmed.",
+   "src": "The National",
+   "u": "https://www.thenationalnews.com/news/gulf/2026/11/15/bahrain-issues-first-nationwide-alert-in-months-as-iran-claims-attack-on-base-hosting-us-helicopters/",
+   "t": "2026-11-15",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Trump arrives in Manila for ASEAN summit",
+   "s": "President Trump lands in the Philippines Monday as Southeast Asian leaders meet, the first stop of an Asia trip that continues to APEC in China.",
+   "src": "WLRN (NPR)",
+   "u": "https://www.wlrn.org/2026-11-16/trump-to-arrive-in-the-philippines-as-southeast-asian-leaders-meet-for-asean-summit",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Estonia to shut all Russia border crossings Dec. 1",
+   "s": "Estonia blamed Russian military intelligence for a foiled sabotage attempt on drone maker Threod Systems and said it will close its three crossings. Eight people were arrested.",
+   "src": "Euronews",
+   "u": "https://www.euronews.com/2026/11/16/estonia-to-close-russia-border-after-sabotage-bid-on-drone-maker-foreign-minister-says",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "tech": [
+  {
+   "h": "Bessent urges outsider CEO for Nvidia after Huang exit",
+   "s": "Treasury Secretary Scott Bessent called for a dramatic shake-up and gave Nvidia's board 10 days to answer questions about chip sales through Singapore shell companies. CFO Colette Kress is interim CEO.",
+   "src": "Fox Business",
+   "u": "https://www.foxbusiness.com/business-leaders/bessent-calls-nvidia-leadership-shake-up-amid-china-chip-scandal-urges-outside-ceo",
+   "t": "2026-11-15",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Megaspeed says Alice Huang left last year, opens probe",
+   "s": "The Singapore cloud firm accused of routing Nvidia chips to China says the businesswoman at the center of the Nvidia scandal left in August 2025. It hired outside lawyers and denies wrongdoing.",
+   "src": "ABC News (AP)",
+   "u": "https://abcnews.com/amp/Technology/wireStory/megaspeed-alice-huang-left-2025-company-conducts-internal-138155916",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Nvidia's first post-Huang earnings lead a big tech week",
+   "s": "Nvidia reports Tuesday with interim CEO Kress hosting the call. Anthropic expects to price its IPO Wednesday at $70-$78 a share, with Nasdaq trading set for Thursday.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
+   "t": "2026-11-15",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Zelenskyy says SpaceX Starshield speed caps hurt defenses",
+   "s": "Ukraine's president said terminals capped at about 161 km/h in occupied areas have hampered interception of Russian jet drones, and asked U.S. officials and SpaceX for answers.",
+   "src": "Euronews",
+   "u": "https://www.euronews.com/2026/11/15/zelenskyy-questions-spacex-over-reported-starshield-speed-restrictions",
+   "t": "2026-11-15",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "talking": [
+  {
+   "h": "'Bring Jensen Back' petition tops 175,000 signatures",
+   "s": "Elon Musk and Tim Sweeney are among the signers urging Nvidia to reinstate Jensen Huang, who reportedly is weighing a comeback as allies form a lobbying 'war room.'",
+   "src": "PC Gamer",
+   "u": "https://www.pcgamer.com/software/ai/jensen-huang-reportedly-eyeing-up-return-to-nvidia-as-friendly-tech-execs-form-war-room-to-fight-for-him-and-over-175-000-people-sign-bringjensenback-petition/",
+   "t": "2026-11-16",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "49ers outlast Cowboys 46-40 in record-setting shootout",
+   "s": "San Francisco held off a late Dallas rally on Sunday Night Football, producing the first 46-40 final in NFL history.",
+   "src": "Yahoo Sports (Touchdown Wire)",
+   "u": "https://sports.yahoo.com/articles/49ers-cowboys-game-makes-nfl-010320893.html",
+   "t": "2026-11-16",
+   "impact": 1,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Nvidia reports third-quarter results",
+   "s": "Results due about 1:20 p.m. PT, with the earnings call at 2 p.m. PT, the first since Jensen Huang resigned.",
+   "date": "2026-11-17",
+   "src": "NVIDIA",
+   "u": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Sets-Conference-Call-for-Third-Quarter-Financial-Results/"
+  },
+  {
+   "h": "October retail sales and Home Depot, Disney earnings",
+   "s": "Retail sales expected up 0.2%; industrial production also due. Home Depot and Walt Disney report the same day.",
+   "date": "2026-11-17",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html"
+  },
+  {
+   "h": "Alaska overseas ballot deadline; ranked-choice count may begin",
+   "s": "If no Senate candidate tops 50%, Alaska starts ranked-choice tabulation Nov. 18; certification is targeted for Nov. 25.",
+   "date": "2026-11-18",
+   "src": "Newsweek",
+   "u": "https://www.newsweek.com/mary-peltola-closes-in-on-50-threshold-in-alaska-senate-race-12718013"
+  },
+  {
+   "h": "Fed releases October meeting minutes",
+   "s": "FOMC minutes arrive alongside housing starts; Target, Lowe's and TJX also report earnings.",
+   "date": "2026-11-18",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html"
+  },
+  {
+   "h": "Xi, Trump and Putin hold first three-way summit",
+   "s": "The leaders meet in Shenzhen on the sidelines of APEC, which runs Nov. 18-19 (China time, so possibly Wednesday evening U.S. time).",
+   "date": "2026-11-19",
+   "src": "The Korea Times (AFP)",
+   "u": "https://www.koreatimes.co.kr/world/20261116/china-confirms-first-xi-trump-putin-summit-on-thursday"
+  },
+  {
+   "h": "Anthropic expected to debut on Nasdaq",
+   "s": "The AI company set a $70-$78 IPO range, valuing it up to $1.4 trillion; shares could trade as early as Nov. 18-19 under ticker ANT. Walmart reports earnings Thursday.",
+   "date": "2026-11-19",
+   "src": "Fortune",
+   "u": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
+  }
+ ]
+}

@@ -1,22 +1,47 @@
 {
  "stories": [
   {
-   "h": "Police chase ends in deadly Spanaway crash, SR 7 closed",
-   "s": "A fleeing suspect slammed into another car at high speed on Pacific Avenue (SR 7) Sunday night, killing a man. A suspect is in custody; SR 7 near 163rd-166th St. S. was shut for hours.",
+   "h": "Suspect, victim named in deadly Spanaway chase crash",
+   "s": "WSP identified the man killed as David Bauschman, 54, of Tacoma. Brody Wood, 20, of Centralia faces vehicular homicide, DUI, eluding and hit-and-run allegations after a deputy pursuit from Lakewood ended on Pacific Avenue South.",
    "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/one-dead-after-collision-spanaway-section-sr7-currently-blocked/AJACPAYFCRCKJJMWUZ22VPGOYY/",
-   "t": "2026-11-15",
+   "u": "https://www.kiro7.com/news/local/suspect-victim-named-deadly-spanaway-crash/JZIWDJTUAJBMFDPITNEOM5YDFE/",
+   "t": "2026-11-16",
    "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Tacoma police give away free turkeys at Tacoma Dome today",
+   "s": "Drive-thru giveaway starts 11 a.m. Tuesday at the Tacoma Dome, with about 1,000 turkeys and sides. No registration, one per vehicle, and supplies are expected to run out by about 12:30 p.m.",
+   "src": "Yahoo News (FOX 13 Seattle)",
+   "u": "https://www.yahoo.com/news/articles/tacoma-wa-police-hand-hundreds-203744114.html",
+   "t": "2026-11-16",
+   "impact": 2,
+   "act": true
+  },
+  {
+   "h": "Former Puyallup, Lakewood officer charged in Home Depot thefts",
+   "s": "Pierce County prosecutors charged ex-officer Quinn Rawson, 31, with organized retail theft. He is accused of taking about $1,666 in merchandise over 16 visits to a Puyallup Home Depot between September and early November.",
+   "src": "Yahoo News (FOX 13 Seattle)",
+   "u": "https://www.yahoo.com/news/us/articles/former-puyallup-lakewood-wa-police-214811738.html",
+   "t": "2026-11-16",
+   "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
    "h": "Tacoma council expected to adopt 2027-28 budget",
-   "s": "After closing a $40 million gap, including cutting the HOPE team and restoring five community service officers, the council plans to adopt the budget at this week's meeting.",
-   "date": "2026-11-17",
+   "s": "The council is expected to adopt a two-year budget that closes a $40 million deficit, per NWPB. Check the city's meeting calendar for the exact session.",
+   "date": "2026-11-18",
    "src": "Northwest Public Broadcasting",
    "u": "https://www.nwpb.org/local/2026-11-12/city-council-continues-work-on-budget-allocates-some-funding-for-community-service-officers"
+  },
+  {
+   "h": "Second Tacoma police turkey giveaway at Cheney Stadium",
+   "s": "Drive-thru giveaway with about 700 turkeys and sides starts 11 a.m. at Cheney Stadium. One per vehicle, no registration, first come first served.",
+   "date": "2026-11-21",
+   "src": "Yahoo News (FOX 13 Seattle)",
+   "u": "https://www.yahoo.com/news/articles/tacoma-wa-police-hand-hundreds-203744114.html"
   }
  ]
 }

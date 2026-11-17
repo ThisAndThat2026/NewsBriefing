@@ -1,76 +1,101 @@
 {
  "stories": [
   {
-   "h": "Sea-Tac flights recovering after nationwide FAA ground stop",
-   "s": "Friday's four-hour FAA ground stop left Sea-Tac with 132 canceled departures Saturday; by Sunday morning cancellations fell to 27, and airlines expected full schedules by Sunday's end.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/flight-disruptions-ease-seattle-tacoma-international-airport-after-mass-cancellations/F7ECHHNZ7JDTRD2OZE3TIPQKY4/",
-   "t": "2026-11-15",
-   "impact": 3,
+   "h": "Washington faces roughly $4 billion budget gap in new forecast",
+   "s": "After Monday's state revenue forecast, Gov. Ferguson said the first year of the next budget is about $4 billion short. He blamed rising costs and federal cuts and will release a budget proposal by Dec. 20.",
+   "src": "KOMO News",
+   "u": "https://komonews.com/news/local/ferguson-says-washington-budget-outlook-making-progress-despite-draconian-trump-cuts-deficit-tazes-taxpayer-federal-funding-millionaires-tax-growth-forecast-economy-inflation",
+   "t": "2026-11-16",
+   "impact": 4,
    "act": false
   },
   {
-   "h": "Orcas Island ferry terminal lifts vehicle restrictions",
-   "s": "WSF restored normal loading at Orcas after repairing cracked transfer-span beams that had limited vehicles since Nov. 10 and prompted a San Juan County emergency. Drivers must use the span's east side for several days.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/orcas-island-ferry-terminal-resumes-normal-vehicle-loading-unloading/7IN3ILN6GVBNBODU32SUSGVKPA/",
-   "t": "2026-11-15",
+   "h": "I-5 express lanes closed in Seattle for emergency repair",
+   "s": "WSDOT closed all I-5 express lanes and their on-ramps Monday afternoon to fix a damaged panel near Roanoke Street. The closure is expected to last into Tuesday morning, so the commute will be slower.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/chokepoints/i-5-express-lanes/4300910",
+   "t": "2026-11-16",
    "impact": 3,
    "act": true
   },
   {
-   "h": "Storm exits; cooler, mostly dry week ahead in western WA",
-   "s": "After Saturday night's heavy rain, Monday dries out with highs in the low 50s and lows in the 30s. A flood warning for the Skokomish River in Mason County runs until late Monday morning.",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/weather/cooler-drier-workweek-ahead-seattle",
-   "t": "2026-11-15",
-   "impact": 2,
+   "h": "AG Brown proposes aggravated arson crime after record wildfire season",
+   "s": "Attorney General Nick Brown and Sen. Marcus Riccelli proposed a new aggravated arson offense with sentences of about 7 to 26 years for fires that cause catastrophic damage. Over 900,000 acres burned in Washington this year.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/mynorthwest-politics/wildfires-lawmakers/4300927",
+   "t": "2026-11-16",
+   "impact": 3,
    "act": false
   },
   {
-   "h": "Report: WA college ROI strong, but career coaching lags",
-   "s": "A Strada report gives Washington a 73% positive return-on-investment rating for higher education. Only 3% of four-year and 7% of two-year students get complete career coaching.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/wa-colleges-deliver-strong-return-investment-career-guidance-falls-short-report-finds/X5PIFJOS4JFIRAMMTPKWCVHVEA/",
-   "t": "2026-11-15",
+   "h": "Student athletes join court fight over I-638 sports measure",
+   "s": "Five high school athletes backed by Alliance Defending Freedom moved to intervene in support of I-638 in King County Superior Court. The ACLU-led lawsuit seeks to block the measure before it takes effect Dec. 3.",
+   "src": "KUOW",
+   "u": "https://www.kuow.org/law/2026-11-16/student-athletes-in-support-of-i-638-jump-into-legal-fight-that-could-overturn-the-measure",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "House Democrats keep Jinkins as speaker, turn back Berg challenge",
+   "s": "In a secret-ballot caucus vote Monday, House Democrats reelected Speaker Laurie Jinkins over Rep. April Berg. Joe Fitzgibbon remains majority leader for a 69-member majority. The 2027 session opens Jan. 11.",
+   "src": "Northwest Progressive Institute",
+   "u": "https://www.nwprogressive.org/weblog/2026/11/washington-state-house-democrats-reelect-laurie-jinkins-as-speaker-joe-fitzgibbon-as-majority-leader-for-2027-2028.html",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Dry Tuesday, then gusty east winds in Cascade foothills",
+   "s": "Western Washington clears Tuesday afternoon. Easterly gap winds gusting near 35 mph hit the Cascades and foothills Tuesday night into Wednesday. Passes may see a few flakes Wednesday morning, but no major snow is expected.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/weather/seattle-weather-morning-clouds-afternoon-sunshine-tuesday",
+   "t": "2026-11-17",
    "impact": 2,
    "act": false
   }
  ],
  "talking": [
   {
-   "h": "Seahawks dominate second half, beat Raiders 21-13",
-   "s": "Drew Lock threw two touchdowns and Jaxon Smith-Njigba had 171 receiving yards as Seattle sacked rookie Fernando Mendoza six times and improved to 6-4.",
-   "src": "Seattle Sports (MyNorthwest)",
-   "u": "https://sports.mynorthwest.com/nfl/seattle-seahawks/instant-reaction-seattle-seahawks-dominate-second-half-to-beat-raiders",
-   "t": "2026-11-15",
+   "h": "Seahawks optimistic Darnold returns after bye for 49ers",
+   "s": "Coach Mike Macdonald said he is optimistic QB Sam Darnold, out with a cracked rib and quad injury, will be back for the Nov. 29 game at San Francisco. Seattle is 6-4, and Drew Lock is 3-0 as a starter.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/news/seahawks-sam-darnold",
+   "t": "2026-11-16",
    "impact": 2,
    "act": false
   },
   {
-   "h": "Huskies clinch bowl bid despite ground-stop travel chaos",
-   "s": "UW beat Michigan State 21-14 on a late Jayden Limar touchdown, reaching 6-4 after the FAA ground stop left the team arriving about 15 hours before kickoff.",
-   "src": "KOMO",
-   "u": "https://komonews.com/news/local/washington-overcomes-challenging-night-of-travel-to-beat-michigan-state-21-14-college-football-sports-stats-travel",
-   "t": "2026-11-14",
-   "impact": 1,
+   "h": "WSU heads to Texas State after 73-7 rout",
+   "s": "Washington State beat Colorado State 73-7 for its first FBS win of the season. The Cougars play at Texas State on Saturday at 3 p.m. PT on USA Network.",
+   "src": "The Spokesman-Review",
+   "u": "https://www.spokesman.com/stories/2026/nov/16/fresh-off-historic-offensive-outing-wsu-hits-the-r/",
+   "t": "2026-11-16",
+   "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Candlelight vigil for fallen Spokane County deputies",
-   "s": "A community vigil for deputies Mason Acheson and Parker Perry is set for 7 p.m. at the Law Enforcement Memorial Monument on W. Mallon Ave., Spokane.",
-   "date": "2026-11-17",
-   "src": "Yahoo News (KREM)",
-   "u": "https://yahoo.com/news/articles/community-candlelight-vigil-spokane-county-000221248.html"
+   "h": "Public memorial for fallen Spokane County deputies",
+   "s": "A public memorial for Deputies Parker Perry and Mason Acheson will be held Wednesday afternoon at Numerica Veterans Arena in Spokane. The public is admitted after reserved seating, and residents are encouraged to line the procession route.",
+   "date": "2026-11-18",
+   "src": "KXLY",
+   "u": "https://www.kxly.com/news/memorial-for-2-spokane-sheriffs-deputies-set-for-wednesday-afternoon/article_9efe4882-5aad-41e6-96a4-670bd70540a5.html"
   },
   {
-   "h": "Memorial service for two Spokane County deputies",
-   "s": "A public memorial for the deputies killed in the Nov. 3 Spangle shooting will be held at Numerica Veterans Arena; the start time and procession route were still to be announced.",
-   "date": "2026-11-18",
-   "src": "Apple Valley News Now (KXLY)",
-   "u": "https://www.applevalleynewsnow.com/news/memorial-for-two-fallen-deputies-set-for-the-18th/article_dfc9040f-02cd-5ea2-97d2-10ca7f8f9b90.html"
+   "h": "Huskies host Indiana at Husky Stadium",
+   "s": "Washington plays Indiana Saturday in Seattle. Kickoff time is still to be announced.",
+   "date": "2026-11-21",
+   "src": "University of Washington Athletics",
+   "u": "https://gohuskies.com/game-center/25208"
+  },
+  {
+   "h": "Counties certify November general election results",
+   "s": "County canvassing boards certify and send in Nov. 3 general election results. The Secretary of State certifies statewide results by Dec. 3.",
+   "date": "2026-11-24",
+   "src": "Washington Secretary of State",
+   "u": "https://www.sos.wa.gov/elections/calendar"
   }
  ]
 }
