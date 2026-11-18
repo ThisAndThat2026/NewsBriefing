@@ -1,37 +1,46 @@
 {
  "stories": [
   {
-   "h": "Knesset votes today on ousting Speaker Ohana for Kahana",
-   "s": "The Knesset is voting Tuesday on whether to replace Likud's Amir Ohana with Yashar's Matan Kahana as speaker. Likud is running Ofir Katz against Kahana, with backing from Shas and UTJ. Kahana's bloc expects Arab party support.",
+   "h": "Knesset advances bills repealing judicial overhaul laws",
+   "s": "Eisenkot's bloc won preliminary votes, 63–67 in favour, to repeal the judicial selection overhaul, the law weakening the attorney general and Karhi's broadcasting reform. Each bill still needs three more readings.",
    "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915171",
+   "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915294",
+   "t": "2026-11-18",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Matan Kahana elected Knesset speaker, ousting Likud's Ohana",
+   "s": "Kahana of Yashar won 66 votes, with Arab parties backing him, and beat Likud's Ofir Katz. He promised the Knesset will obey court rulings. Eisenkot's bloc also took control of key committees.",
+   "src": "Ynet News",
+   "u": "https://www.ynetnews.com/article/b1jkmr5cge",
    "t": "2026-11-17",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Eisenkot camp says unity government with Netanyahu is now off",
-   "s": "A senior Eisenkot bloc official told Kan that unity with Likud is ruled out, citing reports Netanyahu's office helped trigger Election Day arrests of Arab activists later freed without charges. Eisenkot plans an inquiry.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/senior-eisenkot-bloc-official-said-to-see-no-chance-for-unity-government-after-pms-attempted-coup/",
-   "t": "2026-11-17",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "UK sanctions eight settlement builders and Tzav 9 group",
-   "s": "Britain froze assets of eight Israeli companies that build West Bank settlements and of the activist group Tzav 9, which has blocked aid to Gaza. London warned firms not to bid on or build the E1 project.",
+   "h": "Bennett meets Netanyahu privately as unity talks continue",
+   "s": "Bennett went into Netanyahu's Knesset office for what Likud called a security briefing; reports say Eisenkot did not know. Bennett reportedly favours a rotation deal with Eisenkot as prime minister first.",
    "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/international/article-915179",
-   "t": "2026-11-17",
+   "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915298",
+   "t": "2026-11-18",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Israelis wounded, Palestinians shot in clash outside Jericho",
-   "s": "The IDF says Palestinians rammed an Israeli car near Jericho before dawn and attacked its passengers, lightly wounding two. Gunfire followed, wounding Palestinians, including a woman critically. The Israelis were heading to a new outpost.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/two-israelis-lightly-hurt-in-suspected-terror-attack-while-heading-to-new-outpost-on-jerichos-outskirts/",
+   "h": "Katz: Israel may hold Gaza, Lebanon, Syria zones indefinitely",
+   "s": "Defense Minister Katz said Israel will keep its security zones on all three fronts and take more ground if attacked. Critics call his withdrawal conditions unrealistic as international pressure grows.",
+   "src": "Jerusalem Post",
+   "u": "https://www.jpost.com/israel-news/defense-news/article-915274",
+   "t": "2026-11-18",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Board of Peace warns UN the Gaza ceasefire could collapse",
+   "s": "The US-backed board told the Security Council that Israeli aid restrictions and unmade decisions are stalling the truce, its civil administration and the stabilization force. Gazans face another winter in tents.",
+   "src": "WSLS (AP)",
+   "u": "https://www.wsls.com/news/world/2026/11/17/board-of-peace-delivers-bleak-report-on-gaza-warning-of-ceasefire-collapse-without-immediate-action/",
    "t": "2026-11-17",
    "impact": 3,
    "act": false
@@ -39,11 +48,18 @@
  ],
  "coming": [
   {
-   "h": "Eisenkot bloc to begin judicial overhaul repeal bills",
-   "s": "If Kahana wins the speakership, the bloc plans to start advancing bills as early as Nov 18. These would restore the attorney general's powers and reverse changes to the Judicial Selection Committee.",
-   "date": "2026-11-18",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/liveblog_entry/knesset-set-for-pivotal-week-as-eisenkot-bloc-seeks-to-replace-speaker-advance-judicial-legislation/"
+   "h": "Bank of Israel interest rate decision",
+   "s": "October inflation fell to 1.1%, the lowest since 2021, strengthening the case for cutting the 3.25% benchmark rate, possibly to 3%.",
+   "date": "2026-11-23",
+   "src": "Calcalist",
+   "u": "https://www.calcalistech.com/ctechnews/article/w7hqdh5of"
+  },
+  {
+   "h": "Attorney general due before Netanyahu trial judges",
+   "s": "Her court appearance on how the trial is being managed was moved by one week, to Nov. 25, after prosecutors asked for a postponement.",
+   "date": "2026-11-25",
+   "src": "Jerusalem Post",
+   "u": "https://www.jpost.com/israel-news/crime-in-israel/article-915063"
   }
  ]
 }

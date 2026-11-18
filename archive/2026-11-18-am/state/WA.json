@@ -1,0 +1,101 @@
+{
+ "stories": [
+  {
+   "h": "Washington faces roughly $4 billion budget gap in new forecast",
+   "s": "After Monday's state revenue forecast, Gov. Ferguson said the first year of the next budget is about $4 billion short. He blamed rising costs and federal cuts and will release a budget proposal by Dec. 20.",
+   "src": "KOMO News",
+   "u": "https://komonews.com/news/local/ferguson-says-washington-budget-outlook-making-progress-despite-draconian-trump-cuts-deficit-tazes-taxpayer-federal-funding-millionaires-tax-growth-forecast-economy-inflation",
+   "t": "2026-11-16",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "I-5 express lanes closed in Seattle for emergency repair",
+   "s": "WSDOT closed all I-5 express lanes and their on-ramps Monday afternoon to fix a damaged panel near Roanoke Street. The closure is expected to last into Tuesday morning, so the commute will be slower.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/chokepoints/i-5-express-lanes/4300910",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": true
+  },
+  {
+   "h": "AG Brown proposes aggravated arson crime after record wildfire season",
+   "s": "Attorney General Nick Brown and Sen. Marcus Riccelli proposed a new aggravated arson offense with sentences of about 7 to 26 years for fires that cause catastrophic damage. Over 900,000 acres burned in Washington this year.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/mynorthwest-politics/wildfires-lawmakers/4300927",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Student athletes join court fight over I-638 sports measure",
+   "s": "Five high school athletes backed by Alliance Defending Freedom moved to intervene in support of I-638 in King County Superior Court. The ACLU-led lawsuit seeks to block the measure before it takes effect Dec. 3.",
+   "src": "KUOW",
+   "u": "https://www.kuow.org/law/2026-11-16/student-athletes-in-support-of-i-638-jump-into-legal-fight-that-could-overturn-the-measure",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "House Democrats keep Jinkins as speaker, turn back Berg challenge",
+   "s": "In a secret-ballot caucus vote Monday, House Democrats reelected Speaker Laurie Jinkins over Rep. April Berg. Joe Fitzgibbon remains majority leader for a 69-member majority. The 2027 session opens Jan. 11.",
+   "src": "Northwest Progressive Institute",
+   "u": "https://www.nwprogressive.org/weblog/2026/11/washington-state-house-democrats-reelect-laurie-jinkins-as-speaker-joe-fitzgibbon-as-majority-leader-for-2027-2028.html",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Dry Tuesday, then gusty east winds in Cascade foothills",
+   "s": "Western Washington clears Tuesday afternoon. Easterly gap winds gusting near 35 mph hit the Cascades and foothills Tuesday night into Wednesday. Passes may see a few flakes Wednesday morning, but no major snow is expected.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/weather/seattle-weather-morning-clouds-afternoon-sunshine-tuesday",
+   "t": "2026-11-17",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "talking": [
+  {
+   "h": "Seahawks optimistic Darnold returns after bye for 49ers",
+   "s": "Coach Mike Macdonald said he is optimistic QB Sam Darnold, out with a cracked rib and quad injury, will be back for the Nov. 29 game at San Francisco. Seattle is 6-4, and Drew Lock is 3-0 as a starter.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/news/seahawks-sam-darnold",
+   "t": "2026-11-16",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "WSU heads to Texas State after 73-7 rout",
+   "s": "Washington State beat Colorado State 73-7 for its first FBS win of the season. The Cougars play at Texas State on Saturday at 3 p.m. PT on USA Network.",
+   "src": "The Spokesman-Review",
+   "u": "https://www.spokesman.com/stories/2026/nov/16/fresh-off-historic-offensive-outing-wsu-hits-the-r/",
+   "t": "2026-11-16",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Public memorial for fallen Spokane County deputies",
+   "s": "A public memorial for Deputies Parker Perry and Mason Acheson will be held Wednesday afternoon at Numerica Veterans Arena in Spokane. The public is admitted after reserved seating, and residents are encouraged to line the procession route.",
+   "date": "2026-11-18",
+   "src": "KXLY",
+   "u": "https://www.kxly.com/news/memorial-for-2-spokane-sheriffs-deputies-set-for-wednesday-afternoon/article_9efe4882-5aad-41e6-96a4-670bd70540a5.html"
+  },
+  {
+   "h": "Huskies host Indiana at Husky Stadium",
+   "s": "Washington plays Indiana Saturday in Seattle. Kickoff time is still to be announced.",
+   "date": "2026-11-21",
+   "src": "University of Washington Athletics",
+   "u": "https://gohuskies.com/game-center/25208"
+  },
+  {
+   "h": "Counties certify November general election results",
+   "s": "County canvassing boards certify and send in Nov. 3 general election results. The Secretary of State certifies statewide results by Dec. 3.",
+   "date": "2026-11-24",
+   "src": "Washington Secretary of State",
+   "u": "https://www.sos.wa.gov/elections/calendar"
+  }
+ ]
+}

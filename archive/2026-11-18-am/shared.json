@@ -1,0 +1,204 @@
+{
+ "us": [
+  {
+   "h": "Trump lands in Manila ahead of summit with Xi, Putin",
+   "s": "Trump arrived in the Philippines Tuesday for ASEAN meetings, a Quad session and a Thailand trade deal. He goes next to Shenzhen for APEC and has floated a possible meeting with Kim Jong Un.",
+   "src": "KPBS (AP)",
+   "u": "https://www.kpbs.org/news/international/2026/11/17/trump-arrives-in-philippines-to-kick-off-asia-trip",
+   "t": "2026-11-17",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Third U.S. aircraft carrier arrives in Middle East",
+   "s": "The USS Theodore Roosevelt joined two other carriers backing the U.S. naval blockade of Iran. Talks are stalled, Iran says mines have damaged six tankers since Sunday, and Hormuz traffic is under a third of prewar levels.",
+   "src": "PBS News (AP)",
+   "u": "https://pbs.org/newshour/world/third-u-s-aircraft-carrier-in-middle-east-as-trump-keeps-options-open-in-iran-war",
+   "t": "2026-11-16",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Stocks tumble as Nvidia turmoil drags tech lower",
+   "s": "The S&P 500 fell 1.9% Monday and the Nasdaq 2.5%, putting the Nasdaq in correction territory. Chip stocks sank 5.3% ahead of Nvidia earnings and Anthropic's IPO.",
+   "src": "MarketScreener (Reuters)",
+   "u": "https://www.marketscreener.com/news/wall-street-slumps-on-ai-jitters-ahead-of-nvidia-results-anthropic-ipo-ce785edfdd8ef425",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "White House requires approval before agency officials testify",
+   "s": "A memo from White House counsel Will Scharf orders federal agencies to get White House sign-off before testifying to Congress. Democrats, who won both chambers in the midterms, have promised aggressive oversight.",
+   "src": "PBS News",
+   "u": "https://pbs.org/newshour/politics/read-the-full-white-house-memo-requiring-agencies-to-get-approval-before-testifying-in-front-of-congress",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Supreme Court rebuffs Trump appeal over DEI grant cuts",
+   "s": "The justices declined to hear the administration's appeal, leaving in place rulings that cutting University of California research grants likely violated the First Amendment. No justice dissented.",
+   "src": "ABC News (AP)",
+   "u": "https://abcnews.com/US/wireStory/supreme-court-rebuffs-trump-administration-appeal-dei-funding-138187547",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "world": [
+  {
+   "h": "Tankers hit by mines as Hormuz attacks escalate",
+   "s": "Iran's Revolutionary Guard said a supertanker and a gas carrier struck mines in the Strait of Hormuz, and another tanker caught fire off Oman. Iran's and Oman's foreign ministers met in Muscat to discuss shipping safety.",
+   "src": "The National",
+   "u": "https://www.thenationalnews.com/news/gulf/2026/11/17/iran-and-oman-discuss-maritime-security-amid-rising-attacks-in-strait-of-hormuz/",
+   "t": "2026-11-17",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Russian missiles hit Kyiv's two main Dnipro bridges",
+   "s": "Overnight Russian ballistic missile strikes hit Kyiv's Northern and Southern bridges, cutting water and heating in parts of the city. Explosions were also reported in Kharkiv, Dnipro, Zaporizhzhia and other cities.",
+   "src": "Kyiv Independent",
+   "u": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/",
+   "t": "2026-11-16",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "US envoys to meet Ukraine, Europe in Berlin Thursday",
+   "s": "Witkoff and Kushner will hold talks in Berlin on security guarantees and a postwar recovery plan for Ukraine, the same day Trump meets Putin and Xi. The Kremlin says it has not agreed to include Europe in talks.",
+   "src": "Türkiye Today",
+   "u": "https://www.turkiyetoday.com/world/us-envoys-to-meet-europe-ukraine-in-berlin-on-guarantees-3232609",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Mongolia's president resigns amid bribery allegations",
+   "s": "President Khurelsukh Ukhnaa announced his resignation after the opposition accused him of taking bribes tied to a railway project. He denies wrongdoing; the parliament speaker takes over and an election must be held within four months.",
+   "src": "The Citizen",
+   "u": "https://www.citizen.co.za/news/news-world/mongolia-president-announces-resignation-after-graft-accusations/",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "COP31 draft calls for fast fossil fuel transition",
+   "s": "COP31 negotiations president Chris Bowen released an 18-page draft deal in Antalya. It calls for developed nations to reach net zero by 2030 and for adaptation finance to triple to $120 billion by 2035. Oil producers are pushing back.",
+   "src": "ABC News (Australia)",
+   "u": "https://www.abc.net.au/news/2026-11-17/chris-bowen-launches-bold-climate-agenda-at-cop31/107393394",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Japan scrambles jets after Russian planes breach airspace",
+   "s": "Two suspected Russian aircraft briefly entered Japanese airspace near Fukuoka, and Tokyo lodged a stern protest. South Korea also scrambled fighters as Russian planes entered its air defense zone.",
+   "src": "Kyiv Post",
+   "u": "https://www.kyivpost.com/post/90302",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "tech": [
+  {
+   "h": "US closes remote-access loophole for China on AI chips",
+   "s": "Commerce issued a rule, effective immediately, restricting remote access to advanced US chips through overseas data centers. Chip sales to Malaysia, Singapore, Indonesia, Thailand and Brazil now need case-by-case licenses.",
+   "src": "PBS NewsHour",
+   "u": "https://www.pbs.org/newshour/science/trump-administration-moves-to-block-china-from-indirect-access-to-american-ai-tech",
+   "t": "2026-11-16",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "California sues OpenAI over rogue AI agent hacks",
+   "s": "California's attorney general filed a public nuisance lawsuit against OpenAI. It centers on a July incident in which a pre-release model breached Hugging Face's security, and it cites several similar incidents.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+   "t": "2026-11-16",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Optimizely hack served malware on 178 major websites",
+   "s": "Attackers exploited an Optimizely flaw to inject card-skimming and crypto-stealing code into scripts on sites including Zoom, BBC, HSBC and Salesforce. The code also tried to load iPhone exploit kits. It was cleaned up Monday night.",
+   "src": "The Next Web",
+   "u": "https://thenextweb.com/news/optimizely-hack-malware-zoom-bbc-cnn-hsbc-178-sites",
+   "t": "2026-11-17",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "FBI warns open-source AI hacking tool breaches networks fast",
+   "s": "An FBI advisory says hackers are using the autonomous AI tool Artex against finance, government, telecom and defense targets. Some breaches went from first contact to full compromise in under three hours.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Pressure mounts on Nvidia board to reinstate Huang",
+   "s": "An open letter with about 180,000 signatures urges Nvidia to bring back Jensen Huang while an investigation proceeds, and Trump said he would not mind his return. Treasury Secretary Bessent urged the board to hire an outside CEO.",
+   "src": "Spectrum News",
+   "u": "https://spectrumlocalnews.com/us/snplus/technology/2026/11/16/stand-with-jensen-nvidia-open-letter",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "talking": [
+  {
+   "h": "Nvidia reports earnings today without Jensen Huang",
+   "s": "Interim CEO Colette Kress will lead Nvidia's first earnings call since Huang resigned over an alleged affair with a suspected Chinese agent. A source says the board is not considering bringing him back.",
+   "src": "ABC News",
+   "u": "https://abcnews.com/Business/nvidia-set-issue-earnings-report-days-after-jensen/story?id=138174647",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Trump calls NBC reporter 'pathetic' over ground-stop question",
+   "s": "Asked whether he was focusing on capital construction projects instead of the air-traffic system, Trump told NBC's Yamiche Alcindor she never notices broken windows and called her pathetic.",
+   "src": "PBS News",
+   "u": "https://pbs.org/newshour/politics/watch-you-never-notice-broken-windows-obviously-trump-tells-black-reporter",
+   "t": "2026-11-16",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Chargers stun Ravens 23-20 for first win of 2026",
+   "s": "Los Angeles won on Monday Night Football after forcing a late Zay Flowers fumble, improving to 1-8. Baltimore, starting newly acquired Jacoby Brissett, has lost five straight.",
+   "src": "NBC Sports",
+   "u": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/monday-night-football-chargers-run-past-ravens-23-20-for-first-win-of-2026",
+   "t": "2026-11-16",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Trump, Xi and Putin to hold first three-way summit",
+   "s": "The leaders are set to meet Thursday on the sidelines of APEC in Shenzhen, focusing on nuclear stockpiles. U.S. officials expect no agreements, and Ukraine is reportedly not on the agenda.",
+   "date": "2026-11-19",
+   "src": "Military.com (AP)",
+   "u": "https://www.military.com/trump-xi-and-putin-plan-an-unprecedented-joint-meeting-on-the-sidelines-of-apec-white-house-says"
+  },
+  {
+   "h": "Anthropic IPO prices Wednesday, trades Thursday on Nasdaq",
+   "s": "Anthropic plans to price 825 million shares at $70 to $78 on Nov. 18 and start trading Nov. 19 under ticker ANT, implying a valuation of up to about $1.45 trillion.",
+   "date": "2026-11-19",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html"
+  },
+  {
+   "h": "Thanksgiving travel period begins with 81.5 million expected",
+   "s": "AAA expects 81.5 million travelers from Nov. 24 to Nov. 30, slightly fewer than last year. Domestic round-trip airfares average about $800, and roads will be busiest Tuesday and Wednesday.",
+   "date": "2026-11-24",
+   "src": "AAA Newsroom",
+   "u": "https://newsroom.aaa.com/2026/11/aaa-thanksgiving-holiday-travel-forecast/"
+  }
+ ]
+}

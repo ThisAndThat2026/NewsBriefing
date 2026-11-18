@@ -1,0 +1,47 @@
+{
+ "stories": [
+  {
+   "h": "Man killed, woman wounded in Everett shooting",
+   "s": "A man in his 50s died and a woman in her 40s was hospitalized after a shooting around 3:45 a.m. Monday in the 6400 block of Highland Drive. Police believe those involved knew each other. No arrest has been reported.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/16/man-killed-woman-hurt-in-everett-shooting-on-monday-morning/",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Jared Mead launches run for Snohomish County Executive",
+   "s": "County Councilmember Jared Mead announced a campaign for county executive. The seat opens in 2027 when Dave Somers reaches his three-term limit.",
+   "src": "My Everett News",
+   "u": "https://myeverettnews.com/2026/11/16/jared-mead-announces-campaign-for-snohomish-county-executive/",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Accused Everett boat thief released after third arrest",
+   "s": "Nathan Pings, 21, is accused of stealing three boats in about two weeks. After his third arrest, a judge released him without bail over prosecutors' objections. He is due back in court Dec. 9.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/news/man-released-released-boat-thefts",
+   "t": "2026-11-16",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Tulalip Lights & Ice opens for the season",
+   "s": "The holiday lights display at the Tulalip Amphitheatre opens, with lights coming on at 5 p.m.",
+   "date": "2026-11-21",
+   "src": "MLTnews",
+   "u": "https://mymltnews.com/south-snoco-playtime-your-family-fun-guide-for-nov-16-22-2026/"
+  },
+  {
+   "h": "Edmonds Museum Holiday Market downtown",
+   "s": "Holiday market in downtown Edmonds runs 9 a.m. to 2 p.m. Saturday.",
+   "date": "2026-11-21",
+   "src": "MLTnews",
+   "u": "https://mymltnews.com/south-snoco-playtime-your-family-fun-guide-for-nov-16-22-2026/"
+  }
+ ]
+}

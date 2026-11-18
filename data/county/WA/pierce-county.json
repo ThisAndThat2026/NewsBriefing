@@ -1,28 +1,37 @@
 {
  "stories": [
   {
-   "h": "Suspect, victim named in deadly Spanaway chase crash",
-   "s": "WSP identified the man killed as David Bauschman, 54, of Tacoma. Brody Wood, 20, of Centralia faces vehicular homicide, DUI, eluding and hit-and-run allegations after a deputy pursuit from Lakewood ended on Pacific Avenue South.",
-   "src": "KIRO 7",
-   "u": "https://www.kiro7.com/news/local/suspect-victim-named-deadly-spanaway-crash/JZIWDJTUAJBMFDPITNEOM5YDFE/",
-   "t": "2026-11-16",
+   "h": "Tacoma adopts $5.3 billion 2027-28 budget",
+   "s": "The City Council adopted the biennial budget, closing a $40 million general fund deficit. It adds 12 police officers and a 10% commercial parking tax, cuts more than 100 positions and phases out the HOPE team.",
+   "src": "City of Tacoma",
+   "u": "https://tacoma.gov/news/city-of-tacomas-adopted-biennial-budget-focuses-on-everyday-services-and-fiscal-sustainability/",
+   "t": "2026-11-17",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Chinook, Cayuse passes close for season today",
+   "s": "SR 410 over Chinook Pass and SR 123 over Cayuse Pass close for the winter starting Wednesday, Nov. 18, at 10 a.m.",
+   "src": "Yahoo News (The News Tribune)",
+   "u": "https://www.yahoo.com/news/weather-news/articles/two-pierce-county-mountain-passes-000054307.html",
+   "t": "2026-11-18",
+   "impact": 3,
+   "act": true
+  },
+  {
+   "h": "$1 million bail in deadly Spanaway chase crash",
+   "s": "A judge set $1 million bail for Brody Wood, 20, accused of killing David Bauschman, 54, after a chase that hit 134 mph. Police say his blood alcohol level was 0.109.",
+   "src": "KOMO News",
+   "u": "https://komonews.com/news/local/pierce-county-judge-sets-1m-bail-for-20-year-old-accused-of-killing-man-in-dui-crash-spanway-i5-speeding-crime",
+   "t": "2026-11-17",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Tacoma police give away free turkeys at Tacoma Dome today",
-   "s": "Drive-thru giveaway starts 11 a.m. Tuesday at the Tacoma Dome, with about 1,000 turkeys and sides. No registration, one per vehicle, and supplies are expected to run out by about 12:30 p.m.",
-   "src": "Yahoo News (FOX 13 Seattle)",
-   "u": "https://www.yahoo.com/news/articles/tacoma-wa-police-hand-hundreds-203744114.html",
-   "t": "2026-11-16",
-   "impact": 2,
-   "act": true
-  },
-  {
-   "h": "Former Puyallup, Lakewood officer charged in Home Depot thefts",
-   "s": "Pierce County prosecutors charged ex-officer Quinn Rawson, 31, with organized retail theft. He is accused of taking about $1,666 in merchandise over 16 visits to a Puyallup Home Depot between September and early November.",
-   "src": "Yahoo News (FOX 13 Seattle)",
-   "u": "https://www.yahoo.com/news/us/articles/former-puyallup-lakewood-wa-police-214811738.html",
+   "h": "Fox Island Bridge replacement worries nearby homeowners",
+   "s": "Pierce County's replacement of the structurally deficient 1954 bridge could cost more than $250 million. Property buying could start in 2029, and residents say the uncertainty is hurting home sales.",
+   "src": "Yahoo News (The News Tribune)",
+   "u": "https://www.yahoo.com/news/us/articles/87-pierce-county-home-others-130000636.html",
    "t": "2026-11-16",
    "impact": 2,
    "act": false
@@ -30,18 +39,11 @@
  ],
  "coming": [
   {
-   "h": "Tacoma council expected to adopt 2027-28 budget",
-   "s": "The council is expected to adopt a two-year budget that closes a $40 million deficit, per NWPB. Check the city's meeting calendar for the exact session.",
-   "date": "2026-11-18",
-   "src": "Northwest Public Broadcasting",
-   "u": "https://www.nwpb.org/local/2026-11-12/city-council-continues-work-on-budget-allocates-some-funding-for-community-service-officers"
-  },
-  {
-   "h": "Second Tacoma police turkey giveaway at Cheney Stadium",
-   "s": "Drive-thru giveaway with about 700 turkeys and sides starts 11 a.m. at Cheney Stadium. One per vehicle, no registration, first come first served.",
+   "h": "Fantasy Lights Walk at Spanaway Park",
+   "s": "Walk-through nights for Pierce County's holiday light display, with sessions at 4:30 and 7 p.m. Admission is $3–$5. The drive-through season opens Nov. 27.",
    "date": "2026-11-21",
-   "src": "Yahoo News (FOX 13 Seattle)",
-   "u": "https://www.yahoo.com/news/articles/tacoma-wa-police-hand-hundreds-203744114.html"
+   "src": "ParentMap",
+   "u": "https://www.parentmap.com/calendar/28270"
   }
  ]
 }

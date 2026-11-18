@@ -1,101 +1,103 @@
 {
  "stories": [
   {
-   "h": "Washington faces roughly $4 billion budget gap in new forecast",
-   "s": "After Monday's state revenue forecast, Gov. Ferguson said the first year of the next budget is about $4 billion short. He blamed rising costs and federal cuts and will release a budget proposal by Dec. 20.",
-   "src": "KOMO News",
-   "u": "https://komonews.com/news/local/ferguson-says-washington-budget-outlook-making-progress-despite-draconian-trump-cuts-deficit-tazes-taxpayer-federal-funding-millionaires-tax-growth-forecast-economy-inflation",
-   "t": "2026-11-16",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "I-5 express lanes closed in Seattle for emergency repair",
-   "s": "WSDOT closed all I-5 express lanes and their on-ramps Monday afternoon to fix a damaged panel near Roanoke Street. The closure is expected to last into Tuesday morning, so the commute will be slower.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/chokepoints/i-5-express-lanes/4300910",
-   "t": "2026-11-16",
+   "h": "Chinook and Cayuse passes close for winter today",
+   "s": "WSDOT closes SR 410 Chinook Pass and SR 123 Cayuse Pass at 10 a.m. Wednesday because of avalanche risk. Stevens Canyon Road in Mount Rainier National Park is also closed for the season.",
+   "src": "WSDOT",
+   "u": "https://wsdot.wa.gov/about/news/2026/sr-410-chinook-pass-and-sr-123-cayuse-pass-close-season-wednesday-nov-18",
+   "t": "2026-11-17",
    "impact": 3,
    "act": true
   },
   {
-   "h": "AG Brown proposes aggravated arson crime after record wildfire season",
-   "s": "Attorney General Nick Brown and Sen. Marcus Riccelli proposed a new aggravated arson offense with sentences of about 7 to 26 years for fires that cause catastrophic damage. Over 900,000 acres burned in Washington this year.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/mynorthwest-politics/wildfires-lawmakers/4300927",
-   "t": "2026-11-16",
+   "h": "Wintry mix, freezing fog hit Central Washington through Thursday",
+   "s": "Yakima and the Tri-Cities could see a wintry mix and slick roads from Wednesday into early Friday. White Pass and Blewett Pass are expected to get the most snow and ice.",
+   "src": "Apple Valley News Now",
+   "u": "https://www.applevalleynewsnow.com/news/wintry-mix-and-freezing-rain-possible-in-yakima-and-tri-cities-for-wednesday-and-thursday/article_d747d84a-772d-4e25-a67f-b5d670a21b4b.html",
+   "t": "2026-11-18",
    "impact": 3,
-   "act": false
+   "act": true
   },
   {
-   "h": "Student athletes join court fight over I-638 sports measure",
-   "s": "Five high school athletes backed by Alliance Defending Freedom moved to intervene in support of I-638 in King County Superior Court. The ACLU-led lawsuit seeks to block the measure before it takes effect Dec. 3.",
-   "src": "KUOW",
-   "u": "https://www.kuow.org/law/2026-11-16/student-athletes-in-support-of-i-638-jump-into-legal-fight-that-could-overturn-the-measure",
-   "t": "2026-11-16",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "House Democrats keep Jinkins as speaker, turn back Berg challenge",
-   "s": "In a secret-ballot caucus vote Monday, House Democrats reelected Speaker Laurie Jinkins over Rep. April Berg. Joe Fitzgibbon remains majority leader for a 69-member majority. The 2027 session opens Jan. 11.",
-   "src": "Northwest Progressive Institute",
-   "u": "https://www.nwprogressive.org/weblog/2026/11/washington-state-house-democrats-reelect-laurie-jinkins-as-speaker-joe-fitzgibbon-as-majority-leader-for-2027-2028.html",
-   "t": "2026-11-16",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Dry Tuesday, then gusty east winds in Cascade foothills",
-   "s": "Western Washington clears Tuesday afternoon. Easterly gap winds gusting near 35 mph hit the Cascades and foothills Tuesday night into Wednesday. Passes may see a few flakes Wednesday morning, but no major snow is expected.",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/weather/seattle-weather-morning-clouds-afternoon-sunshine-tuesday",
+   "h": "Senate leader floats corporate income tax to replace B&O",
+   "s": "Senate Majority Leader Jamie Pedersen proposes swapping the B&O tax, about $7B a year, for a revenue-neutral corporate income tax. Legislation is unlikely before 2028 or 2029, and business groups are skeptical.",
+   "src": "The Spokesman-Review (Seattle Times)",
+   "u": "https://www.spokesman.com/stories/2026/nov/17/a-corporate-income-tax-in-wa-top-democratic-lawmak/",
    "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Infant and toddler homelessness up about 30% in Washington",
+   "s": "A new report estimates more than 15,000 Washington children under 3 are homeless, the fifth-highest rate among states. Advocates warn that proposed Early Head Start rule changes could cut their access.",
+   "src": "The Chronicle (Seattle Times)",
+   "u": "https://www.chronline.com/stories/infant-homelessness-rises-in-washington-as-advocates-fear-key-federal-services-at-risk,411939",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Tacoma St. Joseph hospital techs give strike notice",
+   "s": "More than 225 UFCW 3000 technical workers plan a strike over alleged unfair labor practices from Dec. 2 to 4. The hospital says it will bring in replacement staff.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/local/tacoma-st-joseph-strike/4300934",
+   "t": "2026-11-16",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "New AG rules aim to speed public records requests",
+   "s": "New model rules from the attorney general urge agencies to triage requests and hand over simple records within five days. They take effect Nov. 26, but critics say they skip Teams chat auto-deletion.",
+   "src": "KUOW (WA State Standard)",
+   "u": "https://www.kuow.org/governing/2026-11-16/new-rules-seek-to-speed-up-wa-public-records-system",
+   "t": "2026-11-16",
    "impact": 2,
    "act": false
   }
  ],
  "talking": [
   {
-   "h": "Seahawks optimistic Darnold returns after bye for 49ers",
-   "s": "Coach Mike Macdonald said he is optimistic QB Sam Darnold, out with a cracked rib and quad injury, will be back for the Nov. 29 game at San Francisco. Seattle is 6-4, and Drew Lock is 3-0 as a starter.",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/news/seahawks-sam-darnold",
-   "t": "2026-11-16",
+   "h": "Brandi Carlile, Foo Fighters lead Washington's Grammy nominees",
+   "s": "Ravensdale native Brandi Carlile earned four nominations and the Foo Fighters two. Seattle Symphony's Dmitriy Lipay is up for Classical Producer of the Year. The ceremony is Feb. 7.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/lifestyle/grammy-nomination-carlil-award/4301285",
+   "t": "2026-11-17",
    "impact": 2,
    "act": false
   },
   {
-   "h": "WSU heads to Texas State after 73-7 rout",
-   "s": "Washington State beat Colorado State 73-7 for its first FBS win of the season. The Cougars play at Texas State on Saturday at 3 p.m. PT on USA Network.",
-   "src": "The Spokesman-Review",
-   "u": "https://www.spokesman.com/stories/2026/nov/16/fresh-off-historic-offensive-outing-wsu-hits-the-r/",
-   "t": "2026-11-16",
+   "h": "Arozarena wins Silver Slugger, becomes a free agent",
+   "s": "Randy Arozarena won his first AL Silver Slugger after hitting 26 homers. He declined the Mariners' qualifying offer the same day, making him a free agent.",
+   "src": "Seattle Sports (MyNorthwest)",
+   "u": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-randy-arozarena-wins-first-career-silver-slugger",
+   "t": "2026-11-17",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Banged-up Seahawks use bye week to heal",
+   "s": "With Darnold, Cross, Nelson and Williams out recently and new injuries to Lucas and Reed, Seattle sits 2.5 games behind San Francisco and is the first team out of the wild-card race.",
+   "src": "Seattle Sports (MyNorthwest)",
+   "u": "https://sports.mynorthwest.com/nfl/seattle-seahawks/with-injuries-mounting-seahawks-needed-bye-week",
+   "t": "2026-11-17",
    "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Public memorial for fallen Spokane County deputies",
-   "s": "A public memorial for Deputies Parker Perry and Mason Acheson will be held Wednesday afternoon at Numerica Veterans Arena in Spokane. The public is admitted after reserved seating, and residents are encouraged to line the procession route.",
-   "date": "2026-11-18",
-   "src": "KXLY",
-   "u": "https://www.kxly.com/news/memorial-for-2-spokane-sheriffs-deputies-set-for-wednesday-afternoon/article_9efe4882-5aad-41e6-96a4-670bd70540a5.html"
+   "h": "Kraken back home vs. Canucks after Finland trip",
+   "s": "The Kraken return to Climate Pledge Arena to host Vancouver at 6:40 p.m. PT, their first game since the Global Series in Finland.",
+   "date": "2026-11-19",
+   "src": "Sportsnaut",
+   "u": "https://sportsnaut.com/nhl/seattle-kraken/kraken-regroup-in-finland-before-global-series-vs-hurricanes"
   },
   {
-   "h": "Huskies host Indiana at Husky Stadium",
-   "s": "Washington plays Indiana Saturday in Seattle. Kickoff time is still to be announced.",
-   "date": "2026-11-21",
-   "src": "University of Washington Athletics",
-   "u": "https://gohuskies.com/game-center/25208"
-  },
-  {
-   "h": "Counties certify November general election results",
-   "s": "County canvassing boards certify and send in Nov. 3 general election results. The Secretary of State certifies statewide results by Dec. 3.",
-   "date": "2026-11-24",
-   "src": "Washington Secretary of State",
-   "u": "https://www.sos.wa.gov/elections/calendar"
+   "h": "State agencies' budget-cut options due",
+   "s": "State agencies must submit options to cut, reduce or delay programs by Nov. 23, as Gov. Ferguson prepares budgets to close a $4B gap.",
+   "date": "2026-11-23",
+   "src": "The Columbian (WA State Standard)",
+   "u": "https://www.columbian.com/news/2026/nov/17/wa-governor-looks-to-sharply-pare-spending-in-face-of-4b-budget-shortfall/"
   }
  ]
 }

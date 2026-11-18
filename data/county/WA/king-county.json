@@ -1,46 +1,46 @@
 {
  "stories": [
   {
-   "h": "Overnight I-5 express lane, I-405 Kirkland closures this week",
-   "s": "Ship Canal Bridge express lanes close fully at 9 p.m. nightly through Wednesday, with southbound I-5 down to two lanes overnight. Northbound I-405 closes from NE 70th to NE 85th tonight, 11:59 p.m. to 5 a.m.",
+   "h": "Mayor Wilson faults council's $31M in one-time spending",
+   "s": "Wilson says the council budget committee's changes add $31M in one-time 2027 spending, leaving more than $20M unfunded in 2028. The full council's final vote is expected Friday.",
    "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/chokepoints/wsdot-closures-express-lanes/4300711",
-   "t": "2026-11-16",
-   "impact": 3,
-   "act": true
-  },
-  {
-   "h": "King County committee rejects tax hikes for clinics, Harborview",
-   "s": "A County Council committee voted down Mosqueda proposals to raise property taxes for public health clinics and Harborview as Medicaid cuts take effect. It promised to consider the taxes next budget cycle. The full council votes Nov. 24.",
-   "src": "KOMO News",
-   "u": "https://komonews.com/news/local/king-county-council-committee-rejects-property-tax-hikes-for-medical-clinics-harborview-taxpayer-economy-rent-mortgage-home-real-estate-insurance-health-care-medicaid-federal-coverage",
-   "t": "2026-11-16",
+   "u": "https://mynorthwest.com/mynorthwest-politics/spending-budget/4301466",
+   "t": "2026-11-17",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Metro pass sales, Lost and Found closed after building fire",
-   "s": "An electrical fire on Nov. 13 at King Street Center closed Metro's pass sales office and Lost and Found window until further notice. Riders can manage ORCA cards online at myorca.com or call 206-553-3000.",
-   "src": "King County Metro",
-   "u": "https://kingcountymetro.blog/2026/11/14/king-county-metro-pass-sales-and-lost-found-currently-closed/",
-   "t": "2026-11-16",
-   "impact": 2,
-   "act": true
+   "h": "Fall City teen pleads not guilty in family killings",
+   "s": "The 17-year-old pleaded not guilty in adult court to killing five family members in 2024 and is being held without bail. His next hearing is Dec. 9, with trial tentatively set for Jan. 4.",
+   "src": "KUOW",
+   "u": "https://www.kuow.org/crime/2026-11-17/teenager-charged-in-fall-city-family-killings-pleads-not-guilty",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
   },
   {
-   "h": "Driver arrested after fatal hit-and-run in south Seattle",
-   "s": "A driver hit a man Sunday afternoon at MLK Jr. Way S and S Alaska St and drove away. The man later died at Harborview. Police found and arrested the driver.",
-   "src": "KOMO News",
-   "u": "https://komonews.com/news/local/pedestrian-dies-after-hit-and-run-in-south-seattle-intersection-driver-arrested",
-   "t": "2026-11-16",
+   "h": "Bellevue School District exits state financial oversight",
+   "s": "The state has lifted its binding conditions on Bellevue schools after the district rebuilt reserves to $24M through more than $20M in cuts. Deficits are still forecast.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/local/bellevue-financial-oversight-schools/4301343",
+   "t": "2026-11-17",
    "impact": 2,
    "act": false
   },
   {
-   "h": "Two shot near Seattle's Magnuson Park",
-   "s": "A woman and a man were shot in the 6800 block of 62nd Ave NE in Sand Point. The man is in serious condition and the woman is stable. Seattle police are investigating.",
+   "h": "Redmond police seek dashcam video in teen's killing",
+   "s": "Police are seeking suspects in the Nov. 13 shooting death of 18-year-old Yahir Cepeda near Avondale Road. They want dashcam footage and believe the suspects fled in a black Chevrolet Impala.",
    "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/news/seattle-police-double-shooting-sand-point",
+   "u": "https://www.fox13seattle.com/news/suspects-redmond-teen-murder",
+   "t": "2026-11-17",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "King County buys 475 acres of Tokul forest",
+   "s": "In its largest land purchase in 20 years, the county paid $6.75M for forest southeast of Fall City, keeping about seven miles of popular trails open.",
+   "src": "Seattle Weekly",
+   "u": "https://www.seattleweekly.com/2026/11/16/king-county-makes-largest-land-purchase-in-20-years/",
    "t": "2026-11-16",
    "impact": 2,
    "act": false
@@ -48,18 +48,11 @@
  ],
  "coming": [
   {
-   "h": "Seattle council's final vote on 2027-28 budget",
-   "s": "The full City Council plans to adopt the 2027-28 budget, which closes a $175M deficit. The Select Budget Committee takes its final vote Nov. 19.",
+   "h": "Seattle City Council final budget vote",
+   "s": "The full council is expected to take its final vote on the 2027-28 budget Friday, after Mayor Wilson objected to the committee's one-time spending.",
    "date": "2026-11-20",
-   "src": "Westside Seattle",
-   "u": "https://www.westsideseattle.com/robinson-papers/2026/11/04/seattle-city-council-unveils-2027-2028-budget-framework-focused-public"
-  },
-  {
-   "h": "King County Council final supplemental budget vote",
-   "s": "The full council votes on the amended supplemental budget, including the committee's decision to put off property tax increases for public health and Harborview.",
-   "date": "2026-11-24",
-   "src": "KOMO News",
-   "u": "https://komonews.com/news/local/king-county-council-committee-rejects-property-tax-hikes-for-medical-clinics-harborview-taxpayer-economy-rent-mortgage-home-real-estate-insurance-health-care-medicaid-federal-coverage"
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/mynorthwest-politics/spending-budget/4301466"
   }
  ]
 }
