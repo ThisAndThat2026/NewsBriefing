@@ -1,65 +1,65 @@
 {
- "stories": [
-  {
-   "h": "Knesset advances bills repealing judicial overhaul laws",
-   "s": "Eisenkot's bloc won preliminary votes, 63–67 in favour, to repeal the judicial selection overhaul, the law weakening the attorney general and Karhi's broadcasting reform. Each bill still needs three more readings.",
-   "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915294",
-   "t": "2026-11-18",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Matan Kahana elected Knesset speaker, ousting Likud's Ohana",
-   "s": "Kahana of Yashar won 66 votes, with Arab parties backing him, and beat Likud's Ofir Katz. He promised the Knesset will obey court rulings. Eisenkot's bloc also took control of key committees.",
-   "src": "Ynet News",
-   "u": "https://www.ynetnews.com/article/b1jkmr5cge",
-   "t": "2026-11-17",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Bennett meets Netanyahu privately as unity talks continue",
-   "s": "Bennett went into Netanyahu's Knesset office for what Likud called a security briefing; reports say Eisenkot did not know. Bennett reportedly favours a rotation deal with Eisenkot as prime minister first.",
-   "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915298",
-   "t": "2026-11-18",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Katz: Israel may hold Gaza, Lebanon, Syria zones indefinitely",
-   "s": "Defense Minister Katz said Israel will keep its security zones on all three fronts and take more ground if attacked. Critics call his withdrawal conditions unrealistic as international pressure grows.",
-   "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/israel-news/defense-news/article-915274",
-   "t": "2026-11-18",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Board of Peace warns UN the Gaza ceasefire could collapse",
-   "s": "The US-backed board told the Security Council that Israeli aid restrictions and unmade decisions are stalling the truce, its civil administration and the stabilization force. Gazans face another winter in tents.",
-   "src": "WSLS (AP)",
-   "u": "https://www.wsls.com/news/world/2026/11/17/board-of-peace-delivers-bleak-report-on-gaza-warning-of-ceasefire-collapse-without-immediate-action/",
-   "t": "2026-11-17",
-   "impact": 3,
-   "act": false
-  }
- ],
- "coming": [
-  {
-   "h": "Bank of Israel interest rate decision",
-   "s": "October inflation fell to 1.1%, the lowest since 2021, strengthening the case for cutting the 3.25% benchmark rate, possibly to 3%.",
-   "date": "2026-11-23",
-   "src": "Calcalist",
-   "u": "https://www.calcalistech.com/ctechnews/article/w7hqdh5of"
-  },
-  {
-   "h": "Attorney general due before Netanyahu trial judges",
-   "s": "Her court appearance on how the trial is being managed was moved by one week, to Nov. 25, after prosecutors asked for a postponement.",
-   "date": "2026-11-25",
-   "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/israel-news/crime-in-israel/article-915063"
-  }
- ]
+  "stories": [
+    {
+      "h": "Knesset advances bills repealing judicial overhaul laws",
+      "s": "Eisenkot's bloc won preliminary votes, 63–67 in favour, to repeal the judicial selection overhaul, the law weakening the attorney general and Karhi's broadcasting reform. Each bill still needs three more readings.",
+      "src": "Jerusalem Post",
+      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915294",
+      "t": "2026-11-18",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Matan Kahana elected Knesset speaker, ousting Likud's Ohana",
+      "s": "Kahana of Yashar won 66 votes, with Arab parties backing him, and beat Likud's Ofir Katz. He promised the Knesset will obey court rulings. Eisenkot's bloc also took control of key committees.",
+      "src": "Ynet News",
+      "u": "https://www.ynetnews.com/article/b1jkmr5cge",
+      "t": "2026-11-17",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Israel launches large operation in central Gaza",
+      "s": "The army says it began a concentrated operation in three areas of central Gaza near the ceasefire line to remove threats to its troops, closing parts of Salah al-Din Road. It is the first such push there since the truce.",
+      "src": "Drop Site News",
+      "u": "https://www.dropsitenews.com/p/israel-gaza-operation-jeffries-speaker-nsa-comms-system",
+      "t": "2026-11-18",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Bennett meets Netanyahu privately as unity talks continue",
+      "s": "Bennett went into Netanyahu's Knesset office for what Likud called a security briefing; reports say Eisenkot did not know. Bennett reportedly favours a rotation deal with Eisenkot as prime minister first.",
+      "src": "Jerusalem Post",
+      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915298",
+      "t": "2026-11-18",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Katz: Israel may hold Gaza, Lebanon, Syria zones indefinitely",
+      "s": "Defense Minister Katz said Israel will keep its security zones on all three fronts and take more ground if attacked. Critics call his withdrawal conditions unrealistic as international pressure grows.",
+      "src": "Jerusalem Post",
+      "u": "https://www.jpost.com/israel-news/defense-news/article-915274",
+      "t": "2026-11-18",
+      "impact": 3,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Bank of Israel interest rate decision",
+      "s": "October inflation fell to 1.1%, the lowest since 2021, strengthening the case for cutting the 3.25% benchmark rate, possibly to 3%.",
+      "date": "2026-11-23",
+      "src": "Calcalist",
+      "u": "https://www.calcalistech.com/ctechnews/article/w7hqdh5of"
+    },
+    {
+      "h": "Attorney general due before Netanyahu trial judges",
+      "s": "Her court appearance on how the trial is being managed was moved by one week, to Nov. 25, after prosecutors asked for a postponement.",
+      "date": "2026-11-25",
+      "src": "Jerusalem Post",
+      "u": "https://www.jpost.com/israel-news/crime-in-israel/article-915063"
+    }
+  ]
 }
