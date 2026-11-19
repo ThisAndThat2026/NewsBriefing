@@ -1,0 +1,177 @@
+{
+ "us": [
+  {
+   "h": "Xi greets Trump on tarmac as China summit begins",
+   "s": "Trump landed in Shenzhen for APEC, and Xi greeted him at the plane, which Xi rarely does. A first three-way meeting with Xi and Putin is set for Thursday; officials expect no breakthrough.",
+   "src": "KPBS (NPR/AP)",
+   "u": "https://www.kpbs.org/news/politics/2026/11/18/trump-lands-in-china-with-key-meetings-with-xi-and-putin-on-the-agenda",
+   "t": "2026-11-18",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Peltola unseats Sullivan, giving Democrats 56-44 Senate",
+   "s": "The AP called Alaska's Senate race for Democrat Mary Peltola, who won 50.1% of first-choice votes, so no ranked-choice count is needed. She will be the first Alaska Native senator.",
+   "src": "Alaska Public Media",
+   "u": "https://alaskapublic.org/news/politics/elections/2026-11-17/mary-peltola-wins-u-s-senate-seat-in-alaska",
+   "t": "2026-11-17",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "US officially loses measles elimination status after 26 years",
+   "s": "The Pan American Health Organization said the U.S. and Mexico lost measles elimination status. The U.S. has more than 5,400 cases and 10 deaths this year, mostly among unvaccinated people.",
+   "src": "PBS News (AP)",
+   "u": "https://www.pbs.org/newshour/health/u-s-and-mexico-officially-lose-measles-elimination-status",
+   "t": "2026-11-17",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Week of outages hits FAA, banks, Microsoft and NSA",
+   "s": "Outages hit Microsoft 365, the FAA (with a nationwide ground stop), JPMorgan Chase, United and the NSA's classified network. Officials say there is no evidence of a cyberattack, and the FBI is helping the FAA.",
+   "src": "Fox News",
+   "u": "https://www.foxnews.com/live-news/tech-outages-microsoft-banks-faa-fbi-11-17-26",
+   "t": "2026-11-17",
+   "impact": 4,
+   "act": false
+  }
+ ],
+ "world": [
+  {
+   "h": "US hits Iranian missile site; Iran strikes back at Gulf bases",
+   "s": "The US struck an IRGC missile site on Iran's Qeshm Island. Iran then sent drones at Kuwait and Bahrain, and the Houthis claimed drone attacks on a Saudi oil pipeline.",
+   "src": "CBS News",
+   "u": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+   "t": "2026-11-17",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Intelligence says Putin plans to fight on through winter",
+   "s": "Western intelligence, as reported by the NYT, says Putin is not ready for serious peace talks and wants to keep fighting at least through winter. US, Ukrainian and European officials are meeting in Berlin.",
+   "src": "European Pravda",
+   "u": "https://www.eurointegration.com.ua/eng/news/2026/11/18/7250263",
+   "t": "2026-11-18",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Ethiopia and Eritrea mass troops on border",
+   "s": "Conflict monitors say both armies are now within striking distance of each other. They also report recent drone strikes and clashes near Badme, which raises fears of a new war.",
+   "src": "TimesLIVE (Reuters)",
+   "u": "https://www.timeslive.co.za/news/africa/2026-11-18-ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say/",
+   "t": "2026-11-18",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Myanmar to review ASEAN ties, says bloc treats it unfairly",
+   "s": "President Min Aung Hlaing said Myanmar will review its relationship with ASEAN. ASEAN leaders had said Myanmar made too little progress on the bloc's peace plan and kept it out of summits.",
+   "src": "WRAL (AP)",
+   "u": "https://www.wral.com/news/ap/97e86-myanmars-leader-accuses-southeast-asian-bloc-of-unfair-treatment/",
+   "t": "2026-11-18",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "tech": [
+  {
+   "h": "Nvidia revenue doubles; board says Huang will not return",
+   "s": "Nvidia reported $115.8B in quarterly revenue, up 103%, beat forecasts and announced a $150B buyback. Its chair said the board will not reinstate Jensen Huang, and Colette Kress remains interim CEO.",
+   "src": "Yahoo Finance",
+   "u": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html",
+   "t": "2026-11-17",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Anthropic IPO prices tonight, valuing it up to $1.4 trillion",
+   "s": "Anthropic is expected to price 825 million shares at $70–$78 on Wednesday evening, with orders reportedly about six times the shares offered. Nasdaq trading under ticker ANT is expected Thursday.",
+   "src": "FinanceFeeds",
+   "u": "https://financefeeds.com/anthropic-ipo-prices-tonight-70-78-range-825-million-shares-ant-first-trade-thursday/",
+   "t": "2026-11-18",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "AI finds critical 'Java4Shell' flaw; urgent patch issued",
+   "s": "Startup Calif used an OpenAI model to find a 9.2-severity OpenJDK flaw that could allow remote code execution. Oracle patched it, and CISA and South Korea urged immediate updates.",
+   "src": "Digit",
+   "u": "https://www.digit.in/news/general/java-vulnerability-that-can-put-millions-of-systems-at-risk-discovered-using-ai-us-issues-warning.html",
+   "t": "2026-11-18",
+   "impact": 4,
+   "act": true
+  },
+  {
+   "h": "Tests show AI models picking civilians as military targets",
+   "s": "Vals tests found models from eight labs marking civilians, ambulances and an Iranian school as targets. Anthropic's Claude did worst, and Anthropic said new safeguards are coming.",
+   "src": "The Next Web",
+   "u": "https://thenextweb.com/news/ai-models-flagged-civilians-as-military-targets-in-tests-bloomberg-reports",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Jensen Huang agrees to House questioning over suspected spy",
+   "s": "Under threat of subpoena, the former Nvidia CEO agreed to a December 1 interview with House committees about his ties to Alice Huang, a suspected Chinese spy linked to chip smuggling.",
+   "src": "CBS News",
+   "u": "https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/",
+   "t": "2026-11-17",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "talking": [
+  {
+   "h": "Nationwide alert test runs amid viral blackout hoax",
+   "s": "FEMA's emergency alert test interrupted TV and radio for about a minute Tuesday. Viral posts falsely claimed it signaled a 90-day nationwide blackout; no outage was planned.",
+   "src": "Yahoo News (USA Today Network)",
+   "u": "https://www.yahoo.com/news/us/articles/no-emergency-alert-wasnt-blackout-193702958.html",
+   "t": "2026-11-17",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Texas jumps Notre Dame in latest playoff rankings",
+   "s": "Georgia, Utah, Alabama and UCLA kept the top four spots in the third College Football Playoff rankings. Texas moved up to No. 5, and Notre Dame dropped to No. 6.",
+   "src": "NCAA.com",
+   "u": "https://www.ncaa.com/news/football/article/2026-11-17/georgia-leads-texas-enters-top-five-third-college-football-playoff-rankings-2026",
+   "t": "2026-11-18",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Regulators force Kalshi to halt bets on Trump's words",
+   "s": "The CFTC ordered Kalshi to stop offering contracts on what Trump will say in public remarks, and Kalshi complied. The regulator opened proceedings over whether the markets were certified properly.",
+   "src": "CoinDesk",
+   "u": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+   "t": "2026-11-17",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Trump, Xi and Putin hold first trilateral meeting",
+   "s": "The three leaders meet on the APEC sidelines in China. Nuclear arms limits and the Iran war are expected topics, and Trump also wants to discuss Ukraine.",
+   "date": "2026-11-19",
+   "src": "KPBS (NPR/AP)",
+   "u": "https://www.kpbs.org/news/politics/2026/11/18/trump-lands-in-china-with-key-meetings-with-xi-and-putin-on-the-agenda"
+  },
+  {
+   "h": "Anthropic shares expected to debut on Nasdaq",
+   "s": "Anthropic is expected to start trading Thursday under the ticker ANT, after pricing in a proposed $70 to $78 range.",
+   "date": "2026-11-19",
+   "src": "Yahoo Finance (Barchart)",
+   "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-date-ant-stock-211907331.html"
+  },
+  {
+   "h": "Thanksgiving travel period begins",
+   "s": "AAA expects 81.5 million travelers from Nov. 24 to 30, slightly fewer than last year. Gas near $3.82 a gallon could set a Thanksgiving record.",
+   "date": "2026-11-24",
+   "src": "AJC (AP)",
+   "u": "https://www.ajc.com/news/2026/11/aaa-forecasts-another-busy-but-not-quite-as-busy-thanksgiving-travel-week/"
+  }
+ ]
+}

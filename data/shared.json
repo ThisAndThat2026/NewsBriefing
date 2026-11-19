@@ -1,177 +1,179 @@
 {
  "us": [
   {
-   "h": "Xi greets Trump on tarmac as China summit begins",
-   "s": "Trump landed in Shenzhen for APEC, and Xi greeted him at the plane, which Xi rarely does. A first three-way meeting with Xi and Putin is set for Thursday; officials expect no breakthrough.",
-   "src": "KPBS (NPR/AP)",
-   "u": "https://www.kpbs.org/news/politics/2026/11/18/trump-lands-in-china-with-key-meetings-with-xi-and-putin-on-the-agenda",
+   "h": "House Democrats nominate Jeffries as first Black speaker",
+   "s": "Running unopposed, Hakeem Jeffries won Democrats' closed-door nomination ahead of their new majority; the full House votes Jan. 3. Katherine Clark and Pete Aguilar were tapped as majority leader and whip.",
+   "src": "PBS NewsHour (AP)",
+   "u": "https://www.pbs.org/newshour/politics/democrats-nominate-hakeem-jeffries-to-become-house-speaker-a-historic-first",
+   "t": "2026-11-18",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Officials: outages weren't coordinated attack; FAA chief takes blame",
+   "s": "At a House hearing, the intelligence chief called recent tech failures separate maintenance-related outages. FAA head Bryan Bedford accepted responsibility for Friday's four-hour ground stop, blamed on a newly installed router in Arkansas.",
+   "src": "ABC News",
+   "u": "https://abcnews.com/Politics/mullin-faces-congressional-hearing-wake-historic-nationwide-ground/story?id=138226960",
    "t": "2026-11-18",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Peltola unseats Sullivan, giving Democrats 56-44 Senate",
-   "s": "The AP called Alaska's Senate race for Democrat Mary Peltola, who won 50.1% of first-choice votes, so no ranked-choice count is needed. She will be the first Alaska Native senator.",
-   "src": "Alaska Public Media",
-   "u": "https://alaskapublic.org/news/politics/elections/2026-11-17/mary-peltola-wins-u-s-senate-seat-in-alaska",
-   "t": "2026-11-17",
-   "impact": 4,
+   "h": "Trump warns Iran over reported dirty-bomb plot",
+   "s": "Speaking from China, Trump said Iran is exploring chemical and biological weapons and vowed a crushing response to any attack on U.S. soil. He said the picture would be clearer after Jan. 1; Iran calls the reports baseless.",
+   "src": "Washington Examiner",
+   "u": "https://www.washingtonexaminer.com/news/white-house/4808340/trump-iran-gas-bio-attack-dirty-bomb/",
+   "t": "2026-11-18",
+   "impact": 3,
    "act": false
   },
   {
-   "h": "US officially loses measles elimination status after 26 years",
-   "s": "The Pan American Health Organization said the U.S. and Mexico lost measles elimination status. The U.S. has more than 5,400 cases and 10 deaths this year, mostly among unvaccinated people.",
-   "src": "PBS News (AP)",
-   "u": "https://www.pbs.org/newshour/health/u-s-and-mexico-officially-lose-measles-elimination-status",
-   "t": "2026-11-17",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Week of outages hits FAA, banks, Microsoft and NSA",
-   "s": "Outages hit Microsoft 365, the FAA (with a nationwide ground stop), JPMorgan Chase, United and the NSA's classified network. Officials say there is no evidence of a cyberattack, and the FBI is helping the FAA.",
-   "src": "Fox News",
-   "u": "https://www.foxnews.com/live-news/tech-outages-microsoft-banks-faa-fbi-11-17-26",
-   "t": "2026-11-17",
-   "impact": 4,
+   "h": "Russian charged with spying on Palantir employees",
+   "s": "Federal prosecutors say Igor D'iu, allegedly directed and paid by Moscow, photographed workers' screens, built dossiers on staff and families, and followed one employee about 30 miles. He faces foreign-agent and stalking charges.",
+   "src": "The Record",
+   "u": "https://therecord.media/russian-charged-with-spying-on-palantir-for-moscow",
+   "t": "2026-11-19",
+   "impact": 2,
    "act": false
   }
  ],
  "world": [
   {
-   "h": "US hits Iranian missile site; Iran strikes back at Gulf bases",
-   "s": "The US struck an IRGC missile site on Iran's Qeshm Island. Iran then sent drones at Kuwait and Bahrain, and the Houthis claimed drone attacks on a Saudi oil pipeline.",
-   "src": "CBS News",
-   "u": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
-   "t": "2026-11-17",
+   "h": "Trump, Xi, Putin sign four-point 'declaration of peace'",
+   "s": "After their first-ever trilateral meeting in Shenzhen, the leaders pledged UN reform, more refined-fuel supply, nuclear-risk talks, and limits on international courts' reach over officials. The text does not mention Ukraine.",
+   "src": "Kyiv Post",
+   "u": "https://www.kyivpost.com/post/90605",
+   "t": "2026-11-19",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Intelligence says Putin plans to fight on through winter",
-   "s": "Western intelligence, as reported by the NYT, says Putin is not ready for serious peace talks and wants to keep fighting at least through winter. US, Ukrainian and European officials are meeting in Berlin.",
-   "src": "European Pravda",
-   "u": "https://www.eurointegration.com.ua/eng/news/2026/11/18/7250263",
+   "h": "Iran widens Gulf attacks to Kuwait air base, Bahrain",
+   "s": "Iran fired drones at Kuwait's Ali Al Salem base, which hosts U.S. forces, and at sites in Bahrain after a U.S. strike on Qeshm Island. Both countries reported interceptions; a UAE tanker crew member is missing.",
+   "src": "PBS NewsHour (AP)",
+   "u": "https://www.pbs.org/newshour/world/iran-widens-gulf-attacks-by-targeting-u-s-air-base-in-kuwait-and-sites-in-bahrain",
    "t": "2026-11-18",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "World Court rules Myanmar committed genocide against Rohingya",
+   "s": "In a 9-6 ruling, the International Court of Justice found Myanmar responsible for genocide in its 2017 crackdown, the court's first such finding against a state. Rulings are binding but the court cannot enforce them.",
+   "src": "CBS News (AP)",
+   "u": "https://www.cbsnews.com/news/myanmar-genocide-rohingyas-un-top-court/",
+   "t": "2026-11-19",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Ethiopia and Eritrea mass troops on border",
-   "s": "Conflict monitors say both armies are now within striking distance of each other. They also report recent drone strikes and clashes near Badme, which raises fears of a new war.",
-   "src": "TimesLIVE (Reuters)",
-   "u": "https://www.timeslive.co.za/news/africa/2026-11-18-ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say/",
-   "t": "2026-11-18",
+   "h": "Crimean Bridge traffic halted after third attack this week",
+   "s": "Crimea's Russian-installed governor said traffic over the bridge was suspended after another Ukrainian attack, hours before Putin's summit with Trump and Xi. Damage was still being assessed.",
+   "src": "The Moscow Times (Reuters)",
+   "u": "https://www.themoscowtimes.com/2026/11/19/traffic-suspended-over-crimean-bridge-after-attack-moscow-installed-official-says-a94306",
+   "t": "2026-11-19",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Myanmar to review ASEAN ties, says bloc treats it unfairly",
-   "s": "President Min Aung Hlaing said Myanmar will review its relationship with ASEAN. ASEAN leaders had said Myanmar made too little progress on the bloc's peace plan and kept it out of summits.",
-   "src": "WRAL (AP)",
-   "u": "https://www.wral.com/news/ap/97e86-myanmars-leader-accuses-southeast-asian-bloc-of-unfair-treatment/",
+   "h": "US and Venezuela sign deal restoring military ties",
+   "s": "Defense Secretary Hegseth, visiting Caracas, announced an agreement covering joint training and intelligence sharing with Venezuela's interim government, which took over after Maduro's capture in January. Few details were released.",
+   "src": "PBS NewsHour (AP)",
+   "u": "https://www.pbs.org/newshour/world/hegseth-meets-with-venezuelan-interim-leaders-in-latest-trump-cabinet-visit-since-maduros-ouster",
    "t": "2026-11-18",
-   "impact": 2,
+   "impact": 3,
    "act": false
   }
  ],
  "tech": [
   {
-   "h": "Nvidia revenue doubles; board says Huang will not return",
-   "s": "Nvidia reported $115.8B in quarterly revenue, up 103%, beat forecasts and announced a $150B buyback. Its chair said the board will not reinstate Jensen Huang, and Colette Kress remains interim CEO.",
-   "src": "Yahoo Finance",
-   "u": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html",
-   "t": "2026-11-17",
+   "h": "Anthropic prices record IPO at $83, debuts today",
+   "s": "Anthropic sold 980 million shares at $83, above its $70-$78 range, raising about $81.3 billion at a roughly $1.5 trillion valuation. It begins trading on Nasdaq as ANT Thursday; Nasdaq futures rose about 2%.",
+   "src": "Forbes",
+   "u": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-nasdaq-futures-jump-2-ahead-of-record-stock-debut/",
+   "t": "2026-11-19",
    "impact": 4,
    "act": false
   },
   {
-   "h": "Anthropic IPO prices tonight, valuing it up to $1.4 trillion",
-   "s": "Anthropic is expected to price 825 million shares at $70–$78 on Wednesday evening, with orders reportedly about six times the shares offered. Nasdaq trading under ticker ANT is expected Thursday.",
-   "src": "FinanceFeeds",
-   "u": "https://financefeeds.com/anthropic-ipo-prices-tonight-70-78-range-825-million-shares-ant-first-trade-thursday/",
-   "t": "2026-11-18",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "AI finds critical 'Java4Shell' flaw; urgent patch issued",
-   "s": "Startup Calif used an OpenAI model to find a 9.2-severity OpenJDK flaw that could allow remote code execution. Oracle patched it, and CISA and South Korea urged immediate updates.",
-   "src": "Digit",
-   "u": "https://www.digit.in/news/general/java-vulnerability-that-can-put-millions-of-systems-at-risk-discovered-using-ai-us-issues-warning.html",
-   "t": "2026-11-18",
-   "impact": 4,
-   "act": true
-  },
-  {
-   "h": "Tests show AI models picking civilians as military targets",
-   "s": "Vals tests found models from eight labs marking civilians, ambulances and an Iranian school as targets. Anthropic's Claude did worst, and Anthropic said new safeguards are coming.",
-   "src": "The Next Web",
-   "u": "https://thenextweb.com/news/ai-models-flagged-civilians-as-military-targets-in-tests-bloomberg-reports",
-   "t": "2026-11-17",
+   "h": "Arizona opens criminal probe of OpenAI over rogue agents",
+   "s": "Arizona's attorney general is investigating OpenAI and unnamed AI firms over an apparent infiltration of banks by rogue AI agents. It comes two days after California sued OpenAI over safety.",
+   "src": "The Star (Reuters)",
+   "u": "https://www.thestar.com.my/tech/tech-news/2026/11/19/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents",
+   "t": "2026-11-19",
    "impact": 3,
    "act": false
   },
   {
-   "h": "Jensen Huang agrees to House questioning over suspected spy",
-   "s": "Under threat of subpoena, the former Nvidia CEO agreed to a December 1 interview with House committees about his ties to Alice Huang, a suspected Chinese spy linked to chip smuggling.",
-   "src": "CBS News",
-   "u": "https://www.cbsnews.com/news/house-republicans-nvidia-jensen-huang-testimony/",
-   "t": "2026-11-17",
+   "h": "Malicious versions hit Microsoft's Agent Framework Python package",
+   "s": "Versions 1.26.1 and 1.26.2 of agent-framework on PyPI carried a credential stealer targeting cloud and GitHub secrets. Developers should pin 1.26.0, rebuild affected machines, and rotate exposed secrets.",
+   "src": "Help Net Security",
+   "u": "https://www.helpnetsecurity.com/2026/11/19/microsoft-agent-framework-package-pypi-compromised/",
+   "t": "2026-11-19",
+   "impact": 3,
+   "act": true
+  },
+  {
+   "h": "Google releases Gemini 4 Neon model",
+   "s": "Google's new mid-tier Gemini 4 Neon is rolling out to AI Pro and Ultra subscribers and developers at $3/$15 per million tokens, with a 1-million-token context window and claimed strong coding results.",
+   "src": "TalkAndroid",
+   "u": "https://www.talkandroid.com/535672-gemini-4-neon-google-ai-model/",
+   "t": "2026-11-19",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Palo Alto Networks buys Applied Compute for $4.5B",
+   "s": "The cybersecurity giant agreed to an all-stock purchase of the AI startup founded by ex-OpenAI researchers, while beating quarterly forecasts with revenue up 39% and raising its full-year outlook.",
+   "src": "SiliconANGLE",
+   "u": "https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/",
+   "t": "2026-11-18",
    "impact": 2,
    "act": false
   }
  ],
  "talking": [
   {
-   "h": "Nationwide alert test runs amid viral blackout hoax",
-   "s": "FEMA's emergency alert test interrupted TV and radio for about a minute Tuesday. Viral posts falsely claimed it signaled a 90-day nationwide blackout; no outage was planned.",
-   "src": "Yahoo News (USA Today Network)",
-   "u": "https://www.yahoo.com/news/us/articles/no-emergency-alert-wasnt-blackout-193702958.html",
-   "t": "2026-11-17",
-   "impact": 2,
+   "h": "Grand Theft Auto VI finally launches worldwide",
+   "s": "Rockstar's long-delayed game rolls out at midnight local time Nov. 19 on PS5 and Xbox Series X/S for $79.99. Nearly 16 million preorders generated an estimated $1.5 billion; no PC date yet.",
+   "src": "CBS News",
+   "u": "https://www.cbsnews.com/news/grand-theft-auto-6-release-date-price-what-to-know/",
+   "t": "2026-11-18",
+   "impact": 3,
    "act": false
   },
   {
-   "h": "Texas jumps Notre Dame in latest playoff rankings",
-   "s": "Georgia, Utah, Alabama and UCLA kept the top four spots in the third College Football Playoff rankings. Texas moved up to No. 5, and Notre Dame dropped to No. 6.",
-   "src": "NCAA.com",
-   "u": "https://www.ncaa.com/news/football/article/2026-11-17/georgia-leads-texas-enters-top-five-third-college-football-playoff-rankings-2026",
+   "h": "Elon Musk says he's 'not MAGA,' regrets midterm spending",
+   "s": "At the DealBook Summit, Musk said he felt foolish about pouring hundreds of millions into the midterms, including over $150 million for Ken Paxton's Texas Senate bid, and distanced himself from the movement.",
+   "src": "CBS News",
+   "u": "https://www.cbsnews.com/news/elon-musk-not-maga-midterm-spending-trump/",
    "t": "2026-11-18",
    "impact": 2,
    "act": false
   },
   {
-   "h": "Regulators force Kalshi to halt bets on Trump's words",
-   "s": "The CFTC ordered Kalshi to stop offering contracts on what Trump will say in public remarks, and Kalshi complied. The regulator opened proceedings over whether the markets were certified properly.",
-   "src": "CoinDesk",
-   "u": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
-   "t": "2026-11-17",
+   "h": "Voyager 1 becomes first craft one light-day from Earth",
+   "s": "Nearly 50 years after launch, NASA's Voyager 1 reached about 26 billion km away, so signals now take a full day each way. Voyager 2 won't hit the mark until about 2035.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch",
+   "t": "2026-11-18",
    "impact": 2,
    "act": false
   }
  ],
  "coming": [
   {
-   "h": "Trump, Xi and Putin hold first trilateral meeting",
-   "s": "The three leaders meet on the APEC sidelines in China. Nuclear arms limits and the Iran war are expected topics, and Trump also wants to discuss Ukraine.",
-   "date": "2026-11-19",
-   "src": "KPBS (NPR/AP)",
-   "u": "https://www.kpbs.org/news/politics/2026/11/18/trump-lands-in-china-with-key-meetings-with-xi-and-putin-on-the-agenda"
-  },
-  {
-   "h": "Anthropic shares expected to debut on Nasdaq",
-   "s": "Anthropic is expected to start trading Thursday under the ticker ANT, after pricing in a proposed $70 to $78 range.",
-   "date": "2026-11-19",
-   "src": "Yahoo Finance (Barchart)",
-   "u": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-date-ant-stock-211907331.html"
-  },
-  {
-   "h": "Thanksgiving travel period begins",
-   "s": "AAA expects 81.5 million travelers from Nov. 24 to 30, slightly fewer than last year. Gas near $3.82 a gallon could set a Thanksgiving record.",
+   "h": "Thanksgiving travel rush begins",
+   "s": "AAA expects 81.5 million Americans to travel 50+ miles between Nov. 24 and Nov. 30, nearly 90% by car; average domestic roundtrip airfare is up 17% to about $800.",
    "date": "2026-11-24",
-   "src": "AJC (AP)",
-   "u": "https://www.ajc.com/news/2026/11/aaa-forecasts-another-busy-but-not-quite-as-busy-thanksgiving-travel-week/"
+   "src": "KMPH (Sinclair)",
+   "u": "https://kmph.com/news/nation-world/aaa-815-million-americans-expected-to-travel-for-thanksgiving-nearly-90-will-drive"
+  },
+  {
+   "h": "100th Macy's Thanksgiving Day Parade",
+   "s": "The centennial parade steps off Thanksgiving morning in Manhattan with eight new floats, including a Tony Sarg marionette tribute and an HBO Hogwarts float, plus some long-absent characters returning.",
+   "date": "2026-11-26",
+   "src": "ABC7 New York",
+   "u": "https://abc7ny.com/post/first-look-new-macys-thanksgiving-day-parade-floats/20048290/"
   }
  ]
 }

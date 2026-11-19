@@ -1,0 +1,103 @@
+{
+ "stories": [
+  {
+   "h": "Chinook and Cayuse passes close for winter today",
+   "s": "WSDOT closes SR 410 Chinook Pass and SR 123 Cayuse Pass at 10 a.m. Wednesday because of avalanche risk. Stevens Canyon Road in Mount Rainier National Park is also closed for the season.",
+   "src": "WSDOT",
+   "u": "https://wsdot.wa.gov/about/news/2026/sr-410-chinook-pass-and-sr-123-cayuse-pass-close-season-wednesday-nov-18",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": true
+  },
+  {
+   "h": "Wintry mix, freezing fog hit Central Washington through Thursday",
+   "s": "Yakima and the Tri-Cities could see a wintry mix and slick roads from Wednesday into early Friday. White Pass and Blewett Pass are expected to get the most snow and ice.",
+   "src": "Apple Valley News Now",
+   "u": "https://www.applevalleynewsnow.com/news/wintry-mix-and-freezing-rain-possible-in-yakima-and-tri-cities-for-wednesday-and-thursday/article_d747d84a-772d-4e25-a67f-b5d670a21b4b.html",
+   "t": "2026-11-18",
+   "impact": 3,
+   "act": true
+  },
+  {
+   "h": "Senate leader floats corporate income tax to replace B&O",
+   "s": "Senate Majority Leader Jamie Pedersen proposes swapping the B&O tax, about $7B a year, for a revenue-neutral corporate income tax. Legislation is unlikely before 2028 or 2029, and business groups are skeptical.",
+   "src": "The Spokesman-Review (Seattle Times)",
+   "u": "https://www.spokesman.com/stories/2026/nov/17/a-corporate-income-tax-in-wa-top-democratic-lawmak/",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Infant and toddler homelessness up about 30% in Washington",
+   "s": "A new report estimates more than 15,000 Washington children under 3 are homeless, the fifth-highest rate among states. Advocates warn that proposed Early Head Start rule changes could cut their access.",
+   "src": "The Chronicle (Seattle Times)",
+   "u": "https://www.chronline.com/stories/infant-homelessness-rises-in-washington-as-advocates-fear-key-federal-services-at-risk,411939",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Tacoma St. Joseph hospital techs give strike notice",
+   "s": "More than 225 UFCW 3000 technical workers plan a strike over alleged unfair labor practices from Dec. 2 to 4. The hospital says it will bring in replacement staff.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/local/tacoma-st-joseph-strike/4300934",
+   "t": "2026-11-16",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "New AG rules aim to speed public records requests",
+   "s": "New model rules from the attorney general urge agencies to triage requests and hand over simple records within five days. They take effect Nov. 26, but critics say they skip Teams chat auto-deletion.",
+   "src": "KUOW (WA State Standard)",
+   "u": "https://www.kuow.org/governing/2026-11-16/new-rules-seek-to-speed-up-wa-public-records-system",
+   "t": "2026-11-16",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "talking": [
+  {
+   "h": "Brandi Carlile, Foo Fighters lead Washington's Grammy nominees",
+   "s": "Ravensdale native Brandi Carlile earned four nominations and the Foo Fighters two. Seattle Symphony's Dmitriy Lipay is up for Classical Producer of the Year. The ceremony is Feb. 7.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/lifestyle/grammy-nomination-carlil-award/4301285",
+   "t": "2026-11-17",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Arozarena wins Silver Slugger, becomes a free agent",
+   "s": "Randy Arozarena won his first AL Silver Slugger after hitting 26 homers. He declined the Mariners' qualifying offer the same day, making him a free agent.",
+   "src": "Seattle Sports (MyNorthwest)",
+   "u": "https://sports.mynorthwest.com/mlb/seattle-mariners/seattle-mariners-randy-arozarena-wins-first-career-silver-slugger",
+   "t": "2026-11-17",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Banged-up Seahawks use bye week to heal",
+   "s": "With Darnold, Cross, Nelson and Williams out recently and new injuries to Lucas and Reed, Seattle sits 2.5 games behind San Francisco and is the first team out of the wild-card race.",
+   "src": "Seattle Sports (MyNorthwest)",
+   "u": "https://sports.mynorthwest.com/nfl/seattle-seahawks/with-injuries-mounting-seahawks-needed-bye-week",
+   "t": "2026-11-17",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Kraken back home vs. Canucks after Finland trip",
+   "s": "The Kraken return to Climate Pledge Arena to host Vancouver at 6:40 p.m. PT, their first game since the Global Series in Finland.",
+   "date": "2026-11-19",
+   "src": "Sportsnaut",
+   "u": "https://sportsnaut.com/nhl/seattle-kraken/kraken-regroup-in-finland-before-global-series-vs-hurricanes"
+  },
+  {
+   "h": "State agencies' budget-cut options due",
+   "s": "State agencies must submit options to cut, reduce or delay programs by Nov. 23, as Gov. Ferguson prepares budgets to close a $4B gap.",
+   "date": "2026-11-23",
+   "src": "The Columbian (WA State Standard)",
+   "u": "https://www.columbian.com/news/2026/nov/17/wa-governor-looks-to-sharply-pare-spending-in-face-of-4b-budget-shortfall/"
+  }
+ ]
+}
