@@ -1,85 +1,85 @@
 {
- "stories": [
-  {
-   "h": "State lawsuit payouts on pace for another record year",
-   "s": "Washington paid a record $537 million to settle claims last fiscal year and is tracking toward nearly $600 million now. Ahead of the January session, a study panel floated damage caps and a victims' fund.",
-   "src": "The Columbian (Washington State Standard)",
-   "u": "https://www.columbian.com/news/2026/nov/18/what-can-washington-lawmakers-do-about-record-breaking-lawsuit-payouts/",
-   "t": "2026-11-18",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "UW and Harborview staff walk out over pay offer",
-   "s": "SEIU 925 members walked off the job at UW campuses and Harborview. The union says the university's final offer has no raises, and 83% of members rejected it. UW says it has asked for state mediation.",
-   "src": "Yahoo News (KING 5)",
-   "u": "https://www.yahoo.com/news/politics/articles/uw-harborview-staff-walk-protest-033017345.html",
-   "t": "2026-11-17",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Measles spreading in WA as US loses elimination status",
-   "s": "Washington has had roughly five times as many measles cases this year as in all of 2025. The state health officer warns exposure is possible anywhere, and some kindergarten vaccination rates are near 50%.",
-   "src": "KUOW",
-   "u": "https://www.kuow.org/health-care/2026-11-17/measles-is-spreading-in-washington-state-as-us-loses-its-elimination-status",
-   "t": "2026-11-17",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "US 101 on Hood Canal reopens after overnight mudslide",
-   "s": "A mudslide near the Hamma Hamma area in northern Mason County shut both directions of US 101 early Wednesday. WSDOT reopened one lane by late morning and all lanes shortly before 2 p.m.",
-   "src": "Yahoo News (KIRO 7)",
-   "u": "https://www.yahoo.com/news/weather-news/articles/us-101-fully-blocked-mudslide-144014487.html",
-   "t": "2026-11-18",
-   "impact": 2,
-   "act": false
-  }
- ],
- "talking": [
-  {
-   "h": "Will the Sonics return? NBA expansion decision nears",
-   "s": "NBA Commissioner Adam Silver wants an expansion decision by the end of 2026. Seattle and Las Vegas lead the field, and Kraken owner Samantha Holloway's group is heading Seattle's bid.",
-   "src": "KUOW",
-   "u": "https://www.kuow.org/topics/soundside/2026-11-17/will-the-sonics-come-back-to-seattle-what-we-know-as-expansion-deadline-nears",
-   "t": "2026-11-17",
-   "impact": 2,
-   "act": false
-  },
-  {
-   "h": "Seattle's Hey Bagel wins six awards at New York BagelFest",
-   "s": "The University Village shop took first place for best sourdough bagel and earned five other honors in New York. A West Seattle location is planned for 2027.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/lifestyle/seattle-hey-bagel-award/4301353",
-   "t": "2026-11-17",
-   "impact": 1,
-   "act": false
-  },
-  {
-   "h": "Cathay Pacific to fly Seattle–Hong Kong daily",
-   "s": "Starting March 28, 2027, Cathay Pacific will fly its Sea-Tac to Hong Kong nonstop daily instead of five times a week. It is the only nonstop between the Northwest and Hong Kong.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/local/seattle-hong-kong-flight/4301804",
-   "t": "2026-11-18",
-   "impact": 2,
-   "act": false
-  }
- ],
- "coming": [
-  {
-   "h": "King tides arrive as Ocean Shores rushes repairs",
-   "s": "Ocean Shores is under a state of emergency, with crews placing riprap to shore up storm-damaged shoreline before the season's first king tides arrive.",
-   "date": "2026-11-23",
-   "src": "KUOW",
-   "u": "https://www.kuow.org/environment/2026-11-17/its-on-our-front-door-ocean-shores-races-to-patch-up-shoreline-ahead-of-king-tides"
-  },
-  {
-   "h": "Thanksgiving-week razor clam digs open at Copalis, Mocrocks",
-   "s": "WDFW approved five evening digs from Nov. 24 to 28, including Thanksgiving Day. Long Beach and Twin Harbors stay closed because of domoic acid. Diggers 16 and older need a license.",
-   "date": "2026-11-24",
-   "src": "GraysHarborTalk",
-   "u": "https://www.graysharbortalk.com/2026/11/18/wdfw-approves-5-days-of-razor-clam-digs-at-copalis-and-mocrocks-beaches-beginning-tuesday-nov-24/"
-  }
- ]
+  "stories": [
+    {
+      "h": "Boeing layoff notices due Dec. 9, union still in dark",
+      "s": "Boeing plans to cut 5% of its commercial airplane workforce. SPEEA says some employees will get 60-day notices Dec. 9, with layoffs effective Feb. 12, but managers couldn't say who or how many.",
+      "src": "Leeham News",
+      "u": "https://leehamnews.com/2026/11/19/where-will-boeing-cut-commercial-workforce-white-collar-union-still-doesnt-know",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Seattle and most WA cities raise property taxes again",
+      "s": "Seattle's council is expected to approve its routine 1% levy increase, the most allowed under I-747; Bellevue, Tacoma, Everett, Kent and others are doing the same. Falling office values shift more burden to homeowners.",
+      "src": "KUOW",
+      "u": "https://kuow.org/governing/2026-11-19/another-year-another-property-tax-increase-for-washington-cities",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Olympia clears 'The Jungle,' its largest homeless encampment",
+      "s": "Crews are clearing the 20-acre camp off Martin Way East, home to nearly 300 people; 40 have been temporarily housed so far. The city will ask lawmakers for $6.5 million for shelter units.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/city-olympia-clears-jungle-encampment-286-people-need-housing/KNA4LWSG2RCPPK54YXAN35VV7I/",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "State parks commission rejects golf course at Westport Light",
+      "s": "Commissioners voted down a proposed 18-hole links course at the coastal state park, citing wetland impacts, Quinault Nation fish-habitat concerns, doubts about the developer and the state's budget shortfall.",
+      "src": "The Columbian",
+      "u": "https://www.columbian.com/news/2026/nov/19/washington-commission-votes-down-plan-for-golf-course-at-coastal-state-park/",
+      "t": "2026-11-19",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "talking": [
+    {
+      "h": "Catton's first NHL hat trick powers Kraken past Canucks",
+      "s": "Berkly Catton scored three times as Seattle beat Vancouver 5-1 Thursday, ending a three-game skid. The Kraken's 24-5 first-period shot edge set a franchise record.",
+      "src": "NHL.com",
+      "u": "https://www.nhl.com/news/vancouver-canucks-seattle-kraken-game-recap-november-19-2026",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Seattle Christmas Market opens today at Seattle Center",
+      "s": "The European-style holiday village begins its fourth season Nov. 20 and runs through Dec. 26, with vendors, mulled wine, a carousel and Santa photos. Tickets start at $6.99.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/mulled-wine-mistletoe-seattle-christmas-market-brings-holiday-magic-seattle-center/5NI4VAF2ERGMHNGAFULO6WN7UQ/",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Bellevue homeowner shot at bear in Lakemont yard",
+      "s": "A homeowner near Cougar Mountain reportedly hit a bear on Nov. 8; WDFW never found the animal. Neighbors say a mother bear and two cubs haven't been seen since.",
+      "src": "MyNorthwest (KIRO 7)",
+      "u": "https://mynorthwest.com/local/bellevue-shoots-at-bear-in-yard/4302537",
+      "t": "2026-11-19",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Razor clam digs open Thanksgiving week",
+      "s": "WDFW approved five evening digs, Nov. 24–28, at Mocrocks and Copalis only; Long Beach and Twin Harbors stay closed over marine toxins. Diggers 16+ need a 2026-27 license.",
+      "date": "2026-11-24",
+      "src": "WDFW",
+      "u": "https://wdfw.wa.gov/newsroom/news-release/wdfw-approves-five-days-razor-clam-digs-copalis-and-mocrocks-beaches-beginning-tuesday-nov-24"
+    },
+    {
+      "h": "Thanksgiving travel crunch on highways and ferries",
+      "s": "WSDOT's travel charts cover Nov. 25–29 for I-5, I-90 and US 2. Ferries will be busiest westbound Nov. 25–26 and eastbound Nov. 28–29; reservations urged.",
+      "date": "2026-11-25",
+      "src": "WSDOT",
+      "u": "https://wsdot.wa.gov/about/news/2026/pumpkin-pie-and-traffic-delays-dont-mix-plan-ahead-wsdots-thanksgiving-weekend-travel-charts"
+    }
+  ]
 }

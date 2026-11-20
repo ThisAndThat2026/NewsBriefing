@@ -1,0 +1,179 @@
+{
+ "us": [
+  {
+   "h": "House Democrats nominate Jeffries as first Black speaker",
+   "s": "Running unopposed, Hakeem Jeffries won Democrats' closed-door nomination ahead of their new majority; the full House votes Jan. 3. Katherine Clark and Pete Aguilar were tapped as majority leader and whip.",
+   "src": "PBS NewsHour (AP)",
+   "u": "https://www.pbs.org/newshour/politics/democrats-nominate-hakeem-jeffries-to-become-house-speaker-a-historic-first",
+   "t": "2026-11-18",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Officials: outages weren't coordinated attack; FAA chief takes blame",
+   "s": "At a House hearing, the intelligence chief called recent tech failures separate maintenance-related outages. FAA head Bryan Bedford accepted responsibility for Friday's four-hour ground stop, blamed on a newly installed router in Arkansas.",
+   "src": "ABC News",
+   "u": "https://abcnews.com/Politics/mullin-faces-congressional-hearing-wake-historic-nationwide-ground/story?id=138226960",
+   "t": "2026-11-18",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Trump warns Iran over reported dirty-bomb plot",
+   "s": "Speaking from China, Trump said Iran is exploring chemical and biological weapons and vowed a crushing response to any attack on U.S. soil. He said the picture would be clearer after Jan. 1; Iran calls the reports baseless.",
+   "src": "Washington Examiner",
+   "u": "https://www.washingtonexaminer.com/news/white-house/4808340/trump-iran-gas-bio-attack-dirty-bomb/",
+   "t": "2026-11-18",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Russian charged with spying on Palantir employees",
+   "s": "Federal prosecutors say Igor D'iu, allegedly directed and paid by Moscow, photographed workers' screens, built dossiers on staff and families, and followed one employee about 30 miles. He faces foreign-agent and stalking charges.",
+   "src": "The Record",
+   "u": "https://therecord.media/russian-charged-with-spying-on-palantir-for-moscow",
+   "t": "2026-11-19",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "world": [
+  {
+   "h": "Trump, Xi, Putin sign four-point 'declaration of peace'",
+   "s": "After their first-ever trilateral meeting in Shenzhen, the leaders pledged UN reform, more refined-fuel supply, nuclear-risk talks, and limits on international courts' reach over officials. The text does not mention Ukraine.",
+   "src": "Kyiv Post",
+   "u": "https://www.kyivpost.com/post/90605",
+   "t": "2026-11-19",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Iran widens Gulf attacks to Kuwait air base, Bahrain",
+   "s": "Iran fired drones at Kuwait's Ali Al Salem base, which hosts U.S. forces, and at sites in Bahrain after a U.S. strike on Qeshm Island. Both countries reported interceptions; a UAE tanker crew member is missing.",
+   "src": "PBS NewsHour (AP)",
+   "u": "https://www.pbs.org/newshour/world/iran-widens-gulf-attacks-by-targeting-u-s-air-base-in-kuwait-and-sites-in-bahrain",
+   "t": "2026-11-18",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "World Court rules Myanmar committed genocide against Rohingya",
+   "s": "In a 9-6 ruling, the International Court of Justice found Myanmar responsible for genocide in its 2017 crackdown, the court's first such finding against a state. Rulings are binding but the court cannot enforce them.",
+   "src": "CBS News (AP)",
+   "u": "https://www.cbsnews.com/news/myanmar-genocide-rohingyas-un-top-court/",
+   "t": "2026-11-19",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Crimean Bridge traffic halted after third attack this week",
+   "s": "Crimea's Russian-installed governor said traffic over the bridge was suspended after another Ukrainian attack, hours before Putin's summit with Trump and Xi. Damage was still being assessed.",
+   "src": "The Moscow Times (Reuters)",
+   "u": "https://www.themoscowtimes.com/2026/11/19/traffic-suspended-over-crimean-bridge-after-attack-moscow-installed-official-says-a94306",
+   "t": "2026-11-19",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "US and Venezuela sign deal restoring military ties",
+   "s": "Defense Secretary Hegseth, visiting Caracas, announced an agreement covering joint training and intelligence sharing with Venezuela's interim government, which took over after Maduro's capture in January. Few details were released.",
+   "src": "PBS NewsHour (AP)",
+   "u": "https://www.pbs.org/newshour/world/hegseth-meets-with-venezuelan-interim-leaders-in-latest-trump-cabinet-visit-since-maduros-ouster",
+   "t": "2026-11-18",
+   "impact": 3,
+   "act": false
+  }
+ ],
+ "tech": [
+  {
+   "h": "Anthropic prices record IPO at $83, debuts today",
+   "s": "Anthropic sold 980 million shares at $83, above its $70-$78 range, raising about $81.3 billion at a roughly $1.5 trillion valuation. It begins trading on Nasdaq as ANT Thursday; Nasdaq futures rose about 2%.",
+   "src": "Forbes",
+   "u": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-nasdaq-futures-jump-2-ahead-of-record-stock-debut/",
+   "t": "2026-11-19",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Arizona opens criminal probe of OpenAI over rogue agents",
+   "s": "Arizona's attorney general is investigating OpenAI and unnamed AI firms over an apparent infiltration of banks by rogue AI agents. It comes two days after California sued OpenAI over safety.",
+   "src": "The Star (Reuters)",
+   "u": "https://www.thestar.com.my/tech/tech-news/2026/11/19/arizona-says-it-is-investigating-openai-other-firms-over-possible-rogue-agents",
+   "t": "2026-11-19",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Malicious versions hit Microsoft's Agent Framework Python package",
+   "s": "Versions 1.26.1 and 1.26.2 of agent-framework on PyPI carried a credential stealer targeting cloud and GitHub secrets. Developers should pin 1.26.0, rebuild affected machines, and rotate exposed secrets.",
+   "src": "Help Net Security",
+   "u": "https://www.helpnetsecurity.com/2026/11/19/microsoft-agent-framework-package-pypi-compromised/",
+   "t": "2026-11-19",
+   "impact": 3,
+   "act": true
+  },
+  {
+   "h": "Google releases Gemini 4 Neon model",
+   "s": "Google's new mid-tier Gemini 4 Neon is rolling out to AI Pro and Ultra subscribers and developers at $3/$15 per million tokens, with a 1-million-token context window and claimed strong coding results.",
+   "src": "TalkAndroid",
+   "u": "https://www.talkandroid.com/535672-gemini-4-neon-google-ai-model/",
+   "t": "2026-11-19",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Palo Alto Networks buys Applied Compute for $4.5B",
+   "s": "The cybersecurity giant agreed to an all-stock purchase of the AI startup founded by ex-OpenAI researchers, while beating quarterly forecasts with revenue up 39% and raising its full-year outlook.",
+   "src": "SiliconANGLE",
+   "u": "https://siliconangle.com/2026/11/18/palo-alto-networks-bets-4-5b-on-ai-startup-applied-compute-as-earnings-top-forecasts/",
+   "t": "2026-11-18",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "talking": [
+  {
+   "h": "Grand Theft Auto VI finally launches worldwide",
+   "s": "Rockstar's long-delayed game rolls out at midnight local time Nov. 19 on PS5 and Xbox Series X/S for $79.99. Nearly 16 million preorders generated an estimated $1.5 billion; no PC date yet.",
+   "src": "CBS News",
+   "u": "https://www.cbsnews.com/news/grand-theft-auto-6-release-date-price-what-to-know/",
+   "t": "2026-11-18",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Elon Musk says he's 'not MAGA,' regrets midterm spending",
+   "s": "At the DealBook Summit, Musk said he felt foolish about pouring hundreds of millions into the midterms, including over $150 million for Ken Paxton's Texas Senate bid, and distanced himself from the movement.",
+   "src": "CBS News",
+   "u": "https://www.cbsnews.com/news/elon-musk-not-maga-midterm-spending-trump/",
+   "t": "2026-11-18",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Voyager 1 becomes first craft one light-day from Earth",
+   "s": "Nearly 50 years after launch, NASA's Voyager 1 reached about 26 billion km away, so signals now take a full day each way. Voyager 2 won't hit the mark until about 2035.",
+   "src": "Al Jazeera",
+   "u": "https://www.aljazeera.com/news/2026/11/18/nasas-voyager-1-hits-record-one-light-day-distance-50-years-after-launch",
+   "t": "2026-11-18",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Thanksgiving travel rush begins",
+   "s": "AAA expects 81.5 million Americans to travel 50+ miles between Nov. 24 and Nov. 30, nearly 90% by car; average domestic roundtrip airfare is up 17% to about $800.",
+   "date": "2026-11-24",
+   "src": "KMPH (Sinclair)",
+   "u": "https://kmph.com/news/nation-world/aaa-815-million-americans-expected-to-travel-for-thanksgiving-nearly-90-will-drive"
+  },
+  {
+   "h": "100th Macy's Thanksgiving Day Parade",
+   "s": "The centennial parade steps off Thanksgiving morning in Manhattan with eight new floats, including a Tony Sarg marionette tribute and an HBO Hogwarts float, plus some long-absent characters returning.",
+   "date": "2026-11-26",
+   "src": "ABC7 New York",
+   "u": "https://abc7ny.com/post/first-look-new-macys-thanksgiving-day-parade-floats/20048290/"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "stories": [
+  {
+   "h": "Driver in fatal Everett crash arrested again for DUI",
+   "s": "A 28-year-old convicted of vehicular homicide for a 2023 Everett Mall Way crash was arrested on suspicion of felony DUI in south Everett. He posted $15,000 bail and was released.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/17/driver-in-deadly-everett-crash-arrested-again-for-dui/",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Lynnwood weighs round-the-clock school zone speed cameras",
+   "s": "The Lynnwood council is considering running school-zone speed cameras 24/7 for safety and to help close a budget gap. It may take the proposal up again Wednesday; enforcement could begin in February.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/news/lynnwood-24-7-speed-cameras",
+   "t": "2026-11-16",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "County health officials react to lost measles elimination status",
+   "s": "After the U.S. lost its measles elimination status, Snohomish County health leaders urged residents to check their MMR vaccination. The county had 14 cases earlier this year; Washington has 58.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/17/county-health-officials-react-to-loss-of-measles-elimination-status/",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Mukilteo approves 2027-28 budget adding eight positions",
+   "s": "Mukilteo's council voted 5-1 for a budget that adds police, public works and other staff, raises the property tax and EMS levies by 1%, and puts off a surface water rate increase.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/17/mukilteo-approves-2027-28-budget-including-new-positions/",
+   "t": "2026-11-17",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "EvCC breaks ground on $38 million Baker Hall",
+   "s": "Everett Community College broke ground on a 32,000-square-foot Baker Hall with a cosmetology wing and a 250-seat theater. It is expected to open in early 2028.",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/18/everett-community-college-breaks-ground-on-new-baker-hall/",
+   "t": "2026-11-18",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Wintertide Sip & Shop in downtown Everett",
+   "s": "Downtown Everett holiday shopping evening, with wine and spirits at participating locations.",
+   "date": "2026-11-19",
+   "src": "Discover Snohomish County",
+   "u": "https://www.discoversnohomishcounty.com/blog/holidayguide/"
+  },
+  {
+   "h": "Buddy Bowl anti-bullying game in Arlington",
+   "s": "Annual exhibition football fundraiser at John Larson Stadium honoring veterans and youth, with donations going to the Preston Dwoskin Scholarship Fund.",
+   "date": "2026-11-22",
+   "src": "The Everett Herald",
+   "u": "https://www.heraldnet.com/2026/11/16/buddy-bowl-the-annual-anti-bully-fundraiser-set-for-sunday/"
+  }
+ ]
+}

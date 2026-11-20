@@ -1,58 +1,65 @@
 {
- "stories": [
-  {
-   "h": "Mayor Wilson faults council's $31M in one-time spending",
-   "s": "Wilson says the council budget committee's changes add $31M in one-time 2027 spending, leaving more than $20M unfunded in 2028. The full council's final vote is expected Friday.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/mynorthwest-politics/spending-budget/4301466",
-   "t": "2026-11-17",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Fall City teen pleads not guilty in family killings",
-   "s": "The 17-year-old pleaded not guilty in adult court to killing five family members in 2024 and is being held without bail. His next hearing is Dec. 9, with trial tentatively set for Jan. 4.",
-   "src": "KUOW",
-   "u": "https://www.kuow.org/crime/2026-11-17/teenager-charged-in-fall-city-family-killings-pleads-not-guilty",
-   "t": "2026-11-17",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Bellevue School District exits state financial oversight",
-   "s": "The state has lifted its binding conditions on Bellevue schools after the district rebuilt reserves to $24M through more than $20M in cuts. Deficits are still forecast.",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/local/bellevue-financial-oversight-schools/4301343",
-   "t": "2026-11-17",
-   "impact": 2,
-   "act": false
-  },
-  {
-   "h": "Redmond police seek dashcam video in teen's killing",
-   "s": "Police are seeking suspects in the Nov. 13 shooting death of 18-year-old Yahir Cepeda near Avondale Road. They want dashcam footage and believe the suspects fled in a black Chevrolet Impala.",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/news/suspects-redmond-teen-murder",
-   "t": "2026-11-17",
-   "impact": 2,
-   "act": false
-  },
-  {
-   "h": "King County buys 475 acres of Tokul forest",
-   "s": "In its largest land purchase in 20 years, the county paid $6.75M for forest southeast of Fall City, keeping about seven miles of popular trails open.",
-   "src": "Seattle Weekly",
-   "u": "https://www.seattleweekly.com/2026/11/16/king-county-makes-largest-land-purchase-in-20-years/",
-   "t": "2026-11-16",
-   "impact": 2,
-   "act": false
-  }
- ],
- "coming": [
-  {
-   "h": "Seattle City Council final budget vote",
-   "s": "The full council is expected to take its final vote on the 2027-28 budget Friday, after Mayor Wilson objected to the committee's one-time spending.",
-   "date": "2026-11-20",
-   "src": "MyNorthwest",
-   "u": "https://mynorthwest.com/mynorthwest-politics/spending-budget/4301466"
-  }
- ]
+  "stories": [
+    {
+      "h": "Seattle budget clears committee 7-2, final vote today",
+      "s": "The council's budget committee advanced the 2027-28 budget, which closes a $175M deficit and cuts dozens of jobs. Rivera voted no. The full council is set to vote Friday at 1 p.m.",
+      "src": "Yahoo News (KIRO 7)",
+      "u": "https://www.yahoo.com/news/politics/articles/seattle-city-council-works-pass-042219573.html",
+      "t": "2026-11-19",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Redmond removes all 24 Flock license plate cameras",
+      "s": "Redmond says all of its Flock plate-reader cameras are gone after the council ended the contract over privacy concerns. The city says no federal or out-of-state agency received its data.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/flock-cameras-removed-redmond",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Driver charged in 119-mph fatal I-5 SeaTac crash",
+      "s": "A 23-year-old faces vehicular homicide and five vehicular assault counts after investigators say he was racing at 119 mph before a seven-car crash that killed a 68-year-old man. The other driver is still sought.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/crime-blotter/car-crash-on-i-5-in-seatac/4301919",
+      "t": "2026-11-18",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Maritime High students walk out over proposed closure",
+      "s": "Students protested at Highline Public Schools' offices against closing Maritime High in Des Moines, which the district says would save $2.1M a year. A hearing is Dec. 2; the board votes Dec. 9.",
+      "src": "B-Town Blog",
+      "u": "https://b-townblog.com/video-maritime-high-school-students-walk-out-protest-in-burien-thursday-as-school-closure-vote-approaches/",
+      "t": "2026-11-19",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Suspect in Shoreline deputy stabbing arrested in Texas",
+      "s": "U.S. Marshals arrested a 35-year-old man in El Paso. He faces charges in the stabbing of a King County deputy in Shoreline and had been out on $25,000 bail.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/crime-blotter/deputy-stabbing-shoreline/4294372",
+      "t": "2026-11-18",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Thanksgiving travel crunch on highways and ferries",
+      "s": "WSDOT expects the busiest westbound ferry sailings Nov. 25–26 and eastbound Nov. 28–29, and urges reservations. Most highway construction pauses for the holiday.",
+      "date": "2026-11-25",
+      "src": "WSDOT",
+      "u": "https://wsdot.wa.gov/about/news/2026/pumpkin-pie-and-traffic-delays-dont-mix-plan-ahead-wsdots-thanksgiving-weekend-travel-charts"
+    },
+    {
+      "h": "Westlake tree lighting and holiday carousel return",
+      "s": "Festivities in Westlake Park start at 11 a.m.; the tree is lit at 5 p.m. with fireworks. The carousel runs through Jan. 3.",
+      "date": "2026-11-27",
+      "src": "Downtown Seattle Association",
+      "u": "https://downtownseattle.org/2026/10/a-very-merry-downtown-holiday-season-returns/"
+    }
+  ]
 }

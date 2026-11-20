@@ -1,65 +1,72 @@
 {
- "stories": [
-  {
-   "h": "Netanyahu presses US for short new Iran air campaign",
-   "s": "Trump is reportedly weighing another Iran offensive as Netanyahu urges a joint four-to-seven-day strike campaign, citing chemical-weapons intelligence that some US officials doubt.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/trump-said-to-privately-vent-at-vance-for-blaming-gop-midterm-losses-on-iran-war/",
-   "t": "2026-11-19",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Jewish driver wounds eight in Kafr Qasim car rammings",
-   "s": "A driver hit residents at four spots in the Arab city of Kafr Qasim on Wednesday evening, wounding eight, three moderately. Police arrested a Jewish suspect; residents blamed anti-Arab political rhetoric.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/kafr-qasim-residents-say-jewish-car-rammer-influenced-by-politicians-anti-arab-rhetoric/",
-   "t": "2026-11-18",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Mosque near Afula torched, sprayed with pro-settler graffiti",
-   "s": "Masked attackers set fire to a mosque in the Galilee village of Dahi overnight, causing light damage. Police are investigating it as arson, with Shin Bet reportedly involved.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/mosque-in-northern-israel-set-alight-overnight-vandalized-with-pro-settler-graffiti/",
-   "t": "2026-11-19",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Eisenkot camp rules out backing Liberman for premier",
-   "s": "Eisenkot's aides told Avigdor Liberman that Yashar would not support him for prime minister if coalition efforts fail, amid suspicions he is stalling talks. Eisenkot is seeking a minority government.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/eisenkot-made-clear-to-liberman-yashar-wont-back-him-as-pm-down-the-line/",
-   "t": "2026-11-18",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Haredi protesters block IDF bus after draft evader arrest",
-   "s": "Ultra-Orthodox protesters stopped a military bus in Jerusalem for nearly an hour after police arrested a draft evader, who was sentenced to 20 days in military prison.",
-   "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/israel-news/article-915483",
-   "t": "2026-11-19",
-   "impact": 2,
-   "act": false
-  }
- ],
- "coming": [
-  {
-   "h": "Bank of Israel interest rate decision",
-   "s": "The Monetary Committee announces its next rate decision; the benchmark rate has been held at 3.25% since September.",
-   "date": "2026-11-23",
-   "src": "Bank of Israel",
-   "u": "https://www.boi.org.il/media/h1bl2ng2/october-2026.pdf"
-  },
-  {
-   "h": "Attorney general appears before Netanyahu trial judges",
-   "s": "Attorney General Gali Baharav-Miara is due before the Jerusalem District Court panel to discuss how Netanyahu's corruption trial is run, after a one-week postponement.",
-   "date": "2026-11-25",
-   "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/israel-news/crime-in-israel/article-915344"
-  }
- ]
+  "stories": [
+    {
+      "h": "Eisenkot reportedly eyes Knesset vote on minority government",
+      "s": "Yashar leader Gadi Eisenkot reportedly plans to bring a government to a Knesset vote before his mandate expires, even a minority coalition relying on Arab parties. Liberman opposes it and Likud called it shocking.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/eisenkot-said-planning-vote-on-new-government-before-mandate-ends-even-without-majority/",
+      "t": "2026-11-19",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Report: Netanyahu had Mossad plan Iran op without IDF",
+      "s": "The Washington Post reports Netanyahu asked Mossad chief Roman Gofman before the October election to prepare a covert Iran operation without telling the cabinet or IDF chief. An Israeli security official called it false.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/netanyahu-said-to-have-asked-mossad-chief-to-plan-covert-iran-op-without-telling-idf/",
+      "t": "2026-11-19",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "IAF strikes Hezbollah underground missile site in Beqaa",
+      "s": "Israeli jets hit the entrances of an underground Hezbollah missile production and storage site near Janta in eastern Lebanon, the second Beqaa strike in a week. No casualties were immediately reported.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/air-force-bombs-entrances-to-underground-hezbollah-missile-site-in-east-lebanon-idf/",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "IDF raids beyond Gaza Yellow Line to demolish tunnel",
+      "s": "Troops spent a day inside the Hamas-held part of central Gaza destroying a tunnel section that crossed the Yellow Line. The Salah a-Din highway has since reopened.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/idf-ends-one-day-tunnel-demolition-operation-inside-hamas-controlled-part-of-gaza/",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Israeli banks freeze settler council's accounts after UK sanctions",
+      "s": "The Har Hebron Regional Council head says two Israeli banks froze its foreign-currency accounts after Britain sanctioned eight settlement construction firms, one linked to the council.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/settler-leader-says-municipalitys-foreign-currency-accounts-frozen-due-to-uk-sanctions/",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Likud and Yashar hold second round of coalition talks",
+      "s": "Likud says a second round of unity talks with Eisenkot's Yashar party is set for Sunday.",
+      "date": "2026-11-22",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/eisenkot-said-planning-vote-on-new-government-before-mandate-ends-even-without-majority/"
+    },
+    {
+      "h": "Bank of Israel interest rate decision",
+      "s": "The Monetary Committee announces its next rate decision; it held at 3.25% last time.",
+      "date": "2026-11-23",
+      "src": "Bank of Israel",
+      "u": "https://www.boi.org.il/media/h1bl2ng2/october-2026.pdf"
+    },
+    {
+      "h": "Attorney general appears before Netanyahu trial judges",
+      "s": "The attorney general's court-ordered appearance in Netanyahu's corruption trial was moved to Wednesday.",
+      "date": "2026-11-25",
+      "src": "Yahoo News",
+      "u": "https://www.yahoo.com/news/politics/articles/attorney-generals-appearance-netanyahus-trial-152900767.html"
+    }
+  ]
 }

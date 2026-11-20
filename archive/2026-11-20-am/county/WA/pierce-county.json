@@ -1,0 +1,49 @@
+{
+ "stories": [
+  {
+   "h": "Tacoma adopts $5.3 billion 2027-28 budget",
+   "s": "The City Council adopted the biennial budget, closing a $40 million general fund deficit. It adds 12 police officers and a 10% commercial parking tax, cuts more than 100 positions and phases out the HOPE team.",
+   "src": "City of Tacoma",
+   "u": "https://tacoma.gov/news/city-of-tacomas-adopted-biennial-budget-focuses-on-everyday-services-and-fiscal-sustainability/",
+   "t": "2026-11-17",
+   "impact": 4,
+   "act": false
+  },
+  {
+   "h": "Chinook, Cayuse passes close for season today",
+   "s": "SR 410 over Chinook Pass and SR 123 over Cayuse Pass close for the winter starting Wednesday, Nov. 18, at 10 a.m.",
+   "src": "Yahoo News (The News Tribune)",
+   "u": "https://www.yahoo.com/news/weather-news/articles/two-pierce-county-mountain-passes-000054307.html",
+   "t": "2026-11-18",
+   "impact": 3,
+   "act": true
+  },
+  {
+   "h": "$1 million bail in deadly Spanaway chase crash",
+   "s": "A judge set $1 million bail for Brody Wood, 20, accused of killing David Bauschman, 54, after a chase that hit 134 mph. Police say his blood alcohol level was 0.109.",
+   "src": "KOMO News",
+   "u": "https://komonews.com/news/local/pierce-county-judge-sets-1m-bail-for-20-year-old-accused-of-killing-man-in-dui-crash-spanway-i5-speeding-crime",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Fox Island Bridge replacement worries nearby homeowners",
+   "s": "Pierce County's replacement of the structurally deficient 1954 bridge could cost more than $250 million. Property buying could start in 2029, and residents say the uncertainty is hurting home sales.",
+   "src": "Yahoo News (The News Tribune)",
+   "u": "https://www.yahoo.com/news/us/articles/87-pierce-county-home-others-130000636.html",
+   "t": "2026-11-16",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Fantasy Lights Walk at Spanaway Park",
+   "s": "Walk-through nights for Pierce County's holiday light display, with sessions at 4:30 and 7 p.m. Admission is $3–$5. The drive-through season opens Nov. 27.",
+   "date": "2026-11-21",
+   "src": "ParentMap",
+   "u": "https://www.parentmap.com/calendar/28270"
+  }
+ ]
+}

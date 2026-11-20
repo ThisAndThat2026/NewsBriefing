@@ -1,65 +1,65 @@
 {
- "stories": [
-  {
-   "h": "Driver in fatal Everett crash arrested again for DUI",
-   "s": "A 28-year-old convicted of vehicular homicide for a 2023 Everett Mall Way crash was arrested on suspicion of felony DUI in south Everett. He posted $15,000 bail and was released.",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/17/driver-in-deadly-everett-crash-arrested-again-for-dui/",
-   "t": "2026-11-17",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Lynnwood weighs round-the-clock school zone speed cameras",
-   "s": "The Lynnwood council is considering running school-zone speed cameras 24/7 for safety and to help close a budget gap. It may take the proposal up again Wednesday; enforcement could begin in February.",
-   "src": "FOX 13 Seattle",
-   "u": "https://www.fox13seattle.com/news/lynnwood-24-7-speed-cameras",
-   "t": "2026-11-16",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "County health officials react to lost measles elimination status",
-   "s": "After the U.S. lost its measles elimination status, Snohomish County health leaders urged residents to check their MMR vaccination. The county had 14 cases earlier this year; Washington has 58.",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/17/county-health-officials-react-to-loss-of-measles-elimination-status/",
-   "t": "2026-11-17",
-   "impact": 3,
-   "act": false
-  },
-  {
-   "h": "Mukilteo approves 2027-28 budget adding eight positions",
-   "s": "Mukilteo's council voted 5-1 for a budget that adds police, public works and other staff, raises the property tax and EMS levies by 1%, and puts off a surface water rate increase.",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/17/mukilteo-approves-2027-28-budget-including-new-positions/",
-   "t": "2026-11-17",
-   "impact": 2,
-   "act": false
-  },
-  {
-   "h": "EvCC breaks ground on $38 million Baker Hall",
-   "s": "Everett Community College broke ground on a 32,000-square-foot Baker Hall with a cosmetology wing and a 250-seat theater. It is expected to open in early 2028.",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/18/everett-community-college-breaks-ground-on-new-baker-hall/",
-   "t": "2026-11-18",
-   "impact": 2,
-   "act": false
-  }
- ],
- "coming": [
-  {
-   "h": "Wintertide Sip & Shop in downtown Everett",
-   "s": "Downtown Everett holiday shopping evening, with wine and spirits at participating locations.",
-   "date": "2026-11-19",
-   "src": "Discover Snohomish County",
-   "u": "https://www.discoversnohomishcounty.com/blog/holidayguide/"
-  },
-  {
-   "h": "Buddy Bowl anti-bullying game in Arlington",
-   "s": "Annual exhibition football fundraiser at John Larson Stadium honoring veterans and youth, with donations going to the Preston Dwoskin Scholarship Fund.",
-   "date": "2026-11-22",
-   "src": "The Everett Herald",
-   "u": "https://www.heraldnet.com/2026/11/16/buddy-bowl-the-annual-anti-bully-fundraiser-set-for-sunday/"
-  }
- ]
+  "stories": [
+    {
+      "h": "Everett launches $7M fund against light-rail displacement",
+      "s": "The South Everett Futures Fund, run by LISC Puget Sound, aims over 10 years to protect 1,000 homes, build 1,250 affordable ones and support 100 businesses near future light rail stations.",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/20/city-launches-7m-fund-to-prevent-displacement-in-south-everett/",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Jury convicts man in 2022 Everett apartment killing",
+      "s": "A 31-year-old was convicted of aggravated first-degree murder for shooting a 22-year-old as he slept, a conviction that carries life. Sentencing is Dec. 11.",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/19/man-convicted-of-everett-murder-in-killing-of-ex-girlfriends-new-boyfriend/",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Sen. Marko Liias enters 2027 county executive race",
+      "s": "Liias will run to succeed term-limited Dave Somers, who endorsed him. Council member Jared Mead joined the race two days earlier.",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/18/state-sen-marko-liias-will-run-for-snohomish-county-executive-in-2027/",
+      "t": "2026-11-18",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Arlington police chief placed on leave, set to retire",
+      "s": "Chief Jonathan Ventura went on administrative leave Nov. 18 with a tentative 2027 retirement date. The city says it isn't disciplinary; Cmdr. Mike Gilbert is acting chief.",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/19/arlington-police-chief-on-terminal-leave-with-retirement-date-set/",
+      "t": "2026-11-19",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Mill Creek annexation draws 200-plus to town hall",
+      "s": "Annexation would bring about 11,700 county residents into Mill Creek by 2028, lowering property taxes but adding a utility tax. The council decides in December how to proceed.",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/18/county-residents-learn-more-about-potential-mill-creek-annexation/",
+      "t": "2026-11-18",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Thanksgiving travel crunch on highways and ferries",
+      "s": "WSDOT's holiday travel charts cover Nov. 25–29; ferries busiest westbound Nov. 25–26 and eastbound Nov. 28–29.",
+      "date": "2026-11-25",
+      "src": "WSDOT",
+      "u": "https://wsdot.wa.gov/about/news/2026/pumpkin-pie-and-traffic-delays-dont-mix-plan-ahead-wsdots-thanksgiving-weekend-travel-charts"
+    },
+    {
+      "h": "Everett Wintertide tree lighting downtown",
+      "s": "Kickoff runs 2–8 p.m. at Colby and Hewitt avenues; Santa lights the tree just after 5 p.m.",
+      "date": "2026-11-27",
+      "src": "Visit Everett",
+      "u": "https://www.visiteverett.com/1452/Wintertide-Kickoff-Celebration"
+    }
+  ]
 }

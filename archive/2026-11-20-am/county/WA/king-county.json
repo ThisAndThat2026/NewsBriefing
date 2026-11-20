@@ -1,0 +1,58 @@
+{
+ "stories": [
+  {
+   "h": "Mayor Wilson faults council's $31M in one-time spending",
+   "s": "Wilson says the council budget committee's changes add $31M in one-time 2027 spending, leaving more than $20M unfunded in 2028. The full council's final vote is expected Friday.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/mynorthwest-politics/spending-budget/4301466",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Fall City teen pleads not guilty in family killings",
+   "s": "The 17-year-old pleaded not guilty in adult court to killing five family members in 2024 and is being held without bail. His next hearing is Dec. 9, with trial tentatively set for Jan. 4.",
+   "src": "KUOW",
+   "u": "https://www.kuow.org/crime/2026-11-17/teenager-charged-in-fall-city-family-killings-pleads-not-guilty",
+   "t": "2026-11-17",
+   "impact": 3,
+   "act": false
+  },
+  {
+   "h": "Bellevue School District exits state financial oversight",
+   "s": "The state has lifted its binding conditions on Bellevue schools after the district rebuilt reserves to $24M through more than $20M in cuts. Deficits are still forecast.",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/local/bellevue-financial-oversight-schools/4301343",
+   "t": "2026-11-17",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "Redmond police seek dashcam video in teen's killing",
+   "s": "Police are seeking suspects in the Nov. 13 shooting death of 18-year-old Yahir Cepeda near Avondale Road. They want dashcam footage and believe the suspects fled in a black Chevrolet Impala.",
+   "src": "FOX 13 Seattle",
+   "u": "https://www.fox13seattle.com/news/suspects-redmond-teen-murder",
+   "t": "2026-11-17",
+   "impact": 2,
+   "act": false
+  },
+  {
+   "h": "King County buys 475 acres of Tokul forest",
+   "s": "In its largest land purchase in 20 years, the county paid $6.75M for forest southeast of Fall City, keeping about seven miles of popular trails open.",
+   "src": "Seattle Weekly",
+   "u": "https://www.seattleweekly.com/2026/11/16/king-county-makes-largest-land-purchase-in-20-years/",
+   "t": "2026-11-16",
+   "impact": 2,
+   "act": false
+  }
+ ],
+ "coming": [
+  {
+   "h": "Seattle City Council final budget vote",
+   "s": "The full council is expected to take its final vote on the 2027-28 budget Friday, after Mayor Wilson objected to the committee's one-time spending.",
+   "date": "2026-11-20",
+   "src": "MyNorthwest",
+   "u": "https://mynorthwest.com/mynorthwest-politics/spending-budget/4301466"
+  }
+ ]
+}
