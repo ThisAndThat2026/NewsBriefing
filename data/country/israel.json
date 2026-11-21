@@ -1,72 +1,58 @@
 {
   "stories": [
     {
-      "h": "Eisenkot reportedly eyes Knesset vote on minority government",
-      "s": "Yashar leader Gadi Eisenkot reportedly plans to bring a government to a Knesset vote before his mandate expires, even a minority coalition relying on Arab parties. Liberman opposes it and Likud called it shocking.",
-      "src": "Times of Israel",
-      "u": "https://www.timesofisrael.com/eisenkot-said-planning-vote-on-new-government-before-mandate-ends-even-without-majority/",
-      "t": "2026-11-19",
+      "h": "Israel and US weigh renewed strikes on Iran",
+      "s": "CBS reports Israel and the US are considering a new offensive against Iran soon, citing Iranian missile rebuilding. The IDF is at top defensive readiness; Trump has not decided.",
+      "src": "Ynet News",
+      "u": "https://www.ynetnews.com/article/r18wk6prfe",
+      "t": "2026-11-20",
       "impact": 4,
       "act": false
     },
     {
-      "h": "Report: Netanyahu had Mossad plan Iran op without IDF",
-      "s": "The Washington Post reports Netanyahu asked Mossad chief Roman Gofman before the October election to prepare a covert Iran operation without telling the cabinet or IDF chief. An Israeli security official called it false.",
-      "src": "Times of Israel",
-      "u": "https://www.timesofisrael.com/netanyahu-said-to-have-asked-mossad-chief-to-plan-covert-iran-op-without-telling-idf/",
-      "t": "2026-11-19",
+      "h": "Eisenkot vows government vote before December 6 mandate deadline",
+      "s": "Yashar leader Gadi Eisenkot says he'll seek deals with Haredi parties and Likud first, but otherwise bring a minority government, backed externally by Ra'am and the Joint List, to a Knesset vote.",
+      "src": "Jerusalem Post",
+      "u": "https://www.jpost.com/israel-election-2026/article-915594",
+      "t": "2026-11-20",
       "impact": 4,
       "act": false
     },
     {
-      "h": "IAF strikes Hezbollah underground missile site in Beqaa",
-      "s": "Israeli jets hit the entrances of an underground Hezbollah missile production and storage site near Janta in eastern Lebanon, the second Beqaa strike in a week. No casualties were immediately reported.",
+      "h": "Likud's unity terms: Netanyahu sole PM, Otzma included",
+      "s": "Channel 12 reports Likud's ten demands for a unity government include Netanyahu as PM for four years without rotation, Ben Gvir's party in the coalition and backing for another Iran offensive.",
       "src": "Times of Israel",
-      "u": "https://www.timesofisrael.com/air-force-bombs-entrances-to-underground-hezbollah-missile-site-in-east-lebanon-idf/",
-      "t": "2026-11-19",
+      "u": "https://www.timesofisrael.com/liveblog_entry/in-exchange-for-unity-govt-likud-demanding-that-netanyahu-be-sole-pm-otzma-yehudit-be-part-of-coalition/",
+      "t": "2026-11-20",
       "impact": 3,
       "act": false
     },
     {
-      "h": "IDF raids beyond Gaza Yellow Line to demolish tunnel",
-      "s": "Troops spent a day inside the Hamas-held part of central Gaza destroying a tunnel section that crossed the Yellow Line. The Salah a-Din highway has since reopened.",
-      "src": "Times of Israel",
-      "u": "https://www.timesofisrael.com/idf-ends-one-day-tunnel-demolition-operation-inside-hamas-controlled-part-of-gaza/",
-      "t": "2026-11-19",
+      "h": "Gaza strikes kill four; unarmed Palestinian shot near Beit El",
+      "s": "Israeli fire killed at least four Palestinians in Gaza despite the ceasefire, and a Beit El settlement security coordinator shot dead an unarmed West Bank man Friday; the IDF is reviewing.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza",
+      "t": "2026-11-21",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Israeli banks freeze settler council's accounts after UK sanctions",
-      "s": "The Har Hebron Regional Council head says two Israeli banks froze its foreign-currency accounts after Britain sanctioned eight settlement construction firms, one linked to the council.",
-      "src": "Times of Israel",
-      "u": "https://www.timesofisrael.com/settler-leader-says-municipalitys-foreign-currency-accounts-frozen-due-to-uk-sanctions/",
-      "t": "2026-11-19",
-      "impact": 3,
+      "h": "Haredi rioters clash with police in Beit Shemesh",
+      "s": "Crowds threw stones and smashed a patrol car after a rumor that a teen's arrest was over draft evasion; police used stun grenades and opened an investigation.",
+      "src": "Israel National News",
+      "u": "https://www.israelnationalnews.com/news/436682",
+      "t": "2026-11-20",
+      "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Likud and Yashar hold second round of coalition talks",
-      "s": "Likud says a second round of unity talks with Eisenkot's Yashar party is set for Sunday.",
-      "date": "2026-11-22",
-      "src": "Times of Israel",
-      "u": "https://www.timesofisrael.com/eisenkot-said-planning-vote-on-new-government-before-mandate-ends-even-without-majority/"
-    },
-    {
-      "h": "Bank of Israel interest rate decision",
-      "s": "The Monetary Committee announces its next rate decision; it held at 3.25% last time.",
-      "date": "2026-11-23",
-      "src": "Bank of Israel",
-      "u": "https://www.boi.org.il/media/h1bl2ng2/october-2026.pdf"
-    },
-    {
-      "h": "Attorney general appears before Netanyahu trial judges",
-      "s": "The attorney general's court-ordered appearance in Netanyahu's corruption trial was moved to Wednesday.",
+      "h": "Attorney general due before Netanyahu trial judges",
+      "s": "AG Gali Baharav-Miara is scheduled to appear before the Jerusalem District Court panel in Netanyahu's corruption trial after a one-week postponement.",
       "date": "2026-11-25",
-      "src": "Yahoo News",
-      "u": "https://www.yahoo.com/news/politics/articles/attorney-generals-appearance-netanyahus-trial-152900767.html"
+      "src": "Jerusalem Post",
+      "u": "https://www.jpost.com/israel-news/crime-in-israel/article-915344"
     }
   ]
 }

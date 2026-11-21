@@ -1,53 +1,44 @@
 {
   "stories": [
     {
-      "h": "Tacoma ICE detention center sold to feds for $453M",
-      "s": "GEO Group sold the 1,635-bed Northwest ICE Processing Center to the federal government and will keep running it under a 10-year contract. Reps. Randall and Jayapal criticized the price and promised oversight.",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/mynorthwest-politics/tacoma-detention-center/4301949",
-      "t": "2026-11-18",
-      "impact": 4,
-      "act": false
-    },
-    {
-      "h": "Combined ER and urgent care coming to Puyallup",
-      "s": "Virginia Mason Franciscan Health plans 24-hour emergency and urgent care sites in Puyallup, Issaquah and Seattle's Lake City in 2027, with lab, X-ray and CT on site.",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/local/urgent-care-center-issaquah/4302523",
+      "h": "Feds buy Tacoma ICE detention center for $453 million",
+      "s": "DHS bought the 1,635-bed Northwest ICE Processing Center from GEO Group, which keeps running services under a 10-year contract. Reps. Randall and Jayapal question the price against a $72.6M assessment.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/department-homeland-security-buys-tacoma-ice-detention-center/VFFRBRHSRNDHFMWPNOJGUBJ65U/",
       "t": "2026-11-19",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Puyallup mother pleads guilty in son's fentanyl death",
-      "s": "A woman pleaded guilty to second-degree manslaughter in her 5-year-old son's 2025 fentanyl death. Both sides recommend 21 months; sentencing is expected in February.",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/crime-blotter/pierce-fentanyl-death-child/4301768",
-      "t": "2026-11-18",
+      "h": "Tacoma swap meet manager charged in stolen-goods ring",
+      "s": "Pierce County prosecutors charged a 58-year-old manager with leading organized crime, alleging she directed others to buy and resell stolen tools, sneakers, e-bikes and more from July to November.",
+      "src": "Yahoo News",
+      "u": "https://www.yahoo.com/news/us/articles/tacoma-swap-meet-manager-charged-175346729.html",
+      "t": "2026-11-19",
       "impact": 2,
       "act": false
     },
     {
-      "h": "Uwajimaya's Tacoma store opening slips to 2028",
-      "s": "The Asian grocer now lists 2028 for its planned store at the former Hobby Lobby on S. 23rd Street, a year later than first announced, with city permit revisions pending.",
-      "src": "Yahoo News (The News Tribune)",
-      "u": "https://www.yahoo.com/news/articles/popular-asian-market-plans-tacoma-131500002.html",
-      "t": "2026-11-17",
+      "h": "Five-year sentence in Puyallup WinCo stabbing, U-Haul chase",
+      "s": "Joshua Mineer, 41, was sentenced after pleading guilty to attempted assault, theft and eluding in a 2025 incident that included a box-cutter attack and a head-on crash.",
+      "src": "KOMO News",
+      "u": "https://komonews.com/news/local/pierce-county-man-becomes-unruly-in-court-receives-5-year-sentence-for-2025-assault-theft-chase",
+      "t": "2026-11-20",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Holiday congestion expected on I-5 Lacey–Tacoma",
-      "s": "WSDOT names I-5 between Lacey and Tacoma a Thanksgiving hot spot and has posted best and worst travel times for Nov. 25–29.",
-      "date": "2026-11-25",
-      "src": "WSDOT",
-      "u": "https://wsdot.wa.gov/about/news/2026/pumpkin-pie-and-traffic-delays-dont-mix-plan-ahead-wsdots-thanksgiving-weekend-travel-charts"
+      "h": "Norpoint Classic Thanksgiving fun run",
+      "s": "Tacoma's original Thanksgiving morning fun run starts at 9 a.m. at the Center at Norpoint in Northeast Tacoma.",
+      "date": "2026-11-26",
+      "src": "Metro Parks Tacoma",
+      "u": "https://www.parkstacoma.gov/activities-and-sports/category/holiday/"
     },
     {
       "h": "Zoolights opens at Point Defiance Zoo",
-      "s": "The light show runs 4:30–10 p.m. nightly through Jan. 3; timed online tickets required, from $16.",
+      "s": "The holiday light show opens 4:30-10 p.m. and runs through Jan. 3; timed online tickets are required.",
       "date": "2026-11-27",
       "src": "Point Defiance Zoo & Aquarium",
       "u": "https://www.pdza.org/event/zoolights/"

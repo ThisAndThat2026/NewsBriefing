@@ -1,0 +1,56 @@
+{
+  "stories": [
+    {
+      "h": "Tacoma ICE detention center sold to feds for $453M",
+      "s": "GEO Group sold the 1,635-bed Northwest ICE Processing Center to the federal government and will keep running it under a 10-year contract. Reps. Randall and Jayapal criticized the price and promised oversight.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/mynorthwest-politics/tacoma-detention-center/4301949",
+      "t": "2026-11-18",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Combined ER and urgent care coming to Puyallup",
+      "s": "Virginia Mason Franciscan Health plans 24-hour emergency and urgent care sites in Puyallup, Issaquah and Seattle's Lake City in 2027, with lab, X-ray and CT on site.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/local/urgent-care-center-issaquah/4302523",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Puyallup mother pleads guilty in son's fentanyl death",
+      "s": "A woman pleaded guilty to second-degree manslaughter in her 5-year-old son's 2025 fentanyl death. Both sides recommend 21 months; sentencing is expected in February.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/crime-blotter/pierce-fentanyl-death-child/4301768",
+      "t": "2026-11-18",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Uwajimaya's Tacoma store opening slips to 2028",
+      "s": "The Asian grocer now lists 2028 for its planned store at the former Hobby Lobby on S. 23rd Street, a year later than first announced, with city permit revisions pending.",
+      "src": "Yahoo News (The News Tribune)",
+      "u": "https://www.yahoo.com/news/articles/popular-asian-market-plans-tacoma-131500002.html",
+      "t": "2026-11-17",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Holiday congestion expected on I-5 Lacey–Tacoma",
+      "s": "WSDOT names I-5 between Lacey and Tacoma a Thanksgiving hot spot and has posted best and worst travel times for Nov. 25–29.",
+      "date": "2026-11-25",
+      "src": "WSDOT",
+      "u": "https://wsdot.wa.gov/about/news/2026/pumpkin-pie-and-traffic-delays-dont-mix-plan-ahead-wsdots-thanksgiving-weekend-travel-charts"
+    },
+    {
+      "h": "Zoolights opens at Point Defiance Zoo",
+      "s": "The light show runs 4:30–10 p.m. nightly through Jan. 3; timed online tickets required, from $16.",
+      "date": "2026-11-27",
+      "src": "Point Defiance Zoo & Aquarium",
+      "u": "https://www.pdza.org/event/zoolights/"
+    }
+  ]
+}

@@ -1,62 +1,46 @@
 {
   "stories": [
     {
-      "h": "Everett launches $7M fund against light-rail displacement",
-      "s": "The South Everett Futures Fund, run by LISC Puget Sound, aims over 10 years to protect 1,000 homes, build 1,250 affordable ones and support 100 businesses near future light rail stations.",
+      "h": "Man freed hours earlier charged in deadly Everett shooting",
+      "s": "A 40-year-old Lynnwood man faces first-degree murder and other charges in an Oct. 26 south Everett robbery-shooting that killed one brother and wounded another, less than 12 hours after his release from state custody.",
       "src": "The Everett Herald",
-      "u": "https://www.heraldnet.com/2026/11/20/city-launches-7m-fund-to-prevent-displacement-in-south-everett/",
+      "u": "https://www.heraldnet.com/2026/11/20/man-just-released-from-custody-accused-in-deadly-everett-shooting/",
       "t": "2026-11-20",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Jury convicts man in 2022 Everett apartment killing",
-      "s": "A 31-year-old was convicted of aggravated first-degree murder for shooting a 22-year-old as he slept, a conviction that carries life. Sentencing is Dec. 11.",
-      "src": "The Everett Herald",
-      "u": "https://www.heraldnet.com/2026/11/19/man-convicted-of-everett-murder-in-killing-of-ex-girlfriends-new-boyfriend/",
-      "t": "2026-11-19",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Sen. Marko Liias enters 2027 county executive race",
-      "s": "Liias will run to succeed term-limited Dave Somers, who endorsed him. Council member Jared Mead joined the race two days earlier.",
-      "src": "The Everett Herald",
-      "u": "https://www.heraldnet.com/2026/11/18/state-sen-marko-liias-will-run-for-snohomish-county-executive-in-2027/",
+      "h": "Everett proposes $7M fund to curb south Everett displacement",
+      "s": "The city and partners plan a fund to protect renters and small businesses ahead of light rail, with $5M from the city and $2M to be raised by LISC Puget Sound.",
+      "src": "KOMO News",
+      "u": "https://komonews.com/news/local/city-of-everett-mayor-cassie-franklin-community-partners-7-million-transit-community-affordable-housing-funds-local-businesses-philanthropic-groups-rising-costs",
       "t": "2026-11-18",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Arlington police chief placed on leave, set to retire",
-      "s": "Chief Jonathan Ventura went on administrative leave Nov. 18 with a tentative 2027 retirement date. The city says it isn't disciplinary; Cmdr. Mike Gilbert is acting chief.",
+      "h": "Arrest in Marysville yard-waste-bin body case",
+      "s": "A 49-year-old Marysville man faces misdemeanor charges of concealing a body and unlawfully disposing of remains in the April death of Sarah Arneklev; police say he told them she collapsed after using fentanyl.",
       "src": "The Everett Herald",
-      "u": "https://www.heraldnet.com/2026/11/19/arlington-police-chief-on-terminal-leave-with-retirement-date-set/",
-      "t": "2026-11-19",
+      "u": "https://heraldnet.com/2026/11/20/marysville-man-arrested-months-after-body-found-in-yard-waste-bin",
+      "t": "2026-11-20",
       "impact": 2,
       "act": false
     },
     {
-      "h": "Mill Creek annexation draws 200-plus to town hall",
-      "s": "Annexation would bring about 11,700 county residents into Mill Creek by 2028, lowering property taxes but adding a utility tax. The council decides in December how to proceed.",
+      "h": "Snohomish PUD launches Peak Assist bill-credit program",
+      "s": "Residential customers can enroll via MySnoPUD to cut use during short high-demand events starting Jan. 1, earning a $25 credit after the first survey plus prize drawings.",
       "src": "The Everett Herald",
-      "u": "https://www.heraldnet.com/2026/11/18/county-residents-learn-more-about-potential-mill-creek-annexation/",
-      "t": "2026-11-18",
+      "u": "https://www.heraldnet.com/2026/11/20/snohomish-pud-launches-program-to-reduce-peak-power-use/",
+      "t": "2026-11-20",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Thanksgiving travel crunch on highways and ferries",
-      "s": "WSDOT's holiday travel charts cover Nov. 25–29; ferries busiest westbound Nov. 25–26 and eastbound Nov. 28–29.",
-      "date": "2026-11-25",
-      "src": "WSDOT",
-      "u": "https://wsdot.wa.gov/about/news/2026/pumpkin-pie-and-traffic-delays-dont-mix-plan-ahead-wsdots-thanksgiving-weekend-travel-charts"
-    },
-    {
       "h": "Everett Wintertide tree lighting downtown",
-      "s": "Kickoff runs 2–8 p.m. at Colby and Hewitt avenues; Santa lights the tree just after 5 p.m.",
+      "s": "Holiday kickoff runs 2-8 p.m. at Colby and Hewitt avenues, with Santa lighting the tree just after 5 p.m.",
       "date": "2026-11-27",
       "src": "Visit Everett",
       "u": "https://www.visiteverett.com/1452/Wintertide-Kickoff-Celebration"

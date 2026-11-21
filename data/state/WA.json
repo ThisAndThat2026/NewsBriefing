@@ -1,85 +1,99 @@
 {
   "stories": [
     {
-      "h": "Boeing layoff notices due Dec. 9, union still in dark",
-      "s": "Boeing plans to cut 5% of its commercial airplane workforce. SPEEA says some employees will get 60-day notices Dec. 9, with layoffs effective Feb. 12, but managers couldn't say who or how many.",
-      "src": "Leeham News",
-      "u": "https://leehamnews.com/2026/11/19/where-will-boeing-cut-commercial-workforce-white-collar-union-still-doesnt-know",
+      "h": "Longview mill owner hit with record $10M state penalties",
+      "s": "State regulators fined Nippon Dynawave over $10.1 million, including L&I's largest-ever safety fine, saying it kept a thinning tank in service before the May implosion that killed 11. L&I will seek a criminal referral; the company plans to appeal.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/nippon-dynawave-packaging-safety-fine",
+      "t": "2026-11-20",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Girls' winter athletes must prove biological sex by Dec. 3",
+      "s": "Under voter-approved I-638, WIAA requires grade 7–12 girls winter athletes to file a medically signed sex attestation by Dec. 3 to compete. A lawsuit seeks to block the law; a hearing is set for the same day.",
+      "src": "OPB (KUOW)",
+      "u": "https://www.opb.org/article/2026/11/19/washington-students-girls-sports-10-days-prove-biological-sex/",
       "t": "2026-11-19",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Strong El Niño points to mild winter, thin snowpack",
+      "s": "Forecasters say a strengthening El Niño, possibly among the strongest since 1950, favors a warmer Western Washington winter. That could mean a fourth straight below-normal snowpack and strain on summer water supplies.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/pacific-northwest-weather/el-nino-winter-2/4302947",
+      "t": "2026-11-20",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Seattle and most WA cities raise property taxes again",
-      "s": "Seattle's council is expected to approve its routine 1% levy increase, the most allowed under I-747; Bellevue, Tacoma, Everett, Kent and others are doing the same. Falling office values shift more burden to homeowners.",
-      "src": "KUOW",
-      "u": "https://kuow.org/governing/2026-11-19/another-year-another-property-tax-increase-for-washington-cities",
-      "t": "2026-11-19",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Olympia clears 'The Jungle,' its largest homeless encampment",
-      "s": "Crews are clearing the 20-acre camp off Martin Way East, home to nearly 300 people; 40 have been temporarily housed so far. The city will ask lawmakers for $6.5 million for shelter units.",
-      "src": "KIRO 7",
-      "u": "https://www.kiro7.com/news/local/city-olympia-clears-jungle-encampment-286-people-need-housing/KNA4LWSG2RCPPK54YXAN35VV7I/",
-      "t": "2026-11-19",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "State parks commission rejects golf course at Westport Light",
-      "s": "Commissioners voted down a proposed 18-hole links course at the coastal state park, citing wetland impacts, Quinault Nation fish-habitat concerns, doubts about the developer and the state's budget shortfall.",
-      "src": "The Columbian",
-      "u": "https://www.columbian.com/news/2026/nov/19/washington-commission-votes-down-plan-for-golf-course-at-coastal-state-park/",
-      "t": "2026-11-19",
+      "h": "Weekend WSDOT closures hit I-90, I-5, SR 527, SR 18",
+      "s": "Overnight lane closures are set on I-90 in Bellevue, I-5 near the Nisqually River Bridge, and SR 527 near I-405. Eastbound SR 18 between Issaquah-Hobart Road and I-90 fully closes Sunday 9–11 p.m.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/chokepoints/wsdots-sr-18-sunday-evening/4302528",
+      "t": "2026-11-20",
       "impact": 2,
-      "act": false
+      "act": true
     }
   ],
   "talking": [
     {
-      "h": "Catton's first NHL hat trick powers Kraken past Canucks",
-      "s": "Berkly Catton scored three times as Seattle beat Vancouver 5-1 Thursday, ending a three-game skid. The Kraken's 24-5 first-period shot edge set a franchise record.",
-      "src": "NHL.com",
-      "u": "https://www.nhl.com/news/vancouver-canucks-seattle-kraken-game-recap-november-19-2026",
+      "h": "Huskies host defending champ Indiana in home finale",
+      "s": "Bowl-eligible UW (6-4) faces 9-1 Indiana at Husky Stadium Saturday at 12:30 p.m. on Peacock. It's the Dawgs' last home game before closing at Oregon Nov. 28.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/indiana-vs-uw-huskies",
+      "t": "2026-11-18",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Forest Service releases 1982 WA Bigfoot hoax files",
+      "s": "Newly released records detail a 1982 probe of supposed Sasquatch tracks in the Mill Creek watershed. A Border Patrol tracker and a Forest Service biologist concluded the prints were likely faked.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/local/bigfoot-investigation-wa/4302801",
       "t": "2026-11-20",
       "impact": 2,
       "act": false
     },
     {
-      "h": "Seattle Christmas Market opens today at Seattle Center",
-      "s": "The European-style holiday village begins its fourth season Nov. 20 and runs through Dec. 26, with vendors, mulled wine, a carousel and Santa photos. Tickets start at $6.99.",
-      "src": "KIRO 7",
-      "u": "https://www.kiro7.com/news/local/mulled-wine-mistletoe-seattle-christmas-market-brings-holiday-magic-seattle-center/5NI4VAF2ERGMHNGAFULO6WN7UQ/",
+      "h": "Seattle bar's ladies-night email sparks backlash, threats",
+      "s": "Art Marble 21's owner says he's received death threats and a wave of one-star reviews after a staff email barring men in women's clothing from ladies-night deals spread online. Trans advocates call it discrimination.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/local/seattle-bar-owner/4302958",
       "t": "2026-11-20",
-      "impact": 2,
-      "act": false
-    },
-    {
-      "h": "Bellevue homeowner shot at bear in Lakemont yard",
-      "s": "A homeowner near Cougar Mountain reportedly hit a bear on Nov. 8; WDFW never found the animal. Neighbors say a mother bear and two cubs haven't been seen since.",
-      "src": "MyNorthwest (KIRO 7)",
-      "u": "https://mynorthwest.com/local/bellevue-shoots-at-bear-in-yard/4302537",
-      "t": "2026-11-19",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Razor clam digs open Thanksgiving week",
-      "s": "WDFW approved five evening digs, Nov. 24–28, at Mocrocks and Copalis only; Long Beach and Twin Harbors stay closed over marine toxins. Diggers 16+ need a 2026-27 license.",
-      "date": "2026-11-24",
-      "src": "WDFW",
-      "u": "https://wdfw.wa.gov/newsroom/news-release/wdfw-approves-five-days-razor-clam-digs-copalis-and-mocrocks-beaches-beginning-tuesday-nov-24"
+      "h": "Eastbound SR 18 full closure near Issaquah",
+      "s": "All eastbound lanes close 9–11 p.m. between Issaquah-Hobart Road SE and I-90; freight should detour via I-5 and I-405.",
+      "date": "2026-11-22",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/chokepoints/wsdots-sr-18-sunday-evening/4302528"
     },
     {
-      "h": "Thanksgiving travel crunch on highways and ferries",
-      "s": "WSDOT's travel charts cover Nov. 25–29 for I-5, I-90 and US 2. Ferries will be busiest westbound Nov. 25–26 and eastbound Nov. 28–29; reservations urged.",
+      "h": "Alaska Airlines workers picket at SEA, HQ",
+      "s": "IAM-represented agents and ramp workers hold informational pickets Monday over wages, job security and AI protections; union and airline say no flight disruptions expected.",
+      "date": "2026-11-23",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/local/alaska-airlines-workers/4302856"
+    },
+    {
+      "h": "Ferries brace for 300,000 Thanksgiving riders",
+      "s": "WSF expects long vehicle lines Nov. 25–29; king tides will cancel some Port Townsend/Coupeville sailings and holiday schedules run on Thanksgiving Day.",
       "date": "2026-11-25",
       "src": "WSDOT",
-      "u": "https://wsdot.wa.gov/about/news/2026/pumpkin-pie-and-traffic-delays-dont-mix-plan-ahead-wsdots-thanksgiving-weekend-travel-charts"
+      "u": "https://wsdot.wa.gov/travel/washington-state-ferries/about-us/weekly-update"
+    },
+    {
+      "h": "Huskies close regular season at Oregon",
+      "s": "UW travels to Eugene for its regular-season finale against the rival Ducks the Saturday after Thanksgiving.",
+      "date": "2026-11-28",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/indiana-vs-uw-huskies"
     }
   ]
 }

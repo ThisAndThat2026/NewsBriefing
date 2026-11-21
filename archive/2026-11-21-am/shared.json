@@ -1,0 +1,182 @@
+{
+  "us": [
+    {
+      "h": "Senate Republicans block Iran war powers resolution",
+      "s": "The Senate rejected 51-48 a House-passed resolution directing Trump to pull forces from unauthorized operations against Iran. Collins, Murkowski and Paul voted yes; Fetterman and Tillis voted no. Democrats vow funding limits in January.",
+      "src": "Stars and Stripes",
+      "u": "https://www.stripes.com/theaters/us/2026-11-19/senate-war-powers-resolution-23519149.html",
+      "t": "2026-11-19",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Army postpones Iowa lead azide detonation to Monday",
+      "s": "The Army moved its blast of about 9,500 pounds of unstable lead azide at the Middletown, Iowa, ammunition plant from Friday to Nov. 23, citing safety. Environmental groups have asked a federal appeals court to halt it.",
+      "src": "Iowa Public Radio",
+      "u": "https://www.iowapublicradio.org/ipr-news/2026-11-19/army-postpones-iowa-lead-azide-detonation",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Judge holds Colorado ICE officials in contempt over re-arrests",
+      "s": "A federal judge found ICE flouted court orders by immediately re-detaining at least 18 immigrants judges had ordered freed. She imposed no fines because the agency has stopped the practice.",
+      "src": "KSUT (CPR News)",
+      "u": "https://www.ksut.org/news/2026-11-19/ice-made-a-mockery-of-court-orders-in-colorado-federal-judge-says",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Trump asks Supreme Court to let EPA cancel climate grants",
+      "s": "The administration wants the justices to allow the EPA to end $16 billion in 'green bank' clean-energy grants created under the Inflation Reduction Act, after a divided appeals court called the terminations improper.",
+      "src": "WSLS (AP)",
+      "u": "https://www.wsls.com/business/2026/11/19/trump-wants-the-supreme-court-to-let-his-epa-cancel-billions-in-biden-era-climate-grants/",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    }
+  ],
+  "world": [
+    {
+      "h": "Massive Russian barrage hits Ukraine; objects fall in Poland",
+      "s": "An overnight Russian drone and missile attack on Kyiv and other regions killed at least eight people and damaged bridges and energy sites. Poland scrambled air defenses and is investigating objects that fell on its territory.",
+      "src": "Kyiv Independent",
+      "u": "https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/",
+      "t": "2026-11-20",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Kushner floats NATO-style security guarantee for Ukraine",
+      "s": "Meeting European leaders in Berlin, Jared Kushner said Russia would accept Article 5-style guarantees for Ukraine. Zelenskyy said there's no shared understanding of what that means, and Putin called NATO guarantees unacceptable.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it",
+      "t": "2026-11-20",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Trump delays Iran strike decision; Houthis target Riyadh",
+      "s": "Trump said he won't decide on renewed Iran strikes until after the new year. Saudi forces intercepted Houthi drones and a missile aimed at Riyadh, and Iran's IRGC said two supertankers hit mines in Hormuz.",
+      "src": "The New Arab",
+      "u": "https://www.newarab.com/news/trump-says-no-rush-iran-houthis-ups-attacks-saudi-arabia",
+      "t": "2026-11-20",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Iraqi forces move into Kataib Hezbollah stronghold",
+      "s": "Iraqi troops deployed to Jurf al-Sakhar under a deal giving the Iran-aligned militia a month to withdraw. The group is suspected of stealing oil through illicit refineries, which it denies.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/iraqi-forces-deploy-to-jurf-al-sakhar-after-deal-with-iran-backed-group",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Russia vows response to Estonia's border closure",
+      "s": "Moscow called Estonia's plan to shut its road crossings with Russia from Dec. 1 a new 'Iron Curtain' and promised retaliation. Tallinn cites security after an alleged Russian-linked arson attempt on a drone maker.",
+      "src": "The Moscow Times",
+      "u": "https://www.themoscowtimes.com/2026/11/20/russia-accuses-estonia-of-erecting-new-iron-curtain-with-border-closure-says-it-will-respond-a94333",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": false
+    }
+  ],
+  "tech": [
+    {
+      "h": "Anthropic closes debut up 17% amid wider AI sell-off",
+      "s": "Anthropic (ANT) ended its first Nasdaq day just over $97, about 17% above its $83 IPO price, after rising as much as 34%. Major U.S. indexes hit seven-month lows on AI worries, and Asian markets fell Friday.",
+      "src": "The Next Web",
+      "u": "https://thenextweb.com/news/anthropic-shares-close-17-above-their-ipo-price-on-first-day-of-trading",
+      "t": "2026-11-20",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "California subpoenas Nvidia over possible China chip leaks",
+      "s": "Attorney General Rob Bonta subpoenaed Nvidia over whether chips or confidential information reached China and whether investors were misled. The probe is tied to the scandal surrounding former CEO Jensen Huang.",
+      "src": "The Next Web",
+      "u": "https://thenextweb.com/news/california-bonta-subpoena-nvidia-china-chips-investors",
+      "t": "2026-11-20",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "UK must confirm secret Apple encryption backdoor order",
+      "s": "The Investigatory Powers Tribunal ruled the UK government must confirm it ordered Apple to provide access to encrypted iCloud data, rejecting the Home Office's national security argument.",
+      "src": "TechCrunch",
+      "u": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Gemini's Mac app can now operate your computer",
+      "s": "Google added computer use to its Gemini macOS app, letting the agent work through apps and websites in the background for paying U.S. subscribers. Users can pause it or approve each step.",
+      "src": "TechCrunch",
+      "u": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Hackers breach N-able email security cloud server",
+      "s": "N-able confirmed attackers reached a server behind its Mail Assure and SpamExperts services, knocking management portals and APIs offline in three regions. Filtering still works, and it has no evidence customer data was taken.",
+      "src": "The Hacker News",
+      "u": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    }
+  ],
+  "talking": [
+    {
+      "h": "Manfred: owners insist on salary cap, MLB lockout looms",
+      "s": "Commissioner Rob Manfred said owners won't ratify a labor deal without a salary cap and floor, making a lockout likely once the contract expires Dec. 1 and putting the 2027 season at risk.",
+      "src": "The Philadelphia Inquirer (AP)",
+      "u": "https://www.inquirer.com/phillies/rob-manfred-mlb-lockout-salary-cap-owners-players-union-20261119.html",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "'Sunrise on the Reaping' earns $21M in Thursday previews",
+      "s": "The new Hunger Games prequel posted the franchise's second-best preview night, behind Catching Fire, and is tracking toward an opening weekend of $100 million or more.",
+      "src": "JoBlo",
+      "u": "https://www.joblo.com/hunger-games-sunrise-on-the-reaping-box-office-previews/",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Rescheduled Army detonation in Middletown, Iowa",
+      "s": "The Army plans controlled blasts of degraded lead azide at the Iowa Army Ammunition Plant; nearby residents should watch for evacuation guidance.",
+      "date": "2026-11-23",
+      "src": "Iowa Public Radio",
+      "u": "https://www.iowapublicradio.org/ipr-news/2026-11-19/army-postpones-iowa-lead-azide-detonation"
+    },
+    {
+      "h": "Rain could snarl Thanksgiving-week travel",
+      "s": "Forecasters expect rain across the central and eastern U.S. Monday through Wednesday, with possible severe storms in Texas and the Gulf Coast.",
+      "date": "2026-11-24",
+      "src": "FOX Weather",
+      "u": "https://www.foxweather.com/weather-news/thanksgiving-weather-outlook-we-two-weeks-away-from-turkey-time"
+    },
+    {
+      "h": "Thanksgiving Day NFL triple-header",
+      "s": "Bears at Lions (1 p.m. ET), Eagles at Cowboys (4:30 p.m. ET) and Chiefs at Bills (8:20 p.m. ET).",
+      "date": "2026-11-26",
+      "src": "CBS Sports",
+      "u": "https://cbssports.com/nfl/news/nfl-thanksgiving-schedule-2026-games/"
+    },
+    {
+      "h": "Black Friday kicks off holiday shopping season",
+      "s": "Retailers mark the traditional start of holiday shopping the day after Thanksgiving.",
+      "date": "2026-11-27"
+    }
+  ]
+}

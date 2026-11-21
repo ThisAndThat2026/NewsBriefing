@@ -1,46 +1,37 @@
 {
   "stories": [
     {
-      "h": "Seattle budget clears committee 7-2, final vote today",
-      "s": "The council's budget committee advanced the 2027-28 budget, which closes a $175M deficit and cuts dozens of jobs. Rivera voted no. The full council is set to vote Friday at 1 p.m.",
-      "src": "Yahoo News (KIRO 7)",
-      "u": "https://www.yahoo.com/news/politics/articles/seattle-city-council-works-pass-042219573.html",
-      "t": "2026-11-19",
+      "h": "Seattle council gives final 7-2 approval to $9.1B budget",
+      "s": "The council passed its amended two-year budget Friday, closing a $175M gap and keeping $352.7M for housing; Rinck and Rivera objected to one-time money for ongoing costs. Mayor Wilson has 10 days to sign or veto.",
+      "src": "KNKX",
+      "u": "https://www.knkx.org/politics/2026-11-20/seattle-city-council-passes-2027-2028-budget",
+      "t": "2026-11-20",
       "impact": 4,
       "act": false
     },
     {
-      "h": "Redmond removes all 24 Flock license plate cameras",
-      "s": "Redmond says all of its Flock plate-reader cameras are gone after the council ended the contract over privacy concerns. The city says no federal or out-of-state agency received its data.",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/news/flock-cameras-removed-redmond",
-      "t": "2026-11-19",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Driver charged in 119-mph fatal I-5 SeaTac crash",
-      "s": "A 23-year-old faces vehicular homicide and five vehicular assault counts after investigators say he was racing at 119 mph before a seven-car crash that killed a 68-year-old man. The other driver is still sought.",
+      "h": "High tides may flood South Park streets through Saturday",
+      "s": "Seattle Public Utilities warns of minor street flooding in South Park's industrial streets through Nov. 21, with more high-tide windows Nov. 25-29. Residents with grinder pumps should check they work.",
       "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/crime-blotter/car-crash-on-i-5-in-seatac/4301919",
-      "t": "2026-11-18",
-      "impact": 3,
-      "act": false
+      "u": "https://mynorthwest.com/pacific-northwest-weather/seattle-south-park-flooding/4302805",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": true
     },
     {
-      "h": "Maritime High students walk out over proposed closure",
-      "s": "Students protested at Highline Public Schools' offices against closing Maritime High in Des Moines, which the district says would save $2.1M a year. A hearing is Dec. 2; the board votes Dec. 9.",
-      "src": "B-Town Blog",
-      "u": "https://b-townblog.com/video-maritime-high-school-students-walk-out-protest-in-burien-thursday-as-school-closure-vote-approaches/",
-      "t": "2026-11-19",
+      "h": "Space Needle gas station killing suspect extradited to Seattle",
+      "s": "Michael O'Neal Fleming, charged with first-degree murder in the Oct. 13 shooting of a 76 station manager, was booked into King County jail on $5M bail after extradition from Chicago.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/man-accused-deadly-space-beedle-shooting-extradited",
+      "t": "2026-11-18",
       "impact": 2,
       "act": false
     },
     {
-      "h": "Suspect in Shoreline deputy stabbing arrested in Texas",
-      "s": "U.S. Marshals arrested a 35-year-old man in El Paso. He faces charges in the stabbing of a King County deputy in Shoreline and had been out on $25,000 bail.",
+      "h": "14-year-old driver crashes van in Kent I-5 work zone",
+      "s": "WSP says a van driven by a 14-year-old hit a contractor truck and an off-duty police car near SR 516 and caught fire; the teen faces a reckless driving charge.",
       "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/crime-blotter/deputy-stabbing-shoreline/4294372",
+      "u": "https://mynorthwest.com/chokepoints/kent-i-5-crash-reckless/4301772",
       "t": "2026-11-18",
       "impact": 2,
       "act": false
@@ -48,18 +39,11 @@
   ],
   "coming": [
     {
-      "h": "Thanksgiving travel crunch on highways and ferries",
-      "s": "WSDOT expects the busiest westbound ferry sailings Nov. 25–26 and eastbound Nov. 28–29, and urges reservations. Most highway construction pauses for the holiday.",
-      "date": "2026-11-25",
-      "src": "WSDOT",
-      "u": "https://wsdot.wa.gov/about/news/2026/pumpkin-pie-and-traffic-delays-dont-mix-plan-ahead-wsdots-thanksgiving-weekend-travel-charts"
-    },
-    {
-      "h": "Westlake tree lighting and holiday carousel return",
-      "s": "Festivities in Westlake Park start at 11 a.m.; the tree is lit at 5 p.m. with fireworks. The carousel runs through Jan. 3.",
-      "date": "2026-11-27",
-      "src": "Downtown Seattle Association",
-      "u": "https://downtownseattle.org/2026/10/a-very-merry-downtown-holiday-season-returns/"
+      "h": "Arraignment for Space Needle shooting suspect",
+      "s": "Michael O'Neal Fleming is set to be arraigned at the King County Courthouse on a first-degree murder charge.",
+      "date": "2026-11-23",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/man-accused-deadly-space-beedle-shooting-extradited"
     }
   ]
 }
