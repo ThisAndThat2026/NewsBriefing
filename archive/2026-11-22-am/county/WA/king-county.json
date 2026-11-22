@@ -1,0 +1,58 @@
+{
+  "stories": [
+    {
+      "h": "ICE detains two passengers on Sea-Tac jet bridge",
+      "s": "Immigration agents detained two people boarding an Alaska Airlines flight to Los Angeles Saturday morning. The Port of Seattle says it is outraged and is reviewing whether protocols were broken; Gov. Ferguson called ICE out of control.",
+      "src": "KOMO News",
+      "u": "https://komonews.com/news/local/port-of-seattle-seatac-airport-ice-alaska-airlines-reviewing-ice-incident-during-boarding-passengers-trauamatized-plane-boaridng-incident-dhs-homeland-security",
+      "t": "2026-11-21",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Seattle council gives final 7-2 approval to $9.1B budget",
+      "s": "The council passed its amended two-year budget Friday, closing a $175M gap and keeping $352.7M for housing; Rinck and Rivera objected to one-time money for ongoing costs. Mayor Wilson has 10 days to sign or veto.",
+      "src": "KNKX",
+      "u": "https://www.knkx.org/politics/2026-11-20/seattle-city-council-passes-2027-2028-budget",
+      "t": "2026-11-20",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "High tides may flood South Park streets through Saturday",
+      "s": "Seattle Public Utilities warns of minor street flooding in South Park's industrial streets through Nov. 21, with more high-tide windows Nov. 25-29. Residents with grinder pumps should check they work.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/pacific-northwest-weather/seattle-south-park-flooding/4302805",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": true
+    },
+    {
+      "h": "Space Needle gas station killing suspect extradited to Seattle",
+      "s": "Michael O'Neal Fleming, charged with first-degree murder in the Oct. 13 shooting of a 76 station manager, was booked into King County jail on $5M bail after extradition from Chicago.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/man-accused-deadly-space-beedle-shooting-extradited",
+      "t": "2026-11-18",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "14-year-old driver crashes van in Kent I-5 work zone",
+      "s": "WSP says a van driven by a 14-year-old hit a contractor truck and an off-duty police car near SR 516 and caught fire; the teen faces a reckless driving charge.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/chokepoints/kent-i-5-crash-reckless/4301772",
+      "t": "2026-11-18",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Arraignment for Space Needle shooting suspect",
+      "s": "Michael O'Neal Fleming is set to be arraigned at the King County Courthouse on a first-degree murder charge.",
+      "date": "2026-11-23",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/man-accused-deadly-space-beedle-shooting-extradited"
+    }
+  ]
+}

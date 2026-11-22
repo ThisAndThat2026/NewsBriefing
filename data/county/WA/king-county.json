@@ -1,58 +1,40 @@
 {
   "stories": [
     {
-      "h": "ICE detains two passengers on Sea-Tac jet bridge",
-      "s": "Immigration agents detained two people boarding an Alaska Airlines flight to Los Angeles Saturday morning. The Port of Seattle says it is outraged and is reviewing whether protocols were broken; Gov. Ferguson called ICE out of control.",
-      "src": "KOMO News",
-      "u": "https://komonews.com/news/local/port-of-seattle-seatac-airport-ice-alaska-airlines-reviewing-ice-incident-during-boarding-passengers-trauamatized-plane-boaridng-incident-dhs-homeland-security",
+      "h": "Magnitude 3.4 earthquake near Auburn felt across Puget Sound",
+      "s": "A M3.4 quake centered near Lea Hill, northeast of Auburn, struck just after 11 p.m. Friday. USGS logged nearly 1,700 felt reports; no damage was reported.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/magnitude-34-earthquake-shook-king-county-late-friday-night/TQTW45UTRJBDPNHEVVHC4HTZAU/",
       "t": "2026-11-21",
-      "impact": 4,
+      "impact": 3,
       "act": false
     },
     {
-      "h": "Seattle council gives final 7-2 approval to $9.1B budget",
-      "s": "The council passed its amended two-year budget Friday, closing a $175M gap and keeping $352.7M for housing; Rinck and Rivera objected to one-time money for ongoing costs. Mayor Wilson has 10 days to sign or veto.",
-      "src": "KNKX",
-      "u": "https://www.knkx.org/politics/2026-11-20/seattle-city-council-passes-2027-2028-budget",
-      "t": "2026-11-20",
-      "impact": 4,
-      "act": false
-    },
-    {
-      "h": "High tides may flood South Park streets through Saturday",
-      "s": "Seattle Public Utilities warns of minor street flooding in South Park's industrial streets through Nov. 21, with more high-tide windows Nov. 25-29. Residents with grinder pumps should check they work.",
+      "h": "Eastbound SR 18 closes tonight; I-90 Bellevue lanes close next",
+      "s": "All eastbound SR 18 lanes close 9-11 p.m. Sunday between Issaquah-Hobart Road and I-90. Up to three I-90 lanes each way close overnight Mon-Tue in Bellevue, with several ramps shut.",
       "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/pacific-northwest-weather/seattle-south-park-flooding/4302805",
+      "u": "https://mynorthwest.com/chokepoints/wsdots-sr-18-sunday-evening/4302528",
       "t": "2026-11-20",
       "impact": 2,
       "act": true
     },
     {
-      "h": "Space Needle gas station killing suspect extradited to Seattle",
-      "s": "Michael O'Neal Fleming, charged with first-degree murder in the Oct. 13 shooting of a 76 station manager, was booked into King County jail on $5M bail after extradition from Chicago.",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/news/man-accused-deadly-space-beedle-shooting-extradited",
-      "t": "2026-11-18",
-      "impact": 2,
-      "act": false
-    },
-    {
-      "h": "14-year-old driver crashes van in Kent I-5 work zone",
-      "s": "WSP says a van driven by a 14-year-old hit a contractor truck and an off-duty police car near SR 516 and caught fire; the teen faces a reckless driving charge.",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/chokepoints/kent-i-5-crash-reckless/4301772",
-      "t": "2026-11-18",
+      "h": "SeaTac man accused of contacting 911 about 1,400 times",
+      "s": "SeaTac police arrested a 35-year-old man accused of calling and texting 911 roughly 1,400 times over three days over a protective-order dispute, tying up King County dispatchers. He faces misdemeanor charges.",
+      "src": "KOMO News",
+      "u": "https://komonews.com/news/local/police-man-upset-over-court-order-called-and-texted-911-more-than-1400-times/investigators-subhan-mohammadi-king-county-emergency-response-misdemeanor-dispatchers",
+      "t": "2026-11-19",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Arraignment for Space Needle shooting suspect",
-      "s": "Michael O'Neal Fleming is set to be arraigned at the King County Courthouse on a first-degree murder charge.",
-      "date": "2026-11-23",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/news/man-accused-deadly-space-beedle-shooting-extradited"
+      "h": "King tides peak on Puget Sound around Thanksgiving",
+      "s": "Supermoon-boosted king tides are expected to peak in Puget Sound around Thanksgiving and Black Friday; forecasters don't expect extreme flooding but low-lying shorelines could see water.",
+      "date": "2026-11-26",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/king-tides-stormy-conditions-bring-coastal-flood-threat-thanksgiving-week/YLMEVW57D5GI7K6FXKOSEEH77E/"
     }
   ]
 }

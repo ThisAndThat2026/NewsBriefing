@@ -1,0 +1,209 @@
+{
+  "us": [
+    {
+      "h": "AI rout drags Dow and S&P 500 into correction",
+      "s": "Friday's tech selloff knocked the S&P 500 down 3.7% and the Nasdaq 5.3%, wiping out its 2026 gains. Nvidia sank about 14% and newly public Anthropic fell 8.5%.",
+      "src": "Fox Business",
+      "u": "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
+      "t": "2026-11-20",
+      "impact": 5,
+      "act": false
+    },
+    {
+      "h": "Trump orders contractors to alert White House before talking to Congress",
+      "s": "A late-Friday executive order requires federal contractors to notify the White House before sharing information with Congress and to withhold material deemed confidential, weeks before Democrats take control and begin promised investigations. Legal challenges are expected.",
+      "src": "Business Recorder (Reuters)",
+      "u": "https://www.brecorder.com/news/40450102/trump-orders-federal-contractors-to-notify-white-house-before-giving-congress-information",
+      "t": "2026-11-21",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Trump touts Asia trip, threatens veto fights with Democrats",
+      "s": "At a nearly two-hour briefing, Trump praised his meeting with Xi and Putin, vowed heavy taxes on U.S. firms building data centers abroad, and floated possible deals with the incoming Democratic Congress while threatening vetoes.",
+      "src": "Roll Call",
+      "u": "https://www.rollcall.com/2026/11/20/trump-while-wielding-veto-threat-sees-possible-deals-with-incoming-dem-majority",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Second judge blocks Trump's 250-foot arch near Arlington",
+      "s": "A federal judge in Virginia said she will indefinitely halt construction of the arch planned near Arlington National Cemetery, finding the government unlikely to win; a D.C. judge's order already bars groundbreaking through Dec. 3. DOJ plans to appeal.",
+      "src": "OPB (NPR)",
+      "u": "https://www.opb.org/article/2026/11/20/trump-arch-blocked-by-virginia-judge/",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Appeals court freezes permit for Iowa lead azide blast",
+      "s": "The 8th Circuit temporarily suspended EPA's emergency permit for the Army's planned detonation of nearly 10,000 pounds of lead azide in Middletown, Iowa, leaving the rescheduled Monday blast uncertain while it weighs a longer halt.",
+      "src": "Iowa Public Radio",
+      "u": "https://www.iowapublicradio.org/ipr-news/2026-11-20/court-injunction-army-planned-lead-azide-detonation",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Senate passes sweeping energy permitting overhaul, 62-33",
+      "s": "The bipartisan bill speeds federal reviews for power lines, renewables, mining and drilling and aims to shield ratepayers from data-center power costs. The House is expected to vote after Thanksgiving.",
+      "src": "Roll Call",
+      "u": "https://www.rollcall.com/2026/11/19/sweeping-permitting-overhaul-passes-senate-on-to-house",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    }
+  ],
+  "world": [
+    {
+      "h": "Saudi coalition strikes Hodeidah; Houthi missiles target Riyadh",
+      "s": "The Saudi-led coalition hit Yemen's Hodeidah port and Sanaa military targets Friday; overnight it intercepted three Houthi ballistic missiles aimed at Riyadh. Houthis threaten Jeddah and warned airlines Saudi airspace is unsafe.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh",
+      "t": "2026-11-21",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Two more tankers hit near Hormuz; Iran claims US drones downed",
+      "s": "UKMTO says two oil tankers were struck by unknown projectiles off Oman's Khasab, and Iran says another hit a mine. The IRGC claims it shot down US MQ-9 and MQ-1 drones over the strait.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles",
+      "t": "2026-11-21",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "UK and EU strike post-Brexit reset deal",
+      "s": "At a Brussels summit, PM Andy Burnham and the EU agreed to ease food trade checks, link carbon markets and create a youth mobility scheme for up to 100,000 under-30s each way.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/uk-eu-deal-what-we-know-so-far",
+      "t": "2026-11-20",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "COP31 climate talks in overtime over fossil fuel deadlock",
+      "s": "Nearly 200 nations in Antalya failed to agree a deal by Friday after fossil fuel phase-out language was stripped under Saudi and producer pressure; a new draft is expected Saturday.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Denmark expels Russian attache over alleged rapper assassination plot",
+      "s": "Denmark ordered Russia's defence attache out within seven days, saying Russian intelligence plotted with a Danish gang to kill a Ukrainian rapper at a concert. Moscow promised a response.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/21/denmark-expels-russian-diplomat-over-alleged-plot-to-kill-ukrainian-rapper",
+      "t": "2026-11-21",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Trump, Xi, Putin declaration condemns International Criminal Court",
+      "s": "Back from China, Trump touted a joint US-Russia-China leaders' declaration that condemns what he called the ICC's abuses, saying the court is out of control.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/liveblog_entry/trump-touts-joint-statement-issued-by-us-china-and-russia-condemning-the-icc/",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": false
+    }
+  ],
+  "tech": [
+    {
+      "h": "Nvidia plunges 14% as Nasdaq erases 2026 gains",
+      "s": "Nvidia closed near $125 Friday after Reuters reported an SEC review of its accounting, deepening an AI sell-off that sent the Nasdaq down over 5% and the chip index down about 11%.",
+      "src": "The Motley Fool",
+      "u": "https://www.fool.com/investing/2026/11/20/here-is-why-nvidia-stock-crashed-on-friday/",
+      "t": "2026-11-20",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "CrowdStrike in talks to acquire Zscaler",
+      "s": "Bloomberg reported CrowdStrike is negotiating to buy Zscaler in a deal creating a roughly $265 billion company; Zscaler shares jumped over 15% after hours while CrowdStrike fell more than 8%.",
+      "src": "Investing.com",
+      "u": "https://www.investing.com/news/stock-market-news/crowdstrike-weighs-zscaler-buyout-in-potential-265-billion-cyber-deal--bloomberg-5042662",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "YouTube nears $3B settlement with US school districts",
+      "s": "YouTube reached an in-principle deal to pay about $3 billion and add teen safeguards to settle districts' claims its platform is addictive; it needs most districts to sign on and court approval.",
+      "src": "Investing.com",
+      "u": "https://www.investing.com/news/stock-market-news/youtube-nears-3-billion-settlement-with-us-school-districts-over-addiction-claims-bloomberg-news-reports-5042475",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "FBI probes suspected breach of national crime database",
+      "s": "The FBI is investigating an apparent intrusion into NCIC, the warrants and background-check database used by police nationwide; attackers and any data theft are unknown. It's the bureau's second reported breach in months.",
+      "src": "Yahoo News",
+      "u": "https://www.yahoo.com/news/us/articles/fbi-investigates-suspected-breach-nationwide-045138645.html",
+      "t": "2026-11-21",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Signal blocks screenshots by default to thwart AI agents",
+      "s": "Signal now blocks screenshots on Android and iOS by default to stop OS-level AI agents reading chats, admitting the protection is incomplete, after reports Meta's Muse agent read Signal messages.",
+      "src": "The Hacker News",
+      "u": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+      "t": "2026-11-21",
+      "impact": 3,
+      "act": false
+    }
+  ],
+  "talking": [
+    {
+      "h": "Colts cut Daniel Jones months after $88 million deal",
+      "s": "A day after a 26-3 loss to Houston, Indianapolis released the league's interception leader and handed the starting job back to Anthony Richardson Sr. for the Nov. 29 game against the Giants.",
+      "src": "ESPN",
+      "u": "https://www.espn.com/nfl/story/_/id/50542293/colts-release-qb-daniel-jones-blowout-loss-texans",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Thanksgiving dinner costs rise for first time since 2022",
+      "s": "The Farm Bureau's survey puts a feast for 10 at $58.63, up 6%, with a 16-pound turkey averaging $23.68 and pricier diesel pushing up staples.",
+      "src": "PBS NewsHour (AP)",
+      "u": "https://www.pbs.org/newshour/economy/americans-will-pay-more-for-thanksgiving-dinners-this-year-says-farm-bureau-survey",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Storms on both coasts threaten Thanksgiving travel",
+      "s": "Rain and wind hit the East Coast Sunday, Pacific storms arrive Tuesday and Wednesday, and a potentially major Northeast storm could bring rain, wind and Appalachian snow on Thanksgiving Day.",
+      "date": "2026-11-22",
+      "src": "The Weather Channel",
+      "u": "https://weather.com/2026/11/20/holiday/thanksgiving/thanksgiving-travel-weather-forecast-us-storms"
+    },
+    {
+      "h": "Iowa lead azide detonation set for Monday, pending court",
+      "s": "The Army rescheduled the Middletown blasts for Nov. 23, but an 8th Circuit stay is in place; DOJ said it will file its opposition by Sunday. Nearby residents are advised to stay indoors if it proceeds.",
+      "date": "2026-11-23",
+      "src": "Yahoo News (ABC News)",
+      "u": "https://www.yahoo.com/news/us/articles/federal-appeals-court-temporarily-blocks-174755610.html"
+    },
+    {
+      "h": "Thanksgiving travel rush begins Tuesday",
+      "s": "AAA expects 81.5 million travelers Nov. 24-30; Tuesday and Wednesday afternoons are the worst times to drive, with mornings the best bet.",
+      "date": "2026-11-24",
+      "src": "AAA",
+      "u": "https://newsroom.acg.aaa.com/sc-aaa-815-million-americans-expected-to-travel-for-thanksgiving/"
+    },
+    {
+      "h": "Thanksgiving Day",
+      "s": "Federal holiday; most government offices, banks and many businesses closed, with Black Friday shopping the next day.",
+      "date": "2026-11-26"
+    }
+  ]
+}

@@ -1,99 +1,106 @@
 {
   "stories": [
     {
-      "h": "Longview mill owner hit with record $10M state penalties",
-      "s": "State regulators fined Nippon Dynawave over $10.1 million, including L&I's largest-ever safety fine, saying it kept a thinning tank in service before the May implosion that killed 11. L&I will seek a criminal referral; the company plans to appeal.",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/news/nippon-dynawave-packaging-safety-fine",
-      "t": "2026-11-20",
+      "h": "Back-to-back Pacific storms to soak Washington through Thanksgiving",
+      "s": "Forecasters expect a stronger front Monday into Tuesday, with Tuesday the worst day for southeast winds and heavy rain. Snow levels rise above 3,000 feet midweek, while the Cascades keep piling up snow.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/winter-weather-passes-cold-rain-saturday-night-expect-chilly-rainy-sunday/RI4PZZYRTBABJGDZJYPK2T3HPM/",
+      "t": "2026-11-21",
       "impact": 4,
-      "act": false
+      "act": true
     },
     {
-      "h": "Girls' winter athletes must prove biological sex by Dec. 3",
-      "s": "Under voter-approved I-638, WIAA requires grade 7–12 girls winter athletes to file a medically signed sex attestation by Dec. 3 to compete. A lawsuit seeks to block the law; a hearing is set for the same day.",
-      "src": "OPB (KUOW)",
-      "u": "https://www.opb.org/article/2026/11/19/washington-students-girls-sports-10-days-prove-biological-sex/",
-      "t": "2026-11-19",
-      "impact": 4,
-      "act": false
-    },
-    {
-      "h": "Strong El Niño points to mild winter, thin snowpack",
-      "s": "Forecasters say a strengthening El Niño, possibly among the strongest since 1950, favors a warmer Western Washington winter. That could mean a fourth straight below-normal snowpack and strain on summer water supplies.",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/pacific-northwest-weather/el-nino-winter-2/4302947",
-      "t": "2026-11-20",
+      "h": "ICE arrests on Sea-Tac jet bridge draw statewide condemnation",
+      "s": "Masked ICE agents arrested two passengers Saturday as they boarded Alaska Airlines Flight 1306 to Los Angeles. Gov. Ferguson called ICE out of control. The Port of Seattle and Alaska Airlines say no one told them in advance.",
+      "src": "KOMO",
+      "u": "https://komonews.com/news/local/port-of-seattle-seatac-airport-ice-alaska-airlines-reviewing-ice-incident-during-boarding-passengers-trauamatized-plane-boaridng-incident-dhs-homeland-security",
+      "t": "2026-11-21",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Weekend WSDOT closures hit I-90, I-5, SR 527, SR 18",
-      "s": "Overnight lane closures are set on I-90 in Bellevue, I-5 near the Nisqually River Bridge, and SR 527 near I-405. Eastbound SR 18 between Issaquah-Hobart Road and I-90 fully closes Sunday 9–11 p.m.",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/chokepoints/wsdots-sr-18-sunday-evening/4302528",
+      "h": "First snow of the season hits Spokane area",
+      "s": "The NWS forecast up to an inch in Spokane and up to 2 inches in spots like Republic from late Saturday into Sunday, with more in the mountains. Snow levels were expected to drop to about 1,500 feet.",
+      "src": "Spokesman-Review",
+      "u": "https://www.spokesman.com/stories/2026/nov/20/spokane-county-plow-crews-ready-for-regions-first-/",
       "t": "2026-11-20",
-      "impact": 2,
+      "impact": 3,
       "act": true
+    },
+    {
+      "h": "Murray, Cantwell undecided as Democrats pick Senate majority leader",
+      "s": "Democrats take the Senate majority in January and will choose between Chuck Schumer and Chris Van Hollen in a secret ballot Dec. 1. Washington's senators haven't endorsed either one. Murray is set to return as president pro tempore.",
+      "src": "Spokesman-Review",
+      "u": "https://www.spokesman.com/stories/2026/nov/21/northwest-senators-will-help-decide-who-leads-the-/",
+      "t": "2026-11-21",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "WA gets $177M more in federal rural health money",
+      "s": "Washington's second-year Rural Health Transformation award is $177 million, down from $181 million, and ranks ninth lowest among states. Local officials say it won't make up for expected Medicaid coverage losses of at least 200,000 residents.",
+      "src": "Washington State Standard",
+      "u": "https://washingtonstatestandard.com/2026/11/20/wa-slated-to-get-another-177m-in-rural-health-funding/",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": false
     }
   ],
   "talking": [
     {
-      "h": "Huskies stun Indiana 27-24 in overtime",
-      "s": "Tyler Robles' 46-yard field goal in overtime gave UW (7-4) a home-finale upset of 9-1 Indiana at Husky Stadium. Demond Williams Jr. threw for 227 yards and ran for 88.",
-      "src": "VAVEL USA",
-      "u": "https://vavel.com/en-us/ncaa/college-football/2026/11/21/1280157-indiana-vs-washington-live-score-updates-stream-info-and-results-in-ncaa-college-football.html",
+      "h": "Cougars give up 42 straight points in loss at Texas State",
+      "s": "WSU scored first, then fell 42-14 in San Marcos and dropped to 2-9. Penalties and special-teams mistakes hurt. The Cougs host a 'flex' game next weekend, and the opponent is expected to be named Sunday.",
+      "src": "Spokesman-Review",
+      "u": "https://www.spokesman.com/stories/2026/nov/21/wsu-was-far-too-careless-in-key-areas-to-beat-texa/",
       "t": "2026-11-21",
       "impact": 2,
       "act": false
     },
     {
-      "h": "Forest Service releases 1982 WA Bigfoot hoax files",
-      "s": "Newly released records detail a 1982 probe of supposed Sasquatch tracks in the Mill Creek watershed. A Border Patrol tracker and a Forest Service biologist concluded the prints were likely faked.",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/local/bigfoot-investigation-wa/4302801",
-      "t": "2026-11-20",
-      "impact": 2,
-      "act": false
-    },
-    {
-      "h": "Seattle bar's ladies-night email sparks backlash, threats",
-      "s": "Art Marble 21's owner says he's received death threats and a wave of one-star reviews after a staff email barring men in women's clothing from ladies-night deals spread online. Trans advocates call it discrimination.",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/local/seattle-bar-owner/4302958",
-      "t": "2026-11-20",
+      "h": "Seahawks on bye at 6-4, just outside the playoff field",
+      "s": "Seattle is off this Sunday and sits eighth in the NFC. Next up is a Nov. 29 trip to San Francisco, a rematch of October's 32-29 loss.",
+      "src": "Yahoo Sports",
+      "u": "https://sports.yahoo.com/articles/seahawks-playing-today-nfl-week-110533927.html",
+      "t": "2026-11-22",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Eastbound SR 18 full closure near Issaquah",
-      "s": "All eastbound lanes close 9–11 p.m. between Issaquah-Hobart Road SE and I-90; freight should detour via I-5 and I-405.",
+      "h": "Ferry cancellations and king-tide vehicle limits start today",
+      "s": "From Nov. 22 to 27, at least one evening Port Townsend/Coupeville round trip is canceled each day. Vashon routes have vehicle restrictions through Nov. 29. Over 300,000 riders are expected Nov. 25-29, and westbound sailings are busiest Wed-Thu.",
       "date": "2026-11-22",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/chokepoints/wsdots-sr-18-sunday-evening/4302528"
+      "src": "KOMO",
+      "u": "https://komonews.com/news/local/king-tides-may-affect-washington-state-ferries-thanksgiving-travel-extreme-tidal-conditions-vehicle-restrictions-300k-people-forecast-to-ride-long-waits-busy-travel-times"
     },
     {
-      "h": "Alaska Airlines workers picket at SEA, HQ",
-      "s": "IAM-represented agents and ramp workers hold informational pickets Monday over wages, job security and AI protections; union and airline say no flight disruptions expected.",
-      "date": "2026-11-23",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/local/alaska-airlines-workers/4302856"
+      "h": "King tides plus storms raise coastal flood risk Tue-Thu",
+      "s": "Abnormally high tides peak Tuesday through Thanksgiving, just as wet, windy storms arrive. The outer coast and the Strait of Juan de Fuca face the most flooding and erosion risk. Puget Sound's risk peaks around Thanksgiving and Black Friday.",
+      "date": "2026-11-24",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/king-tides-stormy-conditions-bring-coastal-flood-threat-thanksgiving-week/YLMEVW57D5GI7K6FXKOSEEH77E/"
     },
     {
-      "h": "Ferries brace for 300,000 Thanksgiving riders",
-      "s": "WSF expects long vehicle lines Nov. 25–29; king tides will cancel some Port Townsend/Coupeville sailings and holiday schedules run on Thanksgiving Day.",
+      "h": "Late-week storm could bring the strongest wind and pass snow",
+      "s": "AccuWeather says a storm from late Wednesday into Thanksgiving may bring the period's strongest winds and heaviest rain to the Seattle area. Feet of snow are possible above pass level, with locally damaging gusts near the coast.",
       "date": "2026-11-25",
+      "src": "AccuWeather",
+      "u": "https://www.accuweather.com/en/weather-forecasts/barrage-of-storms-to-continue-hammering-west-coast-through-thanksgiving-week/1962298"
+    },
+    {
+      "h": "Thanksgiving: free express lanes, weekend tolls, chains on passes",
+      "s": "On Thursday, the I-405 and SR 167 express toll lanes are free, and weekend rates apply on SR 520, the SR 99 tunnel and SR 509. Most construction pauses. Chinook and Cayuse passes are closed for the season.",
+      "date": "2026-11-26",
       "src": "WSDOT",
-      "u": "https://wsdot.wa.gov/travel/washington-state-ferries/about-us/weekly-update"
+      "u": "https://wsdot.wa.gov/about/news/2026/pumpkin-pie-and-traffic-delays-dont-mix-plan-ahead-wsdots-thanksgiving-weekend-travel-charts"
     },
     {
       "h": "Huskies close regular season at Oregon",
-      "s": "UW travels to Eugene for its regular-season finale against the rival Ducks the Saturday after Thanksgiving.",
+      "s": "Washington visits Autzen Stadium in Eugene on Saturday, Nov. 28, in the rivalry game. Kickoff time was still to be announced.",
       "date": "2026-11-28",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/news/indiana-vs-uw-huskies"
+      "src": "ESPN",
+      "u": "https://www.espn.com/college-football/game/_/gameId/401858541/washington-oregon"
     }
   ]
 }

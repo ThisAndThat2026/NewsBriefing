@@ -1,58 +1,50 @@
 {
   "stories": [
     {
-      "h": "Israel and US weigh renewed strikes on Iran",
-      "s": "CBS reports Israel and the US are considering a new offensive against Iran soon, citing Iranian missile rebuilding. The IDF is at top defensive readiness; Trump has not decided.",
-      "src": "Ynet News",
-      "u": "https://www.ynetnews.com/article/r18wk6prfe",
-      "t": "2026-11-20",
-      "impact": 4,
-      "act": false
-    },
-    {
-      "h": "Eisenkot vows government vote before December 6 mandate deadline",
-      "s": "Yashar leader Gadi Eisenkot says he'll seek deals with Haredi parties and Likud first, but otherwise bring a minority government, backed externally by Ra'am and the Joint List, to a Knesset vote.",
-      "src": "Jerusalem Post",
-      "u": "https://www.jpost.com/israel-election-2026/article-915594",
-      "t": "2026-11-20",
-      "impact": 4,
-      "act": false
-    },
-    {
-      "h": "Likud's unity terms: Netanyahu sole PM, Otzma included",
-      "s": "Channel 12 reports Likud's ten demands for a unity government include Netanyahu as PM for four years without rotation, Ben Gvir's party in the coalition and backing for another Iran offensive.",
+      "h": "Likud and Yashar open marathon unity talks; Bennett rejects Netanyahu",
+      "s": "Eisenkot's Yashar began extended coalition talks with Likud on Sunday, saying he won't drag them out. Bennett reaffirmed backing an Eisenkot-led unity government and ruled out joining Netanyahu or his bloc.",
       "src": "Times of Israel",
-      "u": "https://www.timesofisrael.com/liveblog_entry/in-exchange-for-unity-govt-likud-demanding-that-netanyahu-be-sole-pm-otzma-yehudit-be-part-of-coalition/",
-      "t": "2026-11-20",
+      "u": "https://www.timesofisrael.com/bennett-backs-unity-government-under-eisenkot-nixes-netanyahu-as-next-pm-rules-out-defection/",
+      "t": "2026-11-21",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Settlers torch homes and cars near Ramallah; Eisenkot cites Jewish terror",
+      "s": "Overnight raids on three villages near Ramallah burned about a dozen vehicles and several homes, with no injuries. Eisenkot blamed Ben Gvir and Smotrich and urged administrative detention; police opened investigations, no arrests reported.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/palestinian-homes-cars-set-ablaze-in-attacks-decried-by-eisenkot-as-jewish-terror/",
+      "t": "2026-11-22",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Gaza strikes kill four; unarmed Palestinian shot near Beit El",
-      "s": "Israeli fire killed at least four Palestinians in Gaza despite the ceasefire, and a Beit El settlement security coordinator shot dead an unarmed West Bank man Friday; the IDF is reviewing.",
+      "h": "Lebanon's Aoun demands Israeli pullout as strikes hit the south",
+      "s": "On the eve of independence day, President Aoun demanded Israel withdraw, halt attacks and free detainees, and told Hezbollah to disarm. Israeli strikes hit Nabatieh, Bint Jbeil and Marjayoun districts the same day.",
       "src": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza",
+      "u": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference",
       "t": "2026-11-21",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Haredi rioters clash with police in Beit Shemesh",
-      "s": "Crowds threw stones and smashed a patrol car after a rumor that a teen's arrest was over draft evasion; police used stun grenades and opened an investigation.",
-      "src": "Israel National News",
-      "u": "https://www.israelnationalnews.com/news/436682",
-      "t": "2026-11-20",
+      "h": "Boy, 13, shot dead outside school in East Jerusalem",
+      "s": "A 13-year-old was shot at close range near a school in Shuafat camp; police suspect a criminal feud, possibly mistaken identity. Hours earlier a woman died in a Tira car bombing; 209 Arab citizens killed this year.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/13-year-old-shot-dead-at-close-range-on-his-way-to-school-in-east-jerusalems-shuafat/",
+      "t": "2026-11-21",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Haredi protesters block Jerusalem light rail",
+      "s": "Ultra-Orthodox demonstrators blocked the Jerusalem light rail on Sunday afternoon, and police said officers were preparing to disperse them. The story was still developing.",
+      "src": "Jerusalem Post",
+      "u": "https://www.jpost.com/israel-news/article-915697",
+      "t": "2026-11-22",
       "impact": 2,
       "act": false
     }
   ],
-  "coming": [
-    {
-      "h": "Attorney general due before Netanyahu trial judges",
-      "s": "AG Gali Baharav-Miara is scheduled to appear before the Jerusalem District Court panel in Netanyahu's corruption trial after a one-week postponement.",
-      "date": "2026-11-25",
-      "src": "Jerusalem Post",
-      "u": "https://www.jpost.com/israel-news/crime-in-israel/article-915344"
-    }
-  ]
+  "coming": []
 }

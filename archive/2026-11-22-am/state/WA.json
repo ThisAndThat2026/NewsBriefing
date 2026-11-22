@@ -1,0 +1,99 @@
+{
+  "stories": [
+    {
+      "h": "Longview mill owner hit with record $10M state penalties",
+      "s": "State regulators fined Nippon Dynawave over $10.1 million, including L&I's largest-ever safety fine, saying it kept a thinning tank in service before the May implosion that killed 11. L&I will seek a criminal referral; the company plans to appeal.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/nippon-dynawave-packaging-safety-fine",
+      "t": "2026-11-20",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Girls' winter athletes must prove biological sex by Dec. 3",
+      "s": "Under voter-approved I-638, WIAA requires grade 7–12 girls winter athletes to file a medically signed sex attestation by Dec. 3 to compete. A lawsuit seeks to block the law; a hearing is set for the same day.",
+      "src": "OPB (KUOW)",
+      "u": "https://www.opb.org/article/2026/11/19/washington-students-girls-sports-10-days-prove-biological-sex/",
+      "t": "2026-11-19",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Strong El Niño points to mild winter, thin snowpack",
+      "s": "Forecasters say a strengthening El Niño, possibly among the strongest since 1950, favors a warmer Western Washington winter. That could mean a fourth straight below-normal snowpack and strain on summer water supplies.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/pacific-northwest-weather/el-nino-winter-2/4302947",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Weekend WSDOT closures hit I-90, I-5, SR 527, SR 18",
+      "s": "Overnight lane closures are set on I-90 in Bellevue, I-5 near the Nisqually River Bridge, and SR 527 near I-405. Eastbound SR 18 between Issaquah-Hobart Road and I-90 fully closes Sunday 9–11 p.m.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/chokepoints/wsdots-sr-18-sunday-evening/4302528",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": true
+    }
+  ],
+  "talking": [
+    {
+      "h": "Huskies stun Indiana 27-24 in overtime",
+      "s": "Tyler Robles' 46-yard field goal in overtime gave UW (7-4) a home-finale upset of 9-1 Indiana at Husky Stadium. Demond Williams Jr. threw for 227 yards and ran for 88.",
+      "src": "VAVEL USA",
+      "u": "https://vavel.com/en-us/ncaa/college-football/2026/11/21/1280157-indiana-vs-washington-live-score-updates-stream-info-and-results-in-ncaa-college-football.html",
+      "t": "2026-11-21",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Forest Service releases 1982 WA Bigfoot hoax files",
+      "s": "Newly released records detail a 1982 probe of supposed Sasquatch tracks in the Mill Creek watershed. A Border Patrol tracker and a Forest Service biologist concluded the prints were likely faked.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/local/bigfoot-investigation-wa/4302801",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Seattle bar's ladies-night email sparks backlash, threats",
+      "s": "Art Marble 21's owner says he's received death threats and a wave of one-star reviews after a staff email barring men in women's clothing from ladies-night deals spread online. Trans advocates call it discrimination.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/local/seattle-bar-owner/4302958",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Eastbound SR 18 full closure near Issaquah",
+      "s": "All eastbound lanes close 9–11 p.m. between Issaquah-Hobart Road SE and I-90; freight should detour via I-5 and I-405.",
+      "date": "2026-11-22",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/chokepoints/wsdots-sr-18-sunday-evening/4302528"
+    },
+    {
+      "h": "Alaska Airlines workers picket at SEA, HQ",
+      "s": "IAM-represented agents and ramp workers hold informational pickets Monday over wages, job security and AI protections; union and airline say no flight disruptions expected.",
+      "date": "2026-11-23",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/local/alaska-airlines-workers/4302856"
+    },
+    {
+      "h": "Ferries brace for 300,000 Thanksgiving riders",
+      "s": "WSF expects long vehicle lines Nov. 25–29; king tides will cancel some Port Townsend/Coupeville sailings and holiday schedules run on Thanksgiving Day.",
+      "date": "2026-11-25",
+      "src": "WSDOT",
+      "u": "https://wsdot.wa.gov/travel/washington-state-ferries/about-us/weekly-update"
+    },
+    {
+      "h": "Huskies close regular season at Oregon",
+      "s": "UW travels to Eugene for its regular-season finale against the rival Ducks the Saturday after Thanksgiving.",
+      "date": "2026-11-28",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/indiana-vs-uw-huskies"
+    }
+  ]
+}

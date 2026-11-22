@@ -1,36 +1,36 @@
 {
   "stories": [
     {
-      "h": "Man freed hours earlier charged in deadly Everett shooting",
-      "s": "A 40-year-old Lynnwood man faces first-degree murder and other charges in an Oct. 26 south Everett robbery-shooting that killed one brother and wounded another, less than 12 hours after his release from state custody.",
-      "src": "The Everett Herald",
+      "h": "Man freed from prison hours earlier charged in Everett killing",
+      "s": "A 40-year-old Lynnwood man faces first-degree murder and other charges in an Oct. 26 south Everett shooting that killed one brother and wounded another, less than 12 hours after his release from state custody.",
+      "src": "The Herald (Everett)",
       "u": "https://www.heraldnet.com/2026/11/20/man-just-released-from-custody-accused-in-deadly-everett-shooting/",
       "t": "2026-11-20",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Everett proposes $7M fund to curb south Everett displacement",
-      "s": "The city and partners plan a fund to protect renters and small businesses ahead of light rail, with $5M from the city and $2M to be raised by LISC Puget Sound.",
-      "src": "KOMO News",
-      "u": "https://komonews.com/news/local/city-of-everett-mayor-cassie-franklin-community-partners-7-million-transit-community-affordable-housing-funds-local-businesses-philanthropic-groups-rising-costs",
-      "t": "2026-11-18",
+      "h": "Arrest made in Marysville yard-waste-bin body case",
+      "s": "Police arrested a 49-year-old Marysville neighbor on misdemeanor charges of concealing a body after Sarah Arneklev was found in a yard waste bin in April. Her cause of death remains pending.",
+      "src": "The Herald (Everett)",
+      "u": "https://www.heraldnet.com/2026/11/20/marysville-man-arrested-months-after-body-found-in-yard-waste-bin/",
+      "t": "2026-11-20",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Arrest in Marysville yard-waste-bin body case",
-      "s": "A 49-year-old Marysville man faces misdemeanor charges of concealing a body and unlawfully disposing of remains in the April death of Sarah Arneklev; police say he told them she collapsed after using fentanyl.",
-      "src": "The Everett Herald",
-      "u": "https://heraldnet.com/2026/11/20/marysville-man-arrested-months-after-body-found-in-yard-waste-bin",
+      "h": "Everett launches $7M fund to curb south Everett displacement",
+      "s": "The South Everett Futures Fund aims to protect 1,000 homes, add 1,250 affordable units and support 100 businesses near future light rail stations over ten years, with city, county and philanthropic money.",
+      "src": "The Herald (Everett)",
+      "u": "https://www.heraldnet.com/2026/11/20/city-launches-7m-fund-to-prevent-displacement-in-south-everett/",
       "t": "2026-11-20",
-      "impact": 2,
+      "impact": 3,
       "act": false
     },
     {
-      "h": "Snohomish PUD launches Peak Assist bill-credit program",
-      "s": "Residential customers can enroll via MySnoPUD to cut use during short high-demand events starting Jan. 1, earning a $25 credit after the first survey plus prize drawings.",
-      "src": "The Everett Herald",
+      "h": "Snohomish PUD offers bill credits to cut peak power use",
+      "s": "The PUD's voluntary Peak Assist program, starting Jan. 1, asks residential customers to reduce use during up to two short peak events a month, with a $25 credit for enrolling and participating.",
+      "src": "The Herald (Everett)",
       "u": "https://www.heraldnet.com/2026/11/20/snohomish-pud-launches-program-to-reduce-peak-power-use/",
       "t": "2026-11-20",
       "impact": 2,
@@ -39,11 +39,18 @@
   ],
   "coming": [
     {
-      "h": "Everett Wintertide tree lighting downtown",
-      "s": "Holiday kickoff runs 2-8 p.m. at Colby and Hewitt avenues, with Santa lighting the tree just after 5 p.m.",
-      "date": "2026-11-27",
-      "src": "Visit Everett",
-      "u": "https://www.visiteverett.com/1452/Wintertide-Kickoff-Celebration"
+      "h": "Lynnwood council expected to vote on 24/7 speed cameras",
+      "s": "Lynnwood may run two school-zone cameras around the clock and add two on 44th Ave W to help close a roughly $1M budget gap; changes could start by February.",
+      "date": "2026-11-23",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/local/lynnwood-speed-cameras-school/4302321"
+    },
+    {
+      "h": "Nightly SR 527 lane closures at Canyon Park",
+      "s": "Up to two northbound SR 527 lanes near I-405 close 9 p.m.-4 a.m. Monday through Wednesday nights, along with the northbound SR 527 on-ramp to northbound I-405.",
+      "date": "2026-11-23",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/chokepoints/wsdots-sr-18-sunday-evening/4302528"
     }
   ]
 }

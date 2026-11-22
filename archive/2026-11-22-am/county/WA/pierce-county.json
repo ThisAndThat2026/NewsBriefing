@@ -1,0 +1,47 @@
+{
+  "stories": [
+    {
+      "h": "Feds buy Tacoma ICE detention center for $453 million",
+      "s": "DHS bought the 1,635-bed Northwest ICE Processing Center from GEO Group, which keeps running services under a 10-year contract. Reps. Randall and Jayapal question the price against a $72.6M assessment.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/department-homeland-security-buys-tacoma-ice-detention-center/VFFRBRHSRNDHFMWPNOJGUBJ65U/",
+      "t": "2026-11-19",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Tacoma swap meet manager charged in stolen-goods ring",
+      "s": "Pierce County prosecutors charged a 58-year-old manager with leading organized crime, alleging she directed others to buy and resell stolen tools, sneakers, e-bikes and more from July to November.",
+      "src": "Yahoo News",
+      "u": "https://www.yahoo.com/news/us/articles/tacoma-swap-meet-manager-charged-175346729.html",
+      "t": "2026-11-19",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Five-year sentence in Puyallup WinCo stabbing, U-Haul chase",
+      "s": "Joshua Mineer, 41, was sentenced after pleading guilty to attempted assault, theft and eluding in a 2025 incident that included a box-cutter attack and a head-on crash.",
+      "src": "KOMO News",
+      "u": "https://komonews.com/news/local/pierce-county-man-becomes-unruly-in-court-receives-5-year-sentence-for-2025-assault-theft-chase",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Norpoint Classic Thanksgiving fun run",
+      "s": "Tacoma's original Thanksgiving morning fun run starts at 9 a.m. at the Center at Norpoint in Northeast Tacoma.",
+      "date": "2026-11-26",
+      "src": "Metro Parks Tacoma",
+      "u": "https://www.parkstacoma.gov/activities-and-sports/category/holiday/"
+    },
+    {
+      "h": "Zoolights opens at Point Defiance Zoo",
+      "s": "The holiday light show opens 4:30-10 p.m. and runs through Jan. 3; timed online tickets are required.",
+      "date": "2026-11-27",
+      "src": "Point Defiance Zoo & Aquarium",
+      "u": "https://www.pdza.org/event/zoolights/"
+    }
+  ]
+}

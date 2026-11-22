@@ -1,0 +1,58 @@
+{
+  "stories": [
+    {
+      "h": "Israel and US weigh renewed strikes on Iran",
+      "s": "CBS reports Israel and the US are considering a new offensive against Iran soon, citing Iranian missile rebuilding. The IDF is at top defensive readiness; Trump has not decided.",
+      "src": "Ynet News",
+      "u": "https://www.ynetnews.com/article/r18wk6prfe",
+      "t": "2026-11-20",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Eisenkot vows government vote before December 6 mandate deadline",
+      "s": "Yashar leader Gadi Eisenkot says he'll seek deals with Haredi parties and Likud first, but otherwise bring a minority government, backed externally by Ra'am and the Joint List, to a Knesset vote.",
+      "src": "Jerusalem Post",
+      "u": "https://www.jpost.com/israel-election-2026/article-915594",
+      "t": "2026-11-20",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Likud's unity terms: Netanyahu sole PM, Otzma included",
+      "s": "Channel 12 reports Likud's ten demands for a unity government include Netanyahu as PM for four years without rotation, Ben Gvir's party in the coalition and backing for another Iran offensive.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/liveblog_entry/in-exchange-for-unity-govt-likud-demanding-that-netanyahu-be-sole-pm-otzma-yehudit-be-part-of-coalition/",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Gaza strikes kill four; unarmed Palestinian shot near Beit El",
+      "s": "Israeli fire killed at least four Palestinians in Gaza despite the ceasefire, and a Beit El settlement security coordinator shot dead an unarmed West Bank man Friday; the IDF is reviewing.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza",
+      "t": "2026-11-21",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Haredi rioters clash with police in Beit Shemesh",
+      "s": "Crowds threw stones and smashed a patrol car after a rumor that a teen's arrest was over draft evasion; police used stun grenades and opened an investigation.",
+      "src": "Israel National News",
+      "u": "https://www.israelnationalnews.com/news/436682",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Attorney general due before Netanyahu trial judges",
+      "s": "AG Gali Baharav-Miara is scheduled to appear before the Jerusalem District Court panel in Netanyahu's corruption trial after a one-week postponement.",
+      "date": "2026-11-25",
+      "src": "Jerusalem Post",
+      "u": "https://www.jpost.com/israel-news/crime-in-israel/article-915344"
+    }
+  ]
+}
