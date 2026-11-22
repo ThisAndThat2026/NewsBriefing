@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "h": "ICE detains two passengers on Sea-Tac jet bridge",
+      "s": "Immigration agents detained two people boarding an Alaska Airlines flight to Los Angeles Saturday morning. The Port of Seattle says it is outraged and is reviewing whether protocols were broken; Gov. Ferguson called ICE out of control.",
+      "src": "KOMO News",
+      "u": "https://komonews.com/news/local/port-of-seattle-seatac-airport-ice-alaska-airlines-reviewing-ice-incident-during-boarding-passengers-trauamatized-plane-boaridng-incident-dhs-homeland-security",
+      "t": "2026-11-21",
+      "impact": 4,
+      "act": false
+    },
+    {
       "h": "Seattle council gives final 7-2 approval to $9.1B budget",
       "s": "The council passed its amended two-year budget Friday, closing a $175M gap and keeping $352.7M for housing; Rinck and Rivera objected to one-time money for ongoing costs. Mayor Wilson has 10 days to sign or veto.",
       "src": "KNKX",
