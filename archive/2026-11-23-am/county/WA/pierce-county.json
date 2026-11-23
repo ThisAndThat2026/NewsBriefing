@@ -1,0 +1,40 @@
+{
+  "stories": [
+    {
+      "h": "Five years for Puyallup WinCo stabbing and U-Haul chase",
+      "s": "A Level 3 sex offender was sentenced Friday to five years after slashing a WinCo loss-prevention worker with a box cutter and leading deputies on a chase in a commandeered U-Haul that ended in a crash.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/man-sentenced-puyallup-winco-stabbing",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Kent man gets two years for Lakewood barista kidnap attempt",
+      "s": "A Kent man was sentenced to two years for trying to pull a bikini barista through a Lakewood drive-thru window in August 2025. He must register as a sex offender and stay away from drive-thru coffee stands.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/man-sentenced-two-years-attempted-kidnapping-lakewood-bikini-barista/4YJTWL7T6RBXZBR7R7QYYSEIMA/",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Puyallup man sentenced for 50,000 carfentanil pills",
+      "s": "A 37-year-old Puyallup man received five years in federal prison after a 2025 traffic stop near Centralia turned up over 50,000 pills containing carfentanil; investigators called him a supplier for a local ring.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/crime-blotter/puyallup-carfentanil-drug/4302492",
+      "t": "2026-11-19",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "King tides peak on Puget Sound around Thanksgiving",
+      "s": "Supermoon-boosted king tides are expected to peak in Puget Sound around Thanksgiving and Black Friday; extreme flooding isn't expected but low-lying shorelines could see water.",
+      "date": "2026-11-26",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/king-tides-stormy-conditions-bring-coastal-flood-threat-thanksgiving-week/YLMEVW57D5GI7K6FXKOSEEH77E/"
+    }
+  ]
+}

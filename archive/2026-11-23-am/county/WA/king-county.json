@@ -1,0 +1,40 @@
+{
+  "stories": [
+    {
+      "h": "Magnitude 3.4 earthquake near Auburn felt across Puget Sound",
+      "s": "A M3.4 quake centered near Lea Hill, northeast of Auburn, struck just after 11 p.m. Friday. USGS logged nearly 1,700 felt reports; no damage was reported.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/magnitude-34-earthquake-shook-king-county-late-friday-night/TQTW45UTRJBDPNHEVVHC4HTZAU/",
+      "t": "2026-11-21",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Eastbound SR 18 closes tonight; I-90 Bellevue lanes close next",
+      "s": "All eastbound SR 18 lanes close 9-11 p.m. Sunday between Issaquah-Hobart Road and I-90. Up to three I-90 lanes each way close overnight Mon-Tue in Bellevue, with several ramps shut.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/chokepoints/wsdots-sr-18-sunday-evening/4302528",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": true
+    },
+    {
+      "h": "SeaTac man accused of contacting 911 about 1,400 times",
+      "s": "SeaTac police arrested a 35-year-old man accused of calling and texting 911 roughly 1,400 times over three days over a protective-order dispute, tying up King County dispatchers. He faces misdemeanor charges.",
+      "src": "KOMO News",
+      "u": "https://komonews.com/news/local/police-man-upset-over-court-order-called-and-texted-911-more-than-1400-times/investigators-subhan-mohammadi-king-county-emergency-response-misdemeanor-dispatchers",
+      "t": "2026-11-19",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "King tides peak on Puget Sound around Thanksgiving",
+      "s": "Supermoon-boosted king tides are expected to peak in Puget Sound around Thanksgiving and Black Friday; forecasters don't expect extreme flooding but low-lying shorelines could see water.",
+      "date": "2026-11-26",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/king-tides-stormy-conditions-bring-coastal-flood-threat-thanksgiving-week/YLMEVW57D5GI7K6FXKOSEEH77E/"
+    }
+  ]
+}

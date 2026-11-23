@@ -1,0 +1,202 @@
+{
+  "us": [
+    {
+      "h": "Storms on both coasts threaten Thanksgiving week travel",
+      "s": "A coastal storm brings rain and wind to the Northeast Sunday, with Boston hardest hit, and another potentially major storm could reach the Northeast on Thanksgiving. Back-to-back Pacific storms will soak the West Coast midweek.",
+      "src": "The Weather Channel",
+      "u": "https://weather.com/2026/11/21/holiday/thanksgiving/thanksgiving-travel-weather-forecast-us-storms",
+      "t": "2026-11-21",
+      "impact": 5,
+      "act": true
+    },
+    {
+      "h": "FBI probes apparent breach of national crime database",
+      "s": "The FBI is investigating an apparent intrusion into NCIC, the records system police nationwide use for warrants, fugitives and missing persons. The scope is unclear; Trump called it bad news. It is the bureau's latest hacking incident this year.",
+      "src": "PBS NewsHour (AP)",
+      "u": "https://www.pbs.org/newshour/politics/ap-source-fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database",
+      "t": "2026-11-21",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Army says it will detonate Iowa explosives despite court pause",
+      "s": "In a late-Saturday filing, the Army said it plans to blow up deteriorating lead azide at the Middletown, Iowa, munitions plant by Tuesday, citing an emergency exception and cold weather. Environmental groups are pressing the court to keep the halt.",
+      "src": "CBS News",
+      "u": "https://cbsnews.com/news/us-army-iowa-plant-detonation-court-records",
+      "t": "2026-11-22",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Trump says he'd work with Democrats on 10% card-rate cap",
+      "s": "Trump said Saturday he would partner with the incoming Democratic-controlled Congress to limit credit card interest to 10%, versus a median near 22%. Banks oppose the idea; researchers estimate it could save consumers about $100 billion a year.",
+      "src": "PBS NewsHour (AP)",
+      "u": "https://www.pbs.org/newshour/politics/trump-vows-to-work-with-democrats-to-cap-credit-card-interest-rates-at-10",
+      "t": "2026-11-21",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Democrats split on risking shutdown over Iran war money",
+      "s": "With federal funding expiring Dec. 11, progressive House Democrats want Iran war money stripped from the stopgap bill, while appropriations leaders say a shutdown wouldn't end the fighting. The parties also disagree on how long the extension should last.",
+      "src": "The Hill",
+      "u": "https://thehill.com/homenews/house/6234623-house-lame-duck-shutdown-risk/amp/",
+      "t": "2026-11-22",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "San Francisco mayor urges caution as king tides bring flooding",
+      "s": "The year's highest tides could put up to 2 feet of water in low-lying Bay Area shoreline areas through Monday morning. Mayor Daniel Lurie asked residents to reconsider holiday travel and stock up on supplies this weekend.",
+      "src": "ABC News (AP)",
+      "u": "https://abcnews.com/US/wireStory/san-francisco-braces-massive-tides-mayor-urges-residents-138349973",
+      "t": "2026-11-21",
+      "impact": 3,
+      "act": true
+    }
+  ],
+  "world": [
+    {
+      "h": "COP31 collapses without a deal after EU rejects text",
+      "s": "The Antalya climate summit ran two days past its deadline and closed with no adopted decision after the EU and others objected to a final draft that dropped fossil-fuel phase-out language. It is the first such breakdown since Copenhagen in 2009.",
+      "src": "Al-Monitor",
+      "u": "https://www.al-monitor.com/originals/2026/11/cop31-climate-talks-break-down-eu-others-reject-deal",
+      "t": "2026-11-22",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Iran strikes Bahrain, claims more US drones downed near Hormuz",
+      "s": "Bahrain says an Iranian strike set fire to an industrial site in Sitra; the IRGC claims it hit US bases there. Iran says it downed a fourth US drone in a day, and two more tankers were struck off Oman.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf",
+      "t": "2026-11-22",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Drone-hit Russian military cargo ship burns off Finland",
+      "s": "The sanctioned Sparta II, run by a Russian defence logistics firm, was struck in the Gulf of Finland en route to Kaliningrad and drifted into Finnish waters still burning. Finland's military says Ukraine likely carried out the attack; 16 crew were evacuated.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/22/russian-cargo-ship-still-on-fire-off-finland-after-drone-attack",
+      "t": "2026-11-22",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Russian drone strike hits apartment block near Kyiv",
+      "s": "An overnight attack on a village outside Ukraine's capital killed at least two people and wounded four, with close to a dozen feared trapped under rubble, two days after a large barrage damaged Kyiv bridges.",
+      "src": "WPLG Local 10",
+      "u": "https://www.local10.com/business/2026/11/22/russian-attack-near-ukraines-capital-strikes-apartment-building-killing-2-and-wounding-8/",
+      "t": "2026-11-22",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Lebanon's president demands Israeli pullout, Hezbollah disarmament",
+      "s": "On the eve of independence day, Joseph Aoun called for Israel to leave all Lebanese territory and told Hezbollah to give up its weapons, as Israeli strikes hit three southern districts and a June US-brokered framework stalls.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference",
+      "t": "2026-11-21",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Saudis intercept Houthi drone; strike reported on Sanaa fuel station",
+      "s": "Coalition air defences downed a drone aimed at Riyadh and a missile toward the Red Sea coast, while Houthi media said an air raid on a state fuel station in Sanaa wounded at least six.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone",
+      "t": "2026-11-22",
+      "impact": 3,
+      "act": false
+    }
+  ],
+  "tech": [
+    {
+      "h": "OpenRouter drops three AI hosts after prompt-theft research",
+      "s": "Dragos seeded about two million tracked prompts and found three inference providers compromised, with some no-retention requests copied. OpenRouter pulled zero-retention status from 125 endpoints; users who sent secrets should rotate them.",
+      "src": "Cyber Security News",
+      "u": "https://cybersecuritynews.com/openrouter-ai-chat-leaks/",
+      "t": "2026-11-22",
+      "impact": 3,
+      "act": true
+    },
+    {
+      "h": "China's spy agency ran covert push for banned AI chips",
+      "s": "Citing a New York Times report, the Ministry of State Security has for at least two years run a team under its minister to help Chinese firms obtain export-controlled AI chips and map the chip supply chain.",
+      "src": "Seoul Economic Daily",
+      "u": "https://en.sedaily.com/world/2026/11/22/chinas-spy-agency-runs-secret-push-to-obtain-ai-chips",
+      "t": "2026-11-22",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Tesla begins rolling out FSD v15",
+      "s": "Tesla claims a 25-fold improvement in handling safety-critical situations, plus better sign, pothole and school-zone handling and a new live planning display, but has not released data to back the figure.",
+      "src": "Electrek",
+      "u": "https://electrek.co/2026/11/21/tesla-fsd-v15-rollout-25x-safety-reality-view/",
+      "t": "2026-11-21",
+      "impact": 3,
+      "act": false
+    }
+  ],
+  "talking": [
+    {
+      "h": "Upset Saturday topples UCLA, Indiana and Ohio State",
+      "s": "No. 4 UCLA fell to Michigan in triple overtime, No. 6 Indiana lost in overtime at Washington, and No. 16 Ohio State's loss at Nebraska, its fourth, likely ends its playoff hopes. Boise State and Kentucky also lost.",
+      "src": "WKMG ClickOrlando (AP)",
+      "u": "https://www.clickorlando.com/news/2026/11/22/stumbles-by-big-tens-ucla-indiana-set-up-shuffle-in-ap-top-25-as-postseason-draws-near/",
+      "t": "2026-11-22",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Why people suspect the recent wave of outages is linked",
+      "s": "A PolitiFact analysis examines online theories tying together recent disruptions at banks, airlines, Microsoft and the FAA. Officials have blamed upgrades and fixes rather than a coordinated cyberattack.",
+      "src": "PBS NewsHour",
+      "u": "https://www.pbs.org/newshour/nation/why-do-people-believe-recent-tech-failures-must-be-connected",
+      "t": "2026-11-21",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "'GTA VI' claims record $3.79 billion launch day",
+      "s": "Rockstar says Grand Theft Auto VI took in an estimated $3.79 billion in retail sales on its first day, with 32.5 million copies sold before release. Both figures are records for the series.",
+      "src": "ABC News (AP)",
+      "u": "https://abcnews.com/US/wireStory/grand-theft-auto-vi-sets-record-379b-day-138335808",
+      "t": "2026-11-20",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Iowa munitions detonation deadline",
+      "s": "The Army says it will carry out the controlled blast on or before Tuesday, setting up a clash with the court-ordered pause.",
+      "date": "2026-11-24",
+      "src": "CBS News",
+      "u": "https://cbsnews.com/news/us-army-iowa-plant-detonation-court-records"
+    },
+    {
+      "h": "GDP revision and October PCE inflation data",
+      "s": "The second estimate of third-quarter GDP and the Fed's preferred inflation gauge are both due Wednesday morning, the day before the holiday.",
+      "date": "2026-11-25",
+      "src": "TradingKey",
+      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316778-week-ahead-us-gdp-pce-dell-hpe-report-anthropic-tradingkey"
+    },
+    {
+      "h": "Thanksgiving Day; Northeast storm possible",
+      "s": "Forecasters see a potentially major rain-and-wind storm in the Northeast and heavy West Coast rain on the holiday. Stock markets are closed.",
+      "date": "2026-11-26",
+      "src": "The Weather Channel",
+      "u": "https://weather.com/2026/11/21/holiday/thanksgiving/thanksgiving-travel-weather-forecast-us-storms"
+    },
+    {
+      "h": "Black Friday; markets close early",
+      "s": "U.S. stock markets reopen after Thanksgiving but close at 1 p.m. ET.",
+      "date": "2026-11-27",
+      "src": "TradingKey",
+      "u": "https://www.tradingkey.com/analysis/stocks/us-stocks/262316778-week-ahead-us-gdp-pce-dell-hpe-report-anthropic-tradingkey"
+    }
+  ]
+}

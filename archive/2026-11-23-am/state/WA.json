@@ -1,0 +1,106 @@
+{
+  "stories": [
+    {
+      "h": "Back-to-back Pacific storms to soak Washington through Thanksgiving",
+      "s": "Forecasters expect a stronger front Monday into Tuesday, with Tuesday the worst day for southeast winds and heavy rain. Snow levels rise above 3,000 feet midweek, while the Cascades keep piling up snow.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/winter-weather-passes-cold-rain-saturday-night-expect-chilly-rainy-sunday/RI4PZZYRTBABJGDZJYPK2T3HPM/",
+      "t": "2026-11-21",
+      "impact": 4,
+      "act": true
+    },
+    {
+      "h": "ICE arrests on Sea-Tac jet bridge draw statewide condemnation",
+      "s": "Masked ICE agents arrested two passengers Saturday as they boarded Alaska Airlines Flight 1306 to Los Angeles. Gov. Ferguson called ICE out of control. The Port of Seattle and Alaska Airlines say no one told them in advance.",
+      "src": "KOMO",
+      "u": "https://komonews.com/news/local/port-of-seattle-seatac-airport-ice-alaska-airlines-reviewing-ice-incident-during-boarding-passengers-trauamatized-plane-boaridng-incident-dhs-homeland-security",
+      "t": "2026-11-21",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "First snow of the season hits Spokane area",
+      "s": "The NWS forecast up to an inch in Spokane and up to 2 inches in spots like Republic from late Saturday into Sunday, with more in the mountains. Snow levels were expected to drop to about 1,500 feet.",
+      "src": "Spokesman-Review",
+      "u": "https://www.spokesman.com/stories/2026/nov/20/spokane-county-plow-crews-ready-for-regions-first-/",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": true
+    },
+    {
+      "h": "Murray, Cantwell undecided as Democrats pick Senate majority leader",
+      "s": "Democrats take the Senate majority in January and will choose between Chuck Schumer and Chris Van Hollen in a secret ballot Dec. 1. Washington's senators haven't endorsed either one. Murray is set to return as president pro tempore.",
+      "src": "Spokesman-Review",
+      "u": "https://www.spokesman.com/stories/2026/nov/21/northwest-senators-will-help-decide-who-leads-the-/",
+      "t": "2026-11-21",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "WA gets $177M more in federal rural health money",
+      "s": "Washington's second-year Rural Health Transformation award is $177 million, down from $181 million, and ranks ninth lowest among states. Local officials say it won't make up for expected Medicaid coverage losses of at least 200,000 residents.",
+      "src": "Washington State Standard",
+      "u": "https://washingtonstatestandard.com/2026/11/20/wa-slated-to-get-another-177m-in-rural-health-funding/",
+      "t": "2026-11-20",
+      "impact": 3,
+      "act": false
+    }
+  ],
+  "talking": [
+    {
+      "h": "Cougars give up 42 straight points in loss at Texas State",
+      "s": "WSU scored first, then fell 42-14 in San Marcos and dropped to 2-9. Penalties and special-teams mistakes hurt. The Cougs host a 'flex' game next weekend, and the opponent is expected to be named Sunday.",
+      "src": "Spokesman-Review",
+      "u": "https://www.spokesman.com/stories/2026/nov/21/wsu-was-far-too-careless-in-key-areas-to-beat-texa/",
+      "t": "2026-11-21",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Seahawks on bye at 6-4, just outside the playoff field",
+      "s": "Seattle is off this Sunday and sits eighth in the NFC. Next up is a Nov. 29 trip to San Francisco, a rematch of October's 32-29 loss.",
+      "src": "Yahoo Sports",
+      "u": "https://sports.yahoo.com/articles/seahawks-playing-today-nfl-week-110533927.html",
+      "t": "2026-11-22",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Ferry cancellations and king-tide vehicle limits start today",
+      "s": "From Nov. 22 to 27, at least one evening Port Townsend/Coupeville round trip is canceled each day. Vashon routes have vehicle restrictions through Nov. 29. Over 300,000 riders are expected Nov. 25-29, and westbound sailings are busiest Wed-Thu.",
+      "date": "2026-11-22",
+      "src": "KOMO",
+      "u": "https://komonews.com/news/local/king-tides-may-affect-washington-state-ferries-thanksgiving-travel-extreme-tidal-conditions-vehicle-restrictions-300k-people-forecast-to-ride-long-waits-busy-travel-times"
+    },
+    {
+      "h": "King tides plus storms raise coastal flood risk Tue-Thu",
+      "s": "Abnormally high tides peak Tuesday through Thanksgiving, just as wet, windy storms arrive. The outer coast and the Strait of Juan de Fuca face the most flooding and erosion risk. Puget Sound's risk peaks around Thanksgiving and Black Friday.",
+      "date": "2026-11-24",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/king-tides-stormy-conditions-bring-coastal-flood-threat-thanksgiving-week/YLMEVW57D5GI7K6FXKOSEEH77E/"
+    },
+    {
+      "h": "Late-week storm could bring the strongest wind and pass snow",
+      "s": "AccuWeather says a storm from late Wednesday into Thanksgiving may bring the period's strongest winds and heaviest rain to the Seattle area. Feet of snow are possible above pass level, with locally damaging gusts near the coast.",
+      "date": "2026-11-25",
+      "src": "AccuWeather",
+      "u": "https://www.accuweather.com/en/weather-forecasts/barrage-of-storms-to-continue-hammering-west-coast-through-thanksgiving-week/1962298"
+    },
+    {
+      "h": "Thanksgiving: free express lanes, weekend tolls, chains on passes",
+      "s": "On Thursday, the I-405 and SR 167 express toll lanes are free, and weekend rates apply on SR 520, the SR 99 tunnel and SR 509. Most construction pauses. Chinook and Cayuse passes are closed for the season.",
+      "date": "2026-11-26",
+      "src": "WSDOT",
+      "u": "https://wsdot.wa.gov/about/news/2026/pumpkin-pie-and-traffic-delays-dont-mix-plan-ahead-wsdots-thanksgiving-weekend-travel-charts"
+    },
+    {
+      "h": "Huskies close regular season at Oregon",
+      "s": "Washington visits Autzen Stadium in Eugene on Saturday, Nov. 28, in the rivalry game. Kickoff time was still to be announced.",
+      "date": "2026-11-28",
+      "src": "ESPN",
+      "u": "https://www.espn.com/college-football/game/_/gameId/401858541/washington-oregon"
+    }
+  ]
+}

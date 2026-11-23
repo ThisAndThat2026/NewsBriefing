@@ -1,47 +1,38 @@
 {
   "stories": [
     {
-      "h": "Likud and Yashar open marathon unity talks; Bennett rejects Netanyahu",
-      "s": "Eisenkot's Yashar began extended coalition talks with Likud on Sunday, saying he won't drag them out. Bennett reaffirmed backing an Eisenkot-led unity government and ruled out joining Netanyahu or his bloc.",
-      "src": "Times of Israel",
-      "u": "https://www.timesofisrael.com/bennett-backs-unity-government-under-eisenkot-nixes-netanyahu-as-next-pm-rules-out-defection/",
-      "t": "2026-11-21",
+      "h": "Likud–Yashar unity talks stall over Ben-Gvir, premiership",
+      "s": "After four-plus hours in Herzliya, Likud rejected Eisenkot's demand to exclude Ben-Gvir; the sides agreed only on opposing a Palestinian state. Another round is set for Monday evening at the Knesset, as Likud accuses Yashar of staging talks.",
+      "src": "Jerusalem Post",
+      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915806",
+      "t": "2026-11-23",
       "impact": 4,
       "act": false
     },
     {
-      "h": "Settlers torch homes and cars near Ramallah; Eisenkot cites Jewish terror",
-      "s": "Overnight raids on three villages near Ramallah burned about a dozen vehicles and several homes, with no injuries. Eisenkot blamed Ben Gvir and Smotrich and urged administrative detention; police opened investigations, no arrests reported.",
-      "src": "Times of Israel",
-      "u": "https://www.timesofisrael.com/palestinian-homes-cars-set-ablaze-in-attacks-decried-by-eisenkot-as-jewish-terror/",
-      "t": "2026-11-22",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Lebanon's Aoun demands Israeli pullout as strikes hit the south",
-      "s": "On the eve of independence day, President Aoun demanded Israel withdraw, halt attacks and free detainees, and told Hezbollah to disarm. Israeli strikes hit Nabatieh, Bint Jbeil and Marjayoun districts the same day.",
-      "src": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference",
-      "t": "2026-11-21",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Boy, 13, shot dead outside school in East Jerusalem",
-      "s": "A 13-year-old was shot at close range near a school in Shuafat camp; police suspect a criminal feud, possibly mistaken identity. Hours earlier a woman died in a Tira car bombing; 209 Arab citizens killed this year.",
-      "src": "Times of Israel",
-      "u": "https://www.timesofisrael.com/13-year-old-shot-dead-at-close-range-on-his-way-to-school-in-east-jerusalems-shuafat/",
-      "t": "2026-11-21",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Haredi protesters block Jerusalem light rail",
-      "s": "Ultra-Orthodox demonstrators blocked the Jerusalem light rail on Sunday afternoon, and police said officers were preparing to disperse them. The story was still developing.",
+      "h": "Haredi parties' draft talks with Eisenkot rattle right-wing bloc",
+      "s": "The ultra-Orthodox parties are negotiating a conscription arrangement with Eisenkot's camp, with reports of progress but no deal. A senior right-wing official warned their decades-long alliance with Netanyahu may be breaking.",
       "src": "Jerusalem Post",
-      "u": "https://www.jpost.com/israel-news/article-915697",
-      "t": "2026-11-22",
+      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915811",
+      "t": "2026-11-23",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Katz pushes police takeover of settler-violence cases",
+      "s": "After another weekend of attacks on Palestinians, Defense Minister Katz renewed his bid to shift West Bank Jewish extremism cases from the army to police, while still refusing administrative detention. President Herzog called the violence despicable.",
+      "src": "Jerusalem Post",
+      "u": "https://www.jpost.com/israel-news/article-915815",
+      "t": "2026-11-23",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "New Knesset majority forms oversight panels amid shouting match",
+      "s": "The Knesset approved a committee on attorney-general legislation and four oversight panels, 11–9. A hearing on Democrats MK Gilad Kariv chairing the law committee descended into clashes between bereaved families and lawmakers.",
+      "src": "Jerusalem Post",
+      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915819",
+      "t": "2026-11-23",
       "impact": 2,
       "act": false
     }

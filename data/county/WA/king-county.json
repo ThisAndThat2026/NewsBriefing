@@ -1,40 +1,49 @@
 {
   "stories": [
     {
-      "h": "Magnitude 3.4 earthquake near Auburn felt across Puget Sound",
-      "s": "A M3.4 quake centered near Lea Hill, northeast of Auburn, struck just after 11 p.m. Friday. USGS logged nearly 1,700 felt reports; no damage was reported.",
-      "src": "KIRO 7",
-      "u": "https://www.kiro7.com/news/local/magnitude-34-earthquake-shook-king-county-late-friday-night/TQTW45UTRJBDPNHEVVHC4HTZAU/",
-      "t": "2026-11-21",
+      "h": "ICE arrests on SEA jet bridge spark airport protest",
+      "s": "Masked federal agents detained travelers boarding an Alaska flight Saturday; the Port says two passengers were arrested. Protesters marched through SEA Sunday as Gov. Ferguson and Rep. Randall condemned the operation; ICE alleges obstruction.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/ice-arrests-sea-tac-protests",
+      "t": "2026-11-22",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Bremerton–Seattle fast ferry cuts five daily round trips",
+      "s": "Kitsap Transit canceled five departures from each terminal, including peak commute runs, through Dec. 1 while two boats are repaired or maintained. Rich Passage 1 is tentatively due back Dec. 2.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/tidal-wa-state-ferry-cancellations",
+      "t": "2026-11-22",
+      "impact": 3,
+      "act": true
+    },
+    {
+      "h": "Seattle sandbags South Park ahead of king tides",
+      "s": "Seattle Public Utilities lined the Duwamish with thousands of sandbags and barriers Sunday ahead of this week's high tides. SPU urges residents to sign up for AlertSeattle and keep a go-kit ready.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/seattle-public-utilities-flooding",
+      "t": "2026-11-22",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Eastbound SR 18 closes tonight; I-90 Bellevue lanes close next",
-      "s": "All eastbound SR 18 lanes close 9-11 p.m. Sunday between Issaquah-Hobart Road and I-90. Up to three I-90 lanes each way close overnight Mon-Tue in Bellevue, with several ramps shut.",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/chokepoints/wsdots-sr-18-sunday-evening/4302528",
-      "t": "2026-11-20",
-      "impact": 2,
-      "act": true
-    },
-    {
-      "h": "SeaTac man accused of contacting 911 about 1,400 times",
-      "s": "SeaTac police arrested a 35-year-old man accused of calling and texting 911 roughly 1,400 times over three days over a protective-order dispute, tying up King County dispatchers. He faces misdemeanor charges.",
-      "src": "KOMO News",
-      "u": "https://komonews.com/news/local/police-man-upset-over-court-order-called-and-texted-911-more-than-1400-times/investigators-subhan-mohammadi-king-county-emergency-response-misdemeanor-dispatchers",
-      "t": "2026-11-19",
+      "h": "Woman hurt as 80-plus shots fired in Pioneer Square",
+      "s": "Someone fired at a woman waiting in her parked car near Occidental Avenue S. Saturday night; she suffered minor injuries. Police found more than 80 shell casings and have no suspect yet.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/woman-shot-pioneer-square",
+      "t": "2026-11-22",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "King tides peak on Puget Sound around Thanksgiving",
-      "s": "Supermoon-boosted king tides are expected to peak in Puget Sound around Thanksgiving and Black Friday; forecasters don't expect extreme flooding but low-lying shorelines could see water.",
+      "h": "King tides peak in Seattle",
+      "s": "Seattle tides are predicted at 12.5 ft or higher Nov. 26-29, topping out near 12.7 ft Wednesday-Thursday; low-lying spots like South Park can see minor flooding.",
       "date": "2026-11-26",
-      "src": "KIRO 7",
-      "u": "https://www.kiro7.com/news/local/king-tides-stormy-conditions-bring-coastal-flood-threat-thanksgiving-week/YLMEVW57D5GI7K6FXKOSEEH77E/"
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/local/king-tides-to-bring-risk-of-flooding-and-damage-to-low-lying-coastal-areas/4303473"
     }
   ]
 }

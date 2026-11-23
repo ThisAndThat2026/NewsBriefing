@@ -1,56 +1,12 @@
 {
-  "stories": [
-    {
-      "h": "Man freed from prison hours earlier charged in Everett killing",
-      "s": "A 40-year-old Lynnwood man faces first-degree murder and other charges in an Oct. 26 south Everett shooting that killed one brother and wounded another, less than 12 hours after his release from state custody.",
-      "src": "The Herald (Everett)",
-      "u": "https://www.heraldnet.com/2026/11/20/man-just-released-from-custody-accused-in-deadly-everett-shooting/",
-      "t": "2026-11-20",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Arrest made in Marysville yard-waste-bin body case",
-      "s": "Police arrested a 49-year-old Marysville neighbor on misdemeanor charges of concealing a body after Sarah Arneklev was found in a yard waste bin in April. Her cause of death remains pending.",
-      "src": "The Herald (Everett)",
-      "u": "https://www.heraldnet.com/2026/11/20/marysville-man-arrested-months-after-body-found-in-yard-waste-bin/",
-      "t": "2026-11-20",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Everett launches $7M fund to curb south Everett displacement",
-      "s": "The South Everett Futures Fund aims to protect 1,000 homes, add 1,250 affordable units and support 100 businesses near future light rail stations over ten years, with city, county and philanthropic money.",
-      "src": "The Herald (Everett)",
-      "u": "https://www.heraldnet.com/2026/11/20/city-launches-7m-fund-to-prevent-displacement-in-south-everett/",
-      "t": "2026-11-20",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Snohomish PUD offers bill credits to cut peak power use",
-      "s": "The PUD's voluntary Peak Assist program, starting Jan. 1, asks residential customers to reduce use during up to two short peak events a month, with a $25 credit for enrolling and participating.",
-      "src": "The Herald (Everett)",
-      "u": "https://www.heraldnet.com/2026/11/20/snohomish-pud-launches-program-to-reduce-peak-power-use/",
-      "t": "2026-11-20",
-      "impact": 2,
-      "act": false
-    }
-  ],
+  "stories": [],
   "coming": [
     {
-      "h": "Lynnwood council expected to vote on 24/7 speed cameras",
-      "s": "Lynnwood may run two school-zone cameras around the clock and add two on 44th Ave W to help close a roughly $1M budget gap; changes could start by February.",
-      "date": "2026-11-23",
+      "h": "King tides arrive in Everett",
+      "s": "Everett tides are predicted above 12.5 ft Nov. 25-28 during the full moon; wind or low pressure could push water higher than forecast.",
+      "date": "2026-11-25",
       "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/local/lynnwood-speed-cameras-school/4302321"
-    },
-    {
-      "h": "Nightly SR 527 lane closures at Canyon Park",
-      "s": "Up to two northbound SR 527 lanes near I-405 close 9 p.m.-4 a.m. Monday through Wednesday nights, along with the northbound SR 527 on-ramp to northbound I-405.",
-      "date": "2026-11-23",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/chokepoints/wsdots-sr-18-sunday-evening/4302528"
+      "u": "https://mynorthwest.com/local/king-tides-to-bring-risk-of-flooding-and-damage-to-low-lying-coastal-areas/4303473"
     }
   ]
 }
