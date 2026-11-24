@@ -1,113 +1,113 @@
 {
   "stories": [
     {
-      "h": "Soggy, gusty week ahead; king tides threaten coastal flooding",
-      "s": "Monday brings steadier rain and 30 mph breezes, then a stronger Tuesday front could drop nearly 2 inches on the coast. A supermoon king tide plus low pressure may flood low-lying shorelines Tuesday through Friday, peaking Wednesday.",
+      "h": "Coastal flood warnings, gusty winds hit Washington coast today",
+      "s": "Coastal flood warnings run through midday Tuesday for Grays Harbor, the North Coast and the Strait, with advisories for Seattle and Puget Sound and beach gusts to 45 mph. A Mason County flood watch starts Wednesday.",
       "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/weather/active-week-thanksgiving-seattle",
-      "t": "2026-11-22",
+      "u": "https://www.fox13seattle.com/weather/seattle-weather-high-tides-gusty-winds-rain-holiday-week-ahead",
+      "t": "2026-11-24",
       "impact": 4,
       "act": true
     },
     {
-      "h": "Tides cancel Port Townsend sailings; Kitsap fast ferry trims trips",
-      "s": "WSF canceled Monday evening Port Townsend/Coupeville sailings because of tides, pointing riders to Edmonds/Kingston or Mukilteo/Clinton. Kitsap Transit cut 10 daily Bremerton-Seattle fast-ferry runs through Dec. 1 for vessel repairs.",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/news/tidal-wa-state-ferry-cancellations",
-      "t": "2026-11-22",
-      "impact": 3,
-      "act": true
-    },
-    {
-      "h": "Cascade passes may get snow Tuesday; gas still pricey",
-      "s": "Forecasters expect up to 6 inches at Stevens Pass and 3 at Snoqualmie on Tuesday, with lighter snow after. Washington's average gas price was $4.71, though Spokane's has fallen to $4.24.",
-      "src": "The Spokesman-Review",
-      "u": "https://www.spokesman.com/stories/2026/nov/23/getting-there-holiday-travel-outlook-gets-boost-by/",
+      "h": "Utilities brace for wind-driven outages before Thanksgiving",
+      "s": "Puget Sound Energy and Seattle City Light have crews on standby around the clock, warning that saturated soil and gusty winds make trees more likely to fall into lines.",
+      "src": "KOMO News",
+      "u": "https://komonews.com/news/local/utility-crews-prepare-for-possible-outages-as-gusty-winds-move-in-ahead-of-thanksgiving-seattle-city-light-puget-sound-energy-scl-pse-rich-johnson-customers-outages",
       "t": "2026-11-23",
       "impact": 3,
       "act": true
     },
     {
-      "h": "Lawyer: Sea-Tac ICE detainees have pending asylum, no record",
-      "s": "An attorney for the couple arrested on a Sea-Tac jet bridge says they entered legally in 2015, have pending immigration cases and no criminal history. ICE alleges the woman threw coffee at officers; both remain held in Tacoma.",
+      "h": "Manhunt in Stevens County for man accused of firing at deputies",
+      "s": "US Marshals are hunting Ronald Rutledge, 45, accused of shooting a rifle at deputies near Waitts Lake and fleeing in a stolen white Polaris Ranger. He's considered armed and dangerous; call 911, don't approach.",
       "src": "KOMO News",
-      "u": "https://komonews.com/news/local/ice-airport-arrests-attorney-says-detainees-have-pending-asylum-no-criminal-record-seattle-tacoma-international-airport-immigration-federal-arrest-trump-legal-civil-rights-work-permits-northwest-ptocessing-center",
-      "t": "2026-11-22",
+      "u": "https://komonews.com/news/local/stevens-county-deputies-search-for-fugitive-accused-of-shooting-at-officers-ronald-rutledge-2018-polaris-ranger-department-of-corrections-armed-and-dangerous-shooting-gun-violence",
+      "t": "2026-11-23",
+      "impact": 3,
+      "act": true
+    },
+    {
+      "h": "Washington bids for U.S. Space Academy in Federal Way",
+      "s": "The state formally applied to host the national Space Academy, starting temporarily at UW with a permanent campus at Federal Way's Woodbridge Corporate Park by 2031. No decision date is set.",
+      "src": "The Spokesman-Review",
+      "u": "https://www.spokesman.com/stories/2026/nov/23/washington-seeks-to-host-new-space-academy-to-trai/",
+      "t": "2026-11-23",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Alaska Airlines machinists picket at Sea-Tac and headquarters today",
-      "s": "Workers represented by IAM Local 2202 planned a Monday picket and rally pressing for job security and a fair contract. The union has not said whether flights would be affected.",
-      "src": "KHQ",
-      "u": "https://www.khq.com/news/alaska-airlines-workers-plan-monday-picket-at-sea-and-headquarters/article_84c9997f-eb1c-4cbd-aaa8-7e1ef72b59a0.html",
-      "t": "2026-11-22",
+      "h": "SpaceX fights state fine over lead at Redmond Starlink site",
+      "s": "SpaceX is appealing a $6,000 Labor & Industries fine after inspectors found lead 18 times the limit on a workbench; another violation involved heating a part in a breakroom toaster oven.",
+      "src": "InvestigateWest",
+      "u": "https://www.investigatewest.org/toxic-chemicals-customer-service-and-a-toaster-oven-elon-musks-spacex-disputes-a-wa-state-fine/",
+      "t": "2026-11-23",
       "impact": 2,
       "act": false
     }
   ],
   "talking": [
     {
-      "h": "Huskies stun No. 6 Indiana 27-24 in overtime",
-      "s": "UW beat the defending national champions after Indiana missed an OT field goal, and fans stormed the field at Husky Stadium. Washington is 7-4 and heads to No. 14 Oregon Saturday.",
-      "src": "Seattle Sports (MyNorthwest)",
-      "u": "https://sports.mynorthwest.com/ncaa/uw/uw-huskies-knock-off-indiana-27-24-overtime",
-      "t": "2026-11-21",
+      "h": "Sam Darnold returns to Seahawks practice before 49ers",
+      "s": "Darnold practiced Monday for the first time in three weeks after quad and rib injuries and is expected to start at San Francisco; Charles Cross and Leonard Williams also returned for the 6-4 Seahawks.",
+      "src": "The Spokesman-Review",
+      "u": "https://www.spokesman.com/stories/2026/nov/23/seahawks-qb-sam-darnold-returns-to-practice-as-tea/",
+      "t": "2026-11-23",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Cougars routed 42-14 at Texas State",
-      "s": "Washington State scored first but lost big in San Marcos. The Cougars host a Pac-12-assigned opponent, still to be announced, on Saturday.",
-      "src": "WSU Athletics",
-      "u": "https://wsucougars.com/news/2026/11/21/cougars-open-scoring-before-texas-state-pulls-away",
-      "t": "2026-11-21",
+      "h": "Kakko's late goal lifts Kraken past Ducks 3-2",
+      "s": "All five goals came in the third period; Kaapo Kakko won it with 2:25 left at Climate Pledge Arena, moving the Kraken to 11-9-1.",
+      "src": "ESPN",
+      "u": "https://www.espn.com/nhl/game/_/gameId/401892778",
+      "t": "2026-11-23",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Stormy Tuesday: gusty rain, pass snow",
-      "s": "A stronger front brings gusty rain to the lowlands and up to 6 inches of snow at Stevens Pass. Check WSDOT pass reports before crossing.",
-      "date": "2026-11-24",
-      "src": "The Spokesman-Review",
-      "u": "https://www.spokesman.com/stories/2026/nov/23/getting-there-holiday-travel-outlook-gets-boost-by/"
-    },
-    {
-      "h": "King tide peak; coastal flooding risk",
-      "s": "Minor coastal flooding is possible Tuesday through Friday, worst Wednesday. Steer clear of low-lying shoreline parks, roads and beaches.",
+      "h": "Inland king tides peak; coastal flood watch Wed–Thu",
+      "s": "Puget Sound tides peak Wednesday, with flood watches for Hood Canal, east Kitsap and Port Townsend Wednesday and Thursday; Mason County's flood watch runs through Sunday.",
       "date": "2026-11-25",
       "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/weather/active-week-thanksgiving-seattle"
+      "u": "https://www.fox13seattle.com/weather/seattle-weather-high-tides-gusty-winds-rain-holiday-week-ahead"
     },
     {
-      "h": "Ferries brace for 300,000-plus holiday riders",
-      "s": "WSF expects heavy traffic Nov. 25-29, with westbound peaks Thursday-Friday and eastbound Saturday-Sunday. Several routes run holiday schedules; reserve where possible.",
+      "h": "Ferry crunch: Port Townsend cancellations, Vashon tidal limits",
+      "s": "Over 300,000 riders are expected Nov. 25–29. An evening Port Townsend–Coupeville round trip is cut daily through Friday, and Vashon routes restrict low-clearance vehicles through Sunday.",
       "date": "2026-11-25",
-      "src": "FOX 13 Seattle",
-      "u": "https://fox13seattle.com/news/washington-ferries-king-tides"
+      "src": "WSDOT",
+      "u": "https://wsdot.wa.gov/about/news/2026/king-tides-could-complicate-thanksgiving-ferry-travel"
     },
     {
-      "h": "Thanksgiving tolls: weekend rates, free express lanes",
-      "s": "Weekend toll rates apply on SR 520, the SR 99 tunnel and SR 509 on Thursday. The I-405 and SR 167 express toll lanes are free for everyone that day.",
+      "h": "I-90 Snoqualmie Pass worst eastbound Wednesday afternoon",
+      "s": "WSDOT expects eastbound I-90 heaviest Wednesday roughly 11 a.m.–4 p.m., peaking near 3 p.m.; westbound peaks around 2 p.m. Friday through Sunday.",
+      "date": "2026-11-25",
+      "src": "WSDOT",
+      "u": "https://wsdot.wa.gov/travel/holiday-weekend-travel/thanksgiving-weekend-travel-times/i-90-travel-charts"
+    },
+    {
+      "h": "Thanksgiving tolls: I-405, SR 167 lanes free",
+      "s": "Express toll lanes on I-405 and SR 167 are free Thursday; SR 520, the SR 99 tunnel and SR 509 use weekend rates. Chinook and Cayuse passes are closed for the season.",
       "date": "2026-11-26",
-      "src": "KOMO News",
-      "u": "https://komonews.com/news/local/wsdot-warns-of-thanksgiving-weekend-traffic-delays-on-i-90-us2-i90-north-bend-cle-elum-lacey-tacoma-bellingham-canadian-border-tolls-on-thanksgiving-washington-state"
+      "src": "WSDOT",
+      "u": "https://wsdot.wa.gov/about/news/2026/pumpkin-pie-and-traffic-delays-dont-mix-plan-ahead-wsdots-thanksgiving-weekend-travel-charts"
     },
     {
-      "h": "Huskies at No. 14 Oregon",
-      "s": "Fresh off the Indiana upset, UW visits rival Oregon in the regular-season finale.",
+      "h": "Huskies visit Oregon in rivalry game at Autzen",
+      "s": "Washington plays at Oregon in Eugene Saturday, a week after upsetting Indiana in overtime.",
       "date": "2026-11-28",
-      "src": "Seattle Sports (MyNorthwest)",
-      "u": "https://sports.mynorthwest.com/ncaa/uw/uw-huskies-knock-off-indiana-27-24-overtime"
+      "src": "theScore",
+      "u": "https://www.thescore.com/ncaaf/event/140145"
     },
     {
-      "h": "Seahawks return from bye at 49ers",
-      "s": "The 6-4 Seahawks play at San Francisco's Levi's Stadium, 1:25 p.m. kickoff.",
+      "h": "Seahawks at 49ers in NFC West showdown",
+      "s": "The 6-4 Seahawks visit the division-leading 9-1 49ers at Levi's Stadium.",
       "date": "2026-11-29",
-      "src": "Seattle Seahawks",
-      "u": "https://www.seahawks.com/schedule/"
+      "src": "FOX Sports",
+      "u": "https://www.foxsports.com/nfl/week-12-seattle-seahawks-vs-san-francisco-49ers-nov-29-2026-game-boxscore-11293"
     }
   ]
 }

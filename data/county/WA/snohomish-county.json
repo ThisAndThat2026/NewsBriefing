@@ -1,12 +1,31 @@
 {
-  "stories": [],
+  "stories": [
+    {
+      "h": "Coastal flood advisory for Everett, Marysville, Lynnwood shorelines",
+      "s": "An NWS advisory runs 2 a.m.–5 p.m. Tuesday for Everett/Marysville, south Snohomish and northwest lowlands, with 1.5–2.5 ft of inundation possible at high tide. Higher tides follow Wednesday and Thursday.",
+      "src": "National Weather Service",
+      "u": "https://tgftp.nws.noaa.gov/data/raw/wh/whus46.ksew.cfw.sew.txt",
+      "t": "2026-11-23",
+      "impact": 4,
+      "act": true
+    },
+    {
+      "h": "30 cats, two dogs rescued from Marysville hoarding home",
+      "s": "Police removed the animals from a home where ammonia levels triggered a hazmat response and found 12 dead cats. They plan to refer 44 neglect charges against the resident.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/crime-blotter/dogs-cats-rescued-marysville/4303830",
+      "t": "2026-11-23",
+      "impact": 2,
+      "act": false
+    }
+  ],
   "coming": [
     {
-      "h": "King tides arrive in Everett",
-      "s": "Everett tides are predicted above 12.5 ft Nov. 25-28 during the full moon; wind or low pressure could push water higher than forecast.",
+      "h": "More king tide flooding possible Wednesday, Thursday",
+      "s": "NWS flood watches for Everett/Marysville and south Snohomish shorelines run late Tuesday night through Thursday afternoon, with up to 3.5 ft of inundation.",
       "date": "2026-11-25",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/local/king-tides-to-bring-risk-of-flooding-and-damage-to-low-lying-coastal-areas/4303473"
+      "src": "National Weather Service",
+      "u": "https://tgftp.nws.noaa.gov/data/raw/wh/whus46.ksew.cfw.sew.txt"
     }
   ]
 }

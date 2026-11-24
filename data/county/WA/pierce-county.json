@@ -1,4 +1,40 @@
 {
-  "stories": [],
-  "coming": []
+  "stories": [
+    {
+      "h": "Coastal flood advisory for Pierce shorelines today",
+      "s": "An NWS advisory runs 2 a.m.–5 p.m. Tuesday for Pierce lowlands, with 1.5–2.5 ft of inundation possible at high tide. Watches follow for Wednesday and Thursday.",
+      "src": "National Weather Service",
+      "u": "https://tgftp.nws.noaa.gov/data/raw/wh/whus46.ksew.cfw.sew.txt",
+      "t": "2026-11-23",
+      "impact": 4,
+      "act": true
+    },
+    {
+      "h": "Puyallup officer shoots man in overnight incident",
+      "s": "A Puyallup officer shot a man around 3:30 a.m. Tuesday on 8th Ave. NW; he is expected to recover and no officers were hurt. Pierce County deputies are investigating.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/crime-blotter/authorities-responding-to-officer-involved-in-puyallup/4304125",
+      "t": "2026-11-24",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Two years for attempted kidnapping of Lakewood barista",
+      "s": "A Kent man was sentenced for trying to pull a Lakewood drive-thru barista through the window in August 2025. He must register as a sex offender and stay away from drive-thru coffee stands.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/crime-blotter/lakewood-barista-kidnapping/4303813",
+      "t": "2026-11-23",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "King tide flood watch continues through Thursday",
+      "s": "NWS flood watches for Pierce lowlands run late Tuesday night through Wednesday afternoon (2–3 ft) and Wednesday night through Thursday afternoon (2.5–3.5 ft).",
+      "date": "2026-11-25",
+      "src": "National Weather Service",
+      "u": "https://tgftp.nws.noaa.gov/data/raw/wh/whus46.ksew.cfw.sew.txt"
+    }
+  ]
 }

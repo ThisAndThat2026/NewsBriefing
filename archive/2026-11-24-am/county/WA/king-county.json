@@ -1,0 +1,49 @@
+{
+  "stories": [
+    {
+      "h": "ICE arrests on SEA jet bridge spark airport protest",
+      "s": "Masked federal agents detained travelers boarding an Alaska flight Saturday; the Port says two passengers were arrested. Protesters marched through SEA Sunday as Gov. Ferguson and Rep. Randall condemned the operation; ICE alleges obstruction.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/ice-arrests-sea-tac-protests",
+      "t": "2026-11-22",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Bremerton–Seattle fast ferry cuts five daily round trips",
+      "s": "Kitsap Transit canceled five departures from each terminal, including peak commute runs, through Dec. 1 while two boats are repaired or maintained. Rich Passage 1 is tentatively due back Dec. 2.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/tidal-wa-state-ferry-cancellations",
+      "t": "2026-11-22",
+      "impact": 3,
+      "act": true
+    },
+    {
+      "h": "Seattle sandbags South Park ahead of king tides",
+      "s": "Seattle Public Utilities lined the Duwamish with thousands of sandbags and barriers Sunday ahead of this week's high tides. SPU urges residents to sign up for AlertSeattle and keep a go-kit ready.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/seattle-public-utilities-flooding",
+      "t": "2026-11-22",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Woman hurt as 80-plus shots fired in Pioneer Square",
+      "s": "Someone fired at a woman waiting in her parked car near Occidental Avenue S. Saturday night; she suffered minor injuries. Police found more than 80 shell casings and have no suspect yet.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/woman-shot-pioneer-square",
+      "t": "2026-11-22",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "King tides peak in Seattle",
+      "s": "Seattle tides are predicted at 12.5 ft or higher Nov. 26-29, topping out near 12.7 ft Wednesday-Thursday; low-lying spots like South Park can see minor flooding.",
+      "date": "2026-11-26",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/local/king-tides-to-bring-risk-of-flooding-and-damage-to-low-lying-coastal-areas/4303473"
+    }
+  ]
+}

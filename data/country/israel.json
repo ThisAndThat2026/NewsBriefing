@@ -1,39 +1,48 @@
 {
   "stories": [
     {
-      "h": "Likud–Yashar unity talks stall over Ben-Gvir, premiership",
-      "s": "After four-plus hours in Herzliya, Likud rejected Eisenkot's demand to exclude Ben-Gvir; the sides agreed only on opposing a Palestinian state. Another round is set for Monday evening at the Knesset, as Likud accuses Yashar of staging talks.",
-      "src": "Jerusalem Post",
-      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915806",
+      "h": "Bennett would vote against Eisenkot minority government",
+      "s": "Monday's Likud–Yashar talks made no progress and rotation wasn't raised. Bennett and Liberman oppose a quick minority government, and Eisenkot, with 12 days left on his mandate, may need an extension.",
+      "src": "Ynetnews",
+      "u": "https://www.ynetnews.com/article/bk73k3gj7x",
+      "t": "2026-11-24",
+      "impact": 5,
+      "act": false
+    },
+    {
+      "h": "Mossad analysts, IDF chief see no urgency for Iran strike",
+      "s": "Per a Haaretz report, Mossad researchers see no immediate need to strike Iran while chief Gofman pushes for one; IDF chief Zamir reportedly says Israel can wait for Washington and a new government.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/mossad-researchers-see-no-urgency-for-iran-strike-as-chief-pushes-military-action-report/",
       "t": "2026-11-23",
       "impact": 4,
       "act": false
     },
     {
-      "h": "Haredi parties' draft talks with Eisenkot rattle right-wing bloc",
-      "s": "The ultra-Orthodox parties are negotiating a conscription arrangement with Eisenkot's camp, with reports of progress but no deal. A senior right-wing official warned their decades-long alliance with Netanyahu may be breaking.",
+      "h": "Liberman: solo Iran strike for political reasons would be illegal",
+      "s": "In a classified Knesset session, Liberman warned Netanyahu may see an Iran attack as a political lifeline. Eisenkot says no immediate threat requires action before a new government forms.",
       "src": "Jerusalem Post",
-      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915811",
+      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915863",
+      "t": "2026-11-23",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Kushner warns Israel heading toward 'global-pariah status'",
+      "s": "U.S. envoy Jared Kushner said Israel risks pariah status, reflecting Washington's frustration that Netanyahu is blocking the Board of Peace's Gaza rebuilding and phased Hamas-disarmament plan.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/liveblog_entry/jared-kushner-warns-that-israel-is-heading-toward-global-pariah-status/",
       "t": "2026-11-23",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Katz pushes police takeover of settler-violence cases",
-      "s": "After another weekend of attacks on Palestinians, Defense Minister Katz renewed his bid to shift West Bank Jewish extremism cases from the army to police, while still refusing administrative detention. President Herzog called the violence despicable.",
+      "h": "Eisenkot bloc moves to repeal judicial overhaul laws",
+      "s": "The 67-seat bloc named Democrats MK Gilad Kariv to chair a repeal committee, prioritizing judicial selection, the attorney general's powers and police-investigations oversight, even before a government forms.",
       "src": "Jerusalem Post",
-      "u": "https://www.jpost.com/israel-news/article-915815",
-      "t": "2026-11-23",
+      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915919",
+      "t": "2026-11-24",
       "impact": 3,
-      "act": false
-    },
-    {
-      "h": "New Knesset majority forms oversight panels amid shouting match",
-      "s": "The Knesset approved a committee on attorney-general legislation and four oversight panels, 11–9. A hearing on Democrats MK Gilad Kariv chairing the law committee descended into clashes between bereaved families and lawmakers.",
-      "src": "Jerusalem Post",
-      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915819",
-      "t": "2026-11-23",
-      "impact": 2,
       "act": false
     }
   ],

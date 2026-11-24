@@ -1,212 +1,225 @@
 {
   "us": [
     {
-      "h": "Coastal storms threaten Thanksgiving travel, major Northeast storm possible",
-      "s": "After Sunday's rain snarled Boston flights, forecasters expect a lull Monday, then storms in the Southeast and Pacific Northwest Tuesday and a potentially major Northeast storm on Thanksgiving Day.",
-      "src": "Newsweek",
-      "u": "https://www.newsweek.com/thanksgiving-travel-disruptions-weather-forecast-macys-parade-12753976",
-      "t": "2026-11-22",
+      "h": "Thanksgiving nor'easter forecast firms up; Northeast hubs face delays",
+      "s": "The latest forecast brings heavy Southeast rain Wednesday, including around Atlanta, then heavy rain and strong gusts across the Mid-Atlantic and Northeast on Thanksgiving, with significant delays expected at every Northeast hub airport.",
+      "src": "The Weather Channel",
+      "u": "https://weather.com/2026/11/24/holiday/thanksgiving/thanksgiving-travel-weather-forecast-us-storms",
+      "t": "2026-11-24",
       "impact": 5,
       "act": true
     },
     {
-      "h": "Stock futures rebound after brutal AI-led selloff week",
-      "s": "Futures jumped Monday after the S&P 500 closed Friday in correction territory and the Dow had its worst week since 2020; markets now price roughly 90% odds of a Fed rate hike Dec. 9.",
-      "src": "Yahoo Finance",
-      "u": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html",
+      "h": "Appeals court opens path to erase Trump hush-money conviction",
+      "s": "A 2nd Circuit panel ruled Trump's 34-count New York case can move to federal court, where he can seek dismissal on presidential-immunity grounds. The ruling pauses his state appeal.",
+      "src": "PBS NewsHour (AP)",
+      "u": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction",
       "t": "2026-11-23",
-      "impact": 4,
-      "act": false
-    },
-    {
-      "h": "Democrats lock in biggest House majority in decades",
-      "s": "Democrats have won at least 258 House seats, a 44-seat gain that tops their 2018 wave, with four races still open including two Louisiana runoffs in December.",
-      "src": "Euronews",
-      "u": "https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades",
-      "t": "2026-11-22",
-      "impact": 4,
-      "act": false
-    },
-    {
-      "h": "Delta system outage triggers Atlanta ground stop",
-      "s": "A Sunday failure of Delta's weight-and-balance system briefly halted Atlanta-bound flights and reportedly delayed thousands of departures while crews calculated loads by hand.",
-      "src": "Fox News",
-      "u": "https://www.foxnews.com/us/faa-lifts-ground-stop-atlanta-bound-delta-flights-system-outage",
-      "t": "2026-11-22",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Trump slams Schumer as Democrats weigh leadership change",
-      "s": "Trump said working with a Majority Leader Schumer would be very hard, as Sen. Chris Van Hollen challenges Schumer ahead of a Dec. 1 secret-ballot caucus vote.",
+      "h": "Trump moves to speed federal executions, blasts Newsom",
+      "s": "At the Justice Department, Trump ordered faster federal executions and death-penalty pursuits in child-murder, rape and trafficking cases, and attacked Newsom for commuting 548 California death sentences.",
       "src": "Al Jazeera",
-      "u": "https://aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate",
-      "t": "2026-11-22",
+      "u": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom",
+      "t": "2026-11-24",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Court clears Iowa lead-explosive blast; Trump adds conditions",
+      "s": "The 8th Circuit lifted its stay, and the Army plans Wednesday to detonate about 4.75 tons of degraded lead azide near Middletown, Iowa. Trump says Governor-elect Rob Sand must also agree.",
+      "src": "Iowa Public Radio",
+      "u": "https://www.iowapublicradio.org/ipr-news/2026-11-23/court-lifts-stay-block-iowa-lead-detonation",
+      "t": "2026-11-23",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Senate panel probes Vance role in Venezuela oil deal",
+      "s": "Sen. Maggie Hassan is investigating whether Vance helped trader Vitol win lucrative Venezuelan crude sales after Maduro's ouster, seeking documents by Dec. 14. Vance's office denies a reported meeting.",
+      "src": "AOL (Reuters)",
+      "u": "https://www.aol.com/articles/jd-vances-ties-prized-venezuelan-201448000.html",
+      "t": "2026-11-23",
       "impact": 3,
       "act": false
     }
   ],
   "world": [
     {
-      "h": "Trump says he may resume Iran strikes after New Year",
-      "s": "Trump told Fox News he is inclined to order new strikes if no deal is reached, called Iran's negotiators stallers, and warned ships testing the US blockade would be sunk.",
-      "src": "Fox News",
-      "u": "https://www.foxnews.com/politics/trump-warns-new-strikes-against-iran-after-new-year-calls-negotiators-professional-tap-dancers",
-      "t": "2026-11-22",
-      "impact": 4,
-      "act": false
-    },
-    {
-      "h": "Tanker incident near US blockade line in Gulf of Oman",
-      "s": "UK maritime authorities reported a tanker incident involving military forces near the US blockade line, as Iranian media said two supertankers caught fire after hitting mines east of Hormuz.",
+      "h": "Iran says tankers hit Hormuz mines, tightens strait closure",
+      "s": "Iran's Revolutionary Guards claimed three US-escorted tankers struck mines in the Strait of Hormuz, unconfirmed by maritime monitors. Iran's army chief ordered tighter control as Qatar urged Washington to restart talks.",
       "src": "Euronews",
-      "u": "https://euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz",
-      "t": "2026-11-22",
+      "u": "https://euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks",
+      "t": "2026-11-24",
       "impact": 4,
       "act": false
     },
     {
-      "h": "Gulf neighbors condemn Iranian strike on Bahrain",
-      "s": "Iran's Revolutionary Guards said they targeted US Patriot sites in Bahrain; Bahrain reported a fire at a civilian industrial site and two injured, drawing condemnation from Saudi Arabia, Kuwait and Qatar.",
-      "src": "ABC News",
-      "u": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071",
-      "t": "2026-11-22",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Russian drones kill at least four near Kyiv",
-      "s": "A drone partially collapsed a five-story building in Dymer and another hit a grocery store in Vyshneve; about 10 people may remain trapped under rubble.",
-      "src": "The Star (Reuters)",
-      "u": "https://www.thestar.com.my/news/world/2026/11/22/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskiy-says",
-      "t": "2026-11-22",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "RSF drone attacks kill four around Khartoum, hit UN building",
-      "s": "Overnight drone strikes blamed on Sudan's paramilitary RSF killed four people, including a child, and damaged a UN building while staff were inside.",
+      "h": "Russia warns Estonia it is nearing 'open war'",
+      "s": "Moscow accused Tallinn of letting Ukrainian drones use its airspace and blocking Russian shipping, and summoned its envoy. Estonia denies it and will shut Russian border crossings Dec. 1; NATO is watching.",
       "src": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/22/rsf-drones-kill-four-in-khartoum",
-      "t": "2026-11-22",
+      "u": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war",
+      "t": "2026-11-23",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "EU proposes 22nd Russia sanctions package, including sports ban",
+      "s": "The European Commission proposed cutting 60 Russian banks from SWIFT, a crypto task force against evasion, a ban on Russian athletes competing under their flag, and visa refusals for war veterans. All 27 members must agree.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/amp/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal",
+      "t": "2026-11-23",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Zaporizhzhia strike kills two; Russian drone enters Polish airspace",
+      "s": "A dawn Russian attack on Zaporizhzhia killed two and injured more than 40, including an infant. A Russian drone briefly crossed into Poland, which a Polish deputy minister called deliberate.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia",
+      "t": "2026-11-24",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Suspected drone strikes Russian vessel at Libyan port",
-      "s": "A suspected sea drone hit a Russian ship refueling at Benghazi's naval base, a day after a Russian cargo ship was struck in the Baltic in an attack Finland attributed to Ukraine.",
+      "h": "Gaza declares meningitis epidemic alert as strikes kill seven",
+      "s": "Gaza's health ministry issued a territory-wide alert after meningitis cases hit 272 in October, about eight times normal. Israeli air strikes killed at least seven Palestinians, including a child.",
       "src": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya",
-      "t": "2026-11-22",
-      "impact": 2,
+      "u": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak",
+      "t": "2026-11-24",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "South Korea issues air raid alert as Russian jets approach",
+      "s": "About five Russian military aircraft entered South Korea's air defense zone near Ulleung Island. Seoul scrambled fighters, briefly told residents to shelter, and protested to Moscow.",
+      "src": "Al Jazeera",
+      "u": "https://aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace",
+      "t": "2026-11-24",
+      "impact": 3,
       "act": false
     }
   ],
   "tech": [
     {
-      "h": "CrowdStrike to buy Zscaler in $43.9B all-stock deal",
-      "s": "Zscaler holders get 1.135 CrowdStrike shares each, a 34% premium; CrowdStrike shares fell premarket while Zscaler jumped. Closing is expected in the second half of CrowdStrike's fiscal 2028.",
-      "src": "ABC News (AP)",
-      "u": "https://abcnews.com/Business/wireStory/crowdstrike-acquire-zscaler-44-billion-deal-create-cybersecurity-138373706",
+      "h": "Nvidia reinstates Jensen Huang; stock surges more than 30%",
+      "s": "Nvidia's board brought Huang back as CEO less than two weeks after he resigned. Shares jumped over 30% and the Nasdaq had its best day since April 2025; federal probes continue.",
+      "src": "Yahoo Finance (Reuters)",
+      "u": "https://finance.yahoo.com/markets/stocks/articles/trading-day-market-euphoria-huang-220642616.html",
+      "t": "2026-11-23",
+      "impact": 5,
+      "act": false
+    },
+    {
+      "h": "Amazon agrees to buy Decart AI tech for about $7.5B",
+      "s": "Amazon will acquire Decart's AI optimization technology and hire its founders and team in a cash deal reportedly near $7.5 billion, aiming for faster, cheaper AI on its custom chips. Regulators must approve.",
+      "src": "MarketScreener",
+      "u": "https://www.marketscreener.com/news/amazon-com-inc-signed-an-agreement-to-acquire-decart-ai-ltd-for-an-estimated-7-5-billion-ce7851dadf8af726",
+      "t": "2026-11-23",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Bell says hackers accessed customer data in breach",
+      "s": "Canada's Bell said an intruder reached an internal system Nov. 17, exposing names, addresses, phone numbers and account details for Bell, Virgin Plus and Lucky Mobile customers. No banking data was taken, it says.",
+      "src": "BNN Bloomberg (Canadian Press)",
+      "u": "https://bnnbloomberg.ca/business/company-news/2026/11/23/bell-investigating-cyberattack-that-exposed-customer-information-last-week",
       "t": "2026-11-23",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Trump urges Nvidia board to rehire Jensen Huang",
-      "s": "Trump posted that he hopes Nvidia brings Huang back, a reversal from earlier calls for outside leadership; Huang still faces congressional interviews over the China chip and spy-affair scrutiny.",
-      "src": "Fortune",
-      "u": "https://fortune.com/2026/11/23/scott-bessent-trump-jensen-huang-nvidia-leadership/",
+      "h": "Ariane 6 launches 36 Amazon Leo internet satellites",
+      "s": "Ariane 6 lifted off from French Guiana Tuesday with 36 Amazon Leo satellites after a one-day scrub, Amazon's first launch since a Vulcan failure destroyed 40 of its satellites on Nov. 15.",
+      "src": "Space.com",
+      "u": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+      "t": "2026-11-24",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Meta backs away from its 2030 net-zero target",
+      "s": "Meta's sustainability report says it is re-evaluating its 2030 net-zero timeline after emissions more than doubled in four years, driven by AI data centers and new natural-gas power.",
+      "src": "TechCrunch",
+      "u": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious",
       "t": "2026-11-23",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Tesla begins rolling out FSD v15 with AI 'Reality View'",
-      "s": "Early-access owners are getting FSD v15, which adds a real-time AI-generated view of surroundings; Musk says a wide release comes with December's holiday update.",
-      "src": "Teslarati",
-      "u": "https://www.teslarati.com/tesla-full-self-driving-v15-first-hand-look-at-reality-view-new-features/",
-      "t": "2026-11-22",
-      "impact": 2,
-      "act": false
-    },
-    {
-      "h": "BepiColombo probe enters orbit around Mercury",
-      "s": "The joint European-Japanese spacecraft reached Mercury orbit after an eight-year trip; its two orbiters separate in December and science work begins in April 2027.",
-      "src": "Euronews",
-      "u": "https://www.euronews.com/2026/11/22/bepicolombo-space-probe-enters-mercurys-orbit-after-eight-year-journey",
-      "t": "2026-11-22",
+      "h": "Meta AI chief warns superintelligence is 'arriving'",
+      "s": "Meta Chief AI Officer Alexandr Wang said superintelligence is imminent and self-improving AI may be impossible to control, urging an approach that gives people more agency.",
+      "src": "Al Jazeera",
+      "u": "https://aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive",
+      "t": "2026-11-23",
       "impact": 2,
       "act": false
     }
   ],
   "talking": [
     {
-      "h": "Will wind ground the 100th Macy's parade balloons?",
-      "s": "Forecasters expect 1-2 inches of rain and gusty winds in NYC on Thanksgiving, though the worst may arrive after the parade; high winds could force balloons to stay down.",
-      "src": "FOX 5 New York",
-      "u": "https://www.fox5ny.com/news/thanksgiving-weather-storm-nyc-parade-forecast-2026",
+      "h": "Wind could ground balloons at Macy's 100th parade",
+      "s": "AccuWeather expects 20–30 mph gusts for Thursday's parade, near New York City's limits for flying the giant balloons, with winds strengthening late and rain arriving around midday.",
+      "src": "AccuWeather",
+      "u": "https://www.accuweather.com/en/weather-forecasts/noreaster-could-spoil-macys-thanksgiving-day-parade-fun-in-nyc-with-strong-winds-rain/1962880",
       "t": "2026-11-23",
       "impact": 3,
       "act": false
     },
     {
-      "h": "College football chaos reshuffles AP Top 25",
-      "s": "UCLA fell 18-16 in triple overtime at Michigan and Indiana lost in overtime at Washington; Georgia and Utah lead the new poll, with Texas climbing into the top five.",
-      "src": "CBS Sports",
-      "u": "https://www.cbssports.com/college-football/news/college-football-rankings-ap-top-25-poll-week-13-ucla-indiana-texas/",
-      "t": "2026-11-22",
+      "h": "Ilhan Omar search-warrant records partly unsealed",
+      "s": "Judge Boasberg released 169 heavily redacted pages tied to the FBI search of Omar's D.C. home, reportedly involving citizenship and marriage questions. Omar has not been charged and calls the probe political.",
+      "src": "Yahoo News (FOX 9)",
+      "u": "https://www.yahoo.com/news/politics/articles/ilhan-omar-search-warrant-court-000643759.html",
+      "t": "2026-11-24",
       "impact": 2,
       "act": false
     },
     {
-      "h": "Cowboys hang 51 points on Titans",
-      "s": "Dak Prescott threw four touchdowns and ran for another as Dallas scored on its first six drives in a 51-30 win, its first 50-point game since 2022.",
-      "src": "ESPN",
-      "u": "https://www.espn.com/nfl/recap?gameId=401873073",
-      "t": "2026-11-22",
+      "h": "Commanders stun Bengals with walk-off field goal",
+      "s": "Jayden Daniels drove Washington 64 yards in three plays after Cincinnati's late go-ahead score, and Drew Stevens kicked his fifth field goal at the gun for a 22-20 Monday night win.",
+      "src": "Sports Illustrated",
+      "u": "https://www.si.com/nfl/commanders/onsi/commanders-vs-bengals-live-updates-score-highlights-mnf-week-11",
+      "t": "2026-11-23",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "PCE inflation report",
-      "s": "The Fed's preferred inflation gauge is due Wednesday, a key input ahead of the Dec. 8-9 rate meeting.",
+      "h": "Inflation, GDP, jobless claims all land Wednesday",
+      "s": "October core PCE, the Q3 GDP revision, weekly jobless claims and durable goods arrive at 8:30 a.m. ET, with the Fed's Beige Book at 2 p.m.",
       "date": "2026-11-25",
-      "src": "TheStreet",
-      "u": "https://www.thestreet.com/investing/its-thanksgiving-week-after-an-ugly-stock-market-slump-now-what"
+      "src": "Gotrade",
+      "u": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-11-23/"
     },
     {
-      "h": "Thanksgiving and the 100th Macy's parade",
-      "s": "Markets, banks, government offices and the post office close; the 100th Macy's Thanksgiving Day Parade steps off in New York.",
-      "date": "2026-11-26"
-    },
-    {
-      "h": "Lions host Bears in Thanksgiving showdown",
-      "s": "Two 8-2 teams meet in Detroit at 1 p.m. ET on FOX.",
+      "h": "Thanksgiving: NFL triple-header, markets closed",
+      "s": "Bears at Lions (1 p.m. ET, CBS), Eagles at Cowboys (4:30, FOX) and Chiefs at Bills (8:20, NBC). Stock markets, banks and post offices are closed.",
       "date": "2026-11-26",
-      "src": "Detroit Lions",
-      "u": "https://www.detroitlions.com/news/recap-lions-vs-buccaneers-goff-gibbs-williams"
+      "src": "FOX Sports",
+      "u": "https://www.foxsports.com/stories/nfl/2026-nfl-thanksgiving-games-schedule-teams-how-watch"
     },
     {
-      "h": "Black Friday; stocks trade a half day",
-      "s": "U.S. stock markets close early the day after Thanksgiving.",
+      "h": "Black Friday; stocks close early at 1 p.m.",
+      "s": "Holiday shopping kicks off, markets run a shortened session, and Broncos at Steelers airs at 3 p.m. ET on Prime Video.",
       "date": "2026-11-27",
-      "src": "TheStreet",
-      "u": "https://www.thestreet.com/investing/its-thanksgiving-week-after-an-ugly-stock-market-slump-now-what"
-    },
-    {
-      "h": "Ohio State hosts Michigan",
-      "s": "The rivalry game kicks off at noon in Columbus, with Ohio State reeling after a loss at Nebraska.",
-      "date": "2026-11-28",
-      "src": "WHIO",
-      "u": "https://www.whio.com/news/local/nebraska-upsets-no-14-ohio-state-ending-national-title-hopes/QADXXWUJGFHCZO4IVHBSJERSJE/"
+      "src": "FOX Sports",
+      "u": "https://www.foxsports.com/stories/nfl/2026-nfl-thanksgiving-games-schedule-teams-how-watch"
     },
     {
       "h": "Cyber Monday",
-      "s": "The online shopping counterpart to Black Friday closes out the holiday weekend.",
+      "s": "The biggest online shopping day closes out the holiday weekend.",
       "date": "2026-11-30"
+    },
+    {
+      "h": "Rep. Jimmy Gomez's resignation takes effect",
+      "s": "The California Democrat leaves Congress after a House Ethics report found substantial evidence of sexual misconduct toward a staffer; he denies wrongdoing.",
+      "date": "2026-12-01",
+      "src": "ABC News",
+      "u": "https://abcnews.com/Politics/democratic-rep-jimmy-gomez-resign-house-ethics-report/story?id=138389265"
     }
   ]
 }
