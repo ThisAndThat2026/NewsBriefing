@@ -1,19 +1,37 @@
 {
   "stories": [
     {
-      "h": "Coastal flood advisory for Everett, Marysville, Lynnwood shorelines",
-      "s": "An NWS advisory runs 2 a.m.–5 p.m. Tuesday for Everett/Marysville, south Snohomish and northwest lowlands, with 1.5–2.5 ft of inundation possible at high tide. Higher tides follow Wednesday and Thursday.",
-      "src": "National Weather Service",
-      "u": "https://tgftp.nws.noaa.gov/data/raw/wh/whus46.ksew.cfw.sew.txt",
-      "t": "2026-11-23",
-      "impact": 4,
-      "act": true
+      "h": "Bothell-area man accused of killing father, setting fire",
+      "s": "A 40-year-old man was booked on suspicion of murder and arson. Investigators say he stabbed his father during an August dispute, then set fires at their home on 171st Street SE.",
+      "src": "The Herald (Everett)",
+      "u": "https://www.heraldnet.com/2026/11/24/bothell-man-suspected-of-murder-arson-in-fathers-death/",
+      "t": "2026-11-24",
+      "impact": 2,
+      "act": false
     },
     {
-      "h": "30 cats, two dogs rescued from Marysville hoarding home",
-      "s": "Police removed the animals from a home where ammonia levels triggered a hazmat response and found 12 dead cats. They plan to refer 44 neglect charges against the resident.",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/crime-blotter/dogs-cats-rescued-marysville/4303830",
+      "h": "State ends financial oversight of Marysville School District",
+      "s": "OSPI lifted all binding conditions after three years, citing substantial progress. The district now projects a reserve above the state's 5% goal and plans a levy in February 2027.",
+      "src": "The Herald (Everett)",
+      "u": "https://www.heraldnet.com/2026/11/24/the-releases-the-marysville-school-district-from-financial-oversight/",
+      "t": "2026-11-24",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Edmonds school board authorizes legal action against I-638",
+      "s": "The board voted unanimously to let the superintendent take legal action against the girls' sports initiative. The district says providers can't yet use the new attestation form ahead of the Dec. 3 start.",
+      "src": "The Herald (Everett)",
+      "u": "https://www.heraldnet.com/2026/11/24/edmonds-school-board-allows-legal-action-against-i-638/",
+      "t": "2026-11-24",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "SWAT standoff ends in arrest in south Everett",
+      "s": "A man said to be armed after a reported assault barricaded himself in a home on 60th Street SW for nearly six hours Monday before surrendering. Nearby roads have reopened.",
+      "src": "The Herald (Everett)",
+      "u": "https://www.heraldnet.com/2026/11/23/reported-assault-leads-to-swat-response-in-everett-on-monday-morning/",
       "t": "2026-11-23",
       "impact": 2,
       "act": false
@@ -21,11 +39,18 @@
   ],
   "coming": [
     {
-      "h": "More king tide flooding possible Wednesday, Thursday",
-      "s": "NWS flood watches for Everett/Marysville and south Snohomish shorelines run late Tuesday night through Thursday afternoon, with up to 3.5 ft of inundation.",
+      "h": "Coastal flooding for Everett, Lynnwood and Marysville shorelines",
+      "s": "A Wednesday advisory (2 to 9 a.m.) gives way to a Thursday watch (3 a.m. to 5 p.m.) with 2.5 to 3.5 feet of possible inundation. Everett's high tide peaks near 7 a.m. Thursday.",
+      "date": "2026-11-26",
+      "src": "Lynnwood Times",
+      "u": "https://lynnwoodtimes.com/2026/11/24/flooding-4"
+    },
+    {
+      "h": "Wind Advisory with gusts to 50 mph",
+      "s": "From 4 p.m. Wednesday to 11 a.m. Thursday, southeast winds of 25 to 35 mph with gusts to 50 mph could cause a few outages along Snohomish County shorelines.",
       "date": "2026-11-25",
-      "src": "National Weather Service",
-      "u": "https://tgftp.nws.noaa.gov/data/raw/wh/whus46.ksew.cfw.sew.txt"
+      "src": "Lynnwood Times",
+      "u": "https://lynnwoodtimes.com/2026/11/24/flooding-4"
     }
   ]
 }

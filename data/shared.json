@@ -1,225 +1,214 @@
 {
   "us": [
     {
-      "h": "Thanksgiving nor'easter forecast firms up; Northeast hubs face delays",
-      "s": "The latest forecast brings heavy Southeast rain Wednesday, including around Atlanta, then heavy rain and strong gusts across the Mid-Atlantic and Northeast on Thanksgiving, with significant delays expected at every Northeast hub airport.",
+      "h": "Thanksgiving storm to lash East Coast with wind, flooding",
+      "s": "A strengthening coastal storm brings rain and coastal flooding to the Southeast today, then peaks Thursday from the mid-Atlantic to New England with 1-4 inches of rain and gusts of 60 mph or more. St. Louis faces heavy snow.",
       "src": "The Weather Channel",
-      "u": "https://weather.com/2026/11/24/holiday/thanksgiving/thanksgiving-travel-weather-forecast-us-storms",
-      "t": "2026-11-24",
+      "u": "https://weather.com/2026/11/25/holiday/thanksgiving/east-coast-thanksgiving-storm-wind-rain-flooding",
+      "t": "2026-11-25",
       "impact": 5,
       "act": true
     },
     {
-      "h": "Appeals court opens path to erase Trump hush-money conviction",
-      "s": "A 2nd Circuit panel ruled Trump's 34-count New York case can move to federal court, where he can seek dismissal on presidential-immunity grounds. The ruling pauses his state appeal.",
-      "src": "PBS NewsHour (AP)",
-      "u": "https://www.pbs.org/newshour/politics/federal-appeals-court-gives-president-donald-trump-a-path-to-erasing-hush-money-conviction",
-      "t": "2026-11-23",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Trump moves to speed federal executions, blasts Newsom",
-      "s": "At the Justice Department, Trump ordered faster federal executions and death-penalty pursuits in child-murder, rape and trafficking cases, and attacked Newsom for commuting 548 California death sentences.",
-      "src": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom",
+      "h": "Sullivan concedes Alaska Senate seat to Peltola",
+      "s": "Republican Sen. Dan Sullivan conceded a day after Alaska certified Democrat Mary Peltola's roughly 4-point win, a flip that was part of a nine-seat Democratic Senate gain this cycle.",
+      "src": "The Hill",
+      "u": "https://thehill.com/homenews/campaign/6240650-dan-sullivan-concedes-alaska-senate/amp/",
       "t": "2026-11-24",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Court clears Iowa lead-explosive blast; Trump adds conditions",
-      "s": "The 8th Circuit lifted its stay, and the Army plans Wednesday to detonate about 4.75 tons of degraded lead azide near Middletown, Iowa. Trump says Governor-elect Rob Sand must also agree.",
-      "src": "Iowa Public Radio",
-      "u": "https://www.iowapublicradio.org/ipr-news/2026-11-23/court-lifts-stay-block-iowa-lead-detonation",
-      "t": "2026-11-23",
-      "impact": 3,
+      "h": "Abrego Garcia voluntarily leaves U.S. for Spain",
+      "s": "Kilmar Abrego Garcia, wrongly deported to El Salvador in 2025 and later returned, departed for Spain after a long legal fight. His lawyers call it temporary; DHS labeled it self-deportation.",
+      "src": "St. Louis Public Radio (NPR)",
+      "u": "https://www.stlpr.org/npr/2026-11-25/kilmar-abrego-garcia-leaves-u-s-voluntarily-for-spain",
+      "t": "2026-11-25",
+      "impact": 2,
       "act": false
     },
     {
-      "h": "Senate panel probes Vance role in Venezuela oil deal",
-      "s": "Sen. Maggie Hassan is investigating whether Vance helped trader Vitol win lucrative Venezuelan crude sales after Maduro's ouster, seeking documents by Dec. 14. Vance's office denies a reported meeting.",
-      "src": "AOL (Reuters)",
-      "u": "https://www.aol.com/articles/jd-vances-ties-prized-venezuelan-201448000.html",
-      "t": "2026-11-23",
+      "h": "Schumer accuses Nvidia's Huang of breaking export law",
+      "s": "Senate Democratic leader Chuck Schumer claimed the newly reinstated Nvidia CEO shipped advanced chips to China in violation of U.S. export controls. It is a political accusation, not a legal finding; Nvidia had not commented.",
+      "src": "CP24 (Reuters)",
+      "u": "https://www.cp24.com/news/world/2026/11/24/schumer-accuses-nvidia-ceo-of-violating-us-export-control-law/",
+      "t": "2026-11-24",
       "impact": 3,
       "act": false
     }
   ],
   "world": [
     {
-      "h": "Iran says tankers hit Hormuz mines, tightens strait closure",
-      "s": "Iran's Revolutionary Guards claimed three US-escorted tankers struck mines in the Strait of Hormuz, unconfirmed by maritime monitors. Iran's army chief ordered tighter control as Qatar urged Washington to restart talks.",
-      "src": "Euronews",
-      "u": "https://euronews.com/2026/11/24/iran-orders-hormuz-closed-further-day-by-day-as-qatar-seeks-to-revive-peace-talks",
-      "t": "2026-11-24",
+      "h": "US proposes new tariffs on China, EU and 12 others",
+      "s": "After an eight-month probe into industrial overcapacity, USTR proposed tariffs on 14 economies, with China's 20% rate the highest. A comment period and hearing mean they likely won't take effect before January 2027.",
+      "src": "RTÉ",
+      "u": "https://www.rte.ie/news/us/2026/1125/1600630-us-tariffs/",
+      "t": "2026-11-25",
       "impact": 4,
       "act": false
     },
     {
-      "h": "Russia warns Estonia it is nearing 'open war'",
-      "s": "Moscow accused Tallinn of letting Ukrainian drones use its airspace and blocking Russian shipping, and summoned its envoy. Estonia denies it and will shut Russian border crossings Dec. 1; NATO is watching.",
-      "src": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war",
-      "t": "2026-11-23",
+      "h": "Houthis claim strikes on Saudi refinery, Riyadh financial district",
+      "s": "Yemen's Houthis said they hit the Ras Tanura refinery, Saudi Arabia's largest, and Riyadh's financial district. The Saudi-led coalition said it downed four drones. Saudi civil defence said a strike on a Riyadh tower wounded 11 on Tuesday.",
+      "src": "WSAU (Reuters)",
+      "u": "https://wsau.com/2026/11/25/yemens-houthis-say-they-attacked-saudi-oil-refinery-and-riyadh-financial-district/",
+      "t": "2026-11-25",
       "impact": 4,
       "act": false
     },
     {
-      "h": "EU proposes 22nd Russia sanctions package, including sports ban",
-      "s": "The European Commission proposed cutting 60 Russian banks from SWIFT, a crypto task force against evasion, a ban on Russian athletes competing under their flag, and visa refusals for war veterans. All 27 members must agree.",
-      "src": "Al Jazeera",
-      "u": "https://www.aljazeera.com/amp/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal",
-      "t": "2026-11-23",
-      "impact": 4,
-      "act": false
-    },
-    {
-      "h": "Zaporizhzhia strike kills two; Russian drone enters Polish airspace",
-      "s": "A dawn Russian attack on Zaporizhzhia killed two and injured more than 40, including an infant. A Russian drone briefly crossed into Poland, which a Polish deputy minister called deliberate.",
-      "src": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/24/russian-attack-kills-two-people-in-ukraines-zaporizhzhia",
+      "h": "Putin vows retaliation over Ukrainian refinery strikes",
+      "s": "Putin said Ukraine keeps hitting Russian refineries despite Trump asking it to stop, and called retaliation inevitable. Industry sources say the drone attacks have cut Russian refining throughput by about 45% since late October.",
+      "src": "The Korea Times (Reuters)",
+      "u": "https://www.koreatimes.co.kr/world/20261125/putin-says-ukraine-hits-russian-oil-plants-despite-trumps-requests-promises-retaliation",
       "t": "2026-11-24",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Gaza declares meningitis epidemic alert as strikes kill seven",
-      "s": "Gaza's health ministry issued a territory-wide alert after meningitis cases hit 272 in October, about eight times normal. Israeli air strikes killed at least seven Palestinians, including a child.",
-      "src": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak",
-      "t": "2026-11-24",
+      "h": "Solomon Islands signs security treaty with Australia",
+      "s": "The new treaty bars foreign military bases in Solomon Islands and makes Australia its main security partner. The ABC reports Honiara plans to let its 2022 China policing pact lapse in 2027.",
+      "src": "ABC News (Australia)",
+      "u": "https://www.abc.net.au/news/2026-11-25/australia-signs-pact-with-solomon-islands-in-blow-to-china/107424550",
+      "t": "2026-11-25",
       "impact": 3,
       "act": false
     },
     {
-      "h": "South Korea issues air raid alert as Russian jets approach",
-      "s": "About five Russian military aircraft entered South Korea's air defense zone near Ulleung Island. Seoul scrambled fighters, briefly told residents to shelter, and protested to Moscow.",
-      "src": "Al Jazeera",
-      "u": "https://aljazeera.com/news/2026/11/24/why-s-korea-issued-air-raid-alert-after-russian-jets-flew-near-its-airspace",
-      "t": "2026-11-24",
+      "h": "RSF drone strikes kill 19 civilians in Sudan's Blue Nile",
+      "s": "A rights group says paramilitary drones struck homes in Damazin, killing 19 people, and wounded five in Roseires. The group says the dam and power facilities were also targeted, which could disrupt electricity across the state.",
+      "src": "Yahoo News (Reuters)",
+      "u": "https://www.yahoo.com/news/articles/drone-strikes-kill-19-civilians-104018651.html",
+      "t": "2026-11-25",
       "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Pakistani becomes first foreigner aboard China's space station",
+      "s": "Shenzhou-24 launched from Jiuquan and docked with Tiangong carrying Zeeshan Ali, Pakistan's first astronaut. He will spend about a week running experiments with two Chinese crewmates.",
+      "src": "Dawn",
+      "u": "https://www.dawn.com/news/2046753",
+      "t": "2026-11-25",
+      "impact": 2,
       "act": false
     }
   ],
   "tech": [
     {
-      "h": "Nvidia reinstates Jensen Huang; stock surges more than 30%",
-      "s": "Nvidia's board brought Huang back as CEO less than two weeks after he resigned. Shares jumped over 30% and the Nasdaq had its best day since April 2025; federal probes continue.",
-      "src": "Yahoo Finance (Reuters)",
-      "u": "https://finance.yahoo.com/markets/stocks/articles/trading-day-market-euphoria-huang-220642616.html",
-      "t": "2026-11-23",
-      "impact": 5,
-      "act": false
-    },
-    {
-      "h": "Amazon agrees to buy Decart AI tech for about $7.5B",
-      "s": "Amazon will acquire Decart's AI optimization technology and hire its founders and team in a cash deal reportedly near $7.5 billion, aiming for faster, cheaper AI on its custom chips. Regulators must approve.",
-      "src": "MarketScreener",
-      "u": "https://www.marketscreener.com/news/amazon-com-inc-signed-an-agreement-to-acquire-decart-ai-ltd-for-an-estimated-7-5-billion-ce7851dadf8af726",
-      "t": "2026-11-23",
-      "impact": 4,
-      "act": false
-    },
-    {
-      "h": "Bell says hackers accessed customer data in breach",
-      "s": "Canada's Bell said an intruder reached an internal system Nov. 17, exposing names, addresses, phone numbers and account details for Bell, Virgin Plus and Lucky Mobile customers. No banking data was taken, it says.",
-      "src": "BNN Bloomberg (Canadian Press)",
-      "u": "https://bnnbloomberg.ca/business/company-news/2026/11/23/bell-investigating-cyberattack-that-exposed-customer-information-last-week",
-      "t": "2026-11-23",
+      "h": "Microsoft declares 'Code Red' after 24-hour Microsoft 365 outage",
+      "s": "Internal memos reviewed by Reuters show Microsoft overhauling outage prevention after the November 12-13 failure hit Outlook, Teams and Exchange. It now aims to resolve future incidents worldwide within an hour.",
+      "src": "RTÉ",
+      "u": "https://www.rte.ie/news/business/2026/1125/1600565-microsoft-declares-code-red-after-historic-outage-memo/",
+      "t": "2026-11-25",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Ariane 6 launches 36 Amazon Leo internet satellites",
-      "s": "Ariane 6 lifted off from French Guiana Tuesday with 36 Amazon Leo satellites after a one-day scrub, Amazon's first launch since a Vulcan failure destroyed 40 of its satellites on Nov. 15.",
-      "src": "Space.com",
-      "u": "https://www.space.com/space-exploration/launches-spacecraft/arianespace-ariane-6-amazon-leo-internet-satellite-launch",
+      "h": "US jury convicts Huawei of trade secret conspiracy, fraud",
+      "s": "A New York federal jury found Huawei guilty of conspiring to steal trade secrets and of bank fraud but acquitted it of racketeering conspiracy. Huawei plans to appeal, and China called the case economic bullying.",
+      "src": "PBS News",
+      "u": "https://www.pbs.org/newshour/nation/u-s-jury-finds-chinese-tech-giant-huawei-guilty-of-conspiracy-to-steal-trade-secrets-bank-fraud",
       "t": "2026-11-24",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Meta backs away from its 2030 net-zero target",
-      "s": "Meta's sustainability report says it is re-evaluating its 2030 net-zero timeline after emissions more than doubled in four years, driven by AI data centers and new natural-gas power.",
-      "src": "TechCrunch",
-      "u": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious",
-      "t": "2026-11-23",
+      "h": "Dell raises forecast again on record AI server demand",
+      "s": "Dell lifted its fiscal-year revenue outlook to $202 billion after record third-quarter sales of $54.9 billion and a $132.3 billion AI server backlog. It expects the memory chip shortage to last into 2027.",
+      "src": "AOL (Reuters)",
+      "u": "https://www.aol.com/articles/dell-lifts-annual-forecasts-record-210649000.html",
+      "t": "2026-11-24",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Meta AI chief warns superintelligence is 'arriving'",
-      "s": "Meta Chief AI Officer Alexandr Wang said superintelligence is imminent and self-improving AI may be impossible to control, urging an approach that gives people more agency.",
-      "src": "Al Jazeera",
-      "u": "https://aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive",
-      "t": "2026-11-23",
+      "h": "Huang apologizes to Nvidia staff; shares slide after rally",
+      "s": "At his first all-hands since being reinstated, Jensen Huang apologized for violating the code of conduct, according to Bloomberg. Nvidia stock fell more than 7% Tuesday after Monday's nearly 31% jump.",
+      "src": "Yahoo Finance",
+      "u": "https://finance.yahoo.com/markets/stocks/articles/nvidia-jensen-huang-apologizes-employees-200356995.html",
+      "t": "2026-11-24",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Shein to pay $100 million to settle FTC claims",
+      "s": "The FTC alleges Shein misled US shoppers about shipping times, suppressed negative reviews and made questionable sourcing claims. The money would go to consumer refunds once a judge approves the deal.",
+      "src": "WAFB",
+      "u": "https://www.wafb.com/2026/11/24/shein-agrees-pay-100-million-settle-ftc-allegations-over-shipping-reviews-product-claims/",
+      "t": "2026-11-24",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Tidal to remove fully AI-generated music from December 9",
+      "s": "Tidal will delete about 27 million wholly AI-generated tracks and reject new uploads of them. It says 43% of tracks delivered in the past 90 days were entirely AI-made. AI-assisted music stays allowed.",
+      "src": "Digital Music News",
+      "u": "https://www.digitalmusicnews.com/2026/11/24/tidal-bans-ai-generated-music/",
+      "t": "2026-11-24",
       "impact": 2,
       "act": false
     }
   ],
   "talking": [
     {
-      "h": "Wind could ground balloons at Macy's 100th parade",
-      "s": "AccuWeather expects 20–30 mph gusts for Thursday's parade, near New York City's limits for flying the giant balloons, with winds strengthening late and rain arriving around midday.",
-      "src": "AccuWeather",
-      "u": "https://www.accuweather.com/en/weather-forecasts/noreaster-could-spoil-macys-thanksgiving-day-parade-fun-in-nyc-with-strong-winds-rain/1962880",
-      "t": "2026-11-23",
-      "impact": 3,
+      "h": "Bears-Lions, Chiefs-Bills headline NFL Thanksgiving slate",
+      "s": "Holiday football starts tonight with Packers at Rams on Netflix, then Thursday brings Bears at Lions, Eagles at Cowboys, and a Mahomes-Allen showdown as Kansas City visits 9-1 Buffalo.",
+      "src": "ESPN",
+      "u": "https://www.espn.com/nfl/story/_/id/50582822/thanksgiving-games-picks-schedule-fantasy-odds-2026",
+      "t": "2026-11-25",
+      "impact": 2,
       "act": false
     },
     {
-      "h": "Ilhan Omar search-warrant records partly unsealed",
-      "s": "Judge Boasberg released 169 heavily redacted pages tied to the FBI search of Omar's D.C. home, reportedly involving citizenship and marriage questions. Omar has not been charged and calls the probe political.",
-      "src": "Yahoo News (FOX 9)",
-      "u": "https://www.yahoo.com/news/politics/articles/ilhan-omar-search-warrant-court-000643759.html",
+      "h": "Wind threatens Macy's parade balloons in NYC",
+      "s": "With gusts of 45-55 mph forecast Thursday, organizers are weighing schedule and balloon changes; the NYPD grounds balloons if gusts top 34 mph, which has happened for weather only once, in 1971.",
+      "src": "ABC7 New York",
+      "u": "https://abc7ny.com/live-updates/thanksgiving-storm-2026-strong-wind-rain-hit-nyc-tri-state-during-parade/20069977/",
       "t": "2026-11-24",
       "impact": 2,
       "act": false
     },
     {
-      "h": "Commanders stun Bengals with walk-off field goal",
-      "s": "Jayden Daniels drove Washington 64 yards in three plays after Cincinnati's late go-ahead score, and Drew Stevens kicked his fifth field goal at the gun for a 22-20 Monday night win.",
-      "src": "Sports Illustrated",
-      "u": "https://www.si.com/nfl/commanders/onsi/commanders-vs-bengals-live-updates-score-highlights-mnf-week-11",
-      "t": "2026-11-23",
+      "h": "Trump sets Medal of Freedom honor for Giuliani",
+      "s": "Trump scheduled an Oval Office ceremony Tuesday to give the nation's top civilian honor to Rudy Giuliani, his former lawyer, who was disbarred and hit with a $148 million defamation judgment after the 2020 election.",
+      "src": "CBS News",
+      "u": "https://www.cbsnews.com/news/trump-rudy-giuliani-presidential-medal-of-freedom-white-house/",
+      "t": "2026-11-24",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Inflation, GDP, jobless claims all land Wednesday",
-      "s": "October core PCE, the Q3 GDP revision, weekly jobless claims and durable goods arrive at 8:30 a.m. ET, with the Fed's Beige Book at 2 p.m.",
+      "h": "Q3 GDP revision and October PCE inflation data",
+      "s": "The Commerce Department releases its second estimate of third-quarter GDP and October personal income and spending, including the Fed's preferred inflation gauge, at 8:30 a.m. ET.",
       "date": "2026-11-25",
-      "src": "Gotrade",
-      "u": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-11-23/"
+      "src": "Bureau of Economic Analysis",
+      "u": "https://www.bea.gov/news/schedule"
     },
     {
-      "h": "Thanksgiving: NFL triple-header, markets closed",
-      "s": "Bears at Lions (1 p.m. ET, CBS), Eagles at Cowboys (4:30, FOX) and Chiefs at Bills (8:20, NBC). Stock markets, banks and post offices are closed.",
+      "h": "Thanksgiving: storm peaks, stock markets closed",
+      "s": "U.S. stock markets are closed for the holiday as the East Coast storm hits hardest, with possible delays at airports from Washington to Boston.",
       "date": "2026-11-26",
-      "src": "FOX Sports",
-      "u": "https://www.foxsports.com/stories/nfl/2026-nfl-thanksgiving-games-schedule-teams-how-watch"
+      "src": "FOX Weather",
+      "u": "https://www.foxweather.com/weather-news/thanksgiving-travel-storms-disruptions-america"
     },
     {
-      "h": "Black Friday; stocks close early at 1 p.m.",
-      "s": "Holiday shopping kicks off, markets run a shortened session, and Broncos at Steelers airs at 3 p.m. ET on Prime Video.",
+      "h": "Black Friday: markets close early",
+      "s": "Stock markets close at 1 p.m. ET as retailers kick off the holiday shopping season.",
+      "date": "2026-11-27"
+    },
+    {
+      "h": "Protected status for Lebanese immigrants expires",
+      "s": "Temporary protected status for Lebanese nationals in the U.S. ends Friday unless extended; a House bill co-sponsored by Rep. Rashida Tlaib seeks to prolong it.",
       "date": "2026-11-27",
-      "src": "FOX Sports",
-      "u": "https://www.foxsports.com/stories/nfl/2026-nfl-thanksgiving-games-schedule-teams-how-watch"
+      "src": "Democracy Now!",
+      "u": "https://www.democracynow.org/2026/11/24/headlines"
     },
     {
-      "h": "Cyber Monday",
-      "s": "The biggest online shopping day closes out the holiday weekend.",
+      "h": "Cyber Monday online sales",
+      "s": "The biggest online shopping day of the year caps the Thanksgiving weekend retail rush.",
       "date": "2026-11-30"
-    },
-    {
-      "h": "Rep. Jimmy Gomez's resignation takes effect",
-      "s": "The California Democrat leaves Congress after a House Ethics report found substantial evidence of sexual misconduct toward a staffer; he denies wrongdoing.",
-      "date": "2026-12-01",
-      "src": "ABC News",
-      "u": "https://abcnews.com/Politics/democratic-rep-jimmy-gomez-resign-house-ethics-report/story?id=138389265"
     }
   ]
 }

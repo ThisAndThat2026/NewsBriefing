@@ -1,40 +1,47 @@
 {
   "stories": [
     {
-      "h": "Coastal flood advisory for Pierce shorelines today",
-      "s": "An NWS advisory runs 2 a.m.–5 p.m. Tuesday for Pierce lowlands, with 1.5–2.5 ft of inundation possible at high tide. Watches follow for Wednesday and Thursday.",
-      "src": "National Weather Service",
-      "u": "https://tgftp.nws.noaa.gov/data/raw/wh/whus46.ksew.cfw.sew.txt",
+      "h": "Sheriff Swank posts woman's address, sparks backlash",
+      "s": "Sheriff Keith Swank posted a Tacoma woman's address online and accused her of stalking. X briefly locked his account, and prosecutors say they received only one threat referral, not the two he claimed.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/sheriff-swank-says-x-locked-his-account-after-he-posted-address-woman-he-accused-stalking/BUQNTXY6GZBTHPHOU3WNVJKLTY/",
       "t": "2026-11-23",
-      "impact": 4,
-      "act": true
-    },
-    {
-      "h": "Puyallup officer shoots man in overnight incident",
-      "s": "A Puyallup officer shot a man around 3:30 a.m. Tuesday on 8th Ave. NW; he is expected to recover and no officers were hurt. Pierce County deputies are investigating.",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/crime-blotter/authorities-responding-to-officer-involved-in-puyallup/4304125",
-      "t": "2026-11-24",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Two years for attempted kidnapping of Lakewood barista",
-      "s": "A Kent man was sentenced for trying to pull a Lakewood drive-thru barista through the window in August 2025. He must register as a sex offender and stay away from drive-thru coffee stands.",
+      "h": "Arrest after machete attack in South Hill parking lot",
+      "s": "Deputies arrested a 54-year-old man for first-degree assault after a man was badly cut in a machete attack near 160th St. E and Meridian. Deputies gave aid until medics arrived.",
       "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/crime-blotter/lakewood-barista-kidnapping/4303813",
-      "t": "2026-11-23",
+      "u": "https://mynorthwest.com/crime-blotter/south-hill-machete-attack/4304275",
+      "t": "2026-11-24",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Frisko Freeze owner's Tacoma restaurant group to dissolve",
+      "s": "X Group Restaurants is selling Asado, E9 Firehouse and E9 Brewing to new local owners and will then dissolve. Frisko Freeze stays open under the Xitco family.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/lifestyle/tacoma-frisko-freeze-dissolve/4304303",
+      "t": "2026-11-24",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "King tide flood watch continues through Thursday",
-      "s": "NWS flood watches for Pierce lowlands run late Tuesday night through Wednesday afternoon (2–3 ft) and Wednesday night through Thursday afternoon (2.5–3.5 ft).",
+      "h": "Thanksgiving king tides threaten Puget Sound shorelines",
+      "s": "Forecasters say the coastal flood risk moves to inland waters, including Puget Sound, on Thanksgiving. Waterfront roads and low-lying neighborhoods could flood, with 30 to 40 mph gusts in the South Sound.",
+      "date": "2026-11-26",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/weather/seattle-weather-wind-rain-king-tide-flooding"
+    },
+    {
+      "h": "I-5 Lacey–Tacoma congestion through holiday weekend",
+      "s": "WSDOT's travel charts for Nov. 25 to 29 flag I-5 between Lacey and Tacoma as a main bottleneck. SR 167 express lanes are free on Thanksgiving.",
       "date": "2026-11-25",
-      "src": "National Weather Service",
-      "u": "https://tgftp.nws.noaa.gov/data/raw/wh/whus46.ksew.cfw.sew.txt"
+      "src": "KOMO",
+      "u": "https://komonews.com/news/local/wsdot-warns-of-thanksgiving-weekend-traffic-delays-on-i-90-us2-i90-north-bend-cle-elum-lacey-tacoma-bellingham-canadian-border-tolls-on-thanksgiving-washington-state"
     }
   ]
 }

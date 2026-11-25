@@ -1,50 +1,50 @@
 {
- "stories": [
-  {
-   "h": "Bennett would vote against Eisenkot minority government",
-   "s": "Monday's Likud–Yashar talks made no progress and rotation wasn't raised. Bennett and Liberman oppose a quick minority government, and Eisenkot, with 12 days left on his mandate, may need an extension.",
-   "src": "Ynetnews",
-   "u": "https://www.ynetnews.com/article/bk73k3gj7x",
-   "t": "2026-11-24",
-   "impact": 5,
-   "act": false
-  },
-  {
-   "h": "Israeli strike kills Hamas internal security chief in Gaza",
-   "s": "Naeem Abu Nahal, who led Hamas's internal security in Gaza, died in a Tuesday strike, a Palestinian security source told AFP. Israel's military said it hit a senior Hamas operative.",
-   "src": "Euronews",
-   "u": "https://www.euronews.com/2026/11/24/israeli-strike-kills-hamas-internal-security-chief-in-gaza-source-tells-afp",
-   "t": "2026-11-24",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Mossad analysts, IDF chief see no urgency for Iran strike",
-   "s": "Per a Haaretz report, Mossad researchers see no immediate need to strike Iran while chief Gofman pushes for one; IDF chief Zamir reportedly says Israel can wait for Washington and a new government.",
-   "src": "Times of Israel",
-   "u": "https://www.timesofisrael.com/mossad-researchers-see-no-urgency-for-iran-strike-as-chief-pushes-military-action-report/",
-   "t": "2026-11-23",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Liberman: solo Iran strike for political reasons would be illegal",
-   "s": "In a classified Knesset session, Liberman warned Netanyahu may see an Iran attack as a political lifeline. Eisenkot says no immediate threat requires action before a new government forms.",
-   "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915863",
-   "t": "2026-11-23",
-   "impact": 4,
-   "act": false
-  },
-  {
-   "h": "Eisenkot bloc moves to repeal judicial overhaul laws",
-   "s": "The 67-seat bloc named Democrats MK Gilad Kariv to chair a repeal committee, prioritizing judicial selection, the attorney general's powers and police-investigations oversight, even before a government forms.",
-   "src": "Jerusalem Post",
-   "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-915919",
-   "t": "2026-11-24",
-   "impact": 3,
-   "act": false
-  }
- ],
- "coming": []
+  "stories": [
+    {
+      "h": "Judges urge dropping gravest Netanyahu corruption case",
+      "s": "Jerusalem judges told the attorney general Case 4000 has little chance of conviction, urged rethinking Case 2000 and a negotiated deal in Case 1000; prosecutors say they will weigh it.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/liveblog_entry/court-recommends-dropping-or-reconsidering-2-out-of-3-cases-against-netanyahu-in-severe-blow-to-prosecution/",
+      "t": "2026-11-25",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Eisenkot clinches first coalition deal, with Liberman's party",
+      "s": "Yashar and Yisrael Beytenu announced a coalition agreement; Liberman predicts a government by end of next week, though the Democrats froze talks and UTJ still awaits rabbinic approval.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/liberman-eisenkot-can-form-coalition-with-clear-jewish-majority-by-end-of-next-week/",
+      "t": "2026-11-25",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Trump says Iran war funded only through January",
+      "s": "Trump's remark implies a narrow window for any renewed US-Israeli offensive; he says his aims, unlike Israel's, are limited to stopping an Iranian bomb. Two tankers hit mines near Hormuz Wednesday.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/trump-says-iran-war-funded-through-january-suggesting-limited-window-for-new-op/",
+      "t": "2026-11-25",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Katz claims Iran is developing chemical weapons",
+      "s": "The caretaker defense minister gave no details on the alleged program, which Tehran calls fraudulent, and said Israel will keep troops in buffer zones in Lebanon, Gaza and Syria.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/amid-politicized-debate-in-us-and-israel-katz-warns-iran-developing-chemical-weapons/",
+      "t": "2026-11-24",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Knesset panel advances repeal of Karhi's media law",
+      "s": "A special committee sent the bill undoing Netanyahu's government's July broadcasting overhaul to its first plenum reading, part of the Eisenkot bloc's push to reverse contested laws.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/liveblog_entry/knesset-panel-advances-bill-to-repeal-karhis-controversial-media-law/",
+      "t": "2026-11-25",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": []
 }

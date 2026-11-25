@@ -1,40 +1,54 @@
 {
   "stories": [
     {
-      "h": "King tide flood advisory for Seattle shoreline today",
-      "s": "An NWS coastal flood advisory runs 2 a.m.–5 p.m. Tuesday for Seattle and southern King lowlands, with 1.5–2.5 ft of inundation possible. Tides peak Wednesday amid gusty winds and heavy rain.",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/weather/seattle-weather-high-tides-gusty-winds-rain-holiday-week-ahead",
-      "t": "2026-11-24",
-      "impact": 4,
-      "act": true
-    },
-    {
-      "h": "Port of Seattle commissioners call ICE 'rogue,' order review",
-      "s": "After Saturday's jet-bridge arrests of a father and daughter at Sea-Tac, commissioners unanimously criticized ICE, ordered an airport badging review and backed a Senate bill limiting enforcement at airports.",
-      "src": "KOMO News",
-      "u": "https://komonews.com/news/local/port-of-seattle-commissioners-call-ice-agents-rogue-demand-airport-security-review-seattle-tacoma-international-airport-immigration-los-angeles-abduction-credentials-tsa",
-      "t": "2026-11-23",
-      "impact": 4,
+      "h": "King County court filing portal offline through Nov. 30",
+      "s": "The clerk's KC Script portal stays down after a vendor's cybersecurity warning collided with planned maintenance. Officials say nothing was breached, and filings are going through email, fax and in person.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/king-county-eyes-monday-reopening-court-filing-portal-after-cyberthreat-warning/KBUQOKOMA5FMNJUFBY6EUUMBUE/",
+      "t": "2026-11-25",
+      "impact": 2,
       "act": false
     },
     {
-      "h": "Mark Ellerbrook nominated interim CEO of homelessness authority",
-      "s": "Mayor Wilson and Executive Zahilay picked Seattle's human services director to lead the troubled KCRHA. Its board votes Dec. 4, and contracts return to the city and county Jan. 1 amid a $17M gap.",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/mynorthwest-politics/king-county-agency-2/4303862",
+      "h": "Seattle schools to pay $600K in pregnancy accommodation case",
+      "s": "In a settlement with the Attorney General, Seattle Public Schools will pay $600,000 and adopt new policies for pregnant and nursing staff, including five-day responses to accommodation requests.",
+      "src": "KUOW",
+      "u": "https://www.kuow.org/education/2026-11-23/seattle-schools-to-pay-600-000-over-treatment-of-pregnant-nursing-employees",
       "t": "2026-11-23",
-      "impact": 3,
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Person in crisis closes 2nd Avenue downtown for hours",
+      "s": "Emergency crews closed southbound 2nd Avenue between Pine and Union for hours Tuesday while they responded to a person in crisis.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/chokepoints/seattle-emergency-close-avenue/4304223",
+      "t": "2026-11-24",
+      "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Coastal flood watch as king tides peak",
-      "s": "NWS watches cover Seattle and southern King lowlands late Tuesday night through Wednesday afternoon (2–3 ft) and again Wednesday night into Thursday (2.5–3.5 ft).",
-      "date": "2026-11-25",
-      "src": "National Weather Service",
-      "u": "https://tgftp.nws.noaa.gov/data/raw/wh/whus46.ksew.cfw.sew.txt"
+      "h": "King tide flood watch for south King shorelines",
+      "s": "A coastal flood watch for Thursday 3 a.m. to 5 p.m. warns of 2.5 to 3.5 feet of inundation in low spots in Burien, Normandy Park and Des Moines. A wind advisory with 45 mph gusts reaches Kent and Auburn.",
+      "date": "2026-11-26",
+      "src": "B-Town Blog",
+      "u": "https://b-townblog.com/weather-king-tides-and-strong-winds-raise-thanksgiving-week-flooding-concerns/"
+    },
+    {
+      "h": "Weekend tolls on SR 520 and SR 99 Thursday",
+      "s": "Weekend toll rates apply on Thanksgiving on SR 520 and the SR 99 tunnel. I-405 express toll lanes are free all day.",
+      "date": "2026-11-26",
+      "src": "KOMO",
+      "u": "https://komonews.com/news/local/wsdot-warns-of-thanksgiving-weekend-traffic-delays-on-i-90-us2-i90-north-bend-cle-elum-lacey-tacoma-bellingham-canadian-border-tolls-on-thanksgiving-washington-state"
+    },
+    {
+      "h": "Court filing portal targeted to return Monday",
+      "s": "King County expects KC Script back Nov. 30 if the vendor's security upgrades and county testing are finished.",
+      "date": "2026-11-30",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/king-county-eyes-monday-reopening-court-filing-portal-after-cyberthreat-warning/KBUQOKOMA5FMNJUFBY6EUUMBUE/"
     }
   ]
 }

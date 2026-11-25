@@ -1,55 +1,46 @@
 {
   "stories": [
     {
-      "h": "Coastal flood warnings, gusty winds hit Washington coast today",
-      "s": "Coastal flood warnings run through midday Tuesday for Grays Harbor, the North Coast and the Strait, with advisories for Seattle and Puget Sound and beach gusts to 45 mph. A Mason County flood watch starts Wednesday.",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/weather/seattle-weather-high-tides-gusty-winds-rain-holiday-week-ahead",
+      "h": "Atmospheric river, gusty winds to hit Thanksgiving travel",
+      "s": "Forecasters expect the strongest system of the week Wednesday night into Thanksgiving: heavy rain, Puget Sound gusts above 40 mph, possible thunderstorms, scattered power outages and high-tide shoreline flooding.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/pinpoint-alert-coastal-flooding-heavy-rains-expected-thanksgiving-week/EF3G2ANPVBBANKTONAVNC3DIWU/",
       "t": "2026-11-24",
       "impact": 4,
       "act": true
     },
     {
-      "h": "Utilities brace for wind-driven outages before Thanksgiving",
-      "s": "Puget Sound Energy and Seattle City Light have crews on standby around the clock, warning that saturated soil and gusty winds make trees more likely to fall into lines.",
-      "src": "KOMO News",
-      "u": "https://komonews.com/news/local/utility-crews-prepare-for-possible-outages-as-gusty-winds-move-in-ahead-of-thanksgiving-seattle-city-light-puget-sound-energy-scl-pse-rich-johnson-customers-outages",
-      "t": "2026-11-23",
-      "impact": 3,
-      "act": true
-    },
-    {
-      "h": "Winter storm watch for North Cascades through Thursday",
-      "s": "NWS Seattle expects 4–8 inches of snow in the Whatcom and Skagit Cascades by Tuesday night, then possibly 5–15 inches of heavy wet snow above 5,000 feet late Wednesday into Thursday, with 35 mph gusts and hard travel.",
-      "src": "GovOneStop",
-      "u": "https://govonestop.com/nws/washington-severe-winter-storm-watch-effective-11242026-0820",
-      "t": "2026-11-24",
-      "impact": 3,
-      "act": true
-    },
-    {
-      "h": "Manhunt in Stevens County for man accused of firing at deputies",
-      "s": "US Marshals are hunting Ronald Rutledge, 45, accused of shooting a rifle at deputies near Waitts Lake and fleeing in a stolen white Polaris Ranger. He's considered armed and dangerous; call 911, don't approach.",
-      "src": "KOMO News",
-      "u": "https://komonews.com/news/local/stevens-county-deputies-search-for-fugitive-accused-of-shooting-at-officers-ronald-rutledge-2018-polaris-ranger-department-of-corrections-armed-and-dangerous-shooting-gun-violence",
-      "t": "2026-11-23",
-      "impact": 3,
-      "act": true
-    },
-    {
-      "h": "Washington bids for U.S. Space Academy in Federal Way",
-      "s": "The state formally applied to host the national Space Academy, starting temporarily at UW with a permanent campus at Federal Way's Woodbridge Corporate Park by 2031. No decision date is set.",
-      "src": "The Spokesman-Review",
-      "u": "https://www.spokesman.com/stories/2026/nov/23/washington-seeks-to-host-new-space-academy-to-trai/",
+      "h": "Washington sues HUD over mixed-status housing aid rule",
+      "s": "Washington joined a multistate lawsuit against a HUD rule ending prorated aid for mixed-status households. About 600 Washington families could lose help, and roughly 82,000 residents face new paperwork.",
+      "src": "KOMO",
+      "u": "https://komonews.com/news/local/washington-lawsuit-challenging-hud-rule-housing-aid-mixed-citizenship-status-families-immigration-status-children-social-security-number-save-database",
       "t": "2026-11-23",
       "impact": 3,
       "act": false
     },
     {
-      "h": "SpaceX fights state fine over lead at Redmond Starlink site",
-      "s": "SpaceX is appealing a $6,000 Labor & Industries fine after inspectors found lead 18 times the limit on a workbench; another violation involved heating a part in a breakroom toaster oven.",
-      "src": "InvestigateWest",
-      "u": "https://www.investigatewest.org/toxic-chemicals-customer-service-and-a-toaster-oven-elon-musks-spacex-disputes-a-wa-state-fine/",
+      "h": "Boeing wins 50-jet China order worth about $7.4 billion",
+      "s": "Xiamen Airlines, part of China Southern, ordered 50 single-aisle jets, mostly 737-8 MAXs. At list prices it is Boeing's biggest Chinese order in nearly a decade.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/boeing-lands-50-jet-order-chinas-largest-purchase-company-nearly-decade/355Z46Z3MNB77JEFSMSS7UKS7Q/",
+      "t": "2026-11-24",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Bird flu reaches Grant County dairy herd",
+      "s": "State agriculture officials confirmed bird flu in a Grant County dairy herd, bringing infected herds to 44 across Yakima, Benton and Grant counties since October. Pasteurized milk remains safe.",
+      "src": "KHQ",
+      "u": "https://www.khq.com/news/bird-flu-found-in-grant-county-cattle-44-herds-now-affected-in-washington/article_23263736-0325-4a6c-a911-61ddcfc198e3.html",
+      "t": "2026-11-23",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Insurers paid $61M on last December's flood claims",
+      "s": "State data shows 1,056 residential claims and about $61.3 million paid after December 2025's floods. Whatcom, Skagit and King counties were hit hardest, and regulators say standard homeowner policies usually exclude floods.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/more-than-1000-flood-claims-filed-after-western-washington-storms-payouts-top-61-million/4NBOTTZ6D5EJJFCOCUV2IRIVOY/",
       "t": "2026-11-23",
       "impact": 2,
       "act": false
@@ -57,63 +48,56 @@
   ],
   "talking": [
     {
-      "h": "Sam Darnold returns to Seahawks practice before 49ers",
-      "s": "Darnold practiced Monday for the first time in three weeks after quad and rib injuries and is expected to start at San Francisco; Charles Cross and Leonard Williams also returned for the 6-4 Seahawks.",
+      "h": "Darnold back at practice; start call comes Wednesday",
+      "s": "Sam Darnold practiced Monday for the first time in three weeks. Mike Macdonald plans to start him at San Francisco but says nothing is official until after Wednesday's practice.",
       "src": "The Spokesman-Review",
       "u": "https://www.spokesman.com/stories/2026/nov/23/seahawks-qb-sam-darnold-returns-to-practice-as-tea/",
       "t": "2026-11-23",
-      "impact": 3,
+      "impact": 2,
       "act": false
     },
     {
-      "h": "Kakko's late goal lifts Kraken past Ducks 3-2",
-      "s": "All five goals came in the third period; Kaapo Kakko won it with 2:25 left at Climate Pledge Arena, moving the Kraken to 11-9-1.",
-      "src": "ESPN",
-      "u": "https://www.espn.com/nhl/game/_/gameId/401892778",
-      "t": "2026-11-23",
+      "h": "Fisch talks up Oregon ahead of rivalry trip",
+      "s": "Washington (7-4, 4-4 Big Ten) closes the regular season Saturday at Autzen Stadium against an Oregon team riding a five-game win streak.",
+      "src": "Yahoo Sports",
+      "u": "https://sports.yahoo.com/articles/washingtons-jedd-fisch-makes-feelings-000002328.html",
+      "t": "2026-11-24",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Inland king tides peak; coastal flood watch Wed–Thu",
-      "s": "Puget Sound tides peak Wednesday, with flood watches for Hood Canal, east Kitsap and Port Townsend Wednesday and Thursday; Mason County's flood watch runs through Sunday.",
-      "date": "2026-11-25",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/weather/seattle-weather-high-tides-gusty-winds-rain-holiday-week-ahead"
-    },
-    {
-      "h": "Ferry crunch: Port Townsend cancellations, Vashon tidal limits",
-      "s": "Over 300,000 riders are expected Nov. 25–29. An evening Port Townsend–Coupeville round trip is cut daily through Friday, and Vashon routes restrict low-clearance vehicles through Sunday.",
-      "date": "2026-11-25",
-      "src": "WSDOT",
-      "u": "https://wsdot.wa.gov/about/news/2026/king-tides-could-complicate-thanksgiving-ferry-travel"
-    },
-    {
-      "h": "I-90 Snoqualmie Pass worst eastbound Wednesday afternoon",
-      "s": "WSDOT expects eastbound I-90 heaviest Wednesday roughly 11 a.m.–4 p.m., peaking near 3 p.m.; westbound peaks around 2 p.m. Friday through Sunday.",
-      "date": "2026-11-25",
-      "src": "WSDOT",
-      "u": "https://wsdot.wa.gov/travel/holiday-weekend-travel/thanksgiving-weekend-travel-times/i-90-travel-charts"
-    },
-    {
-      "h": "Thanksgiving tolls: I-405, SR 167 lanes free",
-      "s": "Express toll lanes on I-405 and SR 167 are free Thursday; SR 520, the SR 99 tunnel and SR 509 use weekend rates. Chinook and Cayuse passes are closed for the season.",
+      "h": "Wind Advisory, heavy rain Wednesday night into Thanksgiving",
+      "s": "A Wind Advisory starts 4 p.m. Wednesday. Expect heavy rain, gusts above 40 mph around Puget Sound, possible outages and mostly rain at the passes; Friday turns cooler.",
       "date": "2026-11-26",
-      "src": "WSDOT",
-      "u": "https://wsdot.wa.gov/about/news/2026/pumpkin-pie-and-traffic-delays-dont-mix-plan-ahead-wsdots-thanksgiving-weekend-travel-charts"
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/pinpoint-alert-coastal-flooding-heavy-rains-expected-thanksgiving-week/EF3G2ANPVBBANKTONAVNC3DIWU/"
     },
     {
-      "h": "Huskies visit Oregon in rivalry game at Autzen",
-      "s": "Washington plays at Oregon in Eugene Saturday, a week after upsetting Indiana in overtime.",
+      "h": "Winter Storm Watch for North Cascades",
+      "s": "A watch runs from late Wednesday night through Thursday afternoon, with up to 15 inches of snow possible above 5,000 feet around Washington Pass.",
+      "date": "2026-11-26",
+      "src": "Lynnwood Times",
+      "u": "https://lynnwoodtimes.com/2026/11/24/flooding-4"
+    },
+    {
+      "h": "Thanksgiving tolls and WSDOT travel charts",
+      "s": "Weekend toll rates apply Thursday on SR 520, the SR 99 tunnel and SR 509. I-405 and SR 167 express lanes are free. WSDOT expects heavy I-90 delays and long ferry waits through Nov. 29.",
+      "date": "2026-11-26",
+      "src": "KOMO",
+      "u": "https://komonews.com/news/local/wsdot-warns-of-thanksgiving-weekend-traffic-delays-on-i-90-us2-i90-north-bend-cle-elum-lacey-tacoma-bellingham-canadian-border-tolls-on-thanksgiving-washington-state"
+    },
+    {
+      "h": "Huskies at Oregon in regular-season finale",
+      "s": "UW visits Autzen Stadium Saturday to close its regular season against the rival Ducks.",
       "date": "2026-11-28",
-      "src": "theScore",
-      "u": "https://www.thescore.com/ncaaf/event/140145"
+      "src": "Yahoo Sports",
+      "u": "https://sports.yahoo.com/articles/washingtons-jedd-fisch-makes-feelings-000002328.html"
     },
     {
-      "h": "Seahawks at 49ers in NFC West showdown",
-      "s": "The 6-4 Seahawks visit the division-leading 9-1 49ers at Levi's Stadium.",
+      "h": "Seahawks visit 49ers at Levi's Stadium",
+      "s": "Seattle (6-4) takes on NFC West-leading San Francisco (9-1) on Sunday. Oddsmakers have the 49ers as 3.5-point favorites.",
       "date": "2026-11-29",
       "src": "FOX Sports",
       "u": "https://www.foxsports.com/nfl/week-12-seattle-seahawks-vs-san-francisco-49ers-nov-29-2026-game-boxscore-11293"
