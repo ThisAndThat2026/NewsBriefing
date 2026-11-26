@@ -1,0 +1,54 @@
+{
+  "stories": [
+    {
+      "h": "King County court filing portal offline through Nov. 30",
+      "s": "The clerk's KC Script portal stays down after a vendor's cybersecurity warning collided with planned maintenance. Officials say nothing was breached, and filings are going through email, fax and in person.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/king-county-eyes-monday-reopening-court-filing-portal-after-cyberthreat-warning/KBUQOKOMA5FMNJUFBY6EUUMBUE/",
+      "t": "2026-11-25",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Seattle schools to pay $600K in pregnancy accommodation case",
+      "s": "In a settlement with the Attorney General, Seattle Public Schools will pay $600,000 and adopt new policies for pregnant and nursing staff, including five-day responses to accommodation requests.",
+      "src": "KUOW",
+      "u": "https://www.kuow.org/education/2026-11-23/seattle-schools-to-pay-600-000-over-treatment-of-pregnant-nursing-employees",
+      "t": "2026-11-23",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Person in crisis closes 2nd Avenue downtown for hours",
+      "s": "Emergency crews closed southbound 2nd Avenue between Pine and Union for hours Tuesday while they responded to a person in crisis.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/chokepoints/seattle-emergency-close-avenue/4304223",
+      "t": "2026-11-24",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Coastal flood warning for Seattle, south King shorelines",
+      "s": "Forecasters upgraded the watch to a warning: from 3 to 10 a.m. Thursday, 2.5 to 3.5 feet of water could cover low-lying shoreline spots in Seattle and the Burien–Des Moines lowlands.",
+      "date": "2026-11-26",
+      "src": "KOMO News",
+      "u": "https://komonews.com/news/local/stormy-thanksgiving-forecast-brings-flood-concerns-strong-winds-to-western-washington-holiday-travel-driving-flying-airport-wind-rain-forecast-puget-sound-tide-energy-electrical-power-outage-emergency"
+    },
+    {
+      "h": "Weekend tolls on SR 520 and SR 99 Thursday",
+      "s": "Weekend toll rates apply on Thanksgiving on SR 520 and the SR 99 tunnel. I-405 express toll lanes are free all day.",
+      "date": "2026-11-26",
+      "src": "KOMO",
+      "u": "https://komonews.com/news/local/wsdot-warns-of-thanksgiving-weekend-traffic-delays-on-i-90-us2-i90-north-bend-cle-elum-lacey-tacoma-bellingham-canadian-border-tolls-on-thanksgiving-washington-state"
+    },
+    {
+      "h": "Court filing portal targeted to return Monday",
+      "s": "King County expects KC Script back Nov. 30 if the vendor's security upgrades and county testing are finished.",
+      "date": "2026-11-30",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/king-county-eyes-monday-reopening-court-filing-portal-after-cyberthreat-warning/KBUQOKOMA5FMNJUFBY6EUUMBUE/"
+    }
+  ]
+}

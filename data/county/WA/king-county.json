@@ -1,54 +1,56 @@
 {
   "stories": [
     {
-      "h": "King County court filing portal offline through Nov. 30",
-      "s": "The clerk's KC Script portal stays down after a vendor's cybersecurity warning collided with planned maintenance. Officials say nothing was breached, and filings are going through email, fax and in person.",
-      "src": "KIRO 7",
-      "u": "https://www.kiro7.com/news/local/king-county-eyes-monday-reopening-court-filing-portal-after-cyberthreat-warning/KBUQOKOMA5FMNJUFBY6EUUMBUE/",
+      "h": "Coastal flood warning, wind advisory hit Puget Sound Thanksgiving",
+      "s": "Early-morning king tides plus storm winds bring a coastal flood warning to Puget Sound shores and a wind advisory through noon, with inland gusts to 45-50 mph. Expect scattered outages; afternoon turns drier.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/weather/seattle-weather-heavy-rain-gusty-winds-start-thanksgiving-day",
+      "t": "2026-11-26",
+      "impact": 4,
+      "act": true
+    },
+    {
+      "h": "SPU deploys pumps, sandbags as king tides flood South Park",
+      "s": "Seattle Public Utilities activated its emergency plan after high water reached South Park basements, staffing a base at 8th Ave S and S Monroe St and five sandbag pickup sites. Residents should move cars to higher ground.",
+      "src": "MyNorthwest (KIRO 7)",
+      "u": "https://mynorthwest.com/local/south-park-king-tides-wa/4304547",
       "t": "2026-11-25",
-      "impact": 2,
+      "impact": 3,
+      "act": true
+    },
+    {
+      "h": "Environmental group sues King County over West Point plant",
+      "s": "Puget Soundkeeper Alliance filed a federal suit alleging the West Point treatment plant discharges nitrogen and phosphorus into Puget Sound without valid permit coverage. It seeks a halt to discharges and daily civil penalties.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/king-county-sued-over-alleged-clean-water-act-violations/EVRBTHVQ5NCPHFZZB4ZLU3BZNU/",
+      "t": "2026-11-26",
+      "impact": 3,
       "act": false
     },
     {
-      "h": "Seattle schools to pay $600K in pregnancy accommodation case",
-      "s": "In a settlement with the Attorney General, Seattle Public Schools will pay $600,000 and adopt new policies for pregnant and nursing staff, including five-day responses to accommodation requests.",
-      "src": "KUOW",
-      "u": "https://www.kuow.org/education/2026-11-23/seattle-schools-to-pay-600-000-over-treatment-of-pregnant-nursing-employees",
-      "t": "2026-11-23",
-      "impact": 2,
-      "act": false
-    },
-    {
-      "h": "Person in crisis closes 2nd Avenue downtown for hours",
-      "s": "Emergency crews closed southbound 2nd Avenue between Pine and Union for hours Tuesday while they responded to a person in crisis.",
+      "h": "Downed trees cut power to 900 near Lake City",
+      "s": "About 900 Seattle City Light customers in Olympic Hills lost power for roughly six hours Wednesday after trees fell on lines; service returned around 12:30 p.m. as utilities prepped for the overnight storm.",
       "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/chokepoints/seattle-emergency-close-avenue/4304223",
-      "t": "2026-11-24",
+      "u": "https://mynorthwest.com/local/power-near-lake-city/4304653",
+      "t": "2026-11-25",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Coastal flood warning for Seattle, south King shorelines",
-      "s": "Forecasters upgraded the watch to a warning: from 3 to 10 a.m. Thursday, 2.5 to 3.5 feet of water could cover low-lying shoreline spots in Seattle and the Burien–Des Moines lowlands.",
-      "date": "2026-11-26",
-      "src": "KOMO News",
-      "u": "https://komonews.com/news/local/stormy-thanksgiving-forecast-brings-flood-concerns-strong-winds-to-western-washington-holiday-travel-driving-flying-airport-wind-rain-forecast-puget-sound-tide-energy-electrical-power-outage-emergency"
+      "h": "Another, weaker round of rain Friday",
+      "s": "Rain returns Friday before clearing in the evening; the weekend looks drier, with more rain early next week.",
+      "date": "2026-11-27",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/weather/seattle-weather-heavy-rain-gusty-winds-start-thanksgiving-day"
     },
     {
-      "h": "Weekend tolls on SR 520 and SR 99 Thursday",
-      "s": "Weekend toll rates apply on Thanksgiving on SR 520 and the SR 99 tunnel. I-405 express toll lanes are free all day.",
-      "date": "2026-11-26",
+      "h": "Court hearing on blocking I-638 girls' sports rules",
+      "s": "King County Superior Court Judge Maureen McKee hears a bid to halt Initiative 638 at 9 a.m., the day the measure takes effect.",
+      "date": "2026-12-03",
       "src": "KOMO",
-      "u": "https://komonews.com/news/local/wsdot-warns-of-thanksgiving-weekend-traffic-delays-on-i-90-us2-i90-north-bend-cle-elum-lacey-tacoma-bellingham-canadian-border-tolls-on-thanksgiving-washington-state"
-    },
-    {
-      "h": "Court filing portal targeted to return Monday",
-      "s": "King County expects KC Script back Nov. 30 if the vendor's security upgrades and county testing are finished.",
-      "date": "2026-11-30",
-      "src": "KIRO 7",
-      "u": "https://www.kiro7.com/news/local/king-county-eyes-monday-reopening-court-filing-portal-after-cyberthreat-warning/KBUQOKOMA5FMNJUFBY6EUUMBUE/"
+      "u": "https://komonews.com/news/local/king-county-judge-asked-to-halt-initiative-638-girls-sports-rules-before-dec-3-start-rules-and-guidance-on-what-sports-will-be-affected-by-i638-washington-state-washingtons-equal-rights-amendment"
     }
   ]
 }

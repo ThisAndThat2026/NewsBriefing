@@ -1,0 +1,50 @@
+{
+  "stories": [
+    {
+      "h": "Judges urge dropping gravest Netanyahu corruption case",
+      "s": "Jerusalem judges told the attorney general Case 4000 has little chance of conviction, urged rethinking Case 2000 and a negotiated deal in Case 1000; prosecutors say they will weigh it.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/liveblog_entry/court-recommends-dropping-or-reconsidering-2-out-of-3-cases-against-netanyahu-in-severe-blow-to-prosecution/",
+      "t": "2026-11-25",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Eisenkot clinches first coalition deal, with Liberman's party",
+      "s": "Yashar and Yisrael Beytenu announced a coalition agreement; Liberman predicts a government by end of next week, though the Democrats froze talks and UTJ still awaits rabbinic approval.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/liberman-eisenkot-can-form-coalition-with-clear-jewish-majority-by-end-of-next-week/",
+      "t": "2026-11-25",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Trump says Iran war funded only through January",
+      "s": "Trump's remark implies a narrow window for any renewed US-Israeli offensive; he says his aims, unlike Israel's, are limited to stopping an Iranian bomb. Two tankers hit mines near Hormuz Wednesday.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/trump-says-iran-war-funded-through-january-suggesting-limited-window-for-new-op/",
+      "t": "2026-11-25",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Katz claims Iran is developing chemical weapons",
+      "s": "The caretaker defense minister gave no details on the alleged program, which Tehran calls fraudulent, and said Israel will keep troops in buffer zones in Lebanon, Gaza and Syria.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/amid-politicized-debate-in-us-and-israel-katz-warns-iran-developing-chemical-weapons/",
+      "t": "2026-11-24",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Knesset panel advances repeal of Karhi's media law",
+      "s": "A special committee sent the bill undoing Netanyahu's government's July broadcasting overhaul to its first plenum reading, part of the Eisenkot bloc's push to reverse contested laws.",
+      "src": "Times of Israel",
+      "u": "https://www.timesofisrael.com/liveblog_entry/knesset-panel-advances-bill-to-repeal-karhis-controversial-media-law/",
+      "t": "2026-11-25",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": []
+}

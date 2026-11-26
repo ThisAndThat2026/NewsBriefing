@@ -1,0 +1,113 @@
+{
+  "stories": [
+    {
+      "h": "Atmospheric river, gusty winds to hit Thanksgiving travel",
+      "s": "Forecasters expect the strongest system of the week Wednesday night into Thanksgiving: heavy rain, Puget Sound gusts above 40 mph, possible thunderstorms, scattered power outages and high-tide shoreline flooding.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/pinpoint-alert-coastal-flooding-heavy-rains-expected-thanksgiving-week/EF3G2ANPVBBANKTONAVNC3DIWU/",
+      "t": "2026-11-24",
+      "impact": 4,
+      "act": true
+    },
+    {
+      "h": "Washington sues HUD over mixed-status housing aid rule",
+      "s": "Washington joined a multistate lawsuit against a HUD rule ending prorated aid for mixed-status households. About 600 Washington families could lose help, and roughly 82,000 residents face new paperwork.",
+      "src": "KOMO",
+      "u": "https://komonews.com/news/local/washington-lawsuit-challenging-hud-rule-housing-aid-mixed-citizenship-status-families-immigration-status-children-social-security-number-save-database",
+      "t": "2026-11-23",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Boeing wins 50-jet China order worth about $7.4 billion",
+      "s": "Xiamen Airlines, part of China Southern, ordered 50 single-aisle jets, mostly 737-8 MAXs. At list prices it is Boeing's biggest Chinese order in nearly a decade.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/boeing-lands-50-jet-order-chinas-largest-purchase-company-nearly-decade/355Z46Z3MNB77JEFSMSS7UKS7Q/",
+      "t": "2026-11-24",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Bird flu reaches Grant County dairy herd",
+      "s": "State agriculture officials confirmed bird flu in a Grant County dairy herd, bringing infected herds to 44 across Yakima, Benton and Grant counties since October. Pasteurized milk remains safe.",
+      "src": "KHQ",
+      "u": "https://www.khq.com/news/bird-flu-found-in-grant-county-cattle-44-herds-now-affected-in-washington/article_23263736-0325-4a6c-a911-61ddcfc198e3.html",
+      "t": "2026-11-23",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Insurers paid $61M on last December's flood claims",
+      "s": "State data shows 1,056 residential claims and about $61.3 million paid after December 2025's floods. Whatcom, Skagit and King counties were hit hardest, and regulators say standard homeowner policies usually exclude floods.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/more-than-1000-flood-claims-filed-after-western-washington-storms-payouts-top-61-million/4NBOTTZ6D5EJJFCOCUV2IRIVOY/",
+      "t": "2026-11-23",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "talking": [
+    {
+      "h": "Darnold back at practice; start call comes Wednesday",
+      "s": "Sam Darnold practiced Monday for the first time in three weeks. Mike Macdonald plans to start him at San Francisco but says nothing is official until after Wednesday's practice.",
+      "src": "The Spokesman-Review",
+      "u": "https://www.spokesman.com/stories/2026/nov/23/seahawks-qb-sam-darnold-returns-to-practice-as-tea/",
+      "t": "2026-11-23",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Fisch talks up Oregon ahead of rivalry trip",
+      "s": "Washington (7-4, 4-4 Big Ten) closes the regular season Saturday at Autzen Stadium against an Oregon team riding a five-game win streak.",
+      "src": "Yahoo Sports",
+      "u": "https://sports.yahoo.com/articles/washingtons-jedd-fisch-makes-feelings-000002328.html",
+      "t": "2026-11-24",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Wind Advisory, heavy rain Wednesday night into Thanksgiving",
+      "s": "A Wind Advisory starts 4 p.m. Wednesday. Expect heavy rain, gusts above 40 mph around Puget Sound, possible outages and mostly rain at the passes; Friday turns cooler.",
+      "date": "2026-11-26",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/pinpoint-alert-coastal-flooding-heavy-rains-expected-thanksgiving-week/EF3G2ANPVBBANKTONAVNC3DIWU/"
+    },
+    {
+      "h": "Skokomish River flood warning in Mason County",
+      "s": "Forecasters expect the river near Potlatch to pass flood stage Wednesday afternoon and crest near record levels overnight, swamping Skokomish Valley homes, farmland and roads including Highway 106 through Friday.",
+      "date": "2026-11-25",
+      "src": "Defcon Level",
+      "u": "https://defconlevel.com/alert/2026-11-25-nws-noaa-weather-flood-warning-issued-november-25-at-9-30am-pst-until-november-27-at-7-00pm-pst-by-nws-seattle-wa"
+    },
+    {
+      "h": "Winter Storm Warning for Whatcom, Skagit Cascades",
+      "s": "The watch is now a warning from 7 p.m. Wednesday to 4 a.m. Friday, with 6 to 15 inches of snow and 35 mph gusts. Mountain travel could become very difficult or impossible.",
+      "date": "2026-11-25",
+      "src": "GovOneStop",
+      "u": "https://govonestop.com/nws/washington-severe-winter-storm-warning-effective-11252026-0540"
+    },
+    {
+      "h": "Thanksgiving tolls and WSDOT travel charts",
+      "s": "Weekend toll rates apply Thursday on SR 520, the SR 99 tunnel and SR 509. I-405 and SR 167 express lanes are free. WSDOT expects heavy I-90 delays and long ferry waits through Nov. 29.",
+      "date": "2026-11-26",
+      "src": "KOMO",
+      "u": "https://komonews.com/news/local/wsdot-warns-of-thanksgiving-weekend-traffic-delays-on-i-90-us2-i90-north-bend-cle-elum-lacey-tacoma-bellingham-canadian-border-tolls-on-thanksgiving-washington-state"
+    },
+    {
+      "h": "Huskies at Oregon in regular-season finale",
+      "s": "UW visits Autzen Stadium Saturday to close its regular season against the rival Ducks.",
+      "date": "2026-11-28",
+      "src": "Yahoo Sports",
+      "u": "https://sports.yahoo.com/articles/washingtons-jedd-fisch-makes-feelings-000002328.html"
+    },
+    {
+      "h": "Seahawks visit 49ers at Levi's Stadium",
+      "s": "Seattle (6-4) takes on NFC West-leading San Francisco (9-1) on Sunday. Oddsmakers have the 49ers as 3.5-point favorites.",
+      "date": "2026-11-29",
+      "src": "FOX Sports",
+      "u": "https://www.foxsports.com/nfl/week-12-seattle-seahawks-vs-san-francisco-49ers-nov-29-2026-game-boxscore-11293"
+    }
+  ]
+}

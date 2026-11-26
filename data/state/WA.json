@@ -1,113 +1,113 @@
 {
   "stories": [
     {
-      "h": "Atmospheric river, gusty winds to hit Thanksgiving travel",
-      "s": "Forecasters expect the strongest system of the week Wednesday night into Thanksgiving: heavy rain, Puget Sound gusts above 40 mph, possible thunderstorms, scattered power outages and high-tide shoreline flooding.",
-      "src": "KIRO 7",
-      "u": "https://www.kiro7.com/news/local/pinpoint-alert-coastal-flooding-heavy-rains-expected-thanksgiving-week/EF3G2ANPVBBANKTONAVNC3DIWU/",
-      "t": "2026-11-24",
+      "h": "King tides and storm surge flood Washington's outer coast",
+      "s": "Major flood stage at Westport, flooded streets in Ocean Shores and a Highway 101 closure near Raymond hit the coast. Forecasters warned significant flooding could continue into Thanksgiving; stay off jetties and seawalls.",
+      "src": "KLCC",
+      "u": "https://www.klcc.org/environment/2026-11-25/king-tides-storm-surges-flooding-oregon-washington-coast",
+      "t": "2026-11-25",
       "impact": 4,
       "act": true
     },
     {
-      "h": "Washington sues HUD over mixed-status housing aid rule",
-      "s": "Washington joined a multistate lawsuit against a HUD rule ending prorated aid for mixed-status households. About 600 Washington families could lose help, and roughly 82,000 residents face new paperwork.",
-      "src": "KOMO",
-      "u": "https://komonews.com/news/local/washington-lawsuit-challenging-hud-rule-housing-aid-mixed-citizenship-status-families-immigration-status-children-social-security-number-save-database",
-      "t": "2026-11-23",
+      "h": "Skokomish River heads toward near-record flood in Mason County",
+      "s": "Heavy Olympic rain pushed the river past flood stage, threatening homes, farmland, Skokomish Valley Road and Highway 106. It may dip Friday but could rise again over the weekend. Never drive into floodwater.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/pacific-northwest-weather/skokomish-river/4304687",
+      "t": "2026-11-25",
+      "impact": 3,
+      "act": true
+    },
+    {
+      "h": "Coastal floods, but Seattle-area reservoirs are running low",
+      "s": "Even as king tides swamp shorelines, Seattle's Cedar and Tolt watersheds have had about half their normal rain since October, forcing an emergency pump. Most of the state is abnormally dry or in drought.",
+      "src": "KUOW",
+      "u": "https://www.kuow.org/environment/2026-11-25/flood-drought-western-washingtons-got-it-all",
+      "t": "2026-11-25",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Boeing wins 50-jet China order worth about $7.4 billion",
-      "s": "Xiamen Airlines, part of China Southern, ordered 50 single-aisle jets, mostly 737-8 MAXs. At list prices it is Boeing's biggest Chinese order in nearly a decade.",
-      "src": "KIRO 7",
-      "u": "https://www.kiro7.com/news/local/boeing-lands-50-jet-order-chinas-largest-purchase-company-nearly-decade/355Z46Z3MNB77JEFSMSS7UKS7Q/",
-      "t": "2026-11-24",
+      "h": "Longview senator drafts mill tank safety law after 11 deaths",
+      "s": "Sen. Jeff Wilson plans a bill letting Labor and Industries inspect and certify chemical tanks at pulp mills, with daily fines up to $5,000, following May's deadly Nippon Dynawave tank rupture.",
+      "src": "Yahoo News (Washington State Standard)",
+      "u": "https://www.yahoo.com/news/politics/articles/longview-senator-plans-bill-address-120013207.html",
+      "t": "2026-11-25",
       "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Bird flu reaches Grant County dairy herd",
-      "s": "State agriculture officials confirmed bird flu in a Grant County dairy herd, bringing infected herds to 44 across Yakima, Benton and Grant counties since October. Pasteurized milk remains safe.",
-      "src": "KHQ",
-      "u": "https://www.khq.com/news/bird-flu-found-in-grant-county-cattle-44-herds-now-affected-in-washington/article_23263736-0325-4a6c-a911-61ddcfc198e3.html",
-      "t": "2026-11-23",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Insurers paid $61M on last December's flood claims",
-      "s": "State data shows 1,056 residential claims and about $61.3 million paid after December 2025's floods. Whatcom, Skagit and King counties were hit hardest, and regulators say standard homeowner policies usually exclude floods.",
-      "src": "KIRO 7",
-      "u": "https://www.kiro7.com/news/local/more-than-1000-flood-claims-filed-after-western-washington-storms-payouts-top-61-million/4NBOTTZ6D5EJJFCOCUV2IRIVOY/",
-      "t": "2026-11-23",
-      "impact": 2,
       "act": false
     }
   ],
   "talking": [
     {
-      "h": "Darnold back at practice; start call comes Wednesday",
-      "s": "Sam Darnold practiced Monday for the first time in three weeks. Mike Macdonald plans to start him at San Francisco but says nothing is official until after Wednesday's practice.",
-      "src": "The Spokesman-Review",
-      "u": "https://www.spokesman.com/stories/2026/nov/23/seahawks-qb-sam-darnold-returns-to-practice-as-tea/",
-      "t": "2026-11-23",
+      "h": "Darnold practices fully as Seahawks eye 49ers",
+      "s": "Sam Darnold, nursing rib and quad injuries, was a full participant Wednesday. Coach Mike Macdonald hasn't formally named him the starter but calls him the go-to quarterback when healthy. Official designations come Friday.",
+      "src": "Yahoo Sports (SB Nation)",
+      "u": "https://sports.yahoo.com/nfl/articles/seahawks-49ers-wednesday-injury-report-021959101.html",
+      "t": "2026-11-26",
       "impact": 2,
       "act": false
     },
     {
-      "h": "Fisch talks up Oregon ahead of rivalry trip",
-      "s": "Washington (7-4, 4-4 Big Ten) closes the regular season Saturday at Autzen Stadium against an Oregon team riding a five-game win streak.",
-      "src": "Yahoo Sports",
-      "u": "https://sports.yahoo.com/articles/washingtons-jedd-fisch-makes-feelings-000002328.html",
-      "t": "2026-11-24",
+      "h": "Huskies take on No. 13 Oregon in rivalry finale",
+      "s": "Washington, 7-4 and just outside the polls, visits 8-3 Oregon at Autzen Stadium Saturday night in a prime-time NBC game.",
+      "src": "Memorable TV",
+      "u": "https://www.memorabletv.com/news/big-ten-saturday-night-washington-huskies-no-13-oregon/",
+      "t": "2026-11-25",
       "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Cougars close a 2-9 season on Senior Day",
+      "s": "Washington State hosts San Diego State in Pullman Saturday, honoring 12 seniors in its season finale after a loss at Texas State.",
+      "src": "WSU Athletics",
+      "u": "https://wsucougars.com/news/2026/11/24/washington-state-set-to-host-san-diego-state-for-senior-day",
+      "t": "2026-11-24",
+      "impact": 1,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Wind Advisory, heavy rain Wednesday night into Thanksgiving",
-      "s": "A Wind Advisory starts 4 p.m. Wednesday. Expect heavy rain, gusts above 40 mph around Puget Sound, possible outages and mostly rain at the passes; Friday turns cooler.",
+      "h": "Coastal flood warning for Grays Harbor coast",
+      "s": "NWS expects 3 to 4 feet of inundation 10 a.m.-6 p.m. today, with numerous road closures likely; a watch follows Friday. Puget Sound lowlands are under a warning until 10 a.m.",
       "date": "2026-11-26",
-      "src": "KIRO 7",
-      "u": "https://www.kiro7.com/news/local/pinpoint-alert-coastal-flooding-heavy-rains-expected-thanksgiving-week/EF3G2ANPVBBANKTONAVNC3DIWU/"
+      "src": "NWS Seattle",
+      "u": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.4cab40822fe157908caddf76922d9999ca74b0b1.001.1"
     },
     {
-      "h": "Skokomish River flood warning in Mason County",
-      "s": "Forecasters expect the river near Potlatch to pass flood stage Wednesday afternoon and crest near record levels overnight, swamping Skokomish Valley homes, farmland and roads including Highway 106 through Friday.",
-      "date": "2026-11-25",
-      "src": "Defcon Level",
-      "u": "https://defconlevel.com/alert/2026-11-25-nws-noaa-weather-flood-warning-issued-november-25-at-9-30am-pst-until-november-27-at-7-00pm-pst-by-nws-seattle-wa"
-    },
-    {
-      "h": "Winter Storm Warning for Whatcom, Skagit Cascades",
-      "s": "The watch is now a warning from 7 p.m. Wednesday to 4 a.m. Friday, with 6 to 15 inches of snow and 35 mph gusts. Mountain travel could become very difficult or impossible.",
-      "date": "2026-11-25",
-      "src": "GovOneStop",
-      "u": "https://govonestop.com/nws/washington-severe-winter-storm-warning-effective-11252026-0540"
-    },
-    {
-      "h": "Thanksgiving tolls and WSDOT travel charts",
-      "s": "Weekend toll rates apply Thursday on SR 520, the SR 99 tunnel and SR 509. I-405 and SR 167 express lanes are free. WSDOT expects heavy I-90 delays and long ferry waits through Nov. 29.",
+      "h": "Winter storm warning for North Cascades",
+      "s": "Another 6 to 12 inches of snow and gusts to 40 mph in the Whatcom and Skagit Cascades until 4 a.m. Friday; travel may be very difficult to impossible. Carry chains.",
       "date": "2026-11-26",
-      "src": "KOMO",
-      "u": "https://komonews.com/news/local/wsdot-warns-of-thanksgiving-weekend-traffic-delays-on-i-90-us2-i90-north-bend-cle-elum-lacey-tacoma-bellingham-canadian-border-tolls-on-thanksgiving-washington-state"
+      "src": "NWS Seattle",
+      "u": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.57ff218c78d9d06a8a891698a9961a7e7bf57753.001.1"
     },
     {
-      "h": "Huskies at Oregon in regular-season finale",
-      "s": "UW visits Autzen Stadium Saturday to close its regular season against the rival Ducks.",
+      "h": "Ferries run holiday schedules; tides limit some sailings",
+      "s": "Several routes run modified or holiday timetables today. Port Townsend/Coupeville drops an evening round trip through Friday, and Vashon routes restrict long or low vehicles through Sunday.",
+      "date": "2026-11-26",
+      "src": "WSDOT",
+      "u": "https://wsdot.wa.gov/about/news/2026/king-tides-could-complicate-thanksgiving-ferry-travel"
+    },
+    {
+      "h": "WSU hosts San Diego State",
+      "s": "Senior Day kickoff at 3:30 p.m. at Gesa Field in Pullman, on The CW.",
       "date": "2026-11-28",
-      "src": "Yahoo Sports",
-      "u": "https://sports.yahoo.com/articles/washingtons-jedd-fisch-makes-feelings-000002328.html"
+      "src": "WSU Athletics",
+      "u": "https://wsucougars.com/news/2026/11/24/washington-state-set-to-host-san-diego-state-for-senior-day"
     },
     {
-      "h": "Seahawks visit 49ers at Levi's Stadium",
-      "s": "Seattle (6-4) takes on NFC West-leading San Francisco (9-1) on Sunday. Oddsmakers have the 49ers as 3.5-point favorites.",
+      "h": "Huskies at Oregon",
+      "s": "Kickoff 4:30 p.m. PT at Autzen Stadium on NBC.",
+      "date": "2026-11-28",
+      "src": "Memorable TV",
+      "u": "https://www.memorabletv.com/news/big-ten-saturday-night-washington-huskies-no-13-oregon/"
+    },
+    {
+      "h": "Seahawks at 49ers",
+      "s": "Seattle returns from its bye to face San Francisco, with Darnold's status set to be finalized Friday.",
       "date": "2026-11-29",
-      "src": "FOX Sports",
-      "u": "https://www.foxsports.com/nfl/week-12-seattle-seahawks-vs-san-francisco-49ers-nov-29-2026-game-boxscore-11293"
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/seahawks-sam-darnold"
     }
   ]
 }

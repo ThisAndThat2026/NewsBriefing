@@ -1,56 +1,47 @@
 {
   "stories": [
     {
-      "h": "Bothell-area man accused of killing father, setting fire",
-      "s": "A 40-year-old man was booked on suspicion of murder and arson. Investigators say he stabbed his father during an August dispute, then set fires at their home on 171st Street SE.",
-      "src": "The Herald (Everett)",
-      "u": "https://www.heraldnet.com/2026/11/24/bothell-man-suspected-of-murder-arson-in-fathers-death/",
-      "t": "2026-11-24",
-      "impact": 2,
-      "act": false
+      "h": "Coastal flood warning for Snohomish shoreline Thursday morning",
+      "s": "Low-lying coastal areas could see 2.5-3.5 feet of water from 3 to 10 a.m. as tides peak before sunrise. A wind advisory may down limbs; Snohomish PUD has extra crews ready for outages.",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/25/weather-service-coastal-snoco-areas-could-see-some-flooding/",
+      "t": "2026-11-25",
+      "impact": 4,
+      "act": true
     },
     {
-      "h": "State ends financial oversight of Marysville School District",
-      "s": "OSPI lifted all binding conditions after three years, citing substantial progress. The district now projects a reserve above the state's 5% goal and plans a levy in February 2027.",
-      "src": "The Herald (Everett)",
-      "u": "https://www.heraldnet.com/2026/11/24/the-releases-the-marysville-school-district-from-financial-oversight/",
-      "t": "2026-11-24",
-      "impact": 2,
-      "act": false
-    },
-    {
-      "h": "Edmonds school board authorizes legal action against I-638",
-      "s": "The board voted unanimously to let the superintendent take legal action against the girls' sports initiative. The district says providers can't yet use the new attestation form ahead of the Dec. 3 start.",
-      "src": "The Herald (Everett)",
-      "u": "https://www.heraldnet.com/2026/11/24/edmonds-school-board-allows-legal-action-against-i-638/",
-      "t": "2026-11-24",
+      "h": "Lynnwood passes budget, makes school-zone cameras 24/7",
+      "s": "Lynnwood's council approved a 2027-28 budget 6-1 and, in a split 5-2 vote, expanded speed cameras, including round-the-clock school-zone enforcement and two new cameras on 44th Ave W, projected to raise $8.2 million.",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/25/lynnwood-approves-2027-28-budget-expands-traffic-camera-program/",
+      "t": "2026-11-25",
       "impact": 3,
       "act": false
     },
     {
-      "h": "SWAT standoff ends in arrest in south Everett",
-      "s": "A man said to be armed after a reported assault barricaded himself in a home on 60th Street SW for nearly six hours Monday before surrendering. Nearby roads have reopened.",
-      "src": "The Herald (Everett)",
-      "u": "https://www.heraldnet.com/2026/11/23/reported-assault-leads-to-swat-response-in-everett-on-monday-morning/",
-      "t": "2026-11-23",
+      "h": "Guilty plea in deadly 2024 south Everett robbery",
+      "s": "Martin Alvarez, 20, admitted second-degree murder in a December 2024 dating-app robbery near Silver Lake that ended in a fatal shooting. Both sides recommend 18 years; sentencing is set for Jan. 5.",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/25/accomplice-pleads-guilty-in-deadly-south-everett-robbery/",
+      "t": "2026-11-25",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Coastal flood warning for Everett, Lynnwood, Marysville",
-      "s": "The Thursday watch is now a warning, valid 3 to 10 a.m.: up to 2.5 to 3.5 feet of inundation is possible in low shoreline areas around Everett, Marysville, Lynnwood and Shoreline.",
-      "date": "2026-11-26",
-      "src": "GovOneStop",
-      "u": "https://govonestop.com/nws/washington-severe-coastal-flood-warning-effective-11252026-1542-2"
+      "h": "Everett Wintertide tree lighting downtown",
+      "s": "Santa lights the tree just after 5 p.m. at Colby and Hewitt; food trucks, music and free movies start at 2 p.m.",
+      "date": "2026-11-27",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/25/everetts-annual-wintertide-tree-lighting-to-return-friday/"
     },
     {
-      "h": "Wind Advisory with gusts to 50 mph",
-      "s": "From 4 p.m. Wednesday to 11 a.m. Thursday, southeast winds of 25 to 35 mph with gusts to 50 mph could cause a few outages along Snohomish County shorelines.",
-      "date": "2026-11-25",
-      "src": "Lynnwood Times",
-      "u": "https://lynnwoodtimes.com/2026/11/24/flooding-4"
+      "h": "Stuff a Bus food and toy drive begins",
+      "s": "Everett Transit and Volunteers of America collect food and toys 10 a.m.-4 p.m. at the Bothell-Everett Highway Fred Meyer, weekends through Dec. 13.",
+      "date": "2026-11-28",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/25/everett-transit-voaww-to-host-annual-stuff-a-bus-donation-drive/"
     }
   ]
 }

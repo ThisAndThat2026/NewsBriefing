@@ -1,0 +1,56 @@
+{
+  "stories": [
+    {
+      "h": "Bothell-area man accused of killing father, setting fire",
+      "s": "A 40-year-old man was booked on suspicion of murder and arson. Investigators say he stabbed his father during an August dispute, then set fires at their home on 171st Street SE.",
+      "src": "The Herald (Everett)",
+      "u": "https://www.heraldnet.com/2026/11/24/bothell-man-suspected-of-murder-arson-in-fathers-death/",
+      "t": "2026-11-24",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "State ends financial oversight of Marysville School District",
+      "s": "OSPI lifted all binding conditions after three years, citing substantial progress. The district now projects a reserve above the state's 5% goal and plans a levy in February 2027.",
+      "src": "The Herald (Everett)",
+      "u": "https://www.heraldnet.com/2026/11/24/the-releases-the-marysville-school-district-from-financial-oversight/",
+      "t": "2026-11-24",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Edmonds school board authorizes legal action against I-638",
+      "s": "The board voted unanimously to let the superintendent take legal action against the girls' sports initiative. The district says providers can't yet use the new attestation form ahead of the Dec. 3 start.",
+      "src": "The Herald (Everett)",
+      "u": "https://www.heraldnet.com/2026/11/24/edmonds-school-board-allows-legal-action-against-i-638/",
+      "t": "2026-11-24",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "SWAT standoff ends in arrest in south Everett",
+      "s": "A man said to be armed after a reported assault barricaded himself in a home on 60th Street SW for nearly six hours Monday before surrendering. Nearby roads have reopened.",
+      "src": "The Herald (Everett)",
+      "u": "https://www.heraldnet.com/2026/11/23/reported-assault-leads-to-swat-response-in-everett-on-monday-morning/",
+      "t": "2026-11-23",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Coastal flood warning for Everett, Lynnwood, Marysville",
+      "s": "The Thursday watch is now a warning, valid 3 to 10 a.m.: up to 2.5 to 3.5 feet of inundation is possible in low shoreline areas around Everett, Marysville, Lynnwood and Shoreline.",
+      "date": "2026-11-26",
+      "src": "GovOneStop",
+      "u": "https://govonestop.com/nws/washington-severe-coastal-flood-warning-effective-11252026-1542-2"
+    },
+    {
+      "h": "Wind Advisory with gusts to 50 mph",
+      "s": "From 4 p.m. Wednesday to 11 a.m. Thursday, southeast winds of 25 to 35 mph with gusts to 50 mph could cause a few outages along Snohomish County shorelines.",
+      "date": "2026-11-25",
+      "src": "Lynnwood Times",
+      "u": "https://lynnwoodtimes.com/2026/11/24/flooding-4"
+    }
+  ]
+}
