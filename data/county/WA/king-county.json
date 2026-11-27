@@ -1,6 +1,24 @@
 {
   "stories": [
     {
+      "h": "SR 509 off-ramp to Myers Way closed indefinitely",
+      "s": "WSDOT shut the southbound SR 509 exit to Myers Way and S. Cloverdale St. Friday over a possibly failed culvert. There's no reopening estimate, so South Park and Highland Park drivers should use other exits.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/sr-509-potential-failed-culvert",
+      "t": "2026-11-27",
+      "impact": 3,
+      "act": true
+    },
+    {
+      "h": "Vashon ferry dock loses lanes for pile repairs",
+      "s": "Washington State Ferries is replacing two decayed timber piles at the Vashon terminal starting Saturday; two more boarding lanes close Sunday daytime. Riders should arrive early. All lanes should reopen before Dec. 5.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/vashon-ferry-terminal-emergency-repairs",
+      "t": "2026-11-27",
+      "impact": 3,
+      "act": true
+    },
+    {
       "h": "Rare tornado warning hits Eastside after Renton landspout",
       "s": "On Thanksgiving, spotters reported a landspout near Renton heading east, which prompted a brief NWS tornado warning for Issaquah, Snoqualmie and North Bend. The warning expired at 12:15 p.m., and no damage was reported.",
       "src": "MyNorthwest",
@@ -24,24 +42,6 @@
       "src": "KIRO 7",
       "u": "https://www.kiro7.com/news/local/seattle-police-investigate-gunfire-between-two-groups-juveniles-yesler-terrace/CXLBGGB6PZBYNLF6BA6USVOECU/",
       "t": "2026-11-26",
-      "impact": 2,
-      "act": false
-    },
-    {
-      "h": "King County wastewater shows world-high meth levels",
-      "s": "An EU drug agency study of sewage from 115 cities found the highest methamphetamine levels in samples from King County's West Point and Renton plants. Researchers say the data can't show how many people use the drug.",
-      "src": "KOMO News",
-      "u": "https://komonews.com/news/local/seattle-ranks-no-1-for-meth-in-sewage-study-across-115-international-cities-methamphetamine-drugs-illegal-crime-downtown-washington-australia-police-resources-addiction-treatment-king-county-renton",
-      "t": "2026-11-25",
-      "impact": 2,
-      "act": false
-    },
-    {
-      "h": "Renton man shot multiple times in neighbor feud",
-      "s": "A Renton man is at Harborview after a neighbor shot him several times during a Monday-evening dispute. Police arrested and booked the suspect and say the two had a long-running feud.",
-      "src": "KIRO 7",
-      "u": "https://www.kiro7.com/news/local/renton-man-hospitalized-serious-condition-after-shooting-during-dispute-with-neighbor/QTME6ZR3A5BAXLSYQLWXORZ36U/",
-      "t": "2026-11-25",
       "impact": 2,
       "act": false
     }
