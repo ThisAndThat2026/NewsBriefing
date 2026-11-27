@@ -1,6 +1,15 @@
 {
   "stories": [
     {
+      "h": "Eisenkot accuses Likud of stalling unity talks",
+      "s": "Eisenkot said Likud offered no concrete proposal in two weeks of unity talks and is running out the clock toward another election. Likud says it is still open to unity. He holds 36 seats of 61 needed, with a December 6 deadline.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks",
+      "t": "2026-11-27",
+      "impact": 4,
+      "act": false
+    },
+    {
       "h": "Eisenkot and Golan's Democrats agree coalition deal",
       "s": "After talks resumed, Yashar and the Democrats agreed terms giving Golan's party four portfolios, including an expanded national security ministry now held by Ben Gvir, plus a pledge to fully repeal the judicial overhaul.",
       "src": "The Times of Israel",
@@ -34,15 +43,6 @@
       "u": "https://www.timesofisrael.com/idf-four-oct-7-perpetrators-among-10-terror-operatives-killed-in-gaza-strikes/",
       "t": "2026-11-27",
       "impact": 3,
-      "act": false
-    },
-    {
-      "h": "IDF strikes Hezbollah rockets at Radwan camp in Lebanon",
-      "s": "Israel hit dozens of rockets and launchers at an elite Radwan Force training site in the Ain al-Tina area, saying they were meant for attacks on Israelis, while stating it remains committed to the Lebanon ceasefire.",
-      "src": "JNS",
-      "u": "https://www.jns.org/news/israel-news/idf-strikes-hezbollah-rockets-and-launchers-in-southern-lebanon",
-      "t": "2026-11-27",
-      "impact": 2,
       "act": false
     }
   ],
