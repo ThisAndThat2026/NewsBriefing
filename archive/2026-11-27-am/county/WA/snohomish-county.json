@@ -1,0 +1,47 @@
+{
+  "stories": [
+    {
+      "h": "Coastal flood warning for Snohomish shoreline Thursday morning",
+      "s": "Low-lying coastal areas could see 2.5-3.5 feet of water from 3 to 10 a.m. as tides peak before sunrise. A wind advisory may down limbs; Snohomish PUD has extra crews ready for outages.",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/25/weather-service-coastal-snoco-areas-could-see-some-flooding/",
+      "t": "2026-11-25",
+      "impact": 4,
+      "act": true
+    },
+    {
+      "h": "Lynnwood passes budget, makes school-zone cameras 24/7",
+      "s": "Lynnwood's council approved a 2027-28 budget 6-1 and, in a split 5-2 vote, expanded speed cameras, including round-the-clock school-zone enforcement and two new cameras on 44th Ave W, projected to raise $8.2 million.",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/25/lynnwood-approves-2027-28-budget-expands-traffic-camera-program/",
+      "t": "2026-11-25",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Guilty plea in deadly 2024 south Everett robbery",
+      "s": "Martin Alvarez, 20, admitted second-degree murder in a December 2024 dating-app robbery near Silver Lake that ended in a fatal shooting. Both sides recommend 18 years; sentencing is set for Jan. 5.",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/25/accomplice-pleads-guilty-in-deadly-south-everett-robbery/",
+      "t": "2026-11-25",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Everett Wintertide tree lighting downtown",
+      "s": "Santa lights the tree just after 5 p.m. at Colby and Hewitt; food trucks, music and free movies start at 2 p.m.",
+      "date": "2026-11-27",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/25/everetts-annual-wintertide-tree-lighting-to-return-friday/"
+    },
+    {
+      "h": "Stuff a Bus food and toy drive begins",
+      "s": "Everett Transit and Volunteers of America collect food and toys 10 a.m.-4 p.m. at the Bothell-Everett Highway Fred Meyer, weekends through Dec. 13.",
+      "date": "2026-11-28",
+      "src": "The Everett Herald",
+      "u": "https://www.heraldnet.com/2026/11/25/everett-transit-voaww-to-host-annual-stuff-a-bus-donation-drive/"
+    }
+  ]
+}

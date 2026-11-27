@@ -1,131 +1,131 @@
 {
   "us": [
     {
-      "h": "Nor'easter cuts power to 400,000-plus on Thanksgiving morning",
-      "s": "More than 400,000 people lacked power Thursday morning, about 150,000 in Virginia. New York and New Jersey declared emergencies; peak coastal flooding hits at the morning high tide, with 60–70 mph gusts possible into Friday.",
-      "src": "Fox Weather",
-      "u": "https://www.foxweather.com/live-news/poweful-thanksgiving-storms-west-east-coast-rain-wind-flood-november-2026",
+      "h": "New U.S. tariffs on 14 economies draw pushback",
+      "s": "China, Japan and other partners objected after Washington proposed Section 301 tariffs over industrial overcapacity, including 20% on China and up to 15% on Japan, likely starting early 2027.",
+      "src": "The Boston Globe (AP)",
+      "u": "https://www.bostonglobe.com/2026/11/26/nation/us-tariffs-reaction/",
       "t": "2026-11-26",
-      "impact": 5,
-      "act": true
-    },
-    {
-      "h": "Second judge blocks Trump's revised birthright citizenship order",
-      "s": "D.C. federal judge Christopher Cooper barred State, DHS and Social Security from enforcing the August order against a certified class of children, citing Supreme Court precedent. A Maryland judge had already blocked it in September.",
-      "src": "Investing.com (Reuters)",
-      "u": "https://www.investing.com/news/stock-market-news/trumps-newest-order-curtailing-birthright-citizenship-is-blocked-by-second-judge-5051543",
-      "t": "2026-11-25",
       "impact": 4,
       "act": false
     },
     {
-      "h": "Judge bars FCC from early review of ABC licenses",
-      "s": "Judge Loren AliKhan found the FCC's accelerated look at ABC station licenses was likely unconstitutional retaliation for speech, citing Trump's repeated calls to pull them, and issued a preliminary injunction. ABC hailed a First Amendment win.",
-      "src": "KUNC (NPR)",
-      "u": "https://www.kunc.org/npr-news/2026-11-25/u-s-judge-rules-fcc-violated-abcs-free-speech-rights-to-please-trump",
-      "t": "2026-11-25",
+      "h": "Trump demands probe after GDP revised up to 4.3%",
+      "s": "Trump claimed without evidence that pre-midterm growth data was deliberately understated after the BEA raised third-quarter GDP growth from 3.4% to 4.3%. The agency cited more complete spending and investment data.",
+      "src": "Fox Business",
+      "u": "https://www.foxbusiness.com/politics/trump-demands-probe-pre-election-gdp-data-revision",
+      "t": "2026-11-26",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Trump calls Huang pardon 'an option'; Vance says unnecessary",
-      "s": "Ahead of Nvidia CEO Jensen Huang's Capitol Hill appearances over chip exports to China, Trump said a pardon remained possible but likely not needed. Vance said he has seen no evidence Huang committed a crime.",
-      "src": "ABC News (Australia)",
-      "u": "https://abc.net.au/news/2026-11-26/jd-vance-shrugs-off-ceo-pardon-after-trump-comment/107429070",
-      "t": "2026-11-26",
+      "h": "Trump tells troops Iran war victory is near",
+      "s": "In Thanksgiving calls to service members at Gulf bases, Trump said victory over Iran would come when he chose, offered Tehran a chance to negotiate and downplayed Chinese and Russian help to Iran.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops",
+      "t": "2026-11-27",
       "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Storm dumps record snow on St. Louis, outages linger",
+      "s": "St. Louis got 7.3 inches, its second-snowiest Thanksgiving, and Memphis saw rare holiday snow. Over 160,000 lost power in Missouri and Illinois, and high-tide coastal flooding and slick roads remain possible Friday.",
+      "src": "The Weather Channel",
+      "u": "https://weather.com/2026/11/27/holiday/thanksgiving/east-coast-thanksgiving-storm-wind-rain-flooding",
+      "t": "2026-11-27",
+      "impact": 3,
+      "act": true
+    },
+    {
+      "h": "EPA finds no airborne lead after Iowa Army blast",
+      "s": "After the Army detonated its whole lead azide stockpile at an Iowa ammunition plant, EPA air monitors found no airborne lead. Soil, water and dust lab results are still pending.",
+      "src": "WDBJ7 (Gray News/AP)",
+      "u": "https://www.wdbj7.com/2026/11/26/epa-says-air-monitors-detected-no-lead-after-iowa-explosives-blast-lab-results-still-pending/",
+      "t": "2026-11-26",
+      "impact": 2,
       "act": false
     }
   ],
   "world": [
     {
-      "h": "Iran says two more tankers hit mines in Hormuz",
-      "s": "Revolutionary Guards claim two tankers, including a supertanker carrying over 2 million barrels, exploded near Oman's Khasab after taking an 'unauthorised' route. Iran vows to keep the strait closed despite US Navy escorts.",
-      "src": "Arab News (Reuters)",
-      "u": "https://www.arabnews.com/middle-east/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-3014111",
-      "t": "2026-11-26",
-      "impact": 5,
-      "act": false
-    },
-    {
-      "h": "China, allies push back on new US tariff plan",
-      "s": "Beijing called the overcapacity rationale a false premise and promised countermeasures; Japan, Singapore, Malaysia and the EU also objected. Proposed duties of 15-35% would likely start in early 2027.",
-      "src": "ABC News (AP)",
-      "u": "https://abcnews.com/Business/wireStory/china-us-trading-partners-hit-back-trumps-new-138464214",
-      "t": "2026-11-26",
-      "impact": 4,
-      "act": false
-    },
-    {
-      "h": "Congo Ebola outbreak passes 12,000 confirmed cases",
-      "s": "Described as the fastest-growing Ebola outbreak on record, nearly half of confirmed cases have died. Renewed rebel-army fighting near Bunia is blocking response teams and leaving treatment centers short-staffed.",
-      "src": "ABC News (AP)",
-      "u": "https://abcnews.com/Health/wireStory/ebola-outbreak-congo-reaches-12000-cases-violence-forces-138463911",
-      "t": "2026-11-26",
-      "impact": 4,
-      "act": false
-    },
-    {
-      "h": "EU leaders clash over budget and Ukraine loan",
-      "s": "At a Brussels summit, leaders are split over a nearly 1.7 trillion euro seven-year budget and a proposed 45 billion euro jointly financed loan for Kyiv, which several Central European states want to skip.",
-      "src": "Euronews",
-      "u": "https://www.euronews.com/2026/11/26/eu-summit-leaders-ready-to-spar-over-new-budget-and-ukraine-aid",
-      "t": "2026-11-26",
-      "impact": 4,
-      "act": false
-    },
-    {
-      "h": "US-led group strikes deal for Lukoil's foreign assets",
-      "s": "A consortium led by Todd Boehly's Eldridge, including the US development finance agency, would swap Lukoil securities for its overseas oil fields and stations, about 350,000 barrels daily. Treasury sanctions officials must still approve.",
-      "src": "The National",
-      "u": "https://www.thenationalnews.com/business/energy/2026/11/25/todd-boehly-lukoil/",
-      "t": "2026-11-25",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Explosion and fire hit Bangkok oil depot",
-      "s": "A blast at Bangchak's depot in eastern Bangkok injured several people and prompted evacuation orders nearby; the company shut its Phra Khanong refinery units. The fire was later brought under control.",
+      "h": "Drone attack in Kuwait kills two Italian contractors; Iran denies role",
+      "s": "Two Rheinmetall Italia technicians servicing an air-defence system died from debris of intercepted drones. Italy and Kuwait blame Iran, which calls it a false flag and offers a joint probe.",
       "src": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/26/explosion-occurs-at-oil-facility-in-thailands-bangkok",
-      "t": "2026-11-26",
+      "u": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility",
+      "t": "2026-11-27",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "Trump says he pressed Putin to pull back in Europe",
+      "s": "Trump says he urged Putin to halt aggression across Europe and hopes for a fast Ukraine deal; meanwhile Russian missiles wounded seven in Kyiv and Zelenskyy warned of another mass strike.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back",
+      "t": "2026-11-27",
+      "impact": 4,
+      "act": false
+    },
+    {
+      "h": "New Zealand's ruling coalition falls one seat short",
+      "s": "Final results give Luxon's three-party bloc 65 of 130 seats, leaving the centrist Opportunity Party's seven MPs as potential kingmakers; failure to strike a deal could force a new election.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent",
+      "t": "2026-11-27",
       "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Guinea-Bissau junta delays elections until 2028",
+      "s": "The military rulers who seized power a year ago pushed the December 6 presidential and legislative votes back two years, citing lack of resources, despite ECOWAS calls for a swift civilian return.",
+      "src": "Al Jazeera",
+      "u": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years",
+      "t": "2026-11-26",
+      "impact": 2,
       "act": false
     }
   ],
   "tech": [
     {
-      "h": "Nvidia reportedly halts AI server shipments to Southeast Asia",
-      "s": "Per the Financial Times, Nvidia told partners to stop server deliveries to Malaysia, Singapore, Thailand and Indonesia after new US rules targeting Chinese firms renting Nvidia-powered cloud capacity.",
-      "src": "TrendForce",
-      "u": "https://www.trendforce.com/news/2026/11/26/news-nvidia-reportedly-suspends-ai-server-shipments-to-four-southeast-asian-countries-as-u-s-targets-chinese-ai-access/",
-      "t": "2026-11-26",
-      "impact": 4,
+      "h": "SAP reportedly weighing at least 10,000 job cuts",
+      "s": "Per Bloomberg's sources, SAP is planning cuts of roughly 9% of staff, focused on engineering, development and sales, as it reorganizes around AI. SAP says no decisions have been made.",
+      "src": "Euronews",
+      "u": "https://www.euronews.com/2026/11/27/german-sofware-giant-sap-weighs-at-least-10000-job-cuts-amid-ai-shift-reports-say",
+      "t": "2026-11-27",
+      "impact": 3,
       "act": false
     },
     {
-      "h": "FCC approves SpaceX's million-satellite orbital data centers",
-      "s": "The FCC cleared 'Starmind,' up to 1 million data-center satellites, overriding objections from Amazon, Viasat and astronomers. First satellites are due by 2033; Musk targets a 2027 launch.",
-      "src": "Spaceflight Now",
-      "u": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/",
+      "h": "ChatGPT users will hit GPT-6.2 limits sooner after fix",
+      "s": "OpenAI admitted a launch error had undercounted GPT-6.2 usage; after correcting it, the same work burns allowance up to 40% faster. Paid users get one banked reset, no back-charges.",
+      "src": "The Next Web",
+      "u": "https://thenextweb.com/news/openai-billing-mistake-gpt-6-2-usage-limits",
       "t": "2026-11-26",
       "impact": 3,
       "act": false
     },
     {
-      "h": "42 states fight Character.AI sale of user chats",
-      "s": "State attorneys general intervened in Character.AI's bankruptcy to block auctioning chat histories from 21 million-plus US accounts, including over 2 million minors. The auction is set for December 1.",
-      "src": "TechCrunch",
-      "u": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
-      "t": "2026-11-25",
+      "h": "US curbs delay next Chinese AI models into 2027",
+      "s": "Sources say Z.AI's GLM-5.5 and Moonshot's next Kimi model may slip months as new US limits on overseas compute access and labs' anti-distillation safeguards bite.",
+      "src": "Daily Maverick (Reuters)",
+      "u": "https://www.dailymaverick.co.za/article/2026-11-26-us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-sources-say/",
+      "t": "2026-11-26",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Researcher says MiniMax user data accessed by unknown parties",
-      "s": "A Dragos researcher found secret links sent to Chinese AI firm MiniMax were later opened from Beijing, Shanghai and Singapore, despite no-retention requests. MiniMax says its security scanner opened links and denies disclosure.",
-      "src": "The Standard (Reuters)",
-      "u": "https://thestandard.com.hk/innovation/article/349730/Data-from-Chinese-AI-firm-MiniMax-accessed-by-unidentified-parties-researcher-says",
+      "h": "Germany and Austria push for European-owned TikTok",
+      "s": "The two governments want TikTok's EU business and its recommendation algorithm placed under European control, and will seek EU backing at a December 2 ministers' meeting. TikTok calls the idea meritless.",
+      "src": "Euronews",
+      "u": "https://www.euronews.com/2026/11/27/germany-and-austria-push-for-european-ownership-of-tiktok",
+      "t": "2026-11-27",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Musk, SpaceX pledge two shares per US child",
+      "s": "SpaceX and Musk doubled their pledge to put two SpaceX shares in every American child's Trump Account, about $18 billion in total; parents must claim the account to activate it.",
+      "src": "CBS News",
+      "u": "https://www.cbsnews.com/news/elon-musk-spacex-shares-trump-accounts/",
       "t": "2026-11-26",
       "impact": 3,
       "act": false
@@ -133,75 +133,77 @@
   ],
   "talking": [
     {
-      "h": "Storm postpones Macy's parade for first time ever",
-      "s": "The 100th Macy's Thanksgiving Day Parade moves to Saturday at 8:30 a.m. because of the coastal storm, the first weather postponement in its history. NYC's mayor warned of 65 mph gusts and possible flash flooding.",
-      "src": "CBS New York",
-      "u": "https://www.cbsnews.com/newyork/news/macys-thanksgiving-day-parade-postponed/",
+      "h": "Bears stun Lions on last-second TD, take NFC North lead",
+      "s": "Caleb Williams hit Rome Odunze for the winning score as Chicago won 39-35 in Detroit, ending the Lions' six-game win streak despite 205 rushing yards from Jahmyr Gibbs.",
+      "src": "Yahoo Sports (MLive)",
+      "u": "https://sports.yahoo.com/nfl/articles/lions-drop-thanksgiving-matchup-bears-223218501.html",
       "t": "2026-11-26",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Rams top Packers in first Thanksgiving Eve game",
-      "s": "Los Angeles beat Green Bay 26–13 on Netflix behind Blake Corum's career-high 184 rushing yards, while Jordan Love threw two interceptions. Thursday's NFL tripleheader follows, capped by a Mahomes–Allen matchup.",
-      "src": "NBC Los Angeles",
-      "u": "https://www.nbclosangeles.com/news/sports/nfl/rams-packers-score-thanksgiving-eve/3975280/",
-      "t": "2026-11-25",
       "impact": 2,
       "act": false
     },
     {
-      "h": "Online holiday spending running 9% ahead of last year",
-      "s": "Adobe says shoppers spent over $82.5 billion online Nov. 1–22, up 9.1%. It expects $6.9 billion today, $12.9 billion on Black Friday and $15.1 billion on Cyber Monday.",
-      "src": "Digital Commerce 360",
-      "u": "https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/",
-      "t": "2026-11-25",
+      "h": "Eagles erase 21-point deficit to beat Cowboys 39-38",
+      "s": "With Jalen Hurts out, backup Joe Milton threw two long touchdowns to DeVonta Smith, and Jake Elliott won it with a 59-yard field goal with two seconds left in Dallas.",
+      "src": "CBS Texas (AP)",
+      "u": "https://www.cbsnews.com/texas/news/cowboys-blow-21-point-lead-eagles-thanksgiving-november-2026/",
+      "t": "2026-11-26",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Bills top Chiefs 13-10 on 57-yard walk-off kick",
+      "s": "Tyler Bass won a rain- and wind-swept Thanksgiving night game in Orchard Park as time expired, pushing Buffalo to 10-1, the AFC's best record, and dropping Kansas City to 8-3.",
+      "src": "NBC New York (AP)",
+      "u": "https://www.nbcnewyork.com/news/sports/nfl/chiefs-bills-score-mahomes-josh-allen/6576727/",
+      "t": "2026-11-27",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Black Friday lines return as shoppers head to stores",
+      "s": "Lines formed at a Chicago-area outlet mall at the 6 a.m. opening. An ICSC survey found 84% of weekend shoppers plan to visit physical stores, the highest share since 2019.",
+      "src": "ABC7 Chicago",
+      "u": "https://abc7chicago.com/post/2026-black-friday-sales-expected-lure-more-shoppers-stores-hours-past-several-years-survey/20090165/",
+      "t": "2026-11-27",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Black Friday: markets close early",
-      "s": "After a full Thanksgiving closure, NYSE and Nasdaq close at 1 p.m. ET Friday; bond markets close at 2 p.m. ET.",
-      "date": "2026-11-27",
-      "src": "Kiplinger",
-      "u": "https://www.kiplinger.com/investing/601965/stock-market-holidays-in-2021"
+      "h": "Senate returns facing shutdown, Iran war funding fight",
+      "s": "Senators come back from Thanksgiving with under two weeks to fund the government. A short-term stopgap into early next year looks likely, with Democrats pushing for limits on Iran war funding.",
+      "date": "2026-11-30",
+      "src": "Fox News",
+      "u": "https://www.foxnews.com/politics/senate-gop-takes-risky-bet-dems-holiday-shutdown-deadline-looms-its-gamble"
     },
     {
-      "h": "Rescheduled Macy's parade steps off Saturday",
-      "s": "The postponed 100th Macy's Thanksgiving Day Parade is set for Saturday at 8:30 a.m. in Manhattan.",
-      "date": "2026-11-28",
-      "src": "CBS New York",
-      "u": "https://www.cbsnews.com/newyork/news/macys-thanksgiving-day-parade-postponed/"
-    },
-    {
-      "h": "Cyber Monday expected to be biggest online day",
-      "s": "Adobe forecasts $15.1 billion in U.S. online spending on Cyber Monday, up 6.2% from last year.",
+      "h": "Cyber Monday forecast to top $15 billion online",
+      "s": "Adobe expects $15.1 billion in U.S. online sales on Cyber Monday, up 6.2%, keeping it the year's biggest online shopping day.",
       "date": "2026-11-30",
       "src": "Digital Commerce 360",
       "u": "https://www.digitalcommerce360.com/2026/11/25/adobe-online-holiday-spending-data/"
     },
     {
-      "h": "Nvidia's Huang testifies to Congress",
-      "s": "Jensen Huang is due on Capitol Hill Dec. 1 and 3, as sole witness before Senate Banking plus closed-door House committee sessions.",
-      "date": "2026-12-01",
-      "src": "ABC News (Australia)",
-      "u": "https://abc.net.au/news/2026-11-26/jd-vance-shrugs-off-ceo-pardon-after-trump-comment/107429070"
+      "h": "Supreme Court hears AR-15 ban challenge",
+      "s": "The justices hear arguments on whether Cook County, Illinois' ban on AR-15s and similar semiautomatic rifles violates the Second Amendment. The case is now called Khaya v. Cook County.",
+      "date": "2026-12-02",
+      "src": "SCOTUSblog",
+      "u": "https://www.scotusblog.com/2026/11/last-minute-surprise-shuffles-second-amendment-case/"
     },
     {
-      "h": "FAA, Duffy face Congress over nationwide ground stop",
-      "s": "FAA chief Bryan Bedford testifies to a House panel Dec. 1 and Transportation Secretary Duffy to a Senate subcommittee Dec. 2 about the Nov. 13 outage and his $50 billion modernization request.",
-      "date": "2026-12-01",
-      "src": "Hawaii Tribune-Herald (Reuters)",
-      "u": "https://www.hawaiitribune-herald.com/2026/11/25/nation-world-news/news-in-brief-for-november-25-2/"
+      "h": "Chiefs visit Rams on Thursday Night Football",
+      "s": "Kansas City, now 8-3 after losing in Buffalo, plays at the Los Angeles Rams.",
+      "date": "2026-12-03",
+      "src": "NBC New York (AP)",
+      "u": "https://www.nbcnewyork.com/news/sports/nfl/chiefs-bills-score-mahomes-josh-allen/6576727/"
     },
     {
-      "h": "November jobs report",
-      "s": "BLS releases the November employment report Friday at 8:30 a.m. ET; October job openings (JOLTS) come Tuesday, Dec. 1.",
+      "h": "November jobs report due",
+      "s": "The Labor Department releases the November employment report at 8:30 a.m. ET. October job openings (JOLTS) data comes out Tuesday, Dec. 1.",
       "date": "2026-12-04",
       "src": "Bureau of Labor Statistics",
-      "u": "https://www.bls.gov/schedule/2026/12_sched_list.htm"
+      "u": "https://www.bls.gov/schedule/2026/home.htm"
     }
   ]
 }

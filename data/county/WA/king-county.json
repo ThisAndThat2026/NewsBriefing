@@ -1,37 +1,46 @@
 {
   "stories": [
     {
-      "h": "Coastal flood warning, wind advisory hit Puget Sound Thanksgiving",
-      "s": "Early-morning king tides plus storm winds bring a coastal flood warning to Puget Sound shores and a wind advisory through noon, with inland gusts to 45-50 mph. Expect scattered outages; afternoon turns drier.",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/weather/seattle-weather-heavy-rain-gusty-winds-start-thanksgiving-day",
-      "t": "2026-11-26",
-      "impact": 4,
-      "act": true
-    },
-    {
-      "h": "SPU deploys pumps, sandbags as king tides flood South Park",
-      "s": "Seattle Public Utilities activated its emergency plan after high water reached South Park basements, staffing a base at 8th Ave S and S Monroe St and five sandbag pickup sites. Residents should move cars to higher ground.",
-      "src": "MyNorthwest (KIRO 7)",
-      "u": "https://mynorthwest.com/local/south-park-king-tides-wa/4304547",
-      "t": "2026-11-25",
-      "impact": 3,
-      "act": true
-    },
-    {
-      "h": "Environmental group sues King County over West Point plant",
-      "s": "Puget Soundkeeper Alliance filed a federal suit alleging the West Point treatment plant discharges nitrogen and phosphorus into Puget Sound without valid permit coverage. It seeks a halt to discharges and daily civil penalties.",
-      "src": "KIRO 7",
-      "u": "https://www.kiro7.com/news/local/king-county-sued-over-alleged-clean-water-act-violations/EVRBTHVQ5NCPHFZZB4ZLU3BZNU/",
+      "h": "Rare tornado warning hits Eastside after Renton landspout",
+      "s": "On Thanksgiving, spotters reported a landspout near Renton heading east, which prompted a brief NWS tornado warning for Issaquah, Snoqualmie and North Bend. The warning expired at 12:15 p.m., and no damage was reported.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/pacific-northwest-weather/tornado-warning-issued-for-central-king-county-after-landspout-spotted-near-renton/4305005",
       "t": "2026-11-26",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Downed trees cut power to 900 near Lake City",
-      "s": "About 900 Seattle City Light customers in Olympic Hills lost power for roughly six hours Wednesday after trees fell on lines; service returned around 12:30 p.m. as utilities prepped for the overnight storm.",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/local/power-near-lake-city/4304653",
+      "h": "Metro reroutes downtown buses for tree lighting Friday",
+      "s": "Metro buses run weekday schedules Friday, while Link runs a Saturday schedule and Sounder is off. Several downtown routes detour for the Westlake tree lighting, and Sunday's Seattle Marathon brings wide morning reroutes.",
+      "src": "King County Metro",
+      "u": "https://kingcountymetro.blog/2026/11/25/metro-weekend-update-november-25-29-2026/",
+      "t": "2026-11-25",
+      "impact": 2,
+      "act": true
+    },
+    {
+      "h": "Juveniles trade gunfire in Seattle's Yesler Terrace",
+      "s": "Seattle police say two groups of juveniles exchanged shots near E. Yesler Way on Thanksgiving afternoon, and witnesses reported up to 20 rounds. An 18-year-old found with a stolen gun was arrested but was not tied to the shooting.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/seattle-police-investigate-gunfire-between-two-groups-juveniles-yesler-terrace/CXLBGGB6PZBYNLF6BA6USVOECU/",
+      "t": "2026-11-26",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "King County wastewater shows world-high meth levels",
+      "s": "An EU drug agency study of sewage from 115 cities found the highest methamphetamine levels in samples from King County's West Point and Renton plants. Researchers say the data can't show how many people use the drug.",
+      "src": "KOMO News",
+      "u": "https://komonews.com/news/local/seattle-ranks-no-1-for-meth-in-sewage-study-across-115-international-cities-methamphetamine-drugs-illegal-crime-downtown-washington-australia-police-resources-addiction-treatment-king-county-renton",
+      "t": "2026-11-25",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Renton man shot multiple times in neighbor feud",
+      "s": "A Renton man is at Harborview after a neighbor shot him several times during a Monday-evening dispute. Police arrested and booked the suspect and say the two had a long-running feud.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/renton-man-hospitalized-serious-condition-after-shooting-during-dispute-with-neighbor/QTME6ZR3A5BAXLSYQLWXORZ36U/",
       "t": "2026-11-25",
       "impact": 2,
       "act": false
@@ -39,18 +48,32 @@
   ],
   "coming": [
     {
-      "h": "Another, weaker round of rain Friday",
-      "s": "Rain returns Friday before clearing in the evening; the weekend looks drier, with more rain early next week.",
+      "h": "Westlake Park tree lighting and fireworks",
+      "s": "Free celebration from 11 a.m. to 6 p.m. Friday, with the tree and star lit at 5 p.m. and fireworks after. Expect downtown bus detours.",
       "date": "2026-11-27",
       "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/weather/seattle-weather-heavy-rain-gusty-winds-start-thanksgiving-day"
+      "u": "https://www.fox13seattle.com/news/must-see-holiday-events"
     },
     {
-      "h": "Court hearing on blocking I-638 girls' sports rules",
-      "s": "King County Superior Court Judge Maureen McKee hears a bid to halt Initiative 638 at 9 a.m., the day the measure takes effect.",
+      "h": "Bellevue's Snowflake Lane begins nightly run",
+      "s": "The free 20–25 minute show on Bellevue Way between NE 4th and NE 8th starts nightly at 7 p.m. from Nov. 27 through Dec. 24.",
+      "date": "2026-11-27",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/must-see-holiday-events"
+    },
+    {
+      "h": "Seattle Marathon reroutes dozens of bus routes",
+      "s": "Many Metro and ST routes, including RapidRide C, D and G, detour Sunday morning, some until 3 p.m., for the Seattle Marathon.",
+      "date": "2026-11-29",
+      "src": "King County Metro",
+      "u": "https://kingcountymetro.blog/2026/11/25/metro-weekend-update-november-25-29-2026/"
+    },
+    {
+      "h": "Holiday in the Park at Volunteer Park",
+      "s": "A free holiday event at Seattle's Volunteer Park, 5 to 7:30 p.m.",
       "date": "2026-12-03",
-      "src": "KOMO",
-      "u": "https://komonews.com/news/local/king-county-judge-asked-to-halt-initiative-638-girls-sports-rules-before-dec-3-start-rules-and-guidance-on-what-sports-will-be-affected-by-i638-washington-state-washingtons-equal-rights-amendment"
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/must-see-holiday-events"
     }
   ]
 }

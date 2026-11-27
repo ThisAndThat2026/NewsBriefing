@@ -1,0 +1,56 @@
+{
+  "stories": [
+    {
+      "h": "Coastal flood warning, wind advisory hit Puget Sound Thanksgiving",
+      "s": "Early-morning king tides plus storm winds bring a coastal flood warning to Puget Sound shores and a wind advisory through noon, with inland gusts to 45-50 mph. Expect scattered outages; afternoon turns drier.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/weather/seattle-weather-heavy-rain-gusty-winds-start-thanksgiving-day",
+      "t": "2026-11-26",
+      "impact": 4,
+      "act": true
+    },
+    {
+      "h": "SPU deploys pumps, sandbags as king tides flood South Park",
+      "s": "Seattle Public Utilities activated its emergency plan after high water reached South Park basements, staffing a base at 8th Ave S and S Monroe St and five sandbag pickup sites. Residents should move cars to higher ground.",
+      "src": "MyNorthwest (KIRO 7)",
+      "u": "https://mynorthwest.com/local/south-park-king-tides-wa/4304547",
+      "t": "2026-11-25",
+      "impact": 3,
+      "act": true
+    },
+    {
+      "h": "Environmental group sues King County over West Point plant",
+      "s": "Puget Soundkeeper Alliance filed a federal suit alleging the West Point treatment plant discharges nitrogen and phosphorus into Puget Sound without valid permit coverage. It seeks a halt to discharges and daily civil penalties.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/king-county-sued-over-alleged-clean-water-act-violations/EVRBTHVQ5NCPHFZZB4ZLU3BZNU/",
+      "t": "2026-11-26",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Downed trees cut power to 900 near Lake City",
+      "s": "About 900 Seattle City Light customers in Olympic Hills lost power for roughly six hours Wednesday after trees fell on lines; service returned around 12:30 p.m. as utilities prepped for the overnight storm.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/local/power-near-lake-city/4304653",
+      "t": "2026-11-25",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Another, weaker round of rain Friday",
+      "s": "Rain returns Friday before clearing in the evening; the weekend looks drier, with more rain early next week.",
+      "date": "2026-11-27",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/weather/seattle-weather-heavy-rain-gusty-winds-start-thanksgiving-day"
+    },
+    {
+      "h": "Court hearing on blocking I-638 girls' sports rules",
+      "s": "King County Superior Court Judge Maureen McKee hears a bid to halt Initiative 638 at 9 a.m., the day the measure takes effect.",
+      "date": "2026-12-03",
+      "src": "KOMO",
+      "u": "https://komonews.com/news/local/king-county-judge-asked-to-halt-initiative-638-girls-sports-rules-before-dec-3-start-rules-and-guidance-on-what-sports-will-be-affected-by-i638-washington-state-washingtons-equal-rights-amendment"
+    }
+  ]
+}

@@ -1,65 +1,65 @@
 {
   "stories": [
     {
-      "h": "IDF says Israel could hit Iran without US help",
-      "s": "Military spokesman Effie Defrin told Kan that Israel can strike Iran at any moment, even alone. Netanyahu is convening his security cabinet Thursday evening amid reports of preparations for renewed action; Mossad researchers reportedly see no urgent need.",
-      "src": "Iran International",
-      "u": "https://www.iranintl.com/en/202611268653",
+      "h": "Eisenkot and Golan's Democrats agree coalition deal",
+      "s": "After talks resumed, Yashar and the Democrats agreed terms giving Golan's party four portfolios, including an expanded national security ministry now held by Ben Gvir, plus a pledge to fully repeal the judicial overhaul.",
+      "src": "The Times of Israel",
+      "u": "https://www.timesofisrael.com/eisenkot-edges-closer-to-government-as-his-party-announces-coalition-deal-with-democrats/",
       "t": "2026-11-26",
       "impact": 4,
       "act": false
     },
     {
-      "h": "Eisenkot's Yashar restarts coalition talks with Golan's Democrats",
-      "s": "Two days after Yair Golan froze negotiations over Yashar's parallel talks with Likud, Yashar says marathon sessions resume Thursday. Golan reportedly wants a top ministry; Eisenkot is said to offer only national security.",
-      "src": "Times of Israel",
-      "u": "https://www.timesofisrael.com/liveblog_entry/yashar-says-coalition-talks-with-democrats-back-on-ending-freeze/",
-      "t": "2026-11-26",
+      "h": "Netanyahu weighs offering Eisenkot rotation, serving second",
+      "s": "Sources told the Post that Netanyahu is considering announcing, possibly this weekend, that he would take the second turn as PM in a unity rotation with Eisenkot, framing it as a security necessity.",
+      "src": "The Jerusalem Post",
+      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916326",
+      "t": "2026-11-27",
       "impact": 4,
       "act": false
     },
     {
-      "h": "Netanyahu demands immediate end to his corruption trial",
-      "s": "After judges questioned the bribery count, Netanyahu called the trial fabricated and said it must stop now. Attorney General Baharav-Miara, appearing in court, said prosecutors will weigh the remarks and are open to a negotiated ending.",
-      "src": "Jerusalem Post",
-      "u": "https://www.jpost.com/israel-news/crime-in-israel/article-916054",
-      "t": "2026-11-25",
+      "h": "Haredi rabbis lean toward letting UTJ negotiate with Eisenkot",
+      "s": "Senior rabbis reportedly favor allowing UTJ into formal coalition talks, with a decision expected Sunday; Kan reported Yashar and UTJ agreed draft-law principles scrapping enlistment quotas while tightening checks on yeshiva students.",
+      "src": "The Jerusalem Post",
+      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916321",
+      "t": "2026-11-27",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Kushner presses Netanyahu on Gaza aid and multinational force",
-      "s": "In a Tuesday-night call, the US envoy urged Netanyahu to let more humanitarian supplies into Gaza ahead of winter and to approve deploying international troops. A Board of Peace source described the conversation as very positive.",
-      "src": "i24NEWS",
-      "u": "https://i24news.tv/en/news/israel/diplomacy/artc-kushner-pushes-netanyahu-to-approve-gaza-multinational-force-expand-humanitarian-aid",
-      "t": "2026-11-25",
+      "h": "IDF says week of Gaza strikes killed 10 operatives",
+      "s": "The military said four of those killed had taken part in the October 7 attack, citing ceasefire violations; overnight Thursday the air force also hit four Hamas weapons depots after warning nearby civilians.",
+      "src": "The Times of Israel",
+      "u": "https://www.timesofisrael.com/idf-four-oct-7-perpetrators-among-10-terror-operatives-killed-in-gaza-strikes/",
+      "t": "2026-11-27",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Karhi media law repeal clears Knesset first reading",
-      "s": "Lawmakers voted 51-32 Wednesday to scrap Communications Minister Shlomo Karhi's Broadcasting Law and restore the prior framework. Karhi protested the rushed process; the bill returns to committee before final readings.",
-      "src": "Jerusalem Post",
-      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916162",
-      "t": "2026-11-26",
+      "h": "IDF strikes Hezbollah rockets at Radwan camp in Lebanon",
+      "s": "Israel hit dozens of rockets and launchers at an elite Radwan Force training site in the Ain al-Tina area, saying they were meant for attacks on Israelis, while stating it remains committed to the Lebanon ceasefire.",
+      "src": "JNS",
+      "u": "https://www.jns.org/news/israel-news/idf-strikes-hezbollah-rockets-and-launchers-in-southern-lebanon",
+      "t": "2026-11-27",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Security cabinet meets on Iran",
-      "s": "Netanyahu convenes his security cabinet Thursday evening amid reports Israel and the US are preparing for possible renewed strikes on Iran.",
-      "date": "2026-11-26",
-      "src": "Iran International",
-      "u": "https://www.iranintl.com/en/202611268653"
+      "h": "Haredi rabbis expected to rule on UTJ coalition talks",
+      "s": "Final rabbinic approval for UTJ to open formal talks with Yashar is not expected before Sunday; UTJ says it will speed up if Netanyahu makes no rotation announcement by Saturday night.",
+      "date": "2026-11-29",
+      "src": "The Jerusalem Post",
+      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916321"
     },
     {
-      "h": "Eisenkot bloc's target date to swear in government",
-      "s": "Channel 12 reports the Eisenkot-led bloc hopes to swear in a new government as soon as next Wednesday, pending deals with Bennett and the Democrats.",
+      "h": "Eisenkot bloc's target date for swearing in government",
+      "s": "Yashar is aiming to sign all coalition deals, including with UTJ, and swear in a government on Wednesday; his mandate expires December 6 unless Herzog grants an extension.",
       "date": "2026-12-02",
-      "src": "Times of Israel",
-      "u": "https://www.timesofisrael.com/liveblog_entry/report-eisenkot-led-bloc-hopes-to-swear-in-government-as-soon-as-next-wednesday-yisrael-beytenu-expected-to-get-defense-absorption-ministries/"
+      "src": "The Times of Israel",
+      "u": "https://www.timesofisrael.com/eisenkot-hopes-to-get-his-government-sworn-in-next-week-regardless-of-netanyahu-trial-drama/"
     }
   ]
 }
