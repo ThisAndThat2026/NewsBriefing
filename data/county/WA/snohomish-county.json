@@ -1,47 +1,45 @@
 {
   "stories": [
     {
-      "h": "Lynnwood police seek man who stabbed 82-year-old woman",
-      "s": "On Tuesday night, a man in his 50s or 60s entered a home in the 18700 block of 48th Ave W, searched it for cash, and assaulted and stabbed the 82-year-old resident. She is stable, and police released surveillance video.",
-      "src": "The Everett Herald",
-      "u": "https://www.heraldnet.com/2026/11/26/lynnwood-police-search-for-suspect-in-violent-home-invasion/",
-      "t": "2026-11-26",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Air Force orders 15 more Everett-built KC-46A tankers",
-      "s": "Boeing received an Air Force contract for 15 additional KC-46A Pegasus tankers built at its Everett plant. That brings the total to 203 aircraft on contract or delivered worldwide. The article gives no contract value.",
-      "src": "Lynnwood Times",
-      "u": "https://lynnwoodtimes.com/2026/11/24/kc-46a/",
-      "t": "2026-11-24",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Wave-powered AI data-center buoy arrives at Port of Everett",
-      "s": "A Panthalassa structure was towed through Puget Sound to Everett. My Everett News believes it is the startup's Ocean-3 unit, which pairs wave power with onboard computing and is headed for a Pacific test deployment.",
-      "src": "My Everett News",
-      "u": "https://myeverettnews.com/2026/11/25/mysterious-object-comes-to-everett-again/",
+      "h": "Snohomish County certifies election; tax supermajority charter amendment passes",
+      "s": "Certified results put turnout at 60.7%. Voters approved Prop. 5, which requires four of five council votes to raise taxes, along with financial-transparency and emergency-reserve charter amendments.",
+      "src": "Everett Post",
+      "u": "https://www.everettpost.com/local-news/crunching-the-numbers-on-snohomish-co-general-election-results-certified-by-canvassing-board/",
       "t": "2026-11-25",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Food-court fight, not gunfire, sparks Black Friday panic at Alderwood",
+      "s": "Shoppers fled Alderwood Mall Friday evening after a fight knocked over tables and chairs. Lynnwood police found no shooting and no injuries. Separately, a pedestrian was killed on Highway 99, closing the northbound lanes.",
+      "src": "Lynnwood Times",
+      "u": "https://lynnwoodtimes.com/2026/11/27/lynnwood-shooting-2/",
+      "t": "2026-11-27",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Edmonds tree lighting at Centennial Plaza",
-      "s": "The Edmonds Chamber of Commerce holds its annual tree lighting from 3 to 5 p.m. Saturday.",
-      "date": "2026-11-28",
-      "src": "Edmonds Beacon",
-      "u": "https://www.edmondsbeacon.com/stories/edmonds-tree-lighting-set-for-saturday,200472"
+      "h": "County Council hearing on wetlands and habitat rules",
+      "s": "Public hearing on Ordinance 26-076, which revises critical-areas rules after a state growth board remand. 10:30 a.m. Wednesday at the Drewel Building in Everett, and on Zoom.",
+      "date": "2026-12-02",
+      "src": "Snohomish County",
+      "u": "https://snohomishcountywa.gov/2134/Council-Hearings-Calendar"
     },
     {
       "h": "Holiday Spark opens at Evergreen State Fair Park",
-      "s": "Free holiday festival in Monroe Dec. 3–6, running 5–8 p.m. on Thursday and Friday. Some activities cost extra, igloos can be reserved, and parking is $5.",
+      "s": "Free holiday festival in Monroe Dec. 3–6, running 5–8 p.m. on Thursday and Friday. Some activities cost extra, and parking is $5.",
       "date": "2026-12-03",
       "src": "Snohomish County",
       "u": "https://snohomishcountywa.gov/m/newsflash/Home/Detail/3287"
+    },
+    {
+      "h": "Merrysville for the Holidays parade and tree lighting",
+      "s": "Holiday market, live reindeer and Santa photos start at 4 p.m. in Comeford Park. The Electric Lights Parade on State Avenue is at 6:30 p.m., and the tree lighting at 7:15.",
+      "date": "2026-12-05",
+      "src": "City of Marysville",
+      "u": "https://marysvillewa.gov/689/Merrysville-for-the-Holidays"
     }
   ]
 }

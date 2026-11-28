@@ -1,0 +1,79 @@
+{
+  "stories": [
+    {
+      "h": "SR 509 off-ramp to Myers Way closed indefinitely",
+      "s": "WSDOT shut the southbound SR 509 exit to Myers Way and S. Cloverdale St. Friday over a possibly failed culvert. There's no reopening estimate, so South Park and Highland Park drivers should use other exits.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/sr-509-potential-failed-culvert",
+      "t": "2026-11-27",
+      "impact": 3,
+      "act": true
+    },
+    {
+      "h": "Vashon ferry dock loses lanes for pile repairs",
+      "s": "Washington State Ferries is replacing two decayed timber piles at the Vashon terminal starting Saturday; two more boarding lanes close Sunday daytime. Riders should arrive early. All lanes should reopen before Dec. 5.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/vashon-ferry-terminal-emergency-repairs",
+      "t": "2026-11-27",
+      "impact": 3,
+      "act": true
+    },
+    {
+      "h": "Rare tornado warning hits Eastside after Renton landspout",
+      "s": "On Thanksgiving, spotters reported a landspout near Renton heading east, which prompted a brief NWS tornado warning for Issaquah, Snoqualmie and North Bend. The warning expired at 12:15 p.m., and no damage was reported.",
+      "src": "MyNorthwest",
+      "u": "https://mynorthwest.com/pacific-northwest-weather/tornado-warning-issued-for-central-king-county-after-landspout-spotted-near-renton/4305005",
+      "t": "2026-11-26",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Metro reroutes downtown buses for tree lighting Friday",
+      "s": "Metro buses run weekday schedules Friday, while Link runs a Saturday schedule and Sounder is off. Several downtown routes detour for the Westlake tree lighting, and Sunday's Seattle Marathon brings wide morning reroutes.",
+      "src": "King County Metro",
+      "u": "https://kingcountymetro.blog/2026/11/25/metro-weekend-update-november-25-29-2026/",
+      "t": "2026-11-25",
+      "impact": 2,
+      "act": true
+    },
+    {
+      "h": "Juveniles trade gunfire in Seattle's Yesler Terrace",
+      "s": "Seattle police say two groups of juveniles exchanged shots near E. Yesler Way on Thanksgiving afternoon, and witnesses reported up to 20 rounds. An 18-year-old found with a stolen gun was arrested but was not tied to the shooting.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/seattle-police-investigate-gunfire-between-two-groups-juveniles-yesler-terrace/CXLBGGB6PZBYNLF6BA6USVOECU/",
+      "t": "2026-11-26",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Westlake Park tree lighting and fireworks",
+      "s": "Free celebration from 11 a.m. to 6 p.m. Friday, with the tree and star lit at 5 p.m. and fireworks after. Expect downtown bus detours.",
+      "date": "2026-11-27",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/must-see-holiday-events"
+    },
+    {
+      "h": "Bellevue's Snowflake Lane begins nightly run",
+      "s": "The free 20–25 minute show on Bellevue Way between NE 4th and NE 8th starts nightly at 7 p.m. from Nov. 27 through Dec. 24.",
+      "date": "2026-11-27",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/must-see-holiday-events"
+    },
+    {
+      "h": "Seattle Marathon reroutes dozens of bus routes",
+      "s": "Many Metro and ST routes, including RapidRide C, D and G, detour Sunday morning, some until 3 p.m., for the Seattle Marathon.",
+      "date": "2026-11-29",
+      "src": "King County Metro",
+      "u": "https://kingcountymetro.blog/2026/11/25/metro-weekend-update-november-25-29-2026/"
+    },
+    {
+      "h": "Holiday in the Park at Volunteer Park",
+      "s": "A free holiday event at Seattle's Volunteer Park, 5 to 7:30 p.m.",
+      "date": "2026-12-03",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/must-see-holiday-events"
+    }
+  ]
+}

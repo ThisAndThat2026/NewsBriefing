@@ -1,0 +1,45 @@
+{
+  "stories": [
+    {
+      "h": "Peninsula schools set Dec. 3 I-638 athlete deadline",
+      "s": "Gig Harbor-area girls' sports athletes need a provider's biological-sex attestation by Dec. 3, following WIAA guidance. Without it they can practice but not compete. A court hearing that same day could pause the rule.",
+      "src": "Gig Harbor Now",
+      "u": "https://www.gigharbornow.org/news/education/peninsula-school-district-follows-wiaas-lead-on-i-638/",
+      "t": "2026-11-25",
+      "impact": 3,
+      "act": true
+    },
+    {
+      "h": "Fatal crash at Allen Road and SR 702 near Yelm",
+      "s": "Troopers say an SUV driver failed to yield Wednesday evening and hit a pickup carrying four people, killing an unbelted passenger. The intersection between Yelm and Eatonville was closed for about 4.5 hours.",
+      "src": "KOMO News",
+      "u": "https://komonews.com/newsletter-daily/collision-crash-dead-injured-car-suv-pickup-pierce-county-wednesday-night",
+      "t": "2026-11-26",
+      "impact": 2,
+      "act": false
+    }
+  ],
+  "coming": [
+    {
+      "h": "Zoolights opens at Point Defiance Zoo",
+      "s": "The 39th annual light show runs nightly 4:30–10 p.m. from Nov. 27 through Jan. 3, with timed online tickets. Dog Nights are Dec. 1 and 2.",
+      "date": "2026-11-27",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/point-defiance-zoo-aquarium-zoolights-schedule-includes-dog-nights-sensory-friendly-options/UYEO7CY77JAWVLX7RWZCZ6UXJY/"
+    },
+    {
+      "h": "Gig Harbor Winterfest craft fair",
+      "s": "More than 100 vendors at Peninsula High School, 9 a.m.–5 p.m. Saturday and 11 a.m.–4 p.m. Sunday. Admission is $5.",
+      "date": "2026-11-28",
+      "src": "Gig Harbor Now",
+      "u": "https://www.gigharbornow.org/news/arts-entertainment/gig-harbor-events-thanksgiving-black-friday-november-26-november-27-november-28-november-29-turkey-trot-winterfest/"
+    },
+    {
+      "h": "Hand recount begins in 80-vote 25th District race",
+      "s": "Pierce County begins a hand recount Dec. 4 in the Puyallup-area House race, where Democrat Jenn Marie Strickling leads Rep. Cyndy Jacobsen by 80 votes. Certification is set for Dec. 7.",
+      "date": "2026-12-04",
+      "src": "KOMO News",
+      "u": "https://komonews.com/news/local/pierce-county-25th-legislative-district-race-heads-to-recount-with-80-vote-margin"
+    }
+  ]
+}

@@ -1,46 +1,37 @@
 {
   "stories": [
     {
-      "h": "SR 509 off-ramp to Myers Way closed indefinitely",
-      "s": "WSDOT shut the southbound SR 509 exit to Myers Way and S. Cloverdale St. Friday over a possibly failed culvert. There's no reopening estimate, so South Park and Highland Park drivers should use other exits.",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/news/sr-509-potential-failed-culvert",
+      "h": "Port of Seattle admits it got notice of SEA ICE arrest",
+      "s": "After saying it had no warning, the Port now says TSA gave it limited notice before ICE arrested a man on a jetway at Sea-Tac. The Port has ordered an independent investigation into how its employees handled the arrest.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/port-seattle-reverses-story-admits-advance-warning-was-given-ice-operation-sea/OQOI6QJEUNGWDBMHI5JNQL7DUA/",
       "t": "2026-11-27",
-      "impact": 3,
-      "act": true
-    },
-    {
-      "h": "Vashon ferry dock loses lanes for pile repairs",
-      "s": "Washington State Ferries is replacing two decayed timber piles at the Vashon terminal starting Saturday; two more boarding lanes close Sunday daytime. Riders should arrive early. All lanes should reopen before Dec. 5.",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/news/vashon-ferry-terminal-emergency-repairs",
-      "t": "2026-11-27",
-      "impact": 3,
-      "act": true
-    },
-    {
-      "h": "Rare tornado warning hits Eastside after Renton landspout",
-      "s": "On Thanksgiving, spotters reported a landspout near Renton heading east, which prompted a brief NWS tornado warning for Issaquah, Snoqualmie and North Bend. The warning expired at 12:15 p.m., and no damage was reported.",
-      "src": "MyNorthwest",
-      "u": "https://mynorthwest.com/pacific-northwest-weather/tornado-warning-issued-for-central-king-county-after-landspout-spotted-near-renton/4305005",
-      "t": "2026-11-26",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Metro reroutes downtown buses for tree lighting Friday",
-      "s": "Metro buses run weekday schedules Friday, while Link runs a Saturday schedule and Sounder is off. Several downtown routes detour for the Westlake tree lighting, and Sunday's Seattle Marathon brings wide morning reroutes.",
-      "src": "King County Metro",
-      "u": "https://kingcountymetro.blog/2026/11/25/metro-weekend-update-november-25-29-2026/",
-      "t": "2026-11-25",
-      "impact": 2,
-      "act": true
+      "h": "Good To Go phone line back; toll website still down",
+      "s": "WSDOT took MyGoodToGo.com offline Nov. 22 after a cyber intrusion attempt, and it has no return date. Customers can pay by phone at 1-866-936-8246 and ask to waive late fees from the outage. Tolls are still being recorded.",
+      "src": "KIRO 7",
+      "u": "https://www.kiro7.com/news/local/washingtons-good-go-customer-service-restored-after-cybersecurity-threat-website-remains-down/ZS25KGHO5FA3PN7DVXTPXPL2OU/",
+      "t": "2026-11-27",
+      "impact": 3,
+      "act": false
     },
     {
-      "h": "Juveniles trade gunfire in Seattle's Yesler Terrace",
-      "s": "Seattle police say two groups of juveniles exchanged shots near E. Yesler Way on Thanksgiving afternoon, and witnesses reported up to 20 rounds. An 18-year-old found with a stolen gun was arrested but was not tied to the shooting.",
+      "h": "Seattle home prices falling fastest among major US cities",
+      "s": "A First American analysis finds Seattle-area single-family prices fell more over the past year than in any other major U.S. city. Its economist cites uncertainty in tech jobs and buyers' sensitivity to mortgage rates.",
+      "src": "KUOW",
+      "u": "https://www.kuow.org/economy/2026-11-27/seattle-area-has-nations-fastest-dropping-home-prices-report-says",
+      "t": "2026-11-27",
+      "impact": 3,
+      "act": false
+    },
+    {
+      "h": "Environmental group sues King County over West Point discharges",
+      "s": "Puget Soundkeeper Alliance has filed a federal suit claiming the West Point treatment plant discharges nitrogen and phosphorus into Puget Sound without valid permit coverage. It asks a court to stop the discharges and impose daily penalties.",
       "src": "KIRO 7",
-      "u": "https://www.kiro7.com/news/local/seattle-police-investigate-gunfire-between-two-groups-juveniles-yesler-terrace/CXLBGGB6PZBYNLF6BA6USVOECU/",
+      "u": "https://www.kiro7.com/news/local/king-county-sued-over-alleged-clean-water-act-violations/EVRBTHVQ5NCPHFZZB4ZLU3BZNU/",
       "t": "2026-11-26",
       "impact": 2,
       "act": false
@@ -48,32 +39,32 @@
   ],
   "coming": [
     {
-      "h": "Westlake Park tree lighting and fireworks",
-      "s": "Free celebration from 11 a.m. to 6 p.m. Friday, with the tree and star lit at 5 p.m. and fireworks after. Expect downtown bus detours.",
-      "date": "2026-11-27",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/news/must-see-holiday-events"
+      "h": "Light Up Duvall tree lighting",
+      "s": "Tree lighting at Depot Park from 5 to 8 p.m. with free Santa photos, a children's winter market and live music.",
+      "date": "2026-12-04",
+      "src": "Renton Reporter",
+      "u": "https://www.rentonreporter.com/2026/11/27/christmas-cheer-cavalcades-cocoa-where-to-find-your-next-favorite-holiday-celebration/"
     },
     {
-      "h": "Bellevue's Snowflake Lane begins nightly run",
-      "s": "The free 20–25 minute show on Bellevue Way between NE 4th and NE 8th starts nightly at 7 p.m. from Nov. 27 through Dec. 24.",
-      "date": "2026-11-27",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/news/must-see-holiday-events"
+      "h": "Kent Winterfest parade and tree lighting",
+      "s": "Performances at Town Square Plaza start at 2:30 p.m., the parade steps off on Ramsay Way at 5 p.m., and the tree is lit at 6 p.m.",
+      "date": "2026-12-05",
+      "src": "Renton Reporter",
+      "u": "https://www.rentonreporter.com/2026/11/27/christmas-cheer-cavalcades-cocoa-where-to-find-your-next-favorite-holiday-celebration/"
     },
     {
-      "h": "Seattle Marathon reroutes dozens of bus routes",
-      "s": "Many Metro and ST routes, including RapidRide C, D and G, detour Sunday morning, some until 3 p.m., for the Seattle Marathon.",
-      "date": "2026-11-29",
-      "src": "King County Metro",
-      "u": "https://kingcountymetro.blog/2026/11/25/metro-weekend-update-november-25-29-2026/"
+      "h": "Auburn Santa Parade and tree lighting",
+      "s": "Music at Auburn City Hall starts at 4 p.m., with the parade about 30 minutes later and the tree lighting after.",
+      "date": "2026-12-05",
+      "src": "Renton Reporter",
+      "u": "https://www.rentonreporter.com/2026/11/27/christmas-cheer-cavalcades-cocoa-where-to-find-your-next-favorite-holiday-celebration/"
     },
     {
-      "h": "Holiday in the Park at Volunteer Park",
-      "s": "A free holiday event at Seattle's Volunteer Park, 5 to 7:30 p.m.",
-      "date": "2026-12-03",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/news/must-see-holiday-events"
+      "h": "Snoqualmie tree lighting and holiday market",
+      "s": "Holiday market on Railroad Ave. from 3 to 6 p.m. with jazz and Santa photos; the tree is lit at 5:30 p.m.",
+      "date": "2026-12-05",
+      "src": "Renton Reporter",
+      "u": "https://www.rentonreporter.com/2026/11/27/christmas-cheer-cavalcades-cocoa-where-to-find-your-next-favorite-holiday-celebration/"
     }
   ]
 }

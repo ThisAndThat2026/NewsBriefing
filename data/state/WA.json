@@ -1,131 +1,131 @@
 {
   "stories": [
     {
-      "h": "Thanksgiving tide flooding forces rescues, evacuations in Brinnon",
-      "s": "King tides plus heavy rain sent up to 4 feet of water into parts of Brinnon on Hood Canal. Two women were rescued, Dosewallips State Park campers were evacuated, and many homes likely have water damage.",
-      "src": "Yahoo News (KING 5)",
-      "u": "https://www.yahoo.com/news/weather-news/articles/rising-water-rude-awakenings-thanksgiving-023100976.html",
-      "t": "2026-11-26",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Snow slides shut North Cascades Highway through weekend",
-      "s": "WSDOT closed a 37-mile stretch of SR 20 over Rainy and Washington passes Thursday evening because of repeated snow slides. Crews will reassess Monday, and the closure could become the annual winter shutdown.",
-      "src": "KPQ",
-      "u": "https://kpq.com/north-cascades-highway-closed-snow/",
-      "t": "2026-11-26",
+      "h": "Dry Saturday, but coastal flood advisory for Puget Sound",
+      "s": "High tides bring a coastal flood advisory Saturday morning for inland Puget Sound and the San Juans, and a Mason County river flood warning runs to mid-morning. Rain and wind return Sunday night into Monday.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/weather/seattle-weather-mainly-dry-weekend-rain-returning-monday",
+      "t": "2026-11-28",
       "impact": 3,
       "act": true
     },
     {
-      "h": "Rare tornado warning hits King County's Eastside on Thanksgiving",
-      "s": "NWS Seattle briefly issued a tornado warning around midday Thursday for Issaquah, Snoqualmie and North Bend after a reported funnel cloud. No damage was reported and the warning expired at 12:15 p.m.",
+      "h": "Port confirms ICE gave notice before Sea-Tac jet bridge arrests",
+      "s": "The Port of Seattle now says federal officials gave limited advance notice before agents detained a father and daughter on an Alaska Airlines jet bridge. Commissioners want an independent investigation; Rep. Jayapal is pressing DHS for answers.",
       "src": "KOMO News",
-      "u": "https://komonews.com/news/local/nws-seattle-issues-tornado-warning-for-issaquah-snoqualmie-north-bend-weather-storm-emergency-school-hospital-thanskgiving",
-      "t": "2026-11-26",
+      "u": "https://komonews.com/news/local/port-of-seattle-confirms-ice-provided-notice-before-controversial-seatac-airport-arrest-homeland-security-alaska-jet-bridge-arrest-immigration-ice-detain-arrests-tsa",
+      "t": "2026-11-27",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Holiday storm cuts power, floods streets around Seattle",
-      "s": "Wind and heavy rain knocked out power to more than 1,000 Seattle City Light customers, restored by early afternoon, while leaf-clogged drains flooded streets in Burien and Seattle and minor flooding hit Browns Point.",
-      "src": "KOMO News",
-      "u": "https://komonews.com/news/local/thanksgiving-storm-knocks-out-power-floods-streets-in-seattle-weather-forecast-outage-holiday-travel-seattle-city-lights-flooding-rain",
-      "t": "2026-11-26",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Pierce County probes ballot cure forms signed with checkmarks",
-      "s": "About two dozen ballot cure forms with checkmarks instead of signatures arrived, mostly from the 25th District race decided by 80 votes. Officials say no results changed; investigators will determine whether it was fraud or confusion.",
-      "src": "The Spokesman-Review (Washington State Standard)",
-      "u": "https://www.spokesman.com/stories/2026/nov/26/wa-officials-probe-use-of-checkmarks-to-fix-ballot/",
-      "t": "2026-11-26",
-      "impact": 3,
-      "act": false
-    },
-    {
-      "h": "Holiday toll breaks end; normal weekday tolls return Friday",
-      "s": "I-405 and SR 167 express lanes were free for solo drivers on Thanksgiving, with weekend rates on SR 520, SR 99 and SR 509. Standard weekday tolls and HOV rules resume Friday morning.",
+      "h": "Possible failed culvert closes SR 509 off-ramp in Seattle",
+      "s": "The southbound SR 509 exit to Myers Way and South Cloverdale Street is fully closed with no reopening estimate. Drivers heading to South Park or Highland Park should use earlier or later exits.",
       "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/news/thanksgiving-toll-rates",
-      "t": "2026-11-26",
+      "u": "https://www.fox13seattle.com/news/sr-509-potential-failed-culvert",
+      "t": "2026-11-27",
+      "impact": 2,
+      "act": true
+    },
+    {
+      "h": "Food court fight sparks false shooting scare at Alderwood Mall",
+      "s": "Black Friday shoppers fled the Lynnwood mall after a fight that knocked over chairs and tables sounded like gunfire. Police found no shooting and no injuries; some stores locked down on their own.",
+      "src": "FOX 13 Seattle",
+      "u": "https://www.fox13seattle.com/news/shoppers-flee-alderwood-mall-false-shooting",
+      "t": "2026-11-27",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "Douglas County solar plan would be state's largest",
+      "s": "A Utah company has applied to state regulators for a 200-megawatt solar farm with battery storage on about 2,900 acres near Trinidad, projected to generate $113 million in taxes over 40 years.",
+      "src": "KHQ",
+      "u": "https://www.khq.com/news/proposed-200-mw-facility-in-douglas-county-would-be-washingtons-largest-solar-producer-of-its/article_82c0476e-d761-4376-bad9-79464c8d2000.html",
+      "t": "2026-11-27",
+      "impact": 2,
+      "act": false
+    },
+    {
+      "h": "National Nordic Museum workers end three-day strike",
+      "s": "Union staff at the Ballard museum returned Friday after striking over the firing of an exhibit designer they say was retaliation for organizing. He hasn't been rehired; bargaining resumes Dec. 11.",
+      "src": "The Spokesman-Review (Seattle Times)",
+      "u": "https://www.spokesman.com/stories/2026/nov/27/national-nordic-museum-workers-return-to-work-afte/",
+      "t": "2026-11-27",
       "impact": 2,
       "act": false
     }
   ],
   "talking": [
     {
-      "h": "Darnold back fully; Purdy sits out 49ers practice",
-      "s": "Sam Darnold logged a second straight full practice on Thanksgiving and is set to start Sunday at San Francisco, while 49ers QB Brock Purdy did not practice with an ankle injury.",
-      "src": "Seattle Seahawks",
-      "u": "https://www.seahawks.com/news/week-12-injury-report-seahawks-at-49ers",
-      "t": "2026-11-26",
+      "h": "Darnold starts, Purdy out for Seahawks-49ers showdown",
+      "s": "Sam Darnold, Charles Cross and Leonard Williams return Sunday, while Quenton Nelson, Abraham Lucas and Jarran Reed are out. San Francisco ruled out Brock Purdy with a sprained ankle, so Mac Jones starts.",
+      "src": "Seattle Sports (MyNorthwest)",
+      "u": "https://sports.mynorthwest.com/nfl/seattle-seahawks/sam-darnold-will-start-seahawks-rule-out-just-3-players-vs-49ers",
+      "t": "2026-11-27",
       "impact": 3,
       "act": false
     },
     {
-      "h": "Will Demond Williams Jr. stay at UW for 2027?",
-      "s": "Ahead of Saturday's game at Oregon, the Huskies' QB sidestepped questions about next season. Jedd Fisch is betting on keeping a young core, with 18 of 22 Indiana-game starters eligible to return.",
-      "src": "The Spokesman-Review (Seattle Times)",
-      "u": "https://www.spokesman.com/stories/2026/nov/26/jedd-fisch-believes-in-huskies-core-but-will-demon/",
-      "t": "2026-11-26",
+      "h": "Gonzaga blows second-half lead, falls to Creighton in OT",
+      "s": "The No. 22 Zags lost 97-89 in Las Vegas after going 18 of 30 at the line, handing Creighton its first win over Gonzaga since 1977 and a Players Era 16 title-game berth.",
+      "src": "The Spokesman-Review",
+      "u": "https://www.spokesman.com/stories/2026/nov/27/familiar-themes-emerge-down-the-stretch-for-gonzag/",
+      "t": "2026-11-27",
       "impact": 2,
       "act": false
     },
     {
-      "h": "Conway's 'unofficial mayor' home after nearly 100 days with ICE",
-      "s": "Skagit County gas station worker Juan Gerardo Alatorre Martinez, a legal permanent resident, was released from the Tacoma ICE center; his lawyer suggests mistaken identity. A community fundraiser topped $20,000.",
-      "src": "The Spokesman-Review (Seattle Times)",
-      "u": "https://www.spokesman.com/stories/2026/nov/26/months-later-unofficial-mayor-of-conway-is-out-of-/",
-      "t": "2026-11-26",
+      "h": "Kakko's late goals lift Kraken past McDavid's Oilers",
+      "s": "Kaapo Kakko scored twice in the third period of a 4-2 comeback win that moved Seattle to 12-10-1, though goalie Philipp Grubauer left hurt. The teams meet again Saturday in Seattle.",
+      "src": "FOX 13 Seattle (AP)",
+      "u": "https://www.fox13seattle.com/sports/kakko-leads-kraken-4-2-comeback-win-over-oilers",
+      "t": "2026-11-27",
       "impact": 2,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Mission Ridge opens ski season",
-      "s": "The Wenatchee-area resort becomes Washington's first to open for 2026-27, running Chairs 1 and 2 Friday through Sunday on snowmaking and natural snow.",
-      "date": "2026-11-27",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/news/ski-report-mission-ridge-opens-thanksgiving"
-    },
-    {
-      "h": "Light rain Friday, then a dry weekend for return travel",
-      "s": "A much weaker system brings afternoon rain Friday; Saturday and Sunday look mostly dry, but models disagree on a possible rain-and-wind system Monday.",
-      "date": "2026-11-27",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/weather/light-showers-friday-drier-weekend-ahead"
-    },
-    {
-      "h": "Ferries: heaviest return sailings Saturday and Sunday",
-      "s": "WSDOT expects the longest waits on eastbound sailings leaving the islands Nov. 28-29; most highway construction is paused for the holiday weekend.",
+      "h": "No. 24 Huskies at No. 12 Oregon",
+      "s": "Washington (7-4) can dent Oregon's playoff hopes at Autzen Stadium Saturday, 4:30 p.m. PT on NBC; the Ducks are favored by about two touchdowns.",
       "date": "2026-11-28",
-      "src": "WSDOT",
-      "u": "https://wsdot.wa.gov/about/news/2026/pumpkin-pie-and-traffic-delays-dont-mix-plan-ahead-wsdots-thanksgiving-weekend-travel-charts"
+      "src": "The Spokesman-Review (Seattle Times)",
+      "u": "https://www.spokesman.com/stories/2026/nov/27/washington-huskies-have-chance-to-spoil-oregons-cf/"
     },
     {
-      "h": "Huskies at No. 14 Oregon",
-      "s": "Washington (7-4) visits Autzen Stadium Saturday at 4:30 p.m. PT on NBC.",
+      "h": "WSU closes season vs. San Diego State",
+      "s": "The 2-9 Cougars honor 12 seniors before a 3:30 p.m. kickoff in Pullman on The CW; WSU won't play in a bowl this year.",
       "date": "2026-11-28",
-      "src": "FOX 13 Seattle",
-      "u": "https://www.fox13seattle.com/sports/how-watch-uw-huskies-vs-oregon"
+      "src": "The Spokesman-Review",
+      "u": "https://www.spokesman.com/stories/2026/nov/27/in-season-finale-wsu-looks-to-send-out-12-seniors-/"
     },
     {
-      "h": "Seahawks at 49ers in NFC West showdown",
-      "s": "Seattle plays at Levi's Stadium Sunday at 1:25 p.m. PT; Macdonald plans to start Sam Darnold.",
+      "h": "Seahawks at 49ers, Mac Jones starting for SF",
+      "s": "Seattle visits the NFC West-leading 49ers Sunday with Darnold back; Purdy is out with an ankle sprain.",
       "date": "2026-11-29",
-      "src": "KOMO News",
-      "u": "https://komonews.com/sports/seahawks/seahawks-return-to-seattle-bye-week-coach-mike-macdonald-major-nfc-west-matchup-san-franciso-49ers-levis-stadium-sunday-virginia-mason-athletic-center-nfl-football"
+      "src": "FOX 13 Seattle (AP)",
+      "u": "https://www.fox13seattle.com/sports/brock-purdy-out-49ers-matchup-seahawks"
+    },
+    {
+      "h": "WSDOT reassesses closed North Cascades Highway",
+      "s": "Crews check the 37-mile SR 20 closure over Rainy and Washington passes Monday; WSDOT hasn't decided whether it becomes the season-long winter closure.",
+      "date": "2026-11-30",
+      "src": "Whatcom News",
+      "u": "https://whatcom-news.com/north-cascades-highway-sr20-to-close-temporarily-thursday-due-to-snow-slides_240170/"
+    },
+    {
+      "h": "Gonzaga hosts Eastern Oregon",
+      "s": "The Zags return home to McCarthey Athletic Center Tuesday against the NAIA Mountaineers after their overtime loss in Las Vegas.",
+      "date": "2026-12-01",
+      "src": "The Spokesman-Review",
+      "u": "https://www.spokesman.com/stories/2026/nov/27/familiar-themes-emerge-down-the-stretch-for-gonzag/"
     },
     {
       "h": "Hand recount in 80-vote 25th District race",
-      "s": "Pierce County will hand-recount the House race between Jenn Marie Strickling and Rep. Cyndy Jacobsen.",
+      "s": "Pierce County hand-recounts the House race in which Democrat Jenn Marie Strickling leads Republican Rep. Cyndy Jacobsen by 80 votes.",
       "date": "2026-12-04",
-      "src": "The Spokesman-Review (Washington State Standard)",
-      "u": "https://www.spokesman.com/stories/2026/nov/26/wa-officials-probe-use-of-checkmarks-to-fix-ballot/"
+      "src": "Washington State Standard",
+      "u": "https://washingtonstatestandard.com/2026/11/26/election-fraud-or-honest-mistake-wa-officials-probe-use-of-checkmarks-to-fix-ballot-signature-issues/"
     }
   ]
 }

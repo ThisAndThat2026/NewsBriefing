@@ -1,65 +1,56 @@
 {
   "stories": [
     {
-      "h": "Eisenkot accuses Likud of stalling unity talks",
-      "s": "Eisenkot said Likud offered no concrete proposal in two weeks of unity talks and is running out the clock toward another election. Likud says it is still open to unity. He holds 36 seats of 61 needed, with a December 6 deadline.",
-      "src": "Al Jazeera",
-      "u": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks",
-      "t": "2026-11-27",
-      "impact": 4,
-      "act": false
-    },
-    {
-      "h": "Eisenkot and Golan's Democrats agree coalition deal",
-      "s": "After talks resumed, Yashar and the Democrats agreed terms giving Golan's party four portfolios, including an expanded national security ministry now held by Ben Gvir, plus a pledge to fully repeal the judicial overhaul.",
+      "h": "Netanyahu said readying offer to serve second in rotation",
+      "s": "Channel 13 reported Netanyahu may offer Eisenkot the first turn as PM, sent through unofficial channels per Kan. Eisenkot is skeptical, and Bennett may oppose any Eisenkot government formed before Likud talks are exhausted.",
       "src": "The Times of Israel",
-      "u": "https://www.timesofisrael.com/eisenkot-edges-closer-to-government-as-his-party-announces-coalition-deal-with-democrats/",
-      "t": "2026-11-26",
+      "u": "https://www.timesofisrael.com/with-options-limited-pm-said-readying-to-offer-eisenkot-top-spot-in-rotational-govt/",
+      "t": "2026-11-28",
       "impact": 4,
       "act": false
     },
     {
-      "h": "Netanyahu weighs offering Eisenkot rotation, serving second",
-      "s": "Sources told the Post that Netanyahu is considering announcing, possibly this weekend, that he would take the second turn as PM in a unity rotation with Eisenkot, framing it as a security necessity.",
+      "h": "IDF on high alert for possible Iranian surprise attack",
+      "s": "Citing Walla, the Post reports the military, especially the air force, is on heightened readiness and coordinating closely with US Central Command, with intelligence upgrading early warning to allow a preemptive strike if needed.",
       "src": "The Jerusalem Post",
-      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916326",
-      "t": "2026-11-27",
+      "u": "https://www.jpost.com/israel-news/defense-news/article-916381",
+      "t": "2026-11-28",
       "impact": 4,
       "act": false
     },
     {
-      "h": "Haredi rabbis lean toward letting UTJ negotiate with Eisenkot",
-      "s": "Senior rabbis reportedly favor allowing UTJ into formal coalition talks, with a decision expected Sunday; Kan reported Yashar and UTJ agreed draft-law principles scrapping enlistment quotas while tightening checks on yeshiva students.",
-      "src": "The Jerusalem Post",
-      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916321",
+      "h": "Ra'am's Abbas set to call Hamas a terror group",
+      "s": "Mansour Abbas is to make the declaration in a Saturday-night Channel 12 interview, removing a condition Eisenkot set for partners. Ra'am reportedly promises coalition discipline; Netanyahu's allies dismiss it as deception.",
+      "src": "The Times of Israel",
+      "u": "https://www.timesofisrael.com/raams-abbas-set-to-declare-hamas-a-terror-group-paving-way-for-eisenkot-coalition/",
       "t": "2026-11-27",
       "impact": 3,
       "act": false
     },
     {
-      "h": "IDF says week of Gaza strikes killed 10 operatives",
-      "s": "The military said four of those killed had taken part in the October 7 attack, citing ceasefire violations; overnight Thursday the air force also hit four Hamas weapons depots after warning nearby civilians.",
-      "src": "The Times of Israel",
-      "u": "https://www.timesofisrael.com/idf-four-oct-7-perpetrators-among-10-terror-operatives-killed-in-gaza-strikes/",
-      "t": "2026-11-27",
+      "h": "Israeli strike kills two MSF guards at Gaza clinic",
+      "s": "Doctors Without Borders said two guards were killed in a direct hit at its Gaza clinic, bringing its staff death toll there to 17. The IDF says the men were Hamas fighters and denies targeting medical facilities.",
+      "src": "CBS News",
+      "u": "https://www.cbsnews.com/news/israel-gaza-msf-doctors-without-borders-strike/",
+      "t": "2026-11-28",
       "impact": 3,
       "act": false
     }
   ],
   "coming": [
     {
-      "h": "Haredi rabbis expected to rule on UTJ coalition talks",
-      "s": "Final rabbinic approval for UTJ to open formal talks with Yashar is not expected before Sunday; UTJ says it will speed up if Netanyahu makes no rotation announcement by Saturday night.",
+      "h": "Bennett and Eisenkot to meet on coalition",
+      "s": "The meeting was put off from Thursday amid disputes over Haredi conscription; Bennett, whose party has no deal yet, still prefers a unity government with Likud.",
       "date": "2026-11-29",
-      "src": "The Jerusalem Post",
-      "u": "https://www.jpost.com/israel-news/politics-and-diplomacy/article-916321"
+      "src": "The Times of Israel",
+      "u": "https://www.timesofisrael.com/eisenkot-vows-to-form-government-within-8-days-accuses-likud-of-stalling-unity-talks/"
     },
     {
-      "h": "Eisenkot bloc's target date for swearing in government",
-      "s": "Yashar is aiming to sign all coalition deals, including with UTJ, and swear in a government on Wednesday; his mandate expires December 6 unless Herzog grants an extension.",
-      "date": "2026-12-02",
+      "h": "Eisenkot's mandate to form government expires",
+      "s": "Eisenkot says he will form a government before his mandate runs out. Herzog can extend it by up to 14 days. If that fails, another MK gets 28 days before a new election becomes likely.",
+      "date": "2026-12-06",
       "src": "The Times of Israel",
-      "u": "https://www.timesofisrael.com/eisenkot-hopes-to-get-his-government-sworn-in-next-week-regardless-of-netanyahu-trial-drama/"
+      "u": "https://www.timesofisrael.com/eisenkot-vows-to-form-government-within-8-days-accuses-likud-of-stalling-unity-talks/"
     }
   ]
 }
