@@ -10,6 +10,15 @@
       "act": false
     },
     {
+      "h": "Snow slides shut North Cascades Highway through weekend",
+      "s": "WSDOT closed a 37-mile stretch of SR 20 over Rainy and Washington passes Thursday evening because of repeated snow slides. Crews will reassess Monday, and the closure could become the annual winter shutdown.",
+      "src": "KPQ",
+      "u": "https://kpq.com/north-cascades-highway-closed-snow/",
+      "t": "2026-11-26",
+      "impact": 3,
+      "act": true
+    },
+    {
       "h": "Rare tornado warning hits King County's Eastside on Thanksgiving",
       "s": "NWS Seattle briefly issued a tornado warning around midday Thursday for Issaquah, Snoqualmie and North Bend after a reported funnel cloud. No damage was reported and the warning expired at 12:15 p.m.",
       "src": "KOMO News",
